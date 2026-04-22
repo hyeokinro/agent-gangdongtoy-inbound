@@ -44,5 +44,6 @@ jobs:
             echo "데이터 변경 없음, 커밋 생략"
           else
             git commit -m "chore: update toy data [skip ci]"
+            git pull --rebase origin main
             git push
           fi
