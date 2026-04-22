@@ -1363,8 +1363,8 @@
       "name": "푸드트럭",
       "age": "12개월 이상 ~",
       "available": 0,
-      "rented": 6,
-      "cleaning": 0,
+      "rented": 5,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726785905.JPG"
     },
@@ -4642,9 +4642,9 @@
     "KDN0000087": {
       "name": "[고덕점] 뉴 ABC테이블",
       "age": "6개월 이상 ~",
-      "available": 2,
+      "available": 3,
       "rented": 2,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537962707.png"
     },
