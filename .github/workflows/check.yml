@@ -1,0 +1,45 @@
+name: 장난감도서관 변경 감지
+
+on:
+  schedule:
+    # 평일(월~금) KST 09:00~18:00 → UTC 00:00~09:00, 30분 간격
+    - cron: '0,30 0-9 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run crawler
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python check_toys.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/previous.json
+          if git diff --cached --quiet; then
+            echo "데이터 변경 없음, 커밋 생략"
+          else
+            git commit -m "chore: update toy data [skip ci]"
+            git push
+          fi
