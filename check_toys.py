@@ -158,6 +158,16 @@ def detect_changes(branch_name, prev_data, curr_toys):
 # Telegram helpers
 # ---------------------------------------------------------------------------
 
+def _download_image(url):
+    try:
+        resp = requests.get(url, headers=HEADERS, verify=False, timeout=TIMEOUT)
+        resp.raise_for_status()
+        return resp.content
+    except Exception as exc:
+        print(f"  이미지 다운로드 실패 ({url}): {exc}")
+        return None
+
+
 def _tg(method, payload):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/{method}"
     return requests.post(url, json=payload, timeout=TIMEOUT)
@@ -168,16 +178,51 @@ def send_message(text):
 
 
 def send_photo(photo_url, caption):
-    return _tg("sendPhoto", {
+    tg_url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
+    img = _download_image(photo_url)
+    if img:
+        return requests.post(tg_url, data={
+            "chat_id":    CHAT_ID,
+            "caption":    caption[:1024],
+            "parse_mode": "HTML",
+        }, files={"photo": ("photo.jpg", img, "image/jpeg")}, timeout=TIMEOUT)
+    # fallback: URL 직접 전달
+    return requests.post(tg_url, json={
         "chat_id":    CHAT_ID,
         "photo":      photo_url,
         "caption":    caption[:1024],
         "parse_mode": "HTML",
-    })
+    }, timeout=TIMEOUT)
 
 
-def send_media_group(media):
-    return _tg("sendMediaGroup", {"chat_id": CHAT_ID, "media": media})
+def send_media_group(toys_batch, header):
+    import json as _json
+    tg_url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMediaGroup"
+    files = {}
+    media = []
+    for i, (code, toy) in enumerate(toys_batch):
+        cap = (f"{header}\n{_toy_line(toy)}" if i == 0 else _toy_line(toy))
+        img = _download_image(toy["image"])
+        key = f"photo{i}"
+        if img:
+            files[key] = (f"{key}.jpg", img, "image/jpeg")
+            media.append({
+                "type":       "photo",
+                "media":      f"attach://{key}",
+                "caption":    cap[:1024],
+                "parse_mode": "HTML",
+            })
+        else:
+            media.append({
+                "type":       "photo",
+                "media":      toy["image"],
+                "caption":    cap[:1024],
+                "parse_mode": "HTML",
+            })
+    return requests.post(tg_url, data={
+        "chat_id": CHAT_ID,
+        "media":   _json.dumps(media),
+    }, files=files if files else None, timeout=TIMEOUT)
 
 
 def send_branch_link(branch_name):
@@ -204,17 +249,7 @@ def send_with_images(branch_name, emoji, label, toys):
         return
 
     batch = toys[:10]
-    media = []
-    for i, (code, toy) in enumerate(batch):
-        cap = (f"{header}\n{_toy_line(toy)}" if i == 0 else _toy_line(toy))
-        media.append({
-            "type":       "photo",
-            "media":      toy["image"],
-            "caption":    cap[:1024],
-            "parse_mode": "HTML",
-        })
-
-    result = send_media_group(media)
+    result = send_media_group(batch, header)
     if not result.ok:
         lines = [header] + [_toy_line(t) for _, t in toys]
         send_message("\n".join(lines))
