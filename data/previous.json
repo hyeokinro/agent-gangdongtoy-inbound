@@ -4012,9 +4012,9 @@
     "KBN0000086": {
       "name": "[고덕점]퍼스트 냉장고",
       "age": "24개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 1,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1729908695762.png"
     },
@@ -4030,9 +4030,9 @@
     "KDN0000153": {
       "name": "[고덕점] 자동드릴공구놀이",
       "age": "36개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 2,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
     },
@@ -4705,9 +4705,9 @@
     "KDN0000080": {
       "name": "[고덕점] 즐거운 놀이공원",
       "age": "36개월 이상 ~",
-      "available": 0,
+      "available": 1,
       "rented": 2,
-      "cleaning": 3,
+      "cleaning": 2,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559206841.png"
     },
@@ -4773,15 +4773,6 @@
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559619534.png"
-    },
-    "KDN0000073": {
-      "name": "[고덕점] 뽀로로 덤프트럭",
-      "age": "24개월 이상 ~",
-      "available": 0,
-      "rented": 0,
-      "cleaning": 1,
-      "repairing": 0,
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540012534.png"
     },
     "KDN0000072": {
       "name": "[고덕점] 러닝 액티비티 큐브",
@@ -5038,9 +5029,9 @@
     "KDN0000047": {
       "name": "[고덕점] 엄마까투리 소방구조대",
       "age": "36개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 2,
-      "cleaning": 2,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541801372.png"
     },
@@ -5308,9 +5299,9 @@
     "KBN0000074": {
       "name": "[고덕점] 퍼스트 계산대놀이",
       "age": "36개월 이상 ~",
-      "available": 1,
+      "available": 3,
       "rented": 1,
-      "cleaning": 2,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
     },
@@ -5425,9 +5416,9 @@
     "KBN0000061": {
       "name": "[고덕점] 점보 야생 동물",
       "age": "36개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 2,
-      "cleaning": 2,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
     },
@@ -5506,9 +5497,9 @@
     "KBN0000052": {
       "name": "[고덕점] 색이 변하는 쿠키오븐",
       "age": "36개월 이상 ~",
-      "available": 0,
+      "available": 1,
       "rented": 3,
-      "cleaning": 2,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540454076.png"
     },
@@ -6742,8 +6733,8 @@
       "name": "전동드릴 공구놀이세트",
       "age": "36개월 이상 ~",
       "available": 0,
-      "rented": 3,
-      "cleaning": 0,
+      "rented": 2,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
     },
@@ -7471,8 +7462,8 @@
       "name": "멜로디 곤충피아노",
       "age": "6개월 이상 ~",
       "available": 1,
-      "rented": 3,
-      "cleaning": 0,
+      "rented": 2,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
     },
@@ -7543,8 +7534,8 @@
       "name": "캐티롤러",
       "age": "6개월 이상 ~",
       "available": 2,
-      "rented": 2,
-      "cleaning": 0,
+      "rented": 1,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030492835.jpg"
     },
@@ -7597,8 +7588,8 @@
       "name": "애완동물입체퍼즐",
       "age": "24개월 이상 ~",
       "available": 0,
-      "rented": 3,
-      "cleaning": 0,
+      "rented": 2,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
     },
@@ -8119,8 +8110,8 @@
       "name": "애벌레균형놀이",
       "age": "12개월 이상 ~",
       "available": 3,
-      "rented": 2,
-      "cleaning": 0,
+      "rented": 1,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027269036.jpg"
     },
@@ -8353,8 +8344,8 @@
       "name": "가든쌓기블록",
       "age": "12개월 이상 ~",
       "available": 1,
-      "rented": 1,
-      "cleaning": 0,
+      "rented": 0,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034961747.jpg"
     },
@@ -8821,8 +8812,8 @@
       "name": "브이텍 걸음마보조기",
       "age": "6개월 이상 ~",
       "available": 0,
-      "rented": 8,
-      "cleaning": 0,
+      "rented": 7,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1594089810516.jpg"
     },
@@ -8857,8 +8848,8 @@
       "name": "가드닝카트",
       "age": "24개월 이상 ~",
       "available": 1,
-      "rented": 4,
-      "cleaning": 0,
+      "rented": 3,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
     },
@@ -9317,8 +9308,8 @@
     "DBN0000043": {
       "name": "[토이트론]달님이 과일주스가게",
       "age": "36개월 이상 ~",
-      "available": 0,
-      "rented": 2,
+      "available": 1,
+      "rented": 1,
       "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557539976.png"
@@ -9569,8 +9560,8 @@
     "DDN0000128": {
       "name": "[립프로그]ABC 자석놀이",
       "age": "36개월 이상 ~",
-      "available": 3,
-      "rented": 1,
+      "available": 4,
+      "rented": 0,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193574431.PNG"
