@@ -363,8 +363,8 @@
     "CDN0000091": {
       "name": "[브이텍]스마트 러닝 태블릿",
       "age": "12개월 이상 ~",
-      "available": 2,
-      "rented": 1,
+      "available": 1,
+      "rented": 2,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
@@ -4534,8 +4534,8 @@
     "KDN0000099": {
       "name": "[고덕점] 도형놀이 블록트럭",
       "age": "36개월 이상 ~",
-      "available": 2,
-      "rented": 1,
+      "available": 1,
+      "rented": 2,
       "cleaning": 2,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538363714.png"
@@ -4930,8 +4930,8 @@
     "KDN0000057": {
       "name": "[고덕점] 똑똑한 꼬마버스 타요",
       "age": "12개월 이상 ~",
-      "available": 1,
-      "rented": 3,
+      "available": 0,
+      "rented": 4,
       "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538675288.png"
@@ -5560,8 +5560,8 @@
     "KAN0000014": {
       "name": "[고덕점] 뉴 뽀로로 노래하는 안전그네",
       "age": "12개월 이상 ~",
-      "available": 3,
-      "rented": 0,
+      "available": 2,
+      "rented": 1,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568143126.png"
