@@ -489,8 +489,8 @@
     "CGN0000089": {
       "name": "[비키즈]망아지 플레이테이블 (걸음마)",
       "age": "12개월 이상 ~",
-      "available": 1,
-      "rented": 1,
+      "available": 0,
+      "rented": 2,
       "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
@@ -759,8 +759,8 @@
     "CGN0000071": {
       "name": "[브라이트스타트]바운스 액티비티 점퍼루(그린)",
       "age": "6개월 이상 ~",
-      "available": 1,
-      "rented": 3,
+      "available": 2,
+      "rented": 2,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207229228.jpg"
@@ -1237,8 +1237,8 @@
       "name": "[스텝2]주니어 흔들말",
       "age": "12개월 이상 ~",
       "available": 0,
-      "rented": 5,
-      "cleaning": 0,
+      "rented": 4,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630127328.png"
     },
@@ -1659,8 +1659,8 @@
     "CGN0000015": {
       "name": "반짝반짝뮤지컬걸음마",
       "age": "6개월 이상 ~",
-      "available": 1,
-      "rented": 4,
+      "available": 2,
+      "rented": 3,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
@@ -2777,9 +2777,9 @@
     "ACN0000013": {
       "name": "뮤지컬 악기5종세트",
       "age": "12개월 이상 ~",
-      "available": 0,
+      "available": 1,
       "rented": 3,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1672203941634.png"
     },
@@ -2912,8 +2912,8 @@
     "ADN0000046": {
       "name": "[지나월드]핑크퐁 아기 상어랜드",
       "age": "36개월 이상 ~",
-      "available": 1,
-      "rented": 1,
+      "available": 0,
+      "rented": 2,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205015903.jpg"
@@ -3066,8 +3066,8 @@
       "name": "[아이존]똑똑한타요버스",
       "age": "12개월 이상 ~",
       "available": 0,
-      "rented": 6,
-      "cleaning": 1,
+      "rented": 7,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1650510254971.png"
     },
@@ -3426,8 +3426,8 @@
       "name": "[플레이포에버]자동차1",
       "age": "36개월 이상 ~",
       "available": 2,
-      "rented": 1,
-      "cleaning": 0,
+      "rented": 0,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771888983.jpg"
     },
@@ -3731,9 +3731,9 @@
     "ABN0000015": {
       "name": "[숲소리]생일세트",
       "age": "12개월 이상 ~",
-      "available": 0,
+      "available": 1,
       "rented": 2,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768540764.jpg"
     },
@@ -3759,8 +3759,8 @@
       "name": "[립프로그]BBQ 카트",
       "age": "24개월 이상 ~",
       "available": 0,
-      "rented": 4,
-      "cleaning": 0,
+      "rented": 3,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768138822.jpg"
     },
@@ -6166,8 +6166,8 @@
       "name": "[아이코닉스] 집게트럭 너클",
       "age": "36개월 이상 ~",
       "available": 0,
-      "rented": 2,
-      "cleaning": 1,
+      "rented": 1,
+      "cleaning": 2,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1765247221844.png"
     },
@@ -7345,8 +7345,8 @@
       "name": "[숲소리]실꿰기세트",
       "age": "24개월 이상 ~",
       "available": 2,
-      "rented": 5,
-      "cleaning": 0,
+      "rented": 4,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415748622.jpg"
     },
@@ -10325,9 +10325,9 @@
     "DDN0000063": {
       "name": "[트리코]스쿨박스세트",
       "age": "60개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 0,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069561146.png"
     },
