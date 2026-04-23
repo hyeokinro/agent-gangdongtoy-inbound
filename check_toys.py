@@ -5,13 +5,13 @@ import time
 import math
 import requests
 from datetime import datetime, timezone, timedelta
-from bs4 import BeautifulSoup
 import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 BASE_URL     = "https://www.gdkids.or.kr:8443"
 SCHEDULE_URL = f"{BASE_URL}/imom/04/schedule/schedule.do"
+API_URL      = f"{BASE_URL}/front/schedule/getToyList.do"
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 CHAT_ID        = os.environ.get("CHAT_ID", "")
 
@@ -21,31 +21,30 @@ TABS = [
     {"id": "wait",     "label": "대기신청",   "emoji": "⏳"},
 ]
 
-_UA = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/120.0.0.0 Safari/537.36"
-)
+_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
 GET_HEADERS = {
-    "User-Agent":      _UA,
-    "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "ko-KR,ko;q=0.9",
-    "Referer":         SCHEDULE_URL,
-    "Origin":          BASE_URL,
-    "Sec-Fetch-Dest":  "document",
-    "Sec-Fetch-Mode":  "navigate",
-    "Sec-Fetch-Site":  "same-origin",
+    "User-Agent":   _UA,
+    "Accept":       "text/html,application/xhtml+xml,*/*;q=0.8",
+    "Referer":      SCHEDULE_URL,
+    "Origin":       BASE_URL,
 }
 
-POST_HEADERS = {
-    **GET_HEADERS,
-    "Content-Type": "application/x-www-form-urlencoded",
+API_HEADERS = {
+    "User-Agent":        _UA,
+    "Accept":            "application/json, text/javascript, */*; q=0.01",
+    "Content-Type":      "application/x-www-form-urlencoded",
+    "X-Requested-With":  "XMLHttpRequest",
+    "Referer":           SCHEDULE_URL,
+    "Origin":            BASE_URL,
 }
 
 DATA_FILE = "data/previous.json"
 TIMEOUT   = 15
 KST       = timezone(timedelta(hours=9))
+
+SESSION = None
 
 
 def today_kst():
@@ -62,125 +61,63 @@ def now_kst_str():
 # Crawling
 # ---------------------------------------------------------------------------
 
-def _base_form(tab_id):
-    return {
-        "miv_pageNo":    "1",
-        "miv_pageSize":  "100",
-        "LISTOP":        "",
-        "from":          "",
-        "date":          today_kst(),
-        "pick_cd":       "",
-        "co_cd":         "",
-        "toy_gbn":       "1",
-        "tab_id":        tab_id,
-        "itemcode":      "",
-        "deliSch_idx":   SCHEDULE_PARAMS.get("deliSch_idx", ""),
-        "deliSch_EndDt": SCHEDULE_PARAMS.get("deliSch_EndDt", ""),
-        "area":          SCHEDULE_PARAMS.get("area", ""),
-        "ccode":         "",
-        "toy_age":       "",
-        "searchkey":     "1",
-        "searchtxt":     "",
-    }
-
-
-SESSION       = None
-SCHEDULE_PARAMS = {}  # deliSch_idx, deliSch_EndDt, area — 모든 탭 공통
-
-
-def _parse_schedule_params(html):
-    """HTML(hidden input 또는 JavaScript)에서 deliSch_idx 등 파싱."""
-    soup = BeautifulSoup(html, "html.parser")
-
-    def from_input(name):
-        el = soup.select_one(f"input[name='{name}']")
-        return el["value"] if el and el.get("value") else ""
-
-    def from_js(name):
-        m = re.search(rf'["\s]?{re.escape(name)}["\s]*[:=]["\s]*["\']?(\w[\w/ ]*)', html)
-        return m.group(1).strip() if m else ""
-
-    def get_val(name):
-        return from_input(name) or from_js(name)
-
-    return {
-        "deliSch_idx":   get_val("deliSch_idx"),
-        "deliSch_EndDt": get_val("deliSch_EndDt"),
-        "area":          get_val("area"),
-    }
-
-
 def get_session():
-    """GET으로 세션 쿠키 + 공통 파라미터(deliSch_idx 등) 초기화."""
-    global SESSION, SCHEDULE_PARAMS
+    global SESSION
     SESSION = requests.Session()
     resp = SESSION.get(SCHEDULE_URL, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
     resp.raise_for_status()
-
-    SCHEDULE_PARAMS = _parse_schedule_params(resp.text)
-    print(f"  세션 초기화 완료 | 쿠키: {list(SESSION.cookies.keys())} | 파라미터: {SCHEDULE_PARAMS}")
+    print(f"  세션 초기화 완료 (쿠키: {list(SESSION.cookies.keys())})")
 
 
-def _parse_toys(soup):
-    toys = {}
-    for item in soup.select("ul.album_list > li"):
-        img_el = item.select_one(".album_img_area img")
-        if not img_el:
-            continue
-        code_match = re.search(r"goToyView\('([^']+)'\)", img_el.get("onclick", ""))
-        if not code_match:
-            continue
-        code = code_match.group(1)
-
-        name_el = item.select_one("span.album_name")
-        name    = name_el.text.strip() if name_el else ""
-
-        age_el = item.select_one("span.album_title")
-        age    = age_el.text.strip().replace("◎ 연령 : ", "").strip() if age_el else ""
-
-        img_src   = img_el.get("src", "")
-        image_url = f"{BASE_URL}{img_src}" if img_src.startswith("/") else img_src
-
-        toys[code] = {"name": name, "age": age, "image": image_url}
-    return toys
+def _api_form(tab_id, page=1):
+    return {
+        "co_cd":      "",
+        "toy_age":    "",
+        "tab_id":     tab_id,
+        "ccode":      "",
+        "toy_gbn":    "1",
+        "searchkey":  "1",
+        "searchtxt":  "",
+        "miv_pageNo": str(page),
+        "miv_pageSize": "100",
+    }
 
 
-def _total_count(soup):
-    el = soup.select_one("strong#tot_cnt")
-    if not el:
-        return 0
-    text = el.text.strip()
-    return int(text) if text.isdigit() else 0
-
-
-def _post(form):
-    return SESSION.post(SCHEDULE_URL, data=form, headers=POST_HEADERS,
-                        verify=False, timeout=TIMEOUT)
+def _parse_toy(item):
+    img = item.get("fileimg_nm", "")
+    return {
+        "name":  item.get("name", ""),
+        "age":   item.get("agenm", ""),
+        "image": f"{BASE_URL}/upload/toy/{img}" if img else "",
+    }
 
 
 def get_tab_toys(tab_id):
-    form = _base_form(tab_id)
-
-    resp = _post(form)
+    form = _api_form(tab_id, page=1)
+    resp = SESSION.post(API_URL, data=form, headers=API_HEADERS, verify=False, timeout=TIMEOUT)
     resp.raise_for_status()
-    soup  = BeautifulSoup(resp.text, "html.parser")
-    total = _total_count(soup)
+    data  = resp.json()
 
-    if total == 0:
-        print(f"  [{tab_id}] 응답 미리보기: {resp.text[:300]!r}")
+    if data.get("success") != "true":
+        print(f"  [{tab_id}] API 실패 응답: {str(data)[:200]}")
+        return {}
+
+    total = int(data.get("totalcnt") or 0)
     pages = max(1, math.ceil(total / 100))
     print(f"  [{tab_id}] 총 {total}건 / {pages}페이지")
 
-    all_toys = _parse_toys(soup)
+    all_toys = {t["itemcode"]: _parse_toy(t) for t in data.get("toyList", [])}
 
     for page in range(2, pages + 1):
-        form["miv_pageNo"] = str(page)
-        resp = _post(form)
+        form = _api_form(tab_id, page=page)
+        resp = SESSION.post(API_URL, data=form, headers=API_HEADERS, verify=False, timeout=TIMEOUT)
         resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
-        if not soup.select("ul.album_list > li"):
+        page_data = resp.json()
+        toy_list  = page_data.get("toyList", [])
+        if not toy_list:
             break
-        all_toys.update(_parse_toys(soup))
+        for t in toy_list:
+            all_toys[t["itemcode"]] = _parse_toy(t)
         time.sleep(0.5)
 
     return all_toys
@@ -213,9 +150,7 @@ def _download_image(url):
 def send_message(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     return requests.post(url, json={
-        "chat_id":    CHAT_ID,
-        "text":       text,
-        "parse_mode": "HTML",
+        "chat_id": CHAT_ID, "text": text, "parse_mode": "HTML",
     }, timeout=TIMEOUT)
 
 
@@ -224,22 +159,17 @@ def send_photo(photo_url, caption):
     img    = _download_image(photo_url)
     if img:
         return requests.post(tg_url, data={
-            "chat_id":    CHAT_ID,
-            "caption":    caption[:1024],
-            "parse_mode": "HTML",
+            "chat_id": CHAT_ID, "caption": caption[:1024], "parse_mode": "HTML",
         }, files={"photo": ("photo.jpg", img, "image/jpeg")}, timeout=TIMEOUT)
     return requests.post(tg_url, json={
-        "chat_id":    CHAT_ID,
-        "photo":      photo_url,
-        "caption":    caption[:1024],
-        "parse_mode": "HTML",
+        "chat_id": CHAT_ID, "photo": photo_url,
+        "caption": caption[:1024], "parse_mode": "HTML",
     }, timeout=TIMEOUT)
 
 
 def send_media_group(toys_batch, header):
     tg_url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMediaGroup"
-    files  = {}
-    media  = []
+    files, media = {}, []
     for i, (code, toy) in enumerate(toys_batch):
         cap = (f"{header}\n• {toy['name']} ({toy['age']})" if i == 0
                else f"• {toy['name']} ({toy['age']})")
@@ -253,8 +183,7 @@ def send_media_group(toys_batch, header):
             media.append({"type": "photo", "media": toy["image"],
                           "caption": cap[:1024], "parse_mode": "HTML"})
     return requests.post(tg_url, data={
-        "chat_id": CHAT_ID,
-        "media":   json.dumps(media),
+        "chat_id": CHAT_ID, "media": json.dumps(media),
     }, files=files or None, timeout=TIMEOUT)
 
 
@@ -263,31 +192,27 @@ def _toy_line(toy):
 
 
 def send_tab_images(tab, new_toys):
-    """탭별 이미지 알림 (sendPhoto / sendMediaGroup)."""
     header = f"{tab['emoji']} <b>{tab['label']}</b> 새 등록 ({len(new_toys)}건)"
-
     if len(new_toys) == 1:
         code, toy = new_toys[0]
         result = send_photo(toy["image"], f"{header}\n{_toy_line(toy)}")
         if not result.ok:
             send_message(f"{header}\n{_toy_line(toy)}")
-
     elif len(new_toys) <= 10:
         result = send_media_group(new_toys, header)
         if not result.ok:
             send_message("\n".join([header] + [_toy_line(t) for _, t in new_toys]))
-
     else:
         result = send_media_group(new_toys[:10], header)
         if not result.ok:
             send_message("\n".join([header] + [_toy_line(t) for _, t in new_toys[:50]]))
-        extra_lines = [f"{tab['emoji']} <b>{tab['label']}</b> 추가 {len(new_toys)-10}건"]
-        extra_lines += [_toy_line(t) for _, t in new_toys[10:]]
-        send_message("\n".join(extra_lines))
+        else:
+            extra = [f"{tab['emoji']} <b>{tab['label']}</b> 추가 {len(new_toys)-10}건"]
+            extra += [_toy_line(t) for _, t in new_toys[10:]]
+            send_message("\n".join(extra))
 
 
 def send_summary(changes):
-    """전체 변경사항 요약 텍스트 + 링크."""
     lines = [f"📢 <b>장난감도서관 예약 알림</b>\n🕐 {now_kst_str()}\n"]
     for tab, new_toys in changes:
         lines.append(f"{tab['emoji']} <b>{tab['label']}</b> 새 등록 ({len(new_toys)}건)")
@@ -295,7 +220,6 @@ def send_summary(changes):
             lines.append(f"  {_toy_line(toy)}")
         lines.append("")
     lines.append(f'👉 <a href="{SCHEDULE_URL}">예약 페이지 바로가기</a>')
-
     text = "\n".join(lines)
     for chunk in [text[i:i+4096] for i in range(0, len(text), 4096)]:
         send_message(chunk)
