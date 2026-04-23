@@ -118,7 +118,10 @@ def _parse_toys(soup):
 
 def _total_count(soup):
     el = soup.select_one("strong#tot_cnt")
-    return int(el.text.strip()) if el else 0
+    if not el:
+        return 0
+    text = el.text.strip()
+    return int(text) if text.isdigit() else 0
 
 
 def get_tab_toys(tab_id):
@@ -141,6 +144,8 @@ def get_tab_toys(tab_id):
             soup  = BeautifulSoup(resp.text, "html.parser")
             total = _total_count(soup)
 
+    if total == 0:
+        print(f"  [{tab_id}] 응답 미리보기: {resp.text[:300]!r}")
     pages = max(1, math.ceil(total / 100))
     print(f"  [{tab_id}] 총 {total}건 / {pages}페이지")
 
