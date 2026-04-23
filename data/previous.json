@@ -1315,11 +1315,6 @@
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593496296.jpg"
     },
-    "CDN0000020": {
-      "name": "물고기실꿰기",
-      "age": "36개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_72.jpg"
-    },
     "GDN0000009": {
       "name": "버섯모양망치게임",
       "age": "12개월 이상 ~",
@@ -1384,6 +1379,11 @@
       "name": "[윈펀] 멜로디 재활용트럭",
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248693569.png"
+    },
+    "DDN0000126": {
+      "name": "[브이텍]액티비티 에듀 테이블",
+      "age": "6개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1710225570766.png"
     },
     "GDN0000137": {
       "name": "로더심플 아이스크림 트럭",
@@ -2919,11 +2919,6 @@
       "age": "24개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
     },
-    "GAN0000036": {
-      "name": "클래식 러닝홈",
-      "age": "12개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161760824.png"
-    },
     "GDN0000151": {
       "name": "러닝 이모션 공작새",
       "age": "12개월 이상 ~",
@@ -3093,11 +3088,6 @@
       "name": "[토이트론]달님이 에어프라이어",
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296123906.jpg"
-    },
-    "GDN0000193": {
-      "name": "[브라이트스타트] 공놀이 개구리 연못",
-      "age": "6개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1765085237887.png"
     },
     "GDN0000203": {
       "name": "[러닝리소스] 카운팅 쉐입스 터틀 세트",
@@ -5119,6 +5109,11 @@
       "age": "6개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296246583.jpg"
     },
+    "KDN0000153": {
+      "name": "[고덕점] 자동드릴공구놀이",
+      "age": "36개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
+    },
     "CDN0000096": {
       "name": "[손오공]아기상어 비상자동차(3종)",
       "age": "36개월 이상 ~",
@@ -5283,6 +5278,11 @@
       "name": "[브라이트]공놀이고래",
       "age": "6개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1650517761679.png"
+    },
+    "DDN0000121": {
+      "name": "[아이코닉스]크롱 양치놀이+ 청소 돌돌이",
+      "age": "36개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663582644.jpg"
     },
     "DDN0000116": {
       "name": "[아이코닉스]띠띠뽀 차량기지 놀이+전동기차세터+기차역",
