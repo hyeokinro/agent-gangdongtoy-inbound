@@ -770,11 +770,6 @@
       "age": "6개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165421369.png"
     },
-    "CDN0000066": {
-      "name": "[하페]레드브릿지 기차세트",
-      "age": "36개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631221901.png"
-    },
     "KDN0000089": {
       "name": "[고덕점] 코랄리프",
       "age": "24개월 이상 ~",
@@ -844,6 +839,11 @@
       "name": "토디 우드 디데이 달력",
       "age": "1개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1762407114232.png"
+    },
+    "CDN0000066": {
+      "name": "[하페]레드브릿지 기차세트",
+      "age": "36개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631221901.png"
     },
     "DDN0000144": {
       "name": "[코닉스]뽀로로EQ테마파크",
@@ -1854,11 +1854,6 @@
       "name": "[키움하우스]팝핑 워커 거북이",
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
-    },
-    "AGN0000009": {
-      "name": "[브라이트]미키마우스락커",
-      "age": "1개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779059096.jpg"
     },
     "GEN0000004": {
       "name": "Mountains small arch stacker",
@@ -3793,6 +3788,11 @@
       "name": "[리틀]액티비티 윈도우",
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
+    },
+    "KDN0000152": {
+      "name": "[고덕점]뽀로로 자동차마을 & 타워",
+      "age": "36개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910157580.png"
     },
     "DBN0000050": {
       "name": "[리틀타익스]퍼스트 냉장고",
