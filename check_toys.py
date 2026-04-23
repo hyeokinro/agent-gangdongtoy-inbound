@@ -249,7 +249,7 @@ def save_data(data):
 
 def main():
     prev_data = load_previous()
-    is_first  = not prev_data
+    is_first  = not prev_data or not any(prev_data.get(tab["id"]) for tab in TABS)
     curr_data = {}
 
     if is_first:
