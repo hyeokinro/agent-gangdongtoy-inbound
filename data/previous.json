@@ -7047,8 +7047,8 @@
     "GAN0000036": {
       "name": "클래식 러닝홈",
       "age": "12개월 이상 ~",
-      "available": 1,
-      "rented": 2,
+      "available": 0,
+      "rented": 3,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161760824.png"
@@ -10192,7 +10192,7 @@
       "age": "36개월 이상 ~",
       "available": 0,
       "rented": 2,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070332927.png"
     },
