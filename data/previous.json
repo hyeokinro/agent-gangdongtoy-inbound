@@ -2307,8 +2307,8 @@
     "CBN0000001": {
       "name": "공룡벨로시랩터",
       "age": "36개월 이상 ~",
-      "available": 1,
-      "rented": 1,
+      "available": 0,
+      "rented": 2,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_18.jpg"
@@ -2426,9 +2426,9 @@
     "AGN0000023": {
       "name": "[브이텍] 액티비티 아기체육관",
       "age": "1개월 이상 ~",
-      "available": 0,
+      "available": 1,
       "rented": 2,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1764057816433.jpg"
     },
@@ -2669,9 +2669,9 @@
     "AAN0000021": {
       "name": "[브이텍] 3in1 스포츠 센터",
       "age": "36개월 이상 ~",
-      "available": 0,
+      "available": 1,
       "rented": 4,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480767102.JPG"
     },
@@ -3614,9 +3614,9 @@
     "AGN0000007": {
       "name": "[브라이트]컴포트스윙",
       "age": "1개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 1,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
     },
@@ -6561,8 +6561,8 @@
     "GDN0000171": {
       "name": "와일드 어드벤처 애니멀 구조대",
       "age": "24개월 이상 ~",
-      "available": 1,
-      "rented": 2,
+      "available": 0,
+      "rented": 3,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222971602.png"
@@ -9398,9 +9398,9 @@
     "DDN0000144": {
       "name": "[코닉스]뽀로로EQ테마파크",
       "age": "36개월 이상 ~",
-      "available": 3,
+      "available": 4,
       "rented": 5,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562724440.png"
     },
@@ -9434,9 +9434,9 @@
     "DDN0000140": {
       "name": "[실버릿]로보카폴리 스타터팩",
       "age": "36개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 2,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563398685.png"
     },
@@ -9623,9 +9623,9 @@
     "DBN0000036": {
       "name": "[영실업]콩순이와 와플메이커",
       "age": "36개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 1,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193115173.PNG"
     },
@@ -10595,9 +10595,9 @@
     "DDN0000033": {
       "name": "[하베브릭스]자석블록",
       "age": "12개월 이상 ~",
-      "available": 1,
+      "available": 2,
       "rented": 1,
-      "cleaning": 1,
+      "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
     },
