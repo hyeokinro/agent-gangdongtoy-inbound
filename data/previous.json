@@ -620,11 +620,6 @@
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
     },
-    "GDN0000208": {
-      "name": "[홀라베이비] 로봇 공구놀이 9in1",
-      "age": "12개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
-    },
     "GDN0000132": {
       "name": "[브이텍]나잡아봐 야옹이",
       "age": "12개월 이상 ~",
@@ -2818,6 +2813,11 @@
       "name": "코레카경찰차",
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
+    },
+    "GBN0000036": {
+      "name": "아이스크림만들기",
+      "age": "36개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594016387.jpg"
     },
     "GGN0000002": {
       "name": "수더메도우 모빌(흑백+홀더)",
@@ -5293,6 +5293,11 @@
       "name": "[브이텍]3단계 말하는 얼룩말 스쿠터",
       "age": "24개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
+    },
+    "GBN0000091": {
+      "name": "콩순이 알록달록 카페놀이",
+      "age": "24개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
     },
     "GDN0000161": {
       "name": "뽀로로 멜로디 큐브버스",
