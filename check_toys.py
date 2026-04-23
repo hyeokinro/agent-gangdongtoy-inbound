@@ -11,7 +11,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 BASE_URL     = "https://www.gdkids.or.kr:8443"
-SCHEDULE_URL = f"{BASE_URL}/imom/05/schedule/schedule.do"
+SCHEDULE_URL = f"{BASE_URL}/imom/04/schedule/schedule.do"
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 CHAT_ID        = os.environ.get("CHAT_ID", "")
 
@@ -61,9 +61,9 @@ def _base_form(tab_id):
         "toy_gbn":       "1",
         "tab_id":        tab_id,
         "itemcode":      "",
-        "deliSch_idx":   "",
-        "deliSch_EndDt": "",
-        "area":          "",
+        "deliSch_idx":   SCHEDULE_PARAMS.get("deliSch_idx", ""),
+        "deliSch_EndDt": SCHEDULE_PARAMS.get("deliSch_EndDt", ""),
+        "area":          SCHEDULE_PARAMS.get("area", ""),
         "ccode":         "",
         "toy_age":       "",
         "searchkey":     "1",
@@ -71,39 +71,42 @@ def _base_form(tab_id):
     }
 
 
-SESSION = None
+SESSION       = None
+SCHEDULE_PARAMS = {}  # deliSch_idx, deliSch_EndDt, area — 모든 탭 공통
+
+GET_HEADERS = {k: v for k, v in {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "ko-KR,ko;q=0.9",
+    "Referer": SCHEDULE_URL,
+}.items()}
+
+POST_HEADERS = {**GET_HEADERS, "Content-Type": "application/x-www-form-urlencoded"}
 
 
 def get_session():
-    """세션 쿠키를 받아오는 GET 요청."""
-    global SESSION
+    """GET으로 세션 쿠키 + 공통 파라미터(deliSch_idx 등) 초기화."""
+    global SESSION, SCHEDULE_PARAMS
     SESSION = requests.Session()
-    get_headers = {k: v for k, v in HEADERS.items() if k != "Content-Type"}
-    resp = SESSION.get(SCHEDULE_URL, headers=get_headers, verify=False, timeout=TIMEOUT)
+    resp = SESSION.get(SCHEDULE_URL, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
     resp.raise_for_status()
-    print(f"  세션 초기화 완료 (쿠키: {dict(SESSION.cookies)})")
-    return SESSION
 
+    soup = BeautifulSoup(resp.text, "html.parser")
 
-def _get_delivery_extra():
-    """GET 응답 HTML에서 delivery 탭 전용 파라미터 파싱."""
-    try:
-        get_headers = {k: v for k, v in HEADERS.items() if k != "Content-Type"}
-        resp = SESSION.get(SCHEDULE_URL, headers=get_headers, verify=False, timeout=TIMEOUT)
-        soup = BeautifulSoup(resp.text, "html.parser")
+    def val(name):
+        el = soup.select_one(f"input[name='{name}']")
+        return el["value"] if el and el.get("value") else ""
 
-        def val(name):
-            el = soup.select_one(f"input[name='{name}']")
-            return el["value"] if el and el.get("value") else ""
-
-        return {
-            "deliSch_idx":   val("deliSch_idx"),
-            "deliSch_EndDt": val("deliSch_EndDt"),
-            "area":          val("area"),
-        }
-    except Exception as exc:
-        print(f"  delivery 파라미터 GET 실패: {exc}")
-        return {}
+    SCHEDULE_PARAMS = {
+        "deliSch_idx":   val("deliSch_idx"),
+        "deliSch_EndDt": val("deliSch_EndDt"),
+        "area":          val("area"),
+    }
+    print(f"  세션 초기화 완료 | 쿠키: {list(SESSION.cookies.keys())} | 파라미터: {SCHEDULE_PARAMS}")
 
 
 def _parse_toys(soup):
@@ -139,7 +142,7 @@ def _total_count(soup):
 
 
 def _post(form):
-    return SESSION.post(SCHEDULE_URL, data=form, headers=HEADERS,
+    return SESSION.post(SCHEDULE_URL, data=form, headers=POST_HEADERS,
                         verify=False, timeout=TIMEOUT)
 
 
@@ -150,16 +153,6 @@ def get_tab_toys(tab_id):
     resp.raise_for_status()
     soup  = BeautifulSoup(resp.text, "html.parser")
     total = _total_count(soup)
-
-    # delivery 탭이 0건이면 GET에서 추가 파라미터 파싱 후 재시도
-    if total == 0 and tab_id == "delivery":
-        extra = _get_delivery_extra()
-        if extra:
-            form.update(extra)
-            resp  = _post(form)
-            resp.raise_for_status()
-            soup  = BeautifulSoup(resp.text, "html.parser")
-            total = _total_count(soup)
 
     if total == 0:
         print(f"  [{tab_id}] 응답 미리보기: {resp.text[:300]!r}")
