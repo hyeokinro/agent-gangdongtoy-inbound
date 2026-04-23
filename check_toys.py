@@ -64,6 +64,7 @@ def now_kst_str():
 def get_session():
     global SESSION
     SESSION = requests.Session()
+    SESSION.headers.update({"Expect": ""})  # 417 Expectation Failed 방지
     resp = SESSION.get(SCHEDULE_URL, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
     resp.raise_for_status()
     print(f"  세션 초기화 완료 (쿠키: {list(SESSION.cookies.keys())})")
