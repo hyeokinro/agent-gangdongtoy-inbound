@@ -71,11 +71,25 @@ def _base_form(tab_id):
     }
 
 
+SESSION = None
+
+
+def get_session():
+    """세션 쿠키를 받아오는 GET 요청."""
+    global SESSION
+    SESSION = requests.Session()
+    get_headers = {k: v for k, v in HEADERS.items() if k != "Content-Type"}
+    resp = SESSION.get(SCHEDULE_URL, headers=get_headers, verify=False, timeout=TIMEOUT)
+    resp.raise_for_status()
+    print(f"  세션 초기화 완료 (쿠키: {dict(SESSION.cookies)})")
+    return SESSION
+
+
 def _get_delivery_extra():
-    """GET으로 delivery 탭 전용 파라미터 파싱."""
+    """GET 응답 HTML에서 delivery 탭 전용 파라미터 파싱."""
     try:
-        resp = requests.get(SCHEDULE_URL, headers={**HEADERS, "Content-Type": "text/html"},
-                            verify=False, timeout=TIMEOUT)
+        get_headers = {k: v for k, v in HEADERS.items() if k != "Content-Type"}
+        resp = SESSION.get(SCHEDULE_URL, headers=get_headers, verify=False, timeout=TIMEOUT)
         soup = BeautifulSoup(resp.text, "html.parser")
 
         def val(name):
@@ -124,11 +138,15 @@ def _total_count(soup):
     return int(text) if text.isdigit() else 0
 
 
+def _post(form):
+    return SESSION.post(SCHEDULE_URL, data=form, headers=HEADERS,
+                        verify=False, timeout=TIMEOUT)
+
+
 def get_tab_toys(tab_id):
     form = _base_form(tab_id)
 
-    resp = requests.post(SCHEDULE_URL, data=form, headers=HEADERS,
-                         verify=False, timeout=TIMEOUT)
+    resp = _post(form)
     resp.raise_for_status()
     soup  = BeautifulSoup(resp.text, "html.parser")
     total = _total_count(soup)
@@ -138,8 +156,7 @@ def get_tab_toys(tab_id):
         extra = _get_delivery_extra()
         if extra:
             form.update(extra)
-            resp  = requests.post(SCHEDULE_URL, data=form, headers=HEADERS,
-                                  verify=False, timeout=TIMEOUT)
+            resp  = _post(form)
             resp.raise_for_status()
             soup  = BeautifulSoup(resp.text, "html.parser")
             total = _total_count(soup)
@@ -153,8 +170,7 @@ def get_tab_toys(tab_id):
 
     for page in range(2, pages + 1):
         form["miv_pageNo"] = str(page)
-        resp = requests.post(SCHEDULE_URL, data=form, headers=HEADERS,
-                             verify=False, timeout=TIMEOUT)
+        resp = _post(form)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
         if not soup.select("ul.album_list > li"):
@@ -308,6 +324,9 @@ def main():
 
     if is_first:
         print("첫 실행: 현재 상태 저장만 하고 알림은 보내지 않습니다.")
+
+    print("\n세션 초기화 중...")
+    get_session()
 
     for tab in TABS:
         print(f"\n[{tab['id']}] 크롤링 중...")
