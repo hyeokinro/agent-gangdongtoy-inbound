@@ -5318,8 +5318,8 @@
       "name": "[고덕점] 콩순이코딩붕어빵가게",
       "age": "36개월 이상 ~",
       "available": 0,
-      "rented": 5,
-      "cleaning": 0,
+      "rented": 4,
+      "cleaning": 1,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567028582.png"
     },
@@ -9785,8 +9785,8 @@
     "DAN0000006": {
       "name": "[피셔]클래식러닝홈",
       "age": "6개월 이상 ~",
-      "available": 1,
-      "rented": 2,
+      "available": 0,
+      "rented": 3,
       "cleaning": 0,
       "repairing": 0,
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443691698.PNG"
