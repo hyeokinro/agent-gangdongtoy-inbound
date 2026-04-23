@@ -21,12 +21,25 @@ TABS = [
     {"id": "wait",     "label": "대기신청",   "emoji": "⏳"},
 ]
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
+_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/120.0.0.0 Safari/537.36"
+)
+
+GET_HEADERS = {
+    "User-Agent":      _UA,
+    "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "ko-KR,ko;q=0.9",
+    "Referer":         SCHEDULE_URL,
+    "Origin":          BASE_URL,
+    "Sec-Fetch-Dest":  "document",
+    "Sec-Fetch-Mode":  "navigate",
+    "Sec-Fetch-Site":  "same-origin",
+}
+
+POST_HEADERS = {
+    **GET_HEADERS,
     "Content-Type": "application/x-www-form-urlencoded",
 }
 
@@ -74,18 +87,27 @@ def _base_form(tab_id):
 SESSION       = None
 SCHEDULE_PARAMS = {}  # deliSch_idx, deliSch_EndDt, area — 모든 탭 공통
 
-GET_HEADERS = {k: v for k, v in {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "ko-KR,ko;q=0.9",
-    "Referer": SCHEDULE_URL,
-}.items()}
 
-POST_HEADERS = {**GET_HEADERS, "Content-Type": "application/x-www-form-urlencoded"}
+def _parse_schedule_params(html):
+    """HTML(hidden input 또는 JavaScript)에서 deliSch_idx 등 파싱."""
+    soup = BeautifulSoup(html, "html.parser")
+
+    def from_input(name):
+        el = soup.select_one(f"input[name='{name}']")
+        return el["value"] if el and el.get("value") else ""
+
+    def from_js(name):
+        m = re.search(rf'["\s]?{re.escape(name)}["\s]*[:=]["\s]*["\']?(\w[\w/ ]*)', html)
+        return m.group(1).strip() if m else ""
+
+    def get_val(name):
+        return from_input(name) or from_js(name)
+
+    return {
+        "deliSch_idx":   get_val("deliSch_idx"),
+        "deliSch_EndDt": get_val("deliSch_EndDt"),
+        "area":          get_val("area"),
+    }
 
 
 def get_session():
@@ -95,17 +117,7 @@ def get_session():
     resp = SESSION.get(SCHEDULE_URL, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
     resp.raise_for_status()
 
-    soup = BeautifulSoup(resp.text, "html.parser")
-
-    def val(name):
-        el = soup.select_one(f"input[name='{name}']")
-        return el["value"] if el and el.get("value") else ""
-
-    SCHEDULE_PARAMS = {
-        "deliSch_idx":   val("deliSch_idx"),
-        "deliSch_EndDt": val("deliSch_EndDt"),
-        "area":          val("area"),
-    }
+    SCHEDULE_PARAMS = _parse_schedule_params(resp.text)
     print(f"  세션 초기화 완료 | 쿠키: {list(SESSION.cookies.keys())} | 파라미터: {SCHEDULE_PARAMS}")
 
 
@@ -190,7 +202,7 @@ def detect_new(prev_data, curr_data, tab_id):
 
 def _download_image(url):
     try:
-        resp = requests.get(url, headers=HEADERS, verify=False, timeout=TIMEOUT)
+        resp = requests.get(url, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
         resp.raise_for_status()
         return resp.content
     except Exception as exc:
