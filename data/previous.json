@@ -1665,6 +1665,11 @@
       "age": "6개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
     },
+    "GDN0000024": {
+      "name": "노래하는 버드하우스",
+      "age": "12개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865561081.jpg"
+    },
     "DDN0000135": {
       "name": "[립프로그] 립스토리",
       "age": "36개월 이상 ~",
@@ -2360,6 +2365,11 @@
       "age": "60개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072134908.png"
     },
+    "GAN0000035": {
+      "name": "걸음마 붕붕카",
+      "age": "24개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161588903.png"
+    },
     "GDN0000056": {
       "name": "차고지&헬리콥터세트",
       "age": "36개월 이상 ~",
@@ -2949,11 +2959,6 @@
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167356478.png"
     },
-    "GDN0000164": {
-      "name": "리틀 드라이버",
-      "age": "12개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221615837.png"
-    },
     "KDN0000069": {
       "name": "[고덕점] 링 던지기",
       "age": "36개월 이상 ~",
@@ -3538,11 +3543,6 @@
       "name": "자석블럭",
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
-    },
-    "CDN0000038": {
-      "name": "볼트랙-락킹보트",
-      "age": "12개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
     },
     "CDN0000046": {
       "name": "강아지 도형끼우기차",
@@ -4324,11 +4324,6 @@
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166793879.png"
     },
-    "GDN0000159": {
-      "name": "오케스트라 러닝테이블",
-      "age": "6개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
-    },
     "KCN0000011": {
       "name": "[고덕점] 리틀밴드 멜로디터치 피아노",
       "age": "6개월 이상 ~",
@@ -4599,11 +4594,6 @@
       "age": "24개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163407667.png"
     },
-    "GAN0000040": {
-      "name": "뮤지컬 액티비티 워커",
-      "age": "6개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
-    },
     "GDN0000169": {
       "name": "첫 계산대놀이 세트",
       "age": "36개월 이상 ~",
@@ -4693,6 +4683,11 @@
       "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
       "age": "24개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543318470.png"
+    },
+    "KDN0000121": {
+      "name": "[고덕점] 오뚜기(파랑)",
+      "age": "6개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558282617.png"
     },
     "KDN0000080": {
       "name": "[고덕점] 즐거운 놀이공원",
@@ -5343,6 +5338,11 @@
       "name": "[고덕점] 리얼소방차",
       "age": "24개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538962318.png"
+    },
+    "KDN0000051": {
+      "name": "[고덕점] 멜로디 오션 에듀볼",
+      "age": "12개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539219129.png"
     },
     "KDN0000078": {
       "name": "[고덕점] 뽀로로 경찰 오토바이",
