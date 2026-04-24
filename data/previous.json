@@ -1830,11 +1830,6 @@
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
     },
-    "GDN0000025": {
-      "name": "마이퍼스트러닝하우스",
-      "age": "6개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865593493.jpg"
-    },
     "DEN0000004": {
       "name": "[맥포머스]타운스페셜세트",
       "age": "36개월 이상 ~",
@@ -2155,11 +2150,6 @@
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205388397.PNG"
     },
-    "GCN0000018": {
-      "name": "[베이비아인슈타인] 해저탐험 피아노",
-      "age": "6개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1671505259713.PNG"
-    },
     "ABN0000011": {
       "name": "[멜리사앤]설거지놀이",
       "age": "36개월 이상 ~",
@@ -2214,6 +2204,11 @@
       "name": "BBQ카트",
       "age": "24개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591363124.jpg"
+    },
+    "GCN0000018": {
+      "name": "[베이비아인슈타인] 해저탐험 피아노",
+      "age": "6개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1671505259713.PNG"
     },
     "ACN0000013": {
       "name": "뮤지컬 악기5종세트",
@@ -2913,11 +2908,6 @@
       "name": "[고덕점] 링 던지기",
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
-    },
-    "KDN0000055": {
-      "name": "[고덕점] 마그네틱 블록 잠수비행기",
-      "age": "36개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539091885.png"
     },
     "KDN0000075": {
       "name": "[고덕점] 반짝반짝 케이크링쌓기",
@@ -3699,11 +3689,6 @@
       "age": "6개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538478311.png"
     },
-    "KCN0000014": {
-      "name": "[고덕점] 리틀탭어튠실로폰",
-      "age": "12개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538657246.png"
-    },
     "KBN0000053": {
       "name": "[고덕점] 똘똘이 동물병원",
       "age": "36개월 이상 ~",
@@ -3728,6 +3713,11 @@
       "name": "[고덕점]구스파파",
       "age": "24개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
+    },
+    "KAN0000016": {
+      "name": "[고덕점] 오볼 개구리볼",
+      "age": "6개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542340893.png"
     },
     "KDN0000089": {
       "name": "[고덕점] 코랄리프",
@@ -3913,11 +3903,6 @@
       "name": "[하페]레인보우기차세트",
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631598615.png"
-    },
-    "GDN0000086": {
-      "name": "[라두가그레이즈]숲속동물세트",
-      "age": "36개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415628022.jpg"
     },
     "ADN0000006": {
       "name": "[플레이포에버]자동차3",
@@ -4558,11 +4543,6 @@
       "name": "[고덕점] 공구 상자",
       "age": "24개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537842099.png"
-    },
-    "KDN0000065": {
-      "name": "[고덕점] 노아의 방주",
-      "age": "36개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537946226.png"
     },
     "KDN0000070": {
       "name": "[고덕점] 동전 놀이",
