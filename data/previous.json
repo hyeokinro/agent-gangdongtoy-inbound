@@ -375,11 +375,6 @@
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594667384.jpg"
     },
-    "GDN0000085": {
-      "name": "[숲소리]실꿰기세트",
-      "age": "24개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415748622.jpg"
-    },
     "GBN0000030": {
       "name": "비스켓세트",
       "age": "36개월 이상 ~",
@@ -2864,6 +2859,11 @@
       "age": "1개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779135844.jpg"
     },
+    "DDN0000077": {
+      "name": "[하바]동물쌓기",
+      "age": "48개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070281069.png"
+    },
     "DDN0000080": {
       "name": "[오차드]공룡달리기대회",
       "age": "36개월 이상 ~",
@@ -3239,6 +3239,11 @@
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069053583.png"
     },
+    "DDN0000062": {
+      "name": "[맥포머스]애니멀세트",
+      "age": "24개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069517538.png"
+    },
     "DDN0000098": {
       "name": "[레고]미니의공간",
       "age": "24개월 이상 ~",
@@ -3333,11 +3338,6 @@
       "name": "[고덕점] 스키핑스톤",
       "age": "6개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
-    },
-    "KDN0000103": {
-      "name": "[고덕점] 스피닝 라이트",
-      "age": "6개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541072707.png"
     },
     "KDN0000124": {
       "name": "[고덕점] 엄마까투리 멜로디 풍차",
@@ -4234,11 +4234,6 @@
       "age": "12개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062062893.png"
     },
-    "DDN0000099": {
-      "name": "[레고]공룡탈출",
-      "age": "24개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071551522.png"
-    },
     "CDN0000073": {
       "name": "[코닉스]뽀로로스쿨버스",
       "age": "36개월 이상 ~",
@@ -4493,11 +4488,6 @@
       "name": "[레고]배트모빌",
       "age": "48개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071725866.png"
-    },
-    "DDN0000110": {
-      "name": "[큐비]아기공룡들세트",
-      "age": "36개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072188559.png"
     },
     "GBN0000079": {
       "name": "뽀로로 변신 소방차",
@@ -4993,11 +4983,6 @@
       "name": "[고덕점] 병원놀이세트[한글버전]",
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567161088.png"
-    },
-    "KBN0000057": {
-      "name": "[고덕점] 쿠킹 조리세트",
-      "age": "36개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567648625.png"
     },
     "KDN0000072": {
       "name": "[고덕점] 러닝 액티비티 큐브",
