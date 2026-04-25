@@ -79,16 +79,16 @@ def get_session():
     print(f"  세션 초기화 완료 (쿠키: {list(SESSION.cookies.keys())})")
 
 
-def _api_form(tab_id, page=1):
+def _api_form(tab_id, page=1, toy_gbn="1"):
     return {
-        "co_cd":      "",
-        "toy_age":    "",
-        "tab_id":     tab_id,
-        "ccode":      "",
-        "toy_gbn":    "1",
-        "searchkey":  "1",
-        "searchtxt":  "",
-        "miv_pageNo": str(page),
+        "co_cd":        "",
+        "toy_age":      "",
+        "tab_id":       tab_id,
+        "ccode":        "",
+        "toy_gbn":      toy_gbn,
+        "searchkey":    "1",
+        "searchtxt":    "",
+        "miv_pageNo":   str(page),
         "miv_pageSize": "100",
     }
 
@@ -102,24 +102,22 @@ def _parse_toy(item):
     }
 
 
-def get_tab_toys(tab_id):
-    form = _api_form(tab_id, page=1)
+def _fetch_toys_for_gbn(tab_id, toy_gbn):
+    """특정 toy_gbn으로 한 탭 전체 페이지 조회."""
+    form = _api_form(tab_id, page=1, toy_gbn=toy_gbn)
     resp = SESSION.post(API_URL, data=form, headers=API_HEADERS, verify=False, timeout=TIMEOUT)
     resp.raise_for_status()
-    data  = resp.json()
+    data = resp.json()
 
     if data.get("success") != "true":
-        print(f"  [{tab_id}] API 실패 응답: {str(data)[:200]}")
         return {}
 
     total = int(data.get("totalcnt") or 0)
     pages = max(1, math.ceil(total / 100))
-    print(f"  [{tab_id}] 총 {total}건 / {pages}페이지")
-
-    all_toys = {t["itemcode"]: _parse_toy(t) for t in data.get("toyList", [])}
+    toys  = {t["itemcode"]: _parse_toy(t) for t in data.get("toyList", [])}
 
     for page in range(2, pages + 1):
-        form = _api_form(tab_id, page=page)
+        form = _api_form(tab_id, page=page, toy_gbn=toy_gbn)
         resp = SESSION.post(API_URL, data=form, headers=API_HEADERS, verify=False, timeout=TIMEOUT)
         resp.raise_for_status()
         page_data = resp.json()
@@ -127,10 +125,18 @@ def get_tab_toys(tab_id):
         if not toy_list:
             break
         for t in toy_list:
-            all_toys[t["itemcode"]] = _parse_toy(t)
+            toys[t["itemcode"]] = _parse_toy(t)
         time.sleep(0.5)
 
-    return all_toys
+    return toys, total
+
+
+def get_tab_toys(tab_id):
+    """toy_gbn=1 (일반) + toy_gbn=3 (천호2동점 특별용품) 합산 조회."""
+    toys_gbn1, total1 = _fetch_toys_for_gbn(tab_id, "1")
+    toys_gbn3, total3 = _fetch_toys_for_gbn(tab_id, "3")
+    print(f"  [{tab_id}] gbn=1: {total1}건, gbn=3(천호2동점): {total3}건")
+    return {**toys_gbn1, **toys_gbn3}
 
 
 # ---------------------------------------------------------------------------
