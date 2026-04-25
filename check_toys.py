@@ -15,6 +15,14 @@ API_URL      = f"{BASE_URL}/front/schedule/getToyList.do"
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 CHAT_ID        = os.environ.get("CHAT_ID", "")
 
+ITEMCODE_BRANCH = {
+    "C": "천호점",
+    "A": "암사점",
+    "K": "고덕점",
+    "G": "상일2동점",
+    "D": "길동점",
+}
+
 TABS = [
     {"id": "online",   "label": "온라인방문", "emoji": "🏠"},
     {"id": "delivery", "label": "택배수령",   "emoji": "📦"},
@@ -188,37 +196,64 @@ def send_media_group(toys_batch, header):
     }, files=files or None, timeout=TIMEOUT)
 
 
+def _branch_from_code(itemcode):
+    """itemcode 첫 글자로 지점 판별. C→천호점, A→암사점, K→고덕점, G→상일2동점, D→길동점"""
+    return ITEMCODE_BRANCH.get(itemcode[0] if itemcode else "", "기타")
+
+
+def _group_by_branch(toys):
+    """[(code, toy), ...] → {지점명: [(code, toy), ...]}"""
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for code, toy in toys:
+        groups[_branch_from_code(code)].append((code, toy))
+    return dict(groups)
+
+
 def _toy_line(toy):
     return f"• {toy['name']} ({toy['age']})"
 
 
+def _toy_line_short(toy):
+    """지점명 제거한 짧은 버전. '[고덕점] 블록' → '블록 (36개월~)'"""
+    name = re.sub(r'^\[.+?\]\s*', '', toy["name"])
+    return f"• {name} ({toy['age']})"
+
+
 def send_tab_images(tab, new_toys):
-    header = f"{tab['emoji']} <b>{tab['label']}</b> 새 등록 ({len(new_toys)}건)"
-    if len(new_toys) == 1:
-        code, toy = new_toys[0]
-        result = send_photo(toy["image"], f"{header}\n{_toy_line(toy)}")
-        if not result.ok:
-            send_message(f"{header}\n{_toy_line(toy)}")
-    elif len(new_toys) <= 10:
-        result = send_media_group(new_toys, header)
-        if not result.ok:
-            send_message("\n".join([header] + [_toy_line(t) for _, t in new_toys]))
-    else:
-        result = send_media_group(new_toys[:10], header)
-        if not result.ok:
-            send_message("\n".join([header] + [_toy_line(t) for _, t in new_toys[:50]]))
+    """이미지 알림 — 지점별로 묶어서 sendMediaGroup"""
+    groups = _group_by_branch(new_toys)
+    for branch, toys in groups.items():
+        header = f"{tab['emoji']} <b>{tab['label']}</b> · <b>{branch}</b> ({len(toys)}건)"
+        if len(toys) == 1:
+            code, toy = toys[0]
+            result = send_photo(toy["image"], f"{header}\n{_toy_line_short(toy)}")
+            if not result.ok:
+                send_message(f"{header}\n{_toy_line_short(toy)}")
+        elif len(toys) <= 10:
+            result = send_media_group(toys, header)
+            if not result.ok:
+                send_message("\n".join([header] + [_toy_line_short(t) for _, t in toys]))
         else:
-            extra = [f"{tab['emoji']} <b>{tab['label']}</b> 추가 {len(new_toys)-10}건"]
-            extra += [_toy_line(t) for _, t in new_toys[10:]]
-            send_message("\n".join(extra))
+            result = send_media_group(toys[:10], header)
+            if not result.ok:
+                send_message("\n".join([header] + [_toy_line_short(t) for _, t in toys]))
+            else:
+                extra = [f"{tab['emoji']} <b>{branch}</b> 추가 {len(toys)-10}건"]
+                extra += [_toy_line_short(t) for _, t in toys[10:]]
+                send_message("\n".join(extra))
 
 
 def send_summary(changes):
+    """텍스트 요약 — 탭 > 지점 2단계 구조"""
     lines = [f"📢 <b>장난감도서관 예약 알림</b>\n🕐 {now_kst_str()}\n"]
     for tab, new_toys in changes:
         lines.append(f"{tab['emoji']} <b>{tab['label']}</b> 새 등록 ({len(new_toys)}건)")
-        for _, toy in new_toys[:20]:
-            lines.append(f"  {_toy_line(toy)}")
+        groups = _group_by_branch(new_toys)
+        for branch, toys in groups.items():
+            lines.append(f"  📍 <b>{branch}</b> ({len(toys)}건)")
+            for _, toy in toys:
+                lines.append(f"    {_toy_line_short(toy)}")
         lines.append("")
     lines.append(f'👉 <a href="{SCHEDULE_URL}">예약 페이지 바로가기</a>')
     text = "\n".join(lines)
