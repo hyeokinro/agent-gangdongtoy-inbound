@@ -2065,11 +2065,6 @@
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773984790.jpg"
     },
-    "KBN0000069": {
-      "name": "[고덕점] 병원놀이세트[한글버전]",
-      "age": "36개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567161088.png"
-    },
     "GCN0000003": {
       "name": "뮤지컬에그",
       "age": "12개월 이상 ~",
@@ -2124,6 +2119,11 @@
       "name": "[고덕점] 알록달록 송이 미용실",
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567220129.png"
+    },
+    "KBN0000069": {
+      "name": "[고덕점] 병원놀이세트[한글버전]",
+      "age": "36개월 이상 ~",
+      "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567161088.png"
     },
     "KBN0000051": {
       "name": "[고덕점] 달님이 가방에 쏙 동물병원",
@@ -3048,11 +3048,6 @@
       "name": "[보육사]음식컷팅세트",
       "age": "36개월 이상 ~",
       "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
-    },
-    "ACN0000009": {
-      "name": "[보육사]영아용리듬악기",
-      "age": "12개월 이상 ~",
-      "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
     },
     "AFN0000000": {
       "name": "[베케라]가스스테이션",
