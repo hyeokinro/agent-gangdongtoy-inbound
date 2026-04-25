@@ -154,6 +154,8 @@ def detect_new(prev_data, curr_data, tab_id):
 # ---------------------------------------------------------------------------
 
 def _download_image(url):
+    if not url:
+        return None
     try:
         resp = requests.get(url, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
         resp.raise_for_status()
@@ -186,11 +188,14 @@ def send_photo(photo_url, caption):
 def send_media_group(toys_batch, header):
     tg_url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMediaGroup"
     files, media = {}, []
-    for i, (code, toy) in enumerate(toys_batch):
-        cap = (f"{header}\n• {toy['name']} ({toy['age']})" if i == 0
-               else f"• {toy['name']} ({toy['age']})")
+    first = True
+    for code, toy in toys_batch:
         img = _download_image(toy["image"])
-        key = f"photo{i}"
+        if not img and not toy["image"]:
+            continue  # 이미지 없는 항목은 건너뜀
+        cap = (f"{header}\n{_toy_line_short(toy)}" if first
+               else _toy_line_short(toy))
+        key = f"photo{len(media)}"
         if img:
             files[key] = (f"{key}.jpg", img, "image/jpeg")
             media.append({"type": "photo", "media": f"attach://{key}",
@@ -198,6 +203,9 @@ def send_media_group(toys_batch, header):
         else:
             media.append({"type": "photo", "media": toy["image"],
                           "caption": cap[:1024], "parse_mode": "HTML"})
+        first = False
+    if not media:
+        return type("R", (), {"ok": False})()  # 미디어 없으면 실패 반환
     return requests.post(tg_url, data={
         "chat_id": CHAT_ID, "media": json.dumps(media),
     }, files=files or None, timeout=TIMEOUT)
