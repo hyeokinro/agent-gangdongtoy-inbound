@@ -243,29 +243,34 @@ def _send_branch_block(tab, branch, toys):
     )
     toy_lines = "\n".join(_toy_line_short(t) for _, t in toys)
 
-    if len(toys) == 1:
-        code, toy = toys[0]
-        caption = f"{header}\n{_toy_line_short(toy)}"
-        result = send_photo(toy["image"], caption)
-        if not result.ok:
-            send_message(caption)
+    # 이미지 있는 것 / 없는 것 분리
+    with_img    = [(c, t) for c, t in toys if t.get("image")]
+    without_img = [(c, t) for c, t in toys if not t.get("image")]
 
-    elif len(toys) <= 10:
-        result = send_media_group(toys, header)
-        if not result.ok:
-            send_message(f"{header}\n{toy_lines}")
-
-    else:
-        # 10개씩 앨범, 나머지는 텍스트
-        result = send_media_group(toys[:10], header)
-        if not result.ok:
-            send_message(f"{header}\n{toy_lines}")
+    if with_img:
+        batch = with_img[:10]
+        if len(batch) == 1:
+            code, toy = batch[0]
+            caption = f"{header}\n{_toy_line_short(toy)}"
+            result = send_photo(toy["image"], caption)
+            if not result.ok:
+                send_message(caption)
         else:
-            extra_lines = "\n".join(_toy_line_short(t) for _, t in toys[10:])
-            send_message(
-                f"{tab['emoji']} <b>{tab['label']}</b> · 📍 <b>{branch}</b> "
-                f"추가 {len(toys)-10}건\n{extra_lines}"
-            )
+            result = send_media_group(batch, header)
+            if not result.ok:
+                send_message(f"{header}\n{toy_lines}")
+            elif len(with_img) > 10:
+                extra = "\n".join(_toy_line_short(t) for _, t in with_img[10:])
+                send_message(f"{tab['emoji']} <b>{branch}</b> 추가 {len(with_img)-10}건\n{extra}")
+    else:
+        # 이미지가 하나도 없으면 텍스트만
+        send_message(f"{header}\n{toy_lines}")
+
+    # 이미지 없는 항목은 텍스트로 추가
+    if without_img:
+        lines = [f"{tab['emoji']} <b>{branch}</b> (이미지 없음)"]
+        lines += [_toy_line_short(t) for _, t in without_img]
+        send_message("\n".join(lines))
 
     # 지점 바로가기 링크
     send_message(f'👉 <a href="{SCHEDULE_URL}">예약 페이지 바로가기</a>')
