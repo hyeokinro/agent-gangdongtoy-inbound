@@ -73,10 +73,19 @@ def now_kst_str():
 def get_session():
     global SESSION
     SESSION = requests.Session()
-    SESSION.headers.update({"Expect": ""})  # 417 Expectation Failed 방지
-    resp = SESSION.get(SCHEDULE_URL, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
-    resp.raise_for_status()
-    print(f"  세션 초기화 완료 (쿠키: {list(SESSION.cookies.keys())})")
+    # Expect 헤더를 None으로 설정해 전송 자체를 막음 (""은 빈값으로 전송돼 417 유발)
+    SESSION.headers["Expect"] = None
+    for attempt in range(1, 4):
+        try:
+            resp = SESSION.get(SCHEDULE_URL, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
+            resp.raise_for_status()
+            print(f"  세션 초기화 완료 (쿠키: {list(SESSION.cookies.keys())})")
+            return
+        except Exception as exc:
+            print(f"  세션 초기화 실패 ({attempt}/3): {exc}")
+            if attempt < 3:
+                time.sleep(5)
+    raise RuntimeError("세션 초기화 3회 모두 실패")
 
 
 def _api_form(tab_id, page=1, toy_gbn="1"):
