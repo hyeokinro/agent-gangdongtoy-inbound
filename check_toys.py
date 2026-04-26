@@ -165,6 +165,14 @@ def _download_image(url):
         return None
 
 
+def _tg_ok(resp):
+    """Telegram API는 HTTP 오류 시에도 200을 반환하므로 JSON body의 ok 필드로 판별."""
+    try:
+        return resp.json().get("ok") is True
+    except Exception:
+        return resp.ok
+
+
 def send_message(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     return requests.post(url, json={
@@ -185,27 +193,32 @@ def send_photo(photo_url, caption):
     }, timeout=TIMEOUT)
 
 
-def send_media_group(toys_batch, header):
+def send_media_group(toys_batch, header=None):
+    """이미지 앨범 전송. header가 None이면 caption 없이 이미지만 전송."""
     tg_url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMediaGroup"
     files, media = {}, []
-    first = True
-    for code, toy in toys_batch:
+    for idx, (code, toy) in enumerate(toys_batch):
         img = _download_image(toy["image"])
         if not img and not toy["image"]:
             continue  # 이미지 없는 항목은 건너뜀
-        cap = (f"{header}\n{_toy_line_short(toy)}" if first
-               else _toy_line_short(toy))
+        # caption: header 있으면 첫 장에만 붙이고, 없으면 모두 생략
+        if header and idx == 0:
+            cap = f"{header}\n{_toy_line_short(toy)}"
+        else:
+            cap = None
         key = f"photo{len(media)}"
+        entry = {"type": "photo"}
         if img:
             files[key] = (f"{key}.jpg", img, "image/jpeg")
-            media.append({"type": "photo", "media": f"attach://{key}",
-                          "caption": cap[:1024], "parse_mode": "HTML"})
+            entry["media"] = f"attach://{key}"
         else:
-            media.append({"type": "photo", "media": toy["image"],
-                          "caption": cap[:1024], "parse_mode": "HTML"})
-        first = False
+            entry["media"] = toy["image"]
+        if cap:
+            entry["caption"]    = cap[:1024]
+            entry["parse_mode"] = "HTML"
+        media.append(entry)
     if not media:
-        return type("R", (), {"ok": False})()  # 미디어 없으면 실패 반환
+        return type("R", (), {"ok": False, "text": "no media"})()
     return requests.post(tg_url, data={
         "chat_id": CHAT_ID, "media": json.dumps(media),
     }, files=files or None, timeout=TIMEOUT)
@@ -253,13 +266,16 @@ def _send_branch_block(tab, branch, toys):
             code, toy = batch[0]
             caption = f"{header}\n{_toy_line_short(toy)}"
             result = send_photo(toy["image"], caption)
-            if not result.ok:
+            if not _tg_ok(result):
+                # 이미지 전송 실패 시 텍스트로 폴백
                 send_message(caption)
         else:
-            result = send_media_group(batch, header)
-            if not result.ok:
-                send_message(f"{header}\n{toy_lines}")
-            elif len(with_img) > 10:
+            # 복수 이미지: 텍스트 헤더 먼저, 이미지 앨범은 별도
+            send_message(f"{header}\n{toy_lines}")
+            result = send_media_group(batch, None)
+            if not _tg_ok(result):
+                print(f"  send_media_group 실패: {result.text[:200]}")
+            if len(with_img) > 10:
                 extra = "\n".join(_toy_line_short(t) for _, t in with_img[10:])
                 send_message(f"{tab['emoji']} <b>{branch}</b> 추가 {len(with_img)-10}건\n{extra}")
     else:
