@@ -71,21 +71,21 @@ def now_kst_str():
 # ---------------------------------------------------------------------------
 
 def get_session():
+    """JSESSIONID 획득을 위해 schedule.do GET. 실패해도 쿠키 없이 진행 (API는 별도 접근 가능)."""
     global SESSION
     SESSION = requests.Session()
-    # Expect 헤더를 None으로 설정해 전송 자체를 막음 (""은 빈값으로 전송돼 417 유발)
-    SESSION.headers["Expect"] = None
-    for attempt in range(1, 4):
-        try:
-            resp = SESSION.get(SCHEDULE_URL, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
-            resp.raise_for_status()
-            print(f"  세션 초기화 완료 (쿠키: {list(SESSION.cookies.keys())})")
-            return
-        except Exception as exc:
-            print(f"  세션 초기화 실패 ({attempt}/3): {exc}")
-            if attempt < 3:
-                time.sleep(5)
-    raise RuntimeError("세션 초기화 3회 모두 실패")
+    try:
+        resp = SESSION.get(
+            SCHEDULE_URL,
+            headers={**GET_HEADERS, "Expect": None},  # Expect 헤더 완전 제거
+            verify=False,
+            timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+        print(f"  세션 초기화 완료 (쿠키: {list(SESSION.cookies.keys())})")
+    except Exception as exc:
+        # schedule.do가 막혀도 API 엔드포인트는 별도로 접근 가능한 경우가 있음
+        print(f"  ⚠️ 세션 초기화 실패 (쿠키 없이 진행): {exc}")
 
 
 def _api_form(tab_id, page=1, toy_gbn="1"):
