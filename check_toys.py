@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import html
 import time
 import math
 import requests
@@ -9,9 +10,9 @@ import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-BASE_URL     = "https://www.gdkids.or.kr:8443"
-SCHEDULE_URL = f"{BASE_URL}/imom/04/schedule/schedule.do"
-API_URL      = f"{BASE_URL}/front/schedule/getToyList.do"
+BASE_URL       = "https://www.gdkids.or.kr:8443"
+SCHEDULE_URL   = f"{BASE_URL}/imom/04/schedule/schedule.do"
+API_URL        = f"{BASE_URL}/front/schedule/getToyList.do"
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 CHAT_ID        = os.environ.get("CHAT_ID", "")
 
@@ -24,29 +25,37 @@ ITEMCODE_BRANCH = {
     "H": "천호2동점",
 }
 
+# gbn=1: 장난감, gbn=3: 천호2동점 특수용품 (gbn=2 도서는 제외)
+CATEGORIES = [
+    {"gbn": "1", "label": "장난감"},
+    {"gbn": "3", "label": "천호2동점 특수용품"},
+]
+
 TABS = [
     {"id": "online",   "label": "온라인방문", "emoji": "🏠"},
     {"id": "delivery", "label": "택배수령",   "emoji": "📦"},
     {"id": "wait",     "label": "대기신청",   "emoji": "⏳"},
 ]
 
+CHUNK_SIZE = 10  # sendMediaGroup 최대 10장 단위로 청크
+
 _UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
 GET_HEADERS = {
-    "User-Agent":   _UA,
-    "Accept":       "text/html,application/xhtml+xml,*/*;q=0.8",
-    "Referer":      SCHEDULE_URL,
-    "Origin":       BASE_URL,
+    "User-Agent": _UA,
+    "Accept":     "text/html,application/xhtml+xml,*/*;q=0.8",
+    "Referer":    SCHEDULE_URL,
+    "Origin":     BASE_URL,
 }
 
 API_HEADERS = {
-    "User-Agent":        _UA,
-    "Accept":            "application/json, text/javascript, */*; q=0.01",
-    "Content-Type":      "application/x-www-form-urlencoded",
-    "X-Requested-With":  "XMLHttpRequest",
-    "Referer":           SCHEDULE_URL,
-    "Origin":            BASE_URL,
+    "User-Agent":       _UA,
+    "Accept":           "application/json, text/javascript, */*; q=0.01",
+    "Content-Type":     "application/x-www-form-urlencoded",
+    "X-Requested-With": "XMLHttpRequest",
+    "Referer":          SCHEDULE_URL,
+    "Origin":           BASE_URL,
 }
 
 DATA_FILE = "data/previous.json"
@@ -56,10 +65,6 @@ KST       = timezone(timedelta(hours=9))
 SESSION = None
 
 
-def today_kst():
-    return datetime.now(KST).strftime("%Y%m%d")
-
-
 def now_kst_str():
     now = datetime.now(KST)
     wd  = ["월", "화", "수", "목", "금", "토", "일"][now.weekday()]
@@ -67,11 +72,11 @@ def now_kst_str():
 
 
 # ---------------------------------------------------------------------------
-# Crawling
+# Session
 # ---------------------------------------------------------------------------
 
 def get_session():
-    """JSESSIONID 획득을 위해 schedule.do GET. 실패해도 쿠키 없이 진행 (API는 별도 접근 가능)."""
+    """JSESSIONID 획득. 실패해도 쿠키 없이 진행 (API는 별도 접근 가능한 경우 있음)."""
     global SESSION
     SESSION = requests.Session()
     try:
@@ -84,9 +89,12 @@ def get_session():
         resp.raise_for_status()
         print(f"  세션 초기화 완료 (쿠키: {list(SESSION.cookies.keys())})")
     except Exception as exc:
-        # schedule.do가 막혀도 API 엔드포인트는 별도로 접근 가능한 경우가 있음
         print(f"  ⚠️ 세션 초기화 실패 (쿠키 없이 진행): {exc}")
 
+
+# ---------------------------------------------------------------------------
+# Crawling
+# ---------------------------------------------------------------------------
 
 def _api_form(tab_id, page=1, toy_gbn="1"):
     return {
@@ -111,26 +119,25 @@ def _parse_toy(item):
     }
 
 
-def _fetch_toys_for_gbn(tab_id, toy_gbn):
-    """특정 toy_gbn으로 한 탭 전체 페이지 조회."""
-    form = _api_form(tab_id, page=1, toy_gbn=toy_gbn)
+def fetch_toys(tab_id, gbn):
+    """탭 + gbn 조합 전체 페이지 조회. 반환: (toys_dict, total_count)"""
+    form = _api_form(tab_id, page=1, toy_gbn=gbn)
     resp = SESSION.post(API_URL, data=form, headers=API_HEADERS, verify=False, timeout=TIMEOUT)
     resp.raise_for_status()
     data = resp.json()
 
     if data.get("success") != "true":
-        return {}
+        return {}, 0
 
     total = int(data.get("totalcnt") or 0)
     pages = max(1, math.ceil(total / 100))
     toys  = {t["itemcode"]: _parse_toy(t) for t in data.get("toyList", [])}
 
     for page in range(2, pages + 1):
-        form = _api_form(tab_id, page=page, toy_gbn=toy_gbn)
-        resp = SESSION.post(API_URL, data=form, headers=API_HEADERS, verify=False, timeout=TIMEOUT)
+        form     = _api_form(tab_id, page=page, toy_gbn=gbn)
+        resp     = SESSION.post(API_URL, data=form, headers=API_HEADERS, verify=False, timeout=TIMEOUT)
         resp.raise_for_status()
-        page_data = resp.json()
-        toy_list  = page_data.get("toyList", [])
+        toy_list = resp.json().get("toyList", [])
         if not toy_list:
             break
         for t in toy_list:
@@ -140,106 +147,86 @@ def _fetch_toys_for_gbn(tab_id, toy_gbn):
     return toys, total
 
 
-def get_tab_toys(tab_id):
-    """toy_gbn=1 (일반) + toy_gbn=3 (천호2동점 특별용품) 합산 조회."""
-    toys_gbn1, total1 = _fetch_toys_for_gbn(tab_id, "1")
-    toys_gbn3, total3 = _fetch_toys_for_gbn(tab_id, "3")
-    print(f"  [{tab_id}] gbn=1: {total1}건, gbn=3(천호2동점): {total3}건")
-    return {**toys_gbn1, **toys_gbn3}
-
-
 # ---------------------------------------------------------------------------
 # Change detection
 # ---------------------------------------------------------------------------
 
-def detect_new(prev_data, curr_data, tab_id):
-    prev = prev_data.get(tab_id, {})
-    curr = curr_data.get(tab_id, {})
-    return [(c, t) for c, t in curr.items() if c not in prev]
+def detect_new(prev_cat, curr_cat, tab_id):
+    prev = prev_cat.get(tab_id, {})
+    curr = curr_cat.get(tab_id, {})
+    return [(code, toy) for code, toy in curr.items() if code not in prev]
 
 
 # ---------------------------------------------------------------------------
-# Telegram helpers
+# Telegram
 # ---------------------------------------------------------------------------
 
-def _download_image(url):
+def _esc(s):
+    return html.escape(str(s or ""), quote=False)
+
+
+def _download_image(url, retries=1):
     if not url:
         return None
-    try:
-        resp = requests.get(url, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
-        resp.raise_for_status()
-        return resp.content
-    except Exception as exc:
-        print(f"  이미지 다운로드 실패: {exc}")
-        return None
-
-
-def _tg_ok(resp):
-    """Telegram API는 HTTP 오류 시에도 200을 반환하므로 JSON body의 ok 필드로 판별."""
-    try:
-        return resp.json().get("ok") is True
-    except Exception:
-        return resp.ok
+    for attempt in range(retries + 1):
+        try:
+            resp = requests.get(url, headers=GET_HEADERS, verify=False, timeout=TIMEOUT)
+            resp.raise_for_status()
+            return resp.content
+        except Exception as exc:
+            if attempt < retries:
+                time.sleep(2)
+            else:
+                print(f"    이미지 다운로드 실패: {exc}")
+    return None
 
 
 def send_message(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     return requests.post(url, json={
-        "chat_id": CHAT_ID, "text": text, "parse_mode": "HTML",
+        "chat_id":                  CHAT_ID,
+        "text":                     text,
+        "parse_mode":               "HTML",
+        "disable_web_page_preview": True,
     }, timeout=TIMEOUT)
 
 
-def send_photo(photo_url, caption):
-    tg_url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
-    img    = _download_image(photo_url)
-    if img:
-        return requests.post(tg_url, data={
-            "chat_id": CHAT_ID, "caption": caption[:1024], "parse_mode": "HTML",
-        }, files={"photo": ("photo.jpg", img, "image/jpeg")}, timeout=TIMEOUT)
-    return requests.post(tg_url, json={
-        "chat_id": CHAT_ID, "photo": photo_url,
-        "caption": caption[:1024], "parse_mode": "HTML",
-    }, timeout=TIMEOUT)
+def send_photo(image_bytes, caption):
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
+    return requests.post(url, data={
+        "chat_id":    CHAT_ID,
+        "caption":    caption[:1024],
+        "parse_mode": "HTML",
+    }, files={"photo": ("photo.jpg", image_bytes, "image/jpeg")}, timeout=TIMEOUT)
 
 
-def send_media_group(toys_batch, header=None):
-    """이미지 앨범 전송. header가 None이면 caption 없이 이미지만 전송."""
-    tg_url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMediaGroup"
+def send_media_group(images, first_caption):
+    """images: [bytes, ...] 2개 이상. 첫 사진 캡션에 해당 청크 정보 전체 포함."""
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMediaGroup"
     files, media = {}, []
-    for idx, (code, toy) in enumerate(toys_batch):
-        img = _download_image(toy["image"])
-        if not img and not toy["image"]:
-            continue  # 이미지 없는 항목은 건너뜀
-        # caption: header 있으면 첫 장에만 붙이고, 없으면 모두 생략
-        if header and idx == 0:
-            cap = f"{header}\n{_toy_line_short(toy)}"
-        else:
-            cap = None
-        key = f"photo{len(media)}"
-        entry = {"type": "photo"}
-        if img:
-            files[key] = (f"{key}.jpg", img, "image/jpeg")
-            entry["media"] = f"attach://{key}"
-        else:
-            entry["media"] = toy["image"]
-        if cap:
-            entry["caption"]    = cap[:1024]
-            entry["parse_mode"] = "HTML"
-        media.append(entry)
-    if not media:
-        return type("R", (), {"ok": False, "text": "no media"})()
-    return requests.post(tg_url, data={
-        "chat_id": CHAT_ID, "media": json.dumps(media),
-    }, files=files or None, timeout=TIMEOUT)
+    for i, img in enumerate(images):
+        key   = f"photo{i}"
+        files[key] = (f"{key}.jpg", img, "image/jpeg")
+        item  = {"type": "photo", "media": f"attach://{key}"}
+        if i == 0:
+            item["caption"]    = first_caption[:1024]
+            item["parse_mode"] = "HTML"
+        media.append(item)
+    return requests.post(url, data={
+        "chat_id": CHAT_ID,
+        "media":   json.dumps(media),
+    }, files=files, timeout=TIMEOUT)
 
+
+# ---------------------------------------------------------------------------
+# Branch helpers
+# ---------------------------------------------------------------------------
 
 def _branch_from_code(itemcode):
-    """itemcode 첫 글자로 지점 판별. C→천호점, A→암사점, K→고덕점, G→상일2동점, D→길동점"""
     return ITEMCODE_BRANCH.get(itemcode[0] if itemcode else "", "기타")
 
 
 def _group_by_branch(toys):
-    """[(code, toy), ...] → {지점명: [(code, toy), ...]}"""
     from collections import defaultdict
     groups = defaultdict(list)
     for code, toy in toys:
@@ -248,76 +235,83 @@ def _group_by_branch(toys):
 
 
 def _toy_line(toy):
-    return f"• {toy['name']} ({toy['age']})"
-
-
-def _toy_line_short(toy):
-    """지점명 제거한 짧은 버전. '[고덕점] 블록' → '블록 (36개월~)'"""
+    """장난감 이름에서 지점 접두사([고덕점] 등) 제거 후 포맷."""
     name = re.sub(r'^\[.+?\]\s*', '', toy["name"])
-    return f"• {name} ({toy['age']})"
+    return f"• {_esc(name)} ({_esc(toy['age'])})"
 
 
-def _send_branch_block(tab, branch, toys):
-    """지점 하나의 이미지+텍스트 메시지 발송."""
+# ---------------------------------------------------------------------------
+# Notification
+# ---------------------------------------------------------------------------
+
+def _send_chunk(category, tab, branch, chunk):
+    """청크(최대 10건) 단위 알림.
+    - 이미지 있는 것만 앨범으로 발송 (다운로드 실패는 스킵, 재시도 1회)
+    - 텍스트(이름+연령)는 청크 전체를 첫 번째 사진 캡션에 포함
+    - 이미지가 하나도 없으면 텍스트 메시지로 fallback
+    """
     header = (
         f"📢 <b>장난감도서관 예약 알림</b>  🕐 {now_kst_str()}\n"
-        f"{tab['emoji']} <b>{tab['label']}</b> · 📍 <b>{branch}</b> ({len(toys)}건)"
+        f"<b>[{_esc(category['label'])}]</b> "
+        f"{tab['emoji']} <b>{_esc(tab['label'])}</b> · "
+        f"📍 <b>{_esc(branch)}</b> ({len(chunk)}건)"
     )
-    toy_lines = "\n".join(_toy_line_short(t) for _, t in toys)
+    lines   = [_toy_line(toy) for _, toy in chunk]
+    caption = header + "\n" + "\n".join(lines)
 
-    # 이미지 있는 것 / 없는 것 분리
-    with_img    = [(c, t) for c, t in toys if t.get("image")]
-    without_img = [(c, t) for c, t in toys if not t.get("image")]
+    # 이미지 다운로드 (실패 시 1회 재시도, 그래도 실패면 스킵)
+    images = [
+        img for _, toy in chunk
+        if (img := _download_image(toy.get("image"))) is not None
+    ]
 
-    if with_img:
-        batch = with_img[:10]
-        if len(batch) == 1:
-            code, toy = batch[0]
-            caption = f"{header}\n{_toy_line_short(toy)}"
-            result = send_photo(toy["image"], caption)
-            if not _tg_ok(result):
-                # 이미지 전송 실패 시 텍스트로 폴백
-                send_message(caption)
-        else:
-            # 복수 이미지: 텍스트 헤더 먼저, 이미지 앨범은 별도
-            send_message(f"{header}\n{toy_lines}")
-            result = send_media_group(batch, None)
-            if not _tg_ok(result):
-                print(f"  send_media_group 실패: {result.text[:200]}")
-            if len(with_img) > 10:
-                extra = "\n".join(_toy_line_short(t) for _, t in with_img[10:])
-                send_message(f"{tab['emoji']} <b>{branch}</b> 추가 {len(with_img)-10}건\n{extra}")
+    if not images:
+        send_message(caption)
+    elif len(images) == 1:
+        result = send_photo(images[0], caption)
+        if not result.ok:
+            send_message(caption)
     else:
-        # 이미지가 하나도 없으면 텍스트만
-        send_message(f"{header}\n{toy_lines}")
+        result = send_media_group(images, caption)
+        if not result.ok:
+            send_message(caption)
 
-    # 이미지 없는 항목은 텍스트로 추가
-    if without_img:
-        lines = [f"{tab['emoji']} <b>{branch}</b> (이미지 없음)"]
-        lines += [_toy_line_short(t) for _, t in without_img]
-        send_message("\n".join(lines))
-
-    # 지점 바로가기 링크
-    send_message(f'👉 <a href="{SCHEDULE_URL}">예약 페이지 바로가기</a>')
+    time.sleep(0.5)  # 텔레그램 레이트리밋 대비
 
 
-def send_by_branch(changes):
-    """탭별, 지점별로 독립 메시지 발송."""
-    for tab, new_toys in changes:
-        groups = _group_by_branch(new_toys)
-        for branch, toys in groups.items():
-            _send_branch_block(tab, branch, toys)
+def notify_category(category, changes):
+    """카테고리의 신규 장난감을 탭별 → 지점별 → 10개 청크 순서로 발송."""
+    notified = False
+    for tab in TABS:
+        new_toys = changes.get(tab["id"], [])
+        if not new_toys:
+            continue
+        for branch, toys in _group_by_branch(new_toys).items():
+            for i in range(0, len(toys), CHUNK_SIZE):
+                _send_chunk(category, tab, branch, toys[i:i + CHUNK_SIZE])
+        notified = True
+
+    if notified:
+        send_message(f'👉 <a href="{SCHEDULE_URL}">예약 페이지 바로가기</a>')
 
 
 # ---------------------------------------------------------------------------
 # Persistence
 # ---------------------------------------------------------------------------
 
+_TAB_IDS = {t["id"] for t in TABS}
+
+
 def load_previous():
-    if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
+    if not os.path.exists(DATA_FILE):
+        return {}
+    with open(DATA_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    # 구버전 마이그레이션: top-level 키가 tab_id 인 경우 → gbn=1 로 흡수
+    if data and _TAB_IDS.issuperset(data.keys()):
+        print("  구버전 데이터 감지 → gbn=1 로 마이그레이션")
+        return {"1": data, "3": {}}
+    return data
 
 
 def save_data(data):
@@ -332,40 +326,52 @@ def save_data(data):
 
 def main():
     prev_data = load_previous()
-    is_first  = not prev_data or not any(prev_data.get(tab["id"]) for tab in TABS)
-    curr_data = {}
-
-    if is_first:
-        print("첫 실행: 현재 상태 저장만 하고 알림은 보내지 않습니다.")
+    curr_data = {c["gbn"]: {} for c in CATEGORIES}
 
     print("\n세션 초기화 중...")
     get_session()
 
-    for tab in TABS:
-        print(f"\n[{tab['id']}] 크롤링 중...")
-        try:
-            toys = get_tab_toys(tab["id"])
-            curr_data[tab["id"]] = toys
-            print(f"  [{tab['id']}] {len(toys)}개 수집 완료")
-        except Exception as exc:
-            print(f"  [{tab['id']}] 실패: {exc}")
-            curr_data[tab["id"]] = prev_data.get(tab["id"], {})
-            if not is_first and TELEGRAM_TOKEN:
-                send_message(f"⚠️ <b>{tab['label']}</b> 탭 크롤링 실패\n{str(exc)[:200]}")
-        time.sleep(1.5)
-
-    if not is_first:
-        changes = []
+    # 전체 크롤링
+    for category in CATEGORIES:
+        gbn = category["gbn"]
+        print(f"\n[{category['label']}] (gbn={gbn}) 크롤링 중...")
         for tab in TABS:
-            new_toys = detect_new(prev_data, curr_data, tab["id"])
+            try:
+                toys, total = fetch_toys(tab["id"], gbn)
+                curr_data[gbn][tab["id"]] = toys
+                print(f"  [{tab['id']}] {len(toys)}/{total}건 수집")
+            except Exception as exc:
+                print(f"  [{tab['id']}] 실패: {exc}")
+                # 실패한 탭은 이전 데이터 유지 (다음 실행에서 재시도)
+                curr_data[gbn][tab["id"]] = prev_data.get(gbn, {}).get(tab["id"], {})
+                if prev_data and TELEGRAM_TOKEN:
+                    send_message(
+                        f"⚠️ <b>[{_esc(category['label'])}] {_esc(tab['label'])}</b> 크롤링 실패\n"
+                        f"{_esc(str(exc)[:200])}"
+                    )
+            time.sleep(1)
+
+    # 카테고리별 신규 감지 + 알림
+    for category in CATEGORIES:
+        gbn      = category["gbn"]
+        prev_cat = prev_data.get(gbn, {})
+
+        # 이 카테고리 데이터가 없으면 첫 실행 → 알림 없이 상태만 저장
+        if not any(prev_cat.get(t["id"]) for t in TABS):
+            print(f"\n[{category['label']}] 첫 실행 → 알림 없이 상태 저장")
+            continue
+
+        changes = {}
+        for tab in TABS:
+            new_toys = detect_new(prev_cat, curr_data[gbn], tab["id"])
             if new_toys:
-                print(f"  [{tab['id']}] 신규 {len(new_toys)}건")
-                changes.append((tab, new_toys))
+                changes[tab["id"]] = new_toys
+                print(f"  [{category['label']}/{tab['id']}] 신규 {len(new_toys)}건")
 
         if changes:
-            send_by_branch(changes)
+            notify_category(category, changes)
         else:
-            print("  변경사항 없음")
+            print(f"  [{category['label']}] 변경 없음")
 
     save_data(curr_data)
     print("\n완료: data/previous.json 저장됨")
