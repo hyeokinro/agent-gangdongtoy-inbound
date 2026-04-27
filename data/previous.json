@@ -5060,11 +5060,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_1.jpg"
       },
-      "CAN0000015": {
-        "name": "쿠쿠그네",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_15.jpg"
-      },
       "CDN0000004": {
         "name": "나잡아봐야옹이",
         "age": "12개월 이상 ~",
@@ -5149,6 +5144,11 @@
         "name": "[베이비아인슈타인]플립기타 2in 1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
+      },
+      "AAN0000007": {
+        "name": "[쿠쿠]로보카폴리그네",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759996416.jpg"
       },
       "AAN0000016": {
         "name": "[쁘띠베베]러닝테이블",
@@ -5249,6 +5249,11 @@
         "name": "[고덕점] 도형놀이 블록트럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538363714.png"
+      },
+      "KDN0000106": {
+        "name": "[고덕점] 드라이빙 운전놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538433427.png"
       },
       "KDN0000051": {
         "name": "[고덕점] 멜로디 오션 에듀볼",
