@@ -59,7 +59,7 @@ API_HEADERS = {
 }
 
 DATA_FILE = "data/previous.json"
-TIMEOUT   = 15
+TIMEOUT   = 45  # 서버 응답이 느린 경우 대비 (이전 15초에서 상향)
 KST       = timezone(timedelta(hours=9))
 
 SESSION = None
@@ -119,8 +119,22 @@ def _parse_toy(item):
     }
 
 
-def fetch_toys(tab_id, gbn):
+def fetch_toys(tab_id, gbn, retries=2):
     """탭 + gbn 조합 전체 페이지 조회. 반환: (toys_dict, total_count)"""
+    for attempt in range(retries + 1):
+        try:
+            return _fetch_toys(tab_id, gbn)
+        except Exception as exc:
+            if attempt < retries:
+                wait = 5 * (attempt + 1)
+                print(f"    [{tab_id}] 재시도 {attempt+1}/{retries} ({wait}s 후): {exc}")
+                time.sleep(wait)
+            else:
+                raise
+
+
+def _fetch_toys(tab_id, gbn):
+    """실제 페이지 조회 로직."""
     form = _api_form(tab_id, page=1, toy_gbn=gbn)
     resp = SESSION.post(API_URL, data=form, headers=API_HEADERS, verify=False, timeout=TIMEOUT)
     resp.raise_for_status()
