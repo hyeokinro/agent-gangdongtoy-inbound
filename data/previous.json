@@ -2673,15 +2673,15 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799165251.jpg"
       },
-      "CDN0000024": {
-        "name": "[택배]빅카캐리어",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_76.jpg"
-      },
       "CGN0000049": {
         "name": "[택배]전통백일돌상⑫",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656884413.png"
+      },
+      "CDN0000024": {
+        "name": "[택배]빅카캐리어",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_76.jpg"
       },
       "CGN0000091": {
         "name": "[택배][이븐플로]엑서쏘서트리플펀씨사이드",
@@ -2693,25 +2693,25 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357394730.jpg"
       },
-      "CGN0000051": {
-        "name": "[택배]현대백일돌상 ⑫",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732649126.png"
-      },
       "CFN0000013": {
         "name": "[택배]볼보 미니붕붕카",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1606265652434.jpg"
       },
-      "CFN0000012": {
-        "name": "[택배]뉴홀랜드 키드 트랙터",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604629268295.png"
+      "CGN0000051": {
+        "name": "[택배]현대백일돌상 ⑫",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732649126.png"
       },
       "CGN0000048": {
         "name": "[택배]전통백일돌상⑪",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656824626.png"
+      },
+      "CFN0000012": {
+        "name": "[택배]뉴홀랜드 키드 트랙터",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604629268295.png"
       },
       "CGN0000077": {
         "name": "[택배]뉴나리프 그로우 바운서",
@@ -2722,11 +2722,6 @@
         "name": "[택배]프로픽스 주니어 카시트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
-      },
-      "CGN0000056": {
-        "name": "[택배]전통백일돌상⑤",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357741095.png"
       }
     },
     "wait": {
