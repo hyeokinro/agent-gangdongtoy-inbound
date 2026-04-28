@@ -2266,6 +2266,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539238781.png"
       },
+      "CFN0000010": {
+        "name": "미니바이크(무소음)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799954344.png"
+      },
       "GBN0000148": {
         "name": "[멜리사앤더그]쥬스 5종",
         "age": "36개월 이상 ~",
@@ -2922,11 +2927,6 @@
         "name": "[택배]현대백일돌상⑦",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357361546.png"
-      },
-      "CAN0000006": {
-        "name": "[택배]베이비룸",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_6.jpg"
       },
       "CGN0000093": {
         "name": "[택배][콤비]YT-Belle 아기 보행기",
@@ -3885,11 +3885,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
       },
-      "KAN0000016": {
-        "name": "[고덕점] 오볼 개구리볼",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542340893.png"
-      },
       "KDN0000101": {
         "name": "[고덕점] 원통 쌓기 블록",
         "age": "24개월 이상 ~",
@@ -3959,11 +3954,6 @@
         "name": "[꼬마호랑이]소프트 병원놀이 13종",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
-      },
-      "AGN0000023": {
-        "name": "[브이텍] 액티비티 아기체육관",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1764057816433.jpg"
       },
       "GCN0000026": {
         "name": "[미미월드] 프린세스 미미 가방피아노",
@@ -4469,6 +4459,11 @@
         "name": "[고덕점] 스마트 러닝 액티비티 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540952834.png"
+      },
+      "KBN0000046": {
+        "name": "[고덕점] 아이스크림카트 디럭스 민트초코",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541536917.png"
       },
       "KBN0000056": {
         "name": "[고덕점] 야채 피자세트",
