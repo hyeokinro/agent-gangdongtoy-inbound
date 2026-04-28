@@ -341,6 +341,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
       },
+      "CDN0000007": {
+        "name": "더티디거포크레인",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_59.jpg"
+      },
       "DDN0000168": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -1406,11 +1411,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163517101.png"
       },
-      "GEN0000036": {
-        "name": "[놀이자신감] 레인보우 원목퍼즐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278605112.jpg"
-      },
       "GDN0000131": {
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
@@ -1651,11 +1651,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166793879.png"
       },
-      "DDN0000099": {
-        "name": "[레고]공룡탈출",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071551522.png"
-      },
       "KDN0000145": {
         "name": "[고덕점] 에듀플러스",
         "age": "24개월 이상 ~",
@@ -1716,11 +1711,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072325269.png"
       },
-      "GBN0000156": {
-        "name": "[아이코닉스] 봉봉 달콤 푸드트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246709657.png"
-      },
       "AFN0000006": {
         "name": "[경화]스프링카(분홍)",
         "age": "12개월 이상 ~",
@@ -1755,6 +1745,11 @@
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
+      },
+      "CDN0000006": {
+        "name": "더티디거불더저",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_58.jpg"
       },
       "KDN0000066": {
         "name": "[고덕점] 블럭먹는 악어",
@@ -2036,11 +2031,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071097282.png"
       },
-      "KGN0000006": {
-        "name": "[고덕점] 베이비베이스 부스터2",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
-      },
       "CAN0000032": {
         "name": "뉴 오볼롤러",
         "age": "6개월 이상 ~",
@@ -2100,6 +2090,11 @@
         "name": "병원놀이(원목)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
+      },
+      "KGN0000006": {
+        "name": "[고덕점] 베이비베이스 부스터2",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
       },
       "GDN0000001": {
         "name": "제니쥬",
@@ -2836,11 +2831,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557654599.png"
       },
-      "DDN0000054": {
-        "name": "[맥포머스]공사현장세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067818494.png"
-      },
       "ABN0000015": {
         "name": "[숲소리]생일세트",
         "age": "12개월 이상 ~",
@@ -2865,6 +2855,11 @@
         "name": "반짝반짝뮤지컬걸음마",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
+      },
+      "CBN0000003": {
+        "name": "공룡슈퍼스피노사우르스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_20.jpg"
       },
       "GDN0000052": {
         "name": "토끼(핑크)",
