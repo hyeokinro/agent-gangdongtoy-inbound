@@ -636,11 +636,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
-      "DGN0000014": {
-        "name": "[브이텍]킥앤스코어 아기체육관",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554028815.png"
-      },
       "CBN0000023": {
         "name": "후라이팬세트(원목)",
         "age": "12개월 이상 ~",
@@ -3435,6 +3430,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
       },
+      "GDN0000124": {
+        "name": "[대성]뉴 말하는 레미콘",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
+      },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
@@ -5554,20 +5554,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138853163.png"
       },
-      "HSN0000006": {
-        "name": "[놀이팩]마이퍼스트북NO.16.고양이(작은책)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773137969724.png"
-      },
       "CWN0000000": {
         "name": "한복 테스트",
         "age": "1개월 이상 ~",
         "image": ""
-      },
-      "HSN0000018": {
-        "name": "[놀이팩]악어사격 장난감",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139260492.png"
       },
       "HSN0000037": {
         "name": "[놀이팩]노래하는 젖소",
@@ -5584,11 +5574,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140825167.png"
       },
-      "HSN0000008": {
-        "name": "[놀이팩]마이퍼스트북NO.13.공룡월드(작은책)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138183057.png"
-      },
       "HSN0000023": {
         "name": "[놀이팩]야구배팅 놀이세트(블루)",
         "age": "36개월 이상 ~",
@@ -5598,6 +5583,11 @@
         "name": "[놀이팩]야구배팅 놀이세트(핑크)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
+      },
+      "HSN0000008": {
+        "name": "[놀이팩]마이퍼스트북NO.13.공룡월드(작은책)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138183057.png"
       },
       "HSN0000045": {
         "name": "[놀이팩]커들반 인형(코끼리)",
