@@ -661,11 +661,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_34.jpg"
       },
-      "CFN0000003": {
-        "name": "코레카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
-      },
       "ACN0000009": {
         "name": "[보육사]영아용리듬악기",
         "age": "12개월 이상 ~",
@@ -1856,11 +1851,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030702820.jpg"
       },
-      "DDN0000135": {
-        "name": "[립프로그] 립스토리",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563957210.png"
-      },
       "KDN0000125": {
         "name": "[고덕점] 달님이 에어프라이어",
         "age": "36개월 이상 ~",
@@ -2035,6 +2025,11 @@
         "name": "[만두게임즈]박스몬스터",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071156544.png"
+      },
+      "DDN0000135": {
+        "name": "[립프로그] 립스토리",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563957210.png"
       },
       "ADN0000003": {
         "name": "[브이텍]알파벳학습버스",
