@@ -151,11 +151,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032360550.jpg"
       },
-      "KDN0000137": {
-        "name": "[고덕점] 쥬라기월드 트래커 다이노팩",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554767625.png"
-      },
       "CEN0000001": {
         "name": "뉴 곤충꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -725,11 +720,6 @@
         "name": "[립프로그]러빙 오븐 틸",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277205094.jpg"
-      },
-      "KCN0000020": {
-        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
       },
       "CGY0000096": {
         "name": "락카루바운서(그레이)",
@@ -1541,11 +1531,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1592360375646.JPG"
       },
-      "ADN0000053": {
-        "name": "키즈팝 댄스 파티",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202453098.png"
-      },
       "DDN0000129": {
         "name": "[레드박스]경찰놀이 가방",
         "age": "36개월 이상 ~",
@@ -1681,6 +1666,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541670842.png"
       },
+      "ADN0000053": {
+        "name": "키즈팝 댄스 파티",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202453098.png"
+      },
       "DBN0000035": {
         "name": "[영실업]콩순이 말하는 펭이와 청진기",
         "age": "36개월 이상 ~",
@@ -1695,11 +1685,6 @@
         "name": "[토이트론]달님이카페놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557572624.png"
-      },
-      "ADN0000051": {
-        "name": "스마트 러닝 포크레인",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672200639385.png"
       },
       "GAN0000037": {
         "name": "액티비티 코끼리 농구대",
@@ -2556,11 +2541,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866029938.jpg"
       },
-      "ADN0000060": {
-        "name": "[윈펀]꼬꼬댁 놀이동산",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
-      },
       "DDN0000083": {
         "name": "[오차드]피자, 피자!",
         "age": "36개월 이상 ~",
@@ -2610,11 +2590,6 @@
         "name": "쇼핑카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592848165.JPG"
-      },
-      "AAN0000016": {
-        "name": "[쁘띠베베]러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
       },
       "KBN0000077": {
         "name": "[고덕점] 강아지 돌보기놀이 세트",
@@ -3379,11 +3354,6 @@
         "name": "후라이팬세트(원목)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
-      },
-      "GDN0000083": {
-        "name": "[바조]노아와 배",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415325088.jpg"
       },
       "GDN0000085": {
         "name": "[숲소리]실꿰기세트",
@@ -4220,11 +4190,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733212241665.jpg"
       },
-      "GEN0000036": {
-        "name": "[놀이자신감] 레인보우 원목퍼즐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278605112.jpg"
-      },
       "KBN0000089": {
         "name": "[고덕점] 핑크퐁진동벨계산대",
         "age": "36개월 이상 ~",
@@ -4324,6 +4289,11 @@
         "name": "[스텝2]아미코안전그네 노랑",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630358432.png"
+      },
+      "CDN0000068": {
+        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
       },
       "GDN0000088": {
         "name": "[하바]클라부 미니카세트",
@@ -4979,6 +4949,11 @@
         "name": "[브라이트]라이언스텝터",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617758904028.jpg"
+      },
+      "AAN0000008": {
+        "name": "[웨스코]대형낚시놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760049725.jpg"
       },
       "AAN0000011": {
         "name": "[아이코닉스]뽀로로골프",
