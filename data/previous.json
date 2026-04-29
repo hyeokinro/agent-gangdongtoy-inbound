@@ -106,11 +106,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202299073.png"
       },
-      "GAN0000044": {
-        "name": "[리틀타익스]핀볼 액티비티 테이블",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277171510.jpg"
-      },
       "KBN0000062": {
         "name": "[고덕점] 점보공룡",
         "age": "36개월 이상 ~",
@@ -521,11 +516,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069692713.png"
       },
-      "KCN0000020": {
-        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
-      },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
@@ -740,6 +730,11 @@
         "name": "[립프로그]러빙 오븐 틸",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277205094.jpg"
+      },
+      "KCN0000020": {
+        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
       },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
@@ -1685,11 +1680,6 @@
         "name": "[하페]고리와퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062062893.png"
-      },
-      "GCN0000023": {
-        "name": "[Land of B] 히포팝핑피아노",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
       },
       "DBN0000042": {
         "name": "[토이트론]달님이카페놀이",
@@ -2870,11 +2860,6 @@
         "name": "[고덕점] 수더프린테일즈모빌+거치대",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540732302.png"
-      },
-      "KBN0000063": {
-        "name": "[고덕점] 뽀로로 아이스크림 가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540168670.png"
       },
       "DEN0000001": {
         "name": "[스틱오]아기상어 패밀리 세트",
@@ -5279,6 +5264,11 @@
         "name": "[손오공]아기상어 비상자동차(3종)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432212391.jpg"
+      },
+      "ADN0000065": {
+        "name": "DJ 뮤직테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1761877671704.JPG"
       },
       "GCN0000024": {
         "name": "[브이텍] 타이거 락 기타",
