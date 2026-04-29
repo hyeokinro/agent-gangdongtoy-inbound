@@ -81,11 +81,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070609185.png"
       },
-      "DDN0000163": {
-        "name": "[시쿠]버스차량 5종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553595180.png"
-      },
       "GDN0000202": {
         "name": "[리틀타익스] 리틀큐티버그",
         "age": "6개월 이상 ~",
@@ -1455,6 +1450,11 @@
         "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
+      },
+      "CDN0000099": {
+        "name": "[아이코닉스]타요 생일케이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433474030.png"
       },
       "GBN0000018": {
         "name": "샐러드세트(야채썰기)",
@@ -2967,6 +2967,11 @@
         "name": "[택배]프로픽스 주니어 카시트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
+      },
+      "CAN0000014": {
+        "name": "[택배]접이식미끄럼",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_14.jpg"
       }
     },
     "wait": {
@@ -3584,11 +3589,6 @@
         "name": "[고덕점]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
-      },
-      "KBN0000083": {
-        "name": "[고덕점]피자카트 한영버전",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
       "KBN0000088": {
         "name": "[고덕점]실제같은 쇼핑카트",
@@ -4364,11 +4364,6 @@
         "name": "[하페]고리와퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062062893.png"
-      },
-      "CDN0000073": {
-        "name": "[코닉스]뽀로로스쿨버스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521449972.PNG"
       },
       "ADN0000041": {
         "name": "[영실업]뽀로로 어린이 버스",
