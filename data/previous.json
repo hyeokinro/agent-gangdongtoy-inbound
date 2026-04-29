@@ -496,11 +496,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
       },
-      "KDN0000041": {
-        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
-      },
       "GDN0000050": {
         "name": "딸랑이기차",
         "age": "1개월 이상 ~",
@@ -2141,11 +2136,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
       },
-      "KDN0000138": {
-        "name": "[고덕점] 할리갈리 컵스 딜럭스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554722819.png"
-      },
       "GDN0000147": {
         "name": "라이트업 뮤지컬버스",
         "age": "12개월 이상 ~",
@@ -2335,6 +2325,11 @@
         "name": "뮤지컬에그",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030634457.jpg"
+      },
+      "KDN0000138": {
+        "name": "[고덕점] 할리갈리 컵스 딜럭스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554722819.png"
       },
       "GCN0000024": {
         "name": "[브이텍] 타이거 락 기타",
