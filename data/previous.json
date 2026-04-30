@@ -561,11 +561,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423256106.png"
       },
-      "CDN0000043": {
-        "name": "빙글빙글 해저탐험",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
-      },
       "ADN0000004": {
         "name": "[플레이포에버]자동차1",
         "age": "36개월 이상 ~",
@@ -2106,11 +2101,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166859456.png"
       },
-      "CAN0000034": {
-        "name": "[보육사/GONGE]슈퍼에어보드",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627223258.png"
-      },
       "GEN0000031": {
         "name": "차량입체퍼즐",
         "age": "24개월 이상 ~",
@@ -3385,6 +3375,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
       },
+      "KDN0000090": {
+        "name": "[고덕점] 로더심플 페리보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
+      },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
@@ -3524,6 +3519,11 @@
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
+      },
+      "GBN0000161": {
+        "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257959184.png"
       },
       "GBN0000165": {
         "name": "[원앤원] 콩지래빗 구급차 약국놀이",
@@ -4165,11 +4165,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_106.jpg"
       },
-      "CDN0000045": {
-        "name": "빙글빙글 동물친구놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
-      },
       "CCN0000014": {
         "name": "베이비 종합세트",
         "age": "12개월 이상 ~",
@@ -4314,6 +4309,11 @@
         "name": "[고덕점] 스마트 러닝 액티비티 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540952834.png"
+      },
+      "KBN0000046": {
+        "name": "[고덕점] 아이스크림카트 디럭스 민트초코",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541536917.png"
       },
       "KBN0000056": {
         "name": "[고덕점] 야채 피자세트",
