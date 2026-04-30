@@ -746,11 +746,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
       },
-      "KCN0000012": {
-        "name": "[고덕점] 다이나믹우퍼 기타",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
-      },
       "GDN0000044": {
         "name": "펭귄오뚝이",
         "age": "1개월 이상 ~",
@@ -925,6 +920,11 @@
         "name": "[고덕점] NEW 마이펫 키트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537981571.png"
+      },
+      "KCN0000012": {
+        "name": "[고덕점] 다이나믹우퍼 기타",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
       },
       "CDN0000087": {
         "name": "[브이텍]밸런싱 링쌓기저울",
@@ -3880,6 +3880,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865815738.jpg"
       },
+      "GGN0000010": {
+        "name": "오피스러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1590036737966.jpg"
+      },
       "GDN0000078": {
         "name": "대중교통미니카10종",
         "age": "48개월 이상 ~",
@@ -5274,6 +5279,11 @@
         "name": "[브라이트]공놀이고래",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650517761679.png"
+      },
+      "CDN0000074": {
+        "name": "[코닉스]뽀로로키즈팝댄스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
       },
       "ADN0000049": {
         "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
