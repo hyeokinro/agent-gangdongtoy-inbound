@@ -861,11 +861,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793169638.jpg"
       },
-      "GFN0000004": {
-        "name": "페달접이식 세발자전거",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
-      },
       "KDN0000128": {
         "name": "[고덕점] 걸음마친구 노래하는 공놀이 공룡",
         "age": "6개월 이상 ~",
@@ -1321,6 +1316,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163517101.png"
       },
+      "ADN0000045": {
+        "name": "[주영이엔시]뽀로로 멜로디 생일케이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204874946.jpg"
+      },
       "CDN0000020": {
         "name": "물고기실꿰기",
         "age": "36개월 이상 ~",
@@ -1611,11 +1611,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
       },
-      "ADN0000064": {
-        "name": "[브이텍]6IN1 트위스트 에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168842913.png"
-      },
       "GBN0000095": {
         "name": "소프트미용놀이A형",
         "age": "24개월 이상 ~",
@@ -1850,6 +1845,11 @@
         "name": "[피셔]퍼피 걸음마(분홍)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759531392.jpg"
+      },
+      "ADN0000064": {
+        "name": "[브이텍]6IN1 트위스트 에듀큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168842913.png"
       },
       "GDN0000065": {
         "name": "뛰뛰빵빵드라이버 응급미니카3종",
@@ -2336,6 +2336,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
       },
+      "AAN0000008": {
+        "name": "[웨스코]대형낚시놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760049725.jpg"
+      },
       "KBN0000084": {
         "name": "[고덕점]로즈우드 돌하우스가방",
         "age": "36개월 이상 ~",
@@ -2757,11 +2762,6 @@
         "name": "[택배][콤비]YT-Belle 아기 보행기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730348945009.png"
-      },
-      "CGN0000012": {
-        "name": "[택배]락카루바운서(그레이)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799165251.jpg"
       },
       "CGN0000049": {
         "name": "[택배]전통백일돌상⑫",
@@ -3800,6 +3800,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277976469.jpg"
       },
+      "GBN0000147": {
+        "name": "[꼬마호랑이]소프트 병원놀이 13종",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
+      },
       "GBN0000158": {
         "name": "[아이코닉스] 뽀로로 3분 치과놀이",
         "age": "36개월 이상 ~",
@@ -4179,6 +4184,11 @@
         "name": "빙글빙글해저탐험",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866068669.jpg"
+      },
+      "GDN0000053": {
+        "name": "달팽이 폴어롱토이",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871749950.jpg"
       },
       "GDN0000079": {
         "name": "미니스포츠카15종",
@@ -5029,6 +5039,11 @@
         "name": "[고덕점] 굿모닝 프렌즈",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537889075.png"
+      },
+      "KDN0000062": {
+        "name": "[고덕점] 리싸이클 트럭",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538947516.jpg"
       },
       "KDN0000146": {
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
