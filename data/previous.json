@@ -1656,11 +1656,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168842913.png"
       },
-      "AGN0000016": {
-        "name": "베이비범 액티비티 워커",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672367306425.png"
-      },
       "GBN0000095": {
         "name": "소프트미용놀이A형",
         "age": "24개월 이상 ~",
@@ -1780,6 +1775,11 @@
         "name": "물고기드럼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030702820.jpg"
+      },
+      "AGN0000016": {
+        "name": "베이비범 액티비티 워커",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672367306425.png"
       },
       "KDN0000125": {
         "name": "[고덕점] 달님이 에어프라이어",
@@ -2870,6 +2870,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949162224.JPG"
       },
+      "GDN0000061": {
+        "name": "클라부 경찰추격전놀이세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949302607.JPG"
+      },
       "GEN0000035": {
         "name": "애완동물입체퍼즐",
         "age": "24개월 이상 ~",
@@ -3614,6 +3619,11 @@
         "name": "아이스크림카운터놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594041401.jpg"
+      },
+      "GBN0000047": {
+        "name": "해양동물세트7종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029181805.jpg"
       },
       "CCN0000016": {
         "name": "미니밴드",
