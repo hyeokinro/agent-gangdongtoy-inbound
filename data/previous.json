@@ -1421,11 +1421,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070984832.png"
       },
-      "KAN0000015": {
-        "name": "[고덕점] 로보카폴리 볼링세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554670586.png"
-      },
       "GDN0000137": {
         "name": "로더심플 아이스크림 트럭",
         "age": "6개월 이상 ~",
@@ -1625,6 +1620,11 @@
         "name": "[큐비]고래를위하여세트",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072325269.png"
+      },
+      "KAN0000015": {
+        "name": "[고덕점] 로보카폴리 볼링세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554670586.png"
       },
       "GDN0000177": {
         "name": "탐험선B & 피규어",
@@ -1966,11 +1966,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563957210.png"
       },
-      "ADN0000003": {
-        "name": "[브이텍]알파벳학습버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771807892.jpg"
-      },
       "CDN0000030": {
         "name": "오뚜기삐에로",
         "age": "6개월 이상 ~",
@@ -1980,11 +1975,6 @@
         "name": "컵쌓기 & 액티비티 볼 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224102932.png"
-      },
-      "KDN0000095": {
-        "name": "[고덕점] 뮤직운전대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
       },
       "GBN0000089": {
         "name": "콩순이 콩콩이와 119 병원세트",
@@ -2785,11 +2775,6 @@
         "name": "[타일블록스]인스파이어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069416120.png"
-      },
-      "GEN0000037": {
-        "name": "[리틀히어로] 소프트 빌딩블록 24P",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427740337.png"
       },
       "GBN0000017": {
         "name": "원목자석과일자르기",
@@ -5259,6 +5244,11 @@
         "name": "톡톡실로폰놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033810037.jpg"
+      },
+      "GDN0000007": {
+        "name": "빅 카고트럭(레드)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034936233.jpg"
       },
       "CEN0000010": {
         "name": "마린청키퍼즐",
