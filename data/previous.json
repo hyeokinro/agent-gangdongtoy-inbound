@@ -306,11 +306,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_59.jpg"
       },
-      "CDN0000023": {
-        "name": "비행기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
-      },
       "DDN0000067": {
         "name": "[애니블록]퍼즐올인원팩",
         "age": "36개월 이상 ~",
@@ -630,6 +625,11 @@
         "name": "[피노키오]타요 운전놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
+      },
+      "CDN0000023": {
+        "name": "비행기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
       },
       "GBN0000168": {
         "name": "[슐라이히] 공룡 9종 세트",
