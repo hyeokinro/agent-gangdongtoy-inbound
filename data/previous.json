@@ -4785,11 +4785,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760272444.jpg"
       },
-      "AAN0000015": {
-        "name": "[윈펀]뉴러닝테이블",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760489517.jpg"
-      },
       "ABN0000012": {
         "name": "[립프로그]BBQ 카트",
         "age": "24개월 이상 ~",
@@ -5453,6 +5448,11 @@
         "name": "[놀이팩]콩순이 내동생 콩콩이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140599160.png"
+      },
+      "HSN0000044": {
+        "name": "[놀이팩]콩순이 강아지랑 목욕놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300710393.png"
       }
     },
     "delivery": {},
