@@ -921,11 +921,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594041401.jpg"
       },
-      "ADN0000035": {
-        "name": "[하베브릭스]빅에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
-      },
       "KDN0000052": {
         "name": "[고덕점] 티니핑 놀이공원",
         "age": "36개월 이상 ~",
@@ -2500,6 +2495,11 @@
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607064333706.jpg"
+      },
+      "DDN0000048": {
+        "name": "[하바]모양배치게임",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067259977.png"
       },
       "DDN0000092": {
         "name": "[부루마블]클래식",
@@ -4524,11 +4524,6 @@
         "name": "[고덕점] 얼리러닝-맥도날드농장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539159047.png"
-      },
-      "KDN0000095": {
-        "name": "[고덕점] 뮤직운전대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
       },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
