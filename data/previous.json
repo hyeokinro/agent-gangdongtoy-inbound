@@ -1356,6 +1356,11 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067211459.png"
       },
+      "CDN0000045": {
+        "name": "빙글빙글 동물친구놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
+      },
       "GCN0000016": {
         "name": "크록심포니",
         "age": "24개월 이상 ~",
@@ -1495,11 +1500,6 @@
         "name": "키즈팝 댄스 파티",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202453098.png"
-      },
-      "DBN0000035": {
-        "name": "[영실업]콩순이 말하는 펭이와 청진기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660635231096.jpg"
       },
       "DBN0000042": {
         "name": "[토이트론]달님이카페놀이",
@@ -3945,11 +3945,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433474030.png"
       },
-      "CDN0000101": {
-        "name": "[브라이트]공놀이 코끼리버스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435467120.jpg"
-      },
       "AGN0000019": {
         "name": "하늘썬별 피아노체육관 걸음마 (블루)",
         "age": "1개월 이상 ~",
@@ -5000,6 +4995,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773366052466.png"
       },
+      "CAN0000001": {
+        "name": "걸이식 농구대",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_1.jpg"
+      },
       "CEN0000008": {
         "name": "동물농장청키퍼즐",
         "age": "12개월 이상 ~",
@@ -5139,6 +5139,11 @@
         "name": "[레드박스]팝업동물농장",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672194271073.PNG"
+      },
+      "CGN0000072": {
+        "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207189878.jpg"
       },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
