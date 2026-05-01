@@ -2001,11 +2001,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1731976998760.png"
       },
-      "DDN0000104": {
-        "name": "[레고]스케이트공원",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
-      },
       "GDN0000147": {
         "name": "라이트업 뮤지컬버스",
         "age": "12개월 이상 ~",
@@ -2306,10 +2301,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161588903.png"
       },
-      "DDN0000097": {
-        "name": "[레고]해변출동",
+      "DDN0000104": {
+        "name": "[레고]스케이트공원",
         "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071464624.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
       },
       "CCN0000004": {
         "name": "물고기쉐이커",
@@ -2345,6 +2340,11 @@
         "name": "미키와친구들 자동차 병원놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
+      },
+      "DDN0000097": {
+        "name": "[레고]해변출동",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071464624.png"
       },
       "DDN0000165": {
         "name": "[키움하우스]자석라이팅마블 125피스",
@@ -3404,11 +3404,6 @@
         "name": "강아지 도형끼우기차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671917972.jpg"
-      },
-      "GFN0000004": {
-        "name": "페달접이식 세발자전거",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
       },
       "GBN0000037": {
         "name": "아이스크림카운터놀이",
@@ -4634,11 +4629,6 @@
         "name": "[피셔프라이스] 얼티밋 스마트 러닝홈 2.0",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765249415923.png"
-      },
-      "GBN0000163": {
-        "name": "[립프로그] 소프트 아이스크림 메이커",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259715006.png"
       },
       "GFN0000012": {
         "name": "[중모토이] CAT 포크레인차",
