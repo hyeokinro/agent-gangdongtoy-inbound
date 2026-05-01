@@ -1911,11 +1911,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
       },
-      "AFN0000003": {
-        "name": "[베케라]스피즈터소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778059048.jpg"
-      },
       "CGY0000086": {
         "name": "피아노아기체육관 디럭스",
         "age": "1개월 이상 ~",
@@ -3675,6 +3670,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
       },
+      "GDN0000182": {
+        "name": "[아이코닉스]키즈팝 댄스 파티",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296075559.jpg"
+      },
       "GBN0000158": {
         "name": "[아이코닉스] 뽀로로 3분 치과놀이",
         "age": "36개월 이상 ~",
@@ -3939,6 +3939,11 @@
         "name": "[고덕점] 엄마까투리 소방구조대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541801372.png"
+      },
+      "KDN0000139": {
+        "name": "[고덕점] 테이크얼롱프린세스테일즈모빌",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554607023.png"
       },
       "KDN0000074": {
         "name": "[고덕점] 타요 중앙차고지놀이",
@@ -5189,6 +5194,11 @@
         "name": "[아이코닉스]크롱 양치놀이+ 청소 돌돌이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663582644.jpg"
+      },
+      "DDN0000116": {
+        "name": "[아이코닉스]띠띠뽀 차량기지 놀이+전동기차세터+기차역",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664716270.jpg"
       },
       "ADN0000049": {
         "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
