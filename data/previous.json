@@ -76,11 +76,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -200,6 +195,11 @@
         "name": "클라부 컬러세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
+      },
+      "GDN0000189": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
       "KDN0000069": {
         "name": "[고덕점] 링 던지기",
@@ -4859,6 +4859,11 @@
         "name": "원목자석과일자르기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
+      },
+      "GEN0000020": {
+        "name": "나무참새주판",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594954726.jpg"
       },
       "GDN0000011": {
         "name": "공구세트",
