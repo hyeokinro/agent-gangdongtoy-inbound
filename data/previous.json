@@ -936,11 +936,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415628022.jpg"
       },
-      "CEN0000002": {
-        "name": "뉴 과일꼭지퍼즐",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_91.jpg"
-      },
       "ADN0000063": {
         "name": "[브이텍]밸런싱 링쌓기저울",
         "age": "12개월 이상 ~",
@@ -1245,6 +1240,11 @@
         "name": "뛰뛰빵빵 출동 소방 구조대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167605643.png"
+      },
+      "CEN0000002": {
+        "name": "뉴 과일꼭지퍼즐",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_91.jpg"
       },
       "DDN0000171": {
         "name": "[브이텍]밸런싱 링쌓기저울",
@@ -2573,11 +2573,6 @@
       }
     },
     "delivery": {
-      "CGN0000076": {
-        "name": "[택배]][브라이트스타트]바운스 액티비티 점퍼루(핑크)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210364980.jpg"
-      },
       "CGY0000042": {
         "name": "[택배][이븐플로]젬세션점프런",
         "age": "6개월 이상 ~",
