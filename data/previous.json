@@ -1286,6 +1286,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800603760.jpg"
       },
+      "ADN0000030": {
+        "name": "[브랜드B]바닷속,농장퍼즐",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617774048063.jpg"
+      },
       "GBN0000018": {
         "name": "샐러드세트(야채썰기)",
         "age": "24개월 이상 ~",
@@ -1485,11 +1490,6 @@
         "name": "[고덕점] 야채 피자세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541670842.png"
-      },
-      "DBN0000042": {
-        "name": "[토이트론]달님이카페놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557572624.png"
       },
       "DDN0000113": {
         "name": "[큐비]고래를위하여세트",
@@ -2401,6 +2401,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559861177.png"
       },
+      "AAN0000022": {
+        "name": "[브이텍]스스로굴러가는깜짝볼핑크",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168019223.png"
+      },
       "GCN0000002": {
         "name": "뮤지컬사운드세트",
         "age": "12개월 이상 ~",
@@ -2660,11 +2665,6 @@
       }
     },
     "wait": {
-      "DDN0000163": {
-        "name": "[시쿠]버스차량 5종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553595180.png"
-      },
       "AAN0000020": {
         "name": "캐스B 말랑말랑 볼링친구들",
         "age": "24개월 이상 ~",
@@ -2974,6 +2974,11 @@
         "name": "[브이텍]러닝 엑티비티 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752293705922.png"
+      },
+      "DDN0000163": {
+        "name": "[시쿠]버스차량 5종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553595180.png"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -4294,11 +4299,6 @@
         "name": "[브라이트]미키마우스락커",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779059096.jpg"
-      },
-      "DDN0000028": {
-        "name": "[자노드]쉐이프솔터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061342544.png"
       },
       "DDN0000102": {
         "name": "[레고]미니언즈파일럿훈련",
