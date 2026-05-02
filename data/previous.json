@@ -841,11 +841,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537981571.png"
       },
-      "KCN0000012": {
-        "name": "[고덕점] 다이나믹우퍼 기타",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
-      },
       "CEN0000018": {
         "name": "자석블럭",
         "age": "12개월 이상 ~",
@@ -2750,11 +2745,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
       },
-      "ABN0000032": {
-        "name": "[미미월드]뽀로로 소방서",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204364533.PNG"
-      },
       "ADN0000026": {
         "name": "[코니토이스]에듀테이블",
         "age": "1개월 이상 ~",
@@ -3029,6 +3019,11 @@
         "name": "[브이텍]러닝 엑티비티 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752293705922.png"
+      },
+      "KAN0000012": {
+        "name": "[고덕점] 우주선 높낮이 미끄럼틀",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543406750.png"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -4510,6 +4505,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564874020.png"
       },
+      "KBN0000061": {
+        "name": "[고덕점] 점보 야생 동물",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
+      },
       "KBN0000048": {
         "name": "[고덕점] 푸쉬앤팝 미니 청소기",
         "age": "36개월 이상 ~",
@@ -5373,11 +5373,6 @@
         "name": "[놀이팩]콩순이 내동생 콩콩이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140599160.png"
-      },
-      "HSN0000044": {
-        "name": "[놀이팩]콩순이 강아지랑 목욕놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300710393.png"
       }
     },
     "delivery": {},
