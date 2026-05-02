@@ -1991,11 +1991,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772869896.jpg"
       },
-      "KDN0000067": {
-        "name": "[고덕점] 모양 맞추기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539238781.png"
-      },
       "GBN0000148": {
         "name": "[멜리사앤더그]쥬스 5종",
         "age": "36개월 이상 ~",
@@ -2275,6 +2270,11 @@
         "name": "[레고]해변출동",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071464624.png"
+      },
+      "KDN0000067": {
+        "name": "[고덕점] 모양 맞추기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539238781.png"
       },
       "DDN0000115": {
         "name": "[미미]뽀로로코딩컴퓨터",
@@ -2658,11 +2658,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210655848.jpg"
       },
-      "CFN0000013": {
-        "name": "[택배]볼보 미니붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1606265652434.jpg"
-      },
       "CGN0000057": {
         "name": "[택배]전통백일돌상⑥",
         "age": "1개월 이상 ~",
@@ -2699,11 +2694,6 @@
         "name": "[고덕점] 헤어 드레싱세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
-      },
-      "ABN0000025": {
-        "name": "[키즈카니발]사파리세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769299116.jpg"
       },
       "ABN0000021": {
         "name": "[캐스돈]다이슨청소기",
@@ -3180,10 +3170,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
       },
-      "ADN0000047": {
-        "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
+      "GBN0000167": {
+        "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
       "GDN0000124": {
         "name": "[대성]뉴 말하는 레미콘",
@@ -3300,11 +3290,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765261024714.png"
       },
-      "GBN0000167": {
-        "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
-      },
       "GBN0000168": {
         "name": "[슐라이히] 공룡 9종 세트",
         "age": "36개월 이상 ~",
@@ -3329,11 +3314,6 @@
         "name": "재활용트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_84.jpg"
-      },
-      "CDN0000037": {
-        "name": "핍 디럭스15pc(스퀴즈)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_89.jpg"
       },
       "CEN0000018": {
         "name": "자석블럭",
@@ -3825,11 +3805,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539117440.png"
       },
-      "KBN0000052": {
-        "name": "[고덕점] 색이 변하는 쿠키오븐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540454076.png"
-      },
       "KDN0000071": {
         "name": "[고덕점] 소근육놀이 아기상어",
         "age": "36개월 이상 ~",
@@ -4074,6 +4049,11 @@
         "name": "액티비티 코끼리 농구대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
+      },
+      "KGN0000001": {
+        "name": "[고덕점] 동물친구 액티비티 점퍼루",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538389650.png"
       },
       "KCN0000011": {
         "name": "[고덕점] 리틀밴드 멜로디터치 피아노",
@@ -4834,11 +4814,6 @@
         "name": "[스틱오]크리에이터 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553804570.png"
-      },
-      "DDN0000158": {
-        "name": "[브이텍]낚시놀이세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554251708.png"
       },
       "DDN0000148": {
         "name": "[코닉스]띠띠뽀 차량기지 놀이세트2",
