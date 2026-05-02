@@ -606,6 +606,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1750725903134.jpg"
       },
+      "KDN0000094": {
+        "name": "[고덕점] 츄츄레일",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
+      },
       "ABN0000040": {
         "name": "[영실업]콩콩이와 119병원세트",
         "age": "36개월 이상 ~",
@@ -1211,11 +1216,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
       },
-      "AFN0000008": {
-        "name": "[코닉스]뽀로로 시소붕붕카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710468960260.JPG"
-      },
       "GBN0000033": {
         "name": "믹서세트",
         "age": "36개월 이상 ~",
@@ -1486,11 +1486,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541670842.png"
       },
-      "ADN0000053": {
-        "name": "키즈팝 댄스 파티",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202453098.png"
-      },
       "DBN0000042": {
         "name": "[토이트론]달님이카페놀이",
         "age": "36개월 이상 ~",
@@ -1520,6 +1515,11 @@
         "name": "[멜리사앤]피자베이커리",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768199086.jpg"
+      },
+      "ADN0000053": {
+        "name": "키즈팝 댄스 파티",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202453098.png"
       },
       "GCN0000015": {
         "name": "아기드럼",
@@ -2586,11 +2586,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553523924.png"
       },
-      "ADN0000023": {
-        "name": "[코닉스]띠띠뽀정거장",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773640513.jpg"
-      },
       "AAN0000006": {
         "name": "[지나월드]뽀로로그네",
         "age": "12개월 이상 ~",
@@ -3194,6 +3189,11 @@
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
+      },
+      "DDN0000118": {
+        "name": "[브라이트스타트]뉴 ABC러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
       },
       "ADN0000047": {
         "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
@@ -4944,6 +4944,11 @@
         "name": "[손오공]아기상어 비상자동차(3종)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432212391.jpg"
+      },
+      "CGN0000100": {
+        "name": "[엔픽스]점핑 360점퍼루(정글)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433612174.png"
       },
       "ADN0000065": {
         "name": "DJ 뮤직테이블",
