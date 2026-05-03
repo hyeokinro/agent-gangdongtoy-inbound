@@ -196,11 +196,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "KDN0000069": {
         "name": "[고덕점] 링 던지기",
         "age": "36개월 이상 ~",
@@ -235,6 +230,11 @@
         "name": "[고덕점] 라이트봉고드럼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
+      },
+      "GDN0000189": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
       "CBN0000059": {
         "name": "[리틀타익스]퍼스트 식기세척기",
@@ -440,11 +440,6 @@
         "name": "[고덕점] 이집트원정대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703557618719.png"
-      },
-      "GDN0000208": {
-        "name": "[홀라베이비] 로봇 공구놀이 9in1",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
       },
       "DDN0000101": {
         "name": "[레고]스파이더맨본부",
@@ -766,11 +761,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
       },
-      "CDN0000038": {
-        "name": "볼트랙-락킹보트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
-      },
       "ADN0000014": {
         "name": "[에드토이]공중수단3종",
         "age": "36개월 이상 ~",
@@ -780,6 +770,11 @@
         "name": "[토이세븐]하츄핑 청소기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557855610.png"
+      },
+      "CDN0000038": {
+        "name": "볼트랙-락킹보트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
       },
       "GEN0000014": {
         "name": "가든쌓기블록",
@@ -2170,11 +2165,6 @@
         "name": "[윈펀]꼬꼬댁 놀이동산",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
-      },
-      "CFN0000015": {
-        "name": "[스텝2]주니어 흔들말",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630127328.png"
       },
       "DDN0000097": {
         "name": "[레고]해변출동",
