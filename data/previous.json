@@ -456,15 +456,15 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
-      "ABN0000028": {
-        "name": "[영실업]콩순이 아기하마 양치놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
-      },
       "GDN0000070": {
         "name": "원목불도저",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032421439.jpg"
+      },
+      "ABN0000028": {
+        "name": "[영실업]콩순이 아기하마 양치놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
       "GCN0000007": {
         "name": "멜로디 멀티블록세트",
@@ -1691,11 +1691,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204789780.PNG"
       },
-      "ABN0000037": {
-        "name": "쇼핑카트&스캐너",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201895215.JPG"
-      },
       "KBN0000079": {
         "name": "[고덕점] 카툰 애니멀",
         "age": "36개월 이상 ~",
@@ -2875,11 +2870,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032021366.jpg"
       },
-      "ABN0000038": {
-        "name": "[립프로그]아이스크림 카트 디럭스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
-      },
       "DDN0000140": {
         "name": "[실버릿]로보카폴리 스타터팩",
         "age": "36개월 이상 ~",
@@ -3089,6 +3079,11 @@
         "name": "[영실업]콩콩이와 119병원세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
+      },
+      "DDN0000062": {
+        "name": "[맥포머스]애니멀세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069517538.png"
       },
       "CDN0000075": {
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
