@@ -2533,11 +2533,6 @@
       }
     },
     "delivery": {
-      "CGY0000042": {
-        "name": "[택배][이븐플로]젬세션점프런",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007631018.png"
-      },
       "CGN0000040": {
         "name": "[택배]현대백일돌상 ⑨",
         "age": "1개월 이상 ~",
@@ -3879,6 +3874,11 @@
         "name": "[하페]고리와퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062062893.png"
+      },
+      "DDN0000045": {
+        "name": "[하바]마법의소리게임",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
       },
       "DDN0000079": {
         "name": "[오차드]아기돼지삼형제",
