@@ -196,11 +196,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
       },
-      "KDN0000069": {
-        "name": "[고덕점] 링 던지기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
-      },
       "GDN0000017": {
         "name": "농장비즈끼우기",
         "age": "24개월 이상 ~",
@@ -715,11 +710,6 @@
         "name": "해양동물세트7종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029181805.jpg"
-      },
-      "GAN0000034": {
-        "name": "[원펀]뉴러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671517309106.PNG"
       },
       "CAN0000035": {
         "name": "[보육사/GONGE]아치활동보드 (3개세트)",
@@ -1251,11 +1241,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871749950.jpg"
       },
-      "GCN0000009": {
-        "name": "멜로디 곤충피아노",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
-      },
       "KDN0000116": {
         "name": "[고덕점] 스마트 러닝 액티비티 에듀볼",
         "age": "12개월 이상 ~",
@@ -1365,6 +1350,11 @@
         "name": "다이노 헌터 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223582214.png"
+      },
+      "GCN0000009": {
+        "name": "멜로디 곤충피아노",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
       },
       "KDN0000066": {
         "name": "[고덕점] 블럭먹는 악어",
@@ -2655,6 +2645,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
       },
+      "ADN0000026": {
+        "name": "[코니토이스]에듀테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
+      },
       "GDN0000145": {
         "name": "타요 고속도로 하이패스",
         "age": "36개월 이상 ~",
@@ -2975,10 +2970,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
-      "GBN0000151": {
-        "name": "[립프로그]믹서 플레이세트",
+      "ADN0000047": {
+        "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
       },
       "GDN0000124": {
         "name": "[대성]뉴 말하는 레미콘",
@@ -3084,6 +3079,11 @@
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
+      },
+      "GBN0000151": {
+        "name": "[립프로그]믹서 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
       },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
