@@ -546,11 +546,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768245873.jpg"
       },
-      "CBN0000043": {
-        "name": "[하페] 고기굽기 주방놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628483444.png"
-      },
       "CBN0000023": {
         "name": "후라이팬세트(원목)",
         "age": "12개월 이상 ~",
@@ -1186,11 +1181,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504186216.PNG"
       },
-      "CDN0000055": {
-        "name": "무지개 실꿰기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
-      },
       "GDN0000157": {
         "name": "뛰뛰빵빵 출동 소방 구조대",
         "age": "36개월 이상 ~",
@@ -1445,11 +1435,6 @@
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
-      },
-      "KDN0000045": {
-        "name": "[고덕점] 뽀로로 노래하는 줄줄이 티슈",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539966115.png"
       },
       "ACN0000006": {
         "name": "[캐스B]영유아악기17종",
@@ -2825,6 +2810,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427524458.png"
       },
+      "CDN0000047": {
+        "name": "첫발견 러닝운전놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672056967.jpg"
+      },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
         "age": "24개월 이상 ~",
@@ -2995,10 +2985,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
       },
-      "ABN0000040": {
-        "name": "[영실업]콩콩이와 119병원세트",
+      "GDN0000124": {
+        "name": "[대성]뉴 말하는 레미콘",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
       },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
@@ -3070,11 +3060,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
       },
-      "KGN0000007": {
-        "name": "[고덕점] 미니마우스 액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566590284.png"
-      },
       "DBN0000040": {
         "name": "[피셔]러닝 가든 앤 키친",
         "age": "24개월 이상 ~",
@@ -3109,6 +3094,11 @@
         "name": "[토도리브로]씽씽자동차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
+      },
+      "ABN0000040": {
+        "name": "[영실업]콩콩이와 119병원세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
       "GAN0000045": {
         "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
