@@ -176,11 +176,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594016387.jpg"
       },
-      "ABN0000010": {
-        "name": "[립프]아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
-      },
       "KDN0000077": {
         "name": "[고덕점] 피쉬풀어롱",
         "age": "6개월 이상 ~",
@@ -1541,11 +1536,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165037890.png"
       },
-      "ACN0000002": {
-        "name": "[baoli]피아노드럼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770767797.jpg"
-      },
       "DDN0000134": {
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
@@ -1626,11 +1616,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910238791.png"
       },
-      "AGN0000017": {
-        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
-      },
       "GDN0000073": {
         "name": "덤프트럭(핑크)",
         "age": "12개월 이상 ~",
@@ -1675,6 +1660,11 @@
         "name": "[고덕점] 엄마까투리 어드벤쳐 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541827094.png"
+      },
+      "AGN0000017": {
+        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
       },
       "GCN0000004": {
         "name": "물고기드럼",
@@ -3015,6 +3005,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432656787.jpg"
       },
+      "CCN0000024": {
+        "name": "[비키즈]뮤직센터(10-IN-1)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432864086.png"
+      },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
         "age": "24개월 이상 ~",
@@ -3170,10 +3165,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
       },
-      "ABN0000040": {
-        "name": "[영실업]콩콩이와 119병원세트",
+      "ADN0000047": {
+        "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
       },
       "GDN0000124": {
         "name": "[대성]뉴 말하는 레미콘",
@@ -3289,6 +3284,11 @@
         "name": "[컬렉타]야생동물 30종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
+      },
+      "ABN0000040": {
+        "name": "[영실업]콩콩이와 119병원세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
       "GAN0000045": {
         "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
@@ -4474,11 +4474,6 @@
         "name": "[고덕점] 뮤직운전대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
-      },
-      "KGN0000006": {
-        "name": "[고덕점] 베이비베이스 부스터2",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
       },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
