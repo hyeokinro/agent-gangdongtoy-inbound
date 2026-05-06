@@ -3120,11 +3120,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
       },
-      "DDN0000042": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
-      },
       "GBN0000151": {
         "name": "[립프로그]믹서 플레이세트",
         "age": "36개월 이상 ~",
@@ -3589,6 +3584,11 @@
         "name": "[하바]플라워페깅게임",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067483787.png"
+      },
+      "DDN0000058": {
+        "name": "[맥포머스]디자이너세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069314440.png"
       },
       "DDN0000075": {
         "name": "[하바]낚시놀이",
@@ -5164,6 +5164,11 @@
         "name": "[하베브릭스] 꼬마몬테 숫자미로",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257728259.png"
+      },
+      "GAN0000048": {
+        "name": "[베네베네] 3in1 라이언 멀티 유아농구대",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765422869731.png"
       },
       "GDN0000214": {
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
