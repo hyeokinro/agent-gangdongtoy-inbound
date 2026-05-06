@@ -16,11 +16,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
       },
-      "CEN0000005": {
-        "name": "뉴 해양꼭지퍼즐",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
-      },
       "ADN0000009": {
         "name": "[플레이포에버]자동차6",
         "age": "36개월 이상 ~",
@@ -230,6 +225,11 @@
         "name": "[립프로그]ABC 청소기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664695076.jpg"
+      },
+      "ABN0000021": {
+        "name": "[캐스돈]다이슨청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
       },
       "GDN0000189": {
         "name": "[브이텍]멜로디 덤프트럭",
@@ -2046,11 +2046,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031327357.jpg"
       },
-      "CAN0000034": {
-        "name": "[보육사/GONGE]슈퍼에어보드",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627223258.png"
-      },
       "KDN0000122": {
         "name": "[고덕점] 액티비티 보드게임",
         "age": "36개월 이상 ~",
@@ -2195,11 +2190,6 @@
         "name": "Earth stacking tower",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057261654.JPG"
-      },
-      "DBN0000048": {
-        "name": "[캐스B]플레이 리틀맘 그린 작동주방놀이 7종세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353670385.jpg"
       },
       "GBN0000031": {
         "name": "과일믹서세트",
@@ -4314,11 +4304,6 @@
         "name": "[고덕점] 푸쉬앤팝 미니 청소기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
-      },
-      "KAN0000013": {
-        "name": "[고덕점] 주니어 농구대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568194273.png"
       },
       "ABN0000043": {
         "name": "[브이텍]첫 계산대 놀이세트",
