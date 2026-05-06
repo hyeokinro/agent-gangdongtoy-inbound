@@ -36,11 +36,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590857050.jpg"
       },
-      "KDN0000091": {
-        "name": "[고덕점] 타요 포크레인 중장비 타워",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
-      },
       "GAN0000014": {
         "name": "고양이와 쥐 푸쉬토이",
         "age": "6개월 이상 ~",
@@ -1306,6 +1301,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201867061.png"
       },
+      "CDN0000034": {
+        "name": "펀타임피싱(낚시)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800603760.jpg"
+      },
       "ADN0000030": {
         "name": "[브랜드B]바닷속,농장퍼즐",
         "age": "12개월 이상 ~",
@@ -1846,11 +1846,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539455694.png"
       },
-      "KBN0000087": {
-        "name": "[고덕점] 멜리사앤더그 쇼핑카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730185392699.png"
-      },
       "DDN0000028": {
         "name": "[자노드]쉐이프솔터",
         "age": "12개월 이상 ~",
@@ -2265,6 +2260,11 @@
         "name": "펀타임피싱",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589870976012.jpg"
+      },
+      "CBN0000069": {
+        "name": "[베이비아인슈타인]매직터치 계산대",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433258399.jpg"
       },
       "GBN0000094": {
         "name": "미키와친구들 자동차 병원놀이",
@@ -4300,11 +4300,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
       },
-      "GAN0000026": {
-        "name": "[오볼]오볼놀이세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416270996.jpg"
-      },
       "AAN0000001": {
         "name": "[브이텍]걸음마학습기",
         "age": "6개월 이상 ~",
@@ -5368,6 +5363,11 @@
         "name": "[놀이팩]커들반 인형(토끼)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301864582.png"
+      },
+      "HSN0000030": {
+        "name": "[놀이팩]콩순이 바른생활 콩콩이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140546608.png"
       },
       "HSN0000042": {
         "name": "[놀이팩]다이노 플레이파크",
