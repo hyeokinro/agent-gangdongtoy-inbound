@@ -771,6 +771,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_23.jpg"
       },
+      "CDN0000032": {
+        "name": "재활용트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_84.jpg"
+      },
       "KDN0000101": {
         "name": "[고덕점] 원통 쌓기 블록",
         "age": "24개월 이상 ~",
@@ -906,11 +911,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1762407114232.png"
       },
-      "CDN0000032": {
-        "name": "재활용트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_84.jpg"
-      },
       "DBN0000050": {
         "name": "[리틀타익스]퍼스트 냉장고",
         "age": "24개월 이상 ~",
@@ -945,6 +945,11 @@
         "name": "360회전 주차타워",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222264806.png"
+      },
+      "CDN0000008": {
+        "name": "덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_60.jpg"
       },
       "GEN0000014": {
         "name": "가든쌓기블록",
@@ -1320,11 +1325,6 @@
         "name": "허니비마켓 생선상자",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593475207.jpg"
-      },
-      "CDN0000078": {
-        "name": "[홀라]디제이파티드럼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207199181.JPG"
       },
       "KDN0000071": {
         "name": "[고덕점] 소근육놀이 아기상어",
@@ -3025,11 +3025,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
       },
-      "GBN0000078": {
-        "name": "[숲소리]소꿉놀이세트V2",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
-      },
       "ABN0000042": {
         "name": "[브이텍]공구놀이세트",
         "age": "12개월 이상 ~",
@@ -3089,6 +3084,11 @@
         "name": "[토이트론]달님이 에어프라이어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296123906.jpg"
+      },
+      "GBN0000078": {
+        "name": "[숲소리]소꿉놀이세트V2",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
       "CBN0000059": {
         "name": "[리틀타익스]퍼스트 식기세척기",
@@ -4399,11 +4399,6 @@
         "name": "[립프로그]립빌더 ABC 하우스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188564404.PNG"
-      },
-      "GDN0000130": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
       },
       "ADN0000051": {
         "name": "스마트 러닝 포크레인",
