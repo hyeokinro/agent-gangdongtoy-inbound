@@ -166,11 +166,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594016387.jpg"
       },
-      "KDN0000075": {
-        "name": "[고덕점] 반짝반짝 케이크링쌓기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
-      },
       "KDN0000077": {
         "name": "[고덕점] 피쉬풀어롱",
         "age": "6개월 이상 ~",
@@ -1831,6 +1826,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169045398.png"
       },
+      "KDN0000056": {
+        "name": "[고덕점] 에듀테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541853166.png"
+      },
       "DDN0000028": {
         "name": "[자노드]쉐이프솔터",
         "age": "12개월 이상 ~",
@@ -2441,6 +2441,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067727613.png"
       },
+      "GFN0000007": {
+        "name": "[리틀타익스] 리틀 꼬마 스쿠터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
+      },
       "GBN0000011": {
         "name": "식자재 용기모형세트",
         "age": "36개월 이상 ~",
@@ -2475,6 +2480,11 @@
         "name": "[삼진]행운핑 상자하우스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557654599.png"
+      },
+      "KDN0000134": {
+        "name": "[고덕점] 즐거운뽀로로하우스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540248063.png"
       },
       "ABN0000015": {
         "name": "[숲소리]생일세트",
@@ -2555,6 +2565,11 @@
         "name": "[리틀타익스]퍼스트 세탁기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
+      },
+      "KGN0000008": {
+        "name": "[고덕점] 수더프린테일즈모빌+거치대",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540732302.png"
       },
       "GBN0000017": {
         "name": "원목자석과일자르기",
