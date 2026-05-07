@@ -551,11 +551,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
-      "GDN0000002": {
-        "name": "세븐 롤러코스터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033656451.jpg"
-      },
       "ACN0000009": {
         "name": "[보육사]영아용리듬악기",
         "age": "12개월 이상 ~",
@@ -1005,6 +1000,11 @@
         "name": "미니밴드",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792342158.jpg"
+      },
+      "DDN0000144": {
+        "name": "[코닉스]뽀로로EQ테마파크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562724440.png"
       },
       "KBN0000052": {
         "name": "[고덕점] 색이 변하는 쿠키오븐",
@@ -2290,11 +2290,6 @@
         "name": "뮤지컬에그",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030634457.jpg"
-      },
-      "GCN0000019": {
-        "name": "옥토넛 음악대장 악기세트",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164695841.png"
       },
       "ABN0000020": {
         "name": "[코닉스]뽀로로캐리어",
@@ -5664,11 +5659,6 @@
         "name": "[립프로그]아이스크림카트 레인보우셔벗",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349261361.png"
-      },
-      "CBN0000060": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
       },
       "DDN0000133": {
         "name": "[블루래빗]구스파파",
