@@ -1076,11 +1076,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415628022.jpg"
       },
-      "GFN0000000": {
-        "name": "코레카소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
-      },
       "ABN0000035": {
         "name": "[리틀타익스]퍼스트세탁기",
         "age": "24개월 이상 ~",
@@ -1190,6 +1185,11 @@
         "name": "애벌레균형놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027269036.jpg"
+      },
+      "GFN0000000": {
+        "name": "코레카소방차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
       },
       "KDN0000053": {
         "name": "[고덕점] 티니핑 마차",
@@ -3540,6 +3540,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
       },
+      "GDN0000124": {
+        "name": "[대성]뉴 말하는 레미콘",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
+      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -4940,6 +4945,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169045398.png"
       },
+      "CDN0000086": {
+        "name": "[브이텍]3in1 리사이클 붕붕카",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349655832.png"
+      },
       "CAN0000057": {
         "name": "[키움하우스]팝핑 워커 거북이",
         "age": "36개월 이상 ~",
@@ -5669,6 +5679,11 @@
         "name": "[브이텍]2in1 다이노 파크",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349736604.png"
+      },
+      "CBN0000060": {
+        "name": "[리틀타익스]퍼스트 세탁기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
       },
       "CAN0000058": {
         "name": "[아이코닉스]3in1 스포츠센터",
