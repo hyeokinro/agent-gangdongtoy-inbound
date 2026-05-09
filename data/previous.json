@@ -1566,11 +1566,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061274625.png"
       },
-      "CDN0000085": {
-        "name": "[비키즈]판다DJ놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349898173.png"
-      },
       "ADN0000042": {
         "name": "[J.H.INTER]뽀로로 세계여행 2층버스",
         "age": "36개월 이상 ~",
@@ -2521,11 +2516,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541733746.png"
       },
-      "GFN0000005": {
-        "name": "3단계 얼룩말 스쿠터",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161094497.png"
-      },
       "GDN0000056": {
         "name": "차고지&헬리콥터세트",
         "age": "36개월 이상 ~",
@@ -2796,11 +2786,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
       },
-      "CGN0000015": {
-        "name": "반짝반짝뮤지컬걸음마",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
-      },
       "ADN0000005": {
         "name": "[플레이포에버]자동차2",
         "age": "36개월 이상 ~",
@@ -2900,6 +2885,11 @@
         "name": "베이직블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_101.jpg"
+      },
+      "CGN0000015": {
+        "name": "반짝반짝뮤지컬걸음마",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
       },
       "CCN0000020": {
         "name": "[베이비아인슈타인]플립기타 2in 1",
@@ -4765,11 +4755,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759440239.jpg"
       },
-      "AAN0000010": {
-        "name": "[리틀타익스]스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760181744.jpg"
-      },
       "ACN0000000": {
         "name": "[클래식]정글뮤직박스",
         "age": "12개월 이상 ~",
@@ -5279,6 +5264,11 @@
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540056044.png"
+      },
+      "KBN0000047": {
+        "name": "[고덕점] 아이스크림카트 디럭스 레인보우 셔벗",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541556961.png"
       },
       "KDN0000048": {
         "name": "[고덕점] 엄마까투리 두리 하우스",
@@ -5809,11 +5799,6 @@
         "age": "1개월 이상 ~",
         "image": ""
       },
-      "HSN0000037": {
-        "name": "[놀이팩]노래하는 젖소",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773141096377.png"
-      },
       "HSN0000028": {
         "name": "[놀이팩]크롱응가놀이",
         "age": "36개월 이상 ~",
@@ -5829,11 +5814,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140825167.png"
       },
-      "HSN0000043": {
-        "name": "[놀이팩]뉴 또봇W",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300071529.png"
-      },
       "HSN0000023": {
         "name": "[놀이팩]야구배팅 놀이세트(블루)",
         "age": "36개월 이상 ~",
@@ -5844,15 +5824,20 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
       },
-      "HSN0000047": {
-        "name": "[놀이팩]커들반 인형(토끼)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301864582.png"
+      "HSN0000043": {
+        "name": "[놀이팩]뉴 또봇W",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300071529.png"
       },
       "HSN0000030": {
         "name": "[놀이팩]콩순이 바른생활 콩콩이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140546608.png"
+      },
+      "HSN0000047": {
+        "name": "[놀이팩]커들반 인형(토끼)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301864582.png"
       },
       "HSN0000042": {
         "name": "[놀이팩]다이노 플레이파크",
