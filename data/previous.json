@@ -3030,11 +3030,6 @@
       }
     },
     "wait": {
-      "KBN0000076": {
-        "name": "[고덕점] 옥토레이 변신 본부 플레이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542513703.png"
-      },
       "KBN0000058": {
         "name": "[고덕점] 헤어 드레싱세트",
         "age": "36개월 이상 ~",
@@ -3280,6 +3275,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949162224.JPG"
       },
+      "KBN0000076": {
+        "name": "[고덕점] 옥토레이 변신 본부 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542513703.png"
+      },
       "DDN0000160": {
         "name": "[시쿠]구급차량 5종",
         "age": "36개월 이상 ~",
@@ -3420,11 +3420,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
       },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
-      },
       "ADN0000046": {
         "name": "[지나월드]핑크퐁 아기 상어랜드",
         "age": "36개월 이상 ~",
@@ -3474,6 +3469,11 @@
         "name": "[지오맥]매직큐브프리빌딩 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
+      },
+      "ADN0000054": {
+        "name": "노래하고 말하는 전화기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "AAN0000012": {
         "name": "[브랜드B]트윙클 볼링",
@@ -4330,11 +4330,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435088010.jpg"
       },
-      "AGN0000019": {
-        "name": "하늘썬별 피아노체육관 걸음마 (블루)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1758013592535.JPG"
-      },
       "GDN0000195": {
         "name": "[브라이트스타트] 공놀이 코끼리 버스",
         "age": "6개월 이상 ~",
@@ -4685,11 +4680,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029236260.jpg"
       },
-      "GBN0000045": {
-        "name": "디럭스야생동물세트24종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029275545.jpg"
-      },
       "GCN0000000": {
         "name": "신나는악기세트",
         "age": "12개월 이상 ~",
@@ -4764,11 +4754,6 @@
         "name": "[자노드]쉐이프솔터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061342544.png"
-      },
-      "DDN0000102": {
-        "name": "[레고]미니언즈파일럿훈련",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071682311.png"
       },
       "DDN0000103": {
         "name": "[레고]배트모빌",
@@ -5564,11 +5549,6 @@
         "name": "[고덕점] 멜로디 오션 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539219129.png"
-      },
-      "KDN0000078": {
-        "name": "[고덕점] 뽀로로 경찰 오토바이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539942924.png"
       },
       "KBN0000063": {
         "name": "[고덕점] 뽀로로 아이스크림 가게",
