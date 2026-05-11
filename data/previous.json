@@ -266,6 +266,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
+      "ABN0000038": {
+        "name": "[립프로그]아이스크림 카트 디럭스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
+      },
       "CBN0000059": {
         "name": "[리틀타익스]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
@@ -3195,11 +3200,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
       },
-      "ABN0000004": {
-        "name": "[테팔]오픈쿡키친세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767388902.jpg"
-      },
       "DDN0000127": {
         "name": "[리틀타익스]소프트 스트링박스",
         "age": "12개월 이상 ~",
@@ -3229,6 +3229,11 @@
         "name": "[고덕점] 퍼스트 계산대놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
+      },
+      "CEN0000003": {
+        "name": "뉴 농장꼭지퍼즐",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_92.jpg"
       },
       "KBN0000085": {
         "name": "[고덕점]퍼스트 식기세척기",
@@ -3564,6 +3569,11 @@
         "name": "컬러풀아기피아노",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_50.jpg"
+      },
+      "CDN0000008": {
+        "name": "덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_60.jpg"
       },
       "CDN0000009": {
         "name": "동물 숨기기",
@@ -4964,11 +4974,6 @@
         "name": "피에로 고리끼우기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791972689.jpg"
-      },
-      "CBN0000031": {
-        "name": "쇼핑카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792719664.jpg"
       },
       "CAN0000034": {
         "name": "[보육사/GONGE]슈퍼에어보드",
