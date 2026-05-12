@@ -666,11 +666,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
       },
-      "KDN0000041": {
-        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
-      },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
@@ -976,11 +971,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1762407114232.png"
       },
-      "CDN0000046": {
-        "name": "강아지 도형끼우기차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671917972.jpg"
-      },
       "ABN0000026": {
         "name": "[키즈]호랑이,표범,사자",
         "age": "24개월 이상 ~",
@@ -1005,6 +995,11 @@
         "name": "[벨레덕]사과",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062275319.png"
+      },
+      "CDN0000046": {
+        "name": "강아지 도형끼우기차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671917972.jpg"
       },
       "GEN0000014": {
         "name": "가든쌓기블록",
@@ -5459,6 +5454,11 @@
         "name": "[하페]다람쥐통끼우기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062011300.png"
+      },
+      "DDN0000036": {
+        "name": "[하페]꽃과별끼우기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062149596.png"
       },
       "DDN0000057": {
         "name": "[맥포머스]스페이스세트",
