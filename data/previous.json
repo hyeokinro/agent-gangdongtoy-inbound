@@ -86,11 +86,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
       },
-      "DBN0000039": {
-        "name": "[브이텍]ABC 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193514140.PNG"
-      },
       "DDN0000029": {
         "name": "[자노드]청키퍼즐비히클/팜",
         "age": "12개월 이상 ~",
@@ -185,6 +180,11 @@
         "name": "[스틱오]피싱세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553766249.png"
+      },
+      "DBN0000039": {
+        "name": "[브이텍]ABC 쇼핑카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193514140.PNG"
       },
       "GDN0000016": {
         "name": "부엉이시계",
@@ -3110,11 +3110,6 @@
         "name": "베이직블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_101.jpg"
-      },
-      "CBN0000060": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
       },
       "GDN0000188": {
         "name": "[아이코닉스]뽀로로 점보 비행기",
