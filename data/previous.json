@@ -1576,11 +1576,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070805892.png"
       },
-      "KBN0000073": {
-        "name": "[고덕점] 퍼스트 오븐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566898937.png"
-      },
       "GDN0000021": {
         "name": "로데오루스터",
         "age": "6개월 이상 ~",
@@ -1800,6 +1795,11 @@
         "name": "아기드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033339231.jpg"
+      },
+      "KBN0000073": {
+        "name": "[고덕점] 퍼스트 오븐",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566898937.png"
       },
       "GDN0000177": {
         "name": "탐험선B & 피규어",
@@ -2846,11 +2846,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539219129.png"
       },
-      "KBN0000077": {
-        "name": "[고덕점] 강아지 돌보기놀이 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
-      },
       "GDN0000166": {
         "name": "원목레인보우블록 33피스",
         "age": "24개월 이상 ~",
@@ -3090,6 +3085,11 @@
         "name": "[보육사]건설현장중장비",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772824423.jpg"
+      },
+      "KBN0000077": {
+        "name": "[고덕점] 강아지 돌보기놀이 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
       },
       "GDN0000219": {
         "name": "[브이텍] 다이노 먹이주기",
@@ -4164,6 +4164,11 @@
         "name": "[브이텍]빙글빙글 러닝오션월드",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349451373.png"
+      },
+      "CDN0000087": {
+        "name": "[브이텍]밸런싱 링쌓기저울",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349615479.png"
       },
       "DBN0000050": {
         "name": "[리틀타익스]퍼스트 냉장고",
