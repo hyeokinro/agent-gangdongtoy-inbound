@@ -91,11 +91,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949162224.JPG"
       },
-      "DBN0000039": {
-        "name": "[브이텍]ABC 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193514140.PNG"
-      },
       "GDN0000016": {
         "name": "부엉이시계",
         "age": "12개월 이상 ~",
@@ -560,11 +555,6 @@
         "name": "[고덕점] 가드닝카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
-      },
-      "KCN0000020": {
-        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
       },
       "ACN0000009": {
         "name": "[보육사]영아용리듬악기",
@@ -3151,11 +3141,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599035006629.jpg"
       },
-      "DBN0000046": {
-        "name": "[나비타]브라운 헤어 드레싱 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
-      },
       "GDN0000156": {
         "name": "뛰뛰빵빵 코리의 모험 공사장 놀이",
         "age": "36개월 이상 ~",
@@ -3210,6 +3195,11 @@
         "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
+      },
+      "DBN0000046": {
+        "name": "[나비타]브라운 헤어 드레싱 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
       },
       "AAN0000021": {
         "name": "[브이텍] 3in1 스포츠 센터",
@@ -4590,6 +4580,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168862339.png"
       },
+      "CDN0000091": {
+        "name": "[브이텍]스마트 러닝 태블릿",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
+      },
       "DDN0000171": {
         "name": "[브이텍]밸런싱 링쌓기저울",
         "age": "12개월 이상 ~",
@@ -4734,11 +4729,6 @@
         "name": "[하페]고리와퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062062893.png"
-      },
-      "DDN0000045": {
-        "name": "[하바]마법의소리게임",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
       },
       "DDN0000079": {
         "name": "[오차드]아기돼지삼형제",
@@ -5284,6 +5274,11 @@
         "name": "[브랜드B] 팝핑웨일",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
+      },
+      "CGY0000094": {
+        "name": "[브라이트스타트]디즈니 미니마우스 액티비티 점퍼루",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750312134266.jpg"
       },
       "CGY0000095": {
         "name": "[엔픽스]동물원 에디션 보행기",
