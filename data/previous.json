@@ -621,11 +621,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
       },
-      "ACN0000009": {
-        "name": "[보육사]영아용리듬악기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
-      },
       "GBN0000030": {
         "name": "비스켓세트",
         "age": "36개월 이상 ~",
@@ -850,6 +845,11 @@
         "name": "[비키즈]망아지 플레이테이블 (걸음마)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
+      },
+      "ACN0000009": {
+        "name": "[보육사]영아용리듬악기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
       },
       "DDN0000030": {
         "name": "[자노드]청키퍼즐디노조/쥬",
