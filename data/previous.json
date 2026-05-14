@@ -406,11 +406,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069733673.png"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
       "GDN0000085": {
         "name": "[숲소리]실꿰기세트",
         "age": "24개월 이상 ~",
@@ -510,6 +505,11 @@
         "name": "[지오맥]코어타쭈파코",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069692713.png"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "GDN0000083": {
         "name": "[바조]노아와 배",
@@ -1141,6 +1141,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629185091758.jpg"
       },
+      "DDN0000162": {
+        "name": "[시쿠]공사차량 5종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553563501.png"
+      },
       "GFN0000004": {
         "name": "페달접이식 세발자전거",
         "age": "24개월 이상 ~",
@@ -1726,11 +1731,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032272823.jpg"
       },
-      "CGN0000088": {
-        "name": "[유키두]엉금엉금 멜로디달팽이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350009067.png"
-      },
       "DDN0000027": {
         "name": "[자노드]워터릴리",
         "age": "60개월 이상 ~",
@@ -2060,6 +2060,11 @@
         "name": "트럭 공구놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
+      },
+      "DDN0000103": {
+        "name": "[레고]배트모빌",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071725866.png"
       },
       "DDN0000100": {
         "name": "[레고]비행기와공항",
@@ -2681,11 +2686,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710556857241.png"
       },
-      "CDN0000079": {
-        "name": "[브이텍]춤추는 강아지",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
-      },
       "GEN0000013": {
         "name": "6가지 계절그림 맞추기큐브",
         "age": "12개월 이상 ~",
@@ -2715,6 +2715,11 @@
         "name": "루크와 포대기 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773366052466.png"
+      },
+      "CDN0000079": {
+        "name": "[브이텍]춤추는 강아지",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
       },
       "GBN0000026": {
         "name": "바닐라케이크",
