@@ -721,11 +721,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628483444.png"
       },
-      "ADN0000056": {
-        "name": "[블루래빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479951809.JPG"
-      },
       "DDN0000062": {
         "name": "[맥포머스]애니멀세트",
         "age": "24개월 이상 ~",
@@ -2846,6 +2841,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416150406.jpg"
       },
+      "CFN0000010": {
+        "name": "미니바이크(무소음)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799954344.png"
+      },
       "GDN0000072": {
         "name": "소방차(그린토이즈)",
         "age": "12개월 이상 ~",
@@ -3325,6 +3325,11 @@
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765425818204.png"
+      },
+      "CGN0000015": {
+        "name": "반짝반짝뮤지컬걸음마",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
       },
       "KBN0000077": {
         "name": "[고덕점] 강아지 돌보기놀이 세트",
