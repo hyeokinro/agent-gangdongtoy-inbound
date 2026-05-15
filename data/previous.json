@@ -61,11 +61,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296123906.jpg"
       },
-      "CDN0000047": {
-        "name": "첫발견 러닝운전놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672056967.jpg"
-      },
       "KDN0000112": {
         "name": "[고덕점] 샵앤런 점심식사",
         "age": "36개월 이상 ~",
@@ -365,6 +360,11 @@
         "name": "러닝 이모션 공작새",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
+      },
+      "CDN0000047": {
+        "name": "첫발견 러닝운전놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672056967.jpg"
       },
       "GFN0000001": {
         "name": "코레카경찰차",
@@ -1070,11 +1070,6 @@
         "name": "[고덕점]구스파파",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
-      },
-      "CCN0000010": {
-        "name": "컬러풀아기피아노",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_50.jpg"
       },
       "DDN0000144": {
         "name": "[코닉스]뽀로로EQ테마파크",
@@ -3186,11 +3181,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167208501.png"
       },
-      "CEN0000008": {
-        "name": "동물농장청키퍼즐",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_97.jpg"
-      },
       "KDN0000064": {
         "name": "[고덕점] 스쿨버스",
         "age": "24개월 이상 ~",
@@ -3351,11 +3341,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672125477010.jpg"
       },
-      "CEN0000009": {
-        "name": "레인보우페깅게임",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800264795.jpg"
-      },
       "KBN0000080": {
         "name": "[고덕점] 카툰 라이브 스톡6",
         "age": "36개월 이상 ~",
@@ -3415,6 +3400,11 @@
         "name": "콩순이 알록달록 카페놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
+      },
+      "CEN0000009": {
+        "name": "레인보우페깅게임",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800264795.jpg"
       }
     },
     "delivery": {
