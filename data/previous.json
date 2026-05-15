@@ -286,11 +286,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
       },
-      "GBN0000157": {
-        "name": "[미미월드] 똘똘이 딸기농장",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
-      },
       "GDN0000075": {
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
@@ -305,11 +300,6 @@
         "name": "[페도라]카시트(블랙)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779135844.jpg"
-      },
-      "ABN0000004": {
-        "name": "[테팔]오픈쿡키친세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767388902.jpg"
       },
       "CEN0000003": {
         "name": "뉴 농장꼭지퍼즐",
@@ -356,25 +346,20 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
       },
-      "GDN0000187": {
-        "name": "[브이텍]스마트 러닝 태블릿",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
-      },
       "CDN0000047": {
         "name": "첫발견 러닝운전놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672056967.jpg"
       },
-      "GFN0000001": {
-        "name": "코레카경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
-      },
       "ADN0000059": {
         "name": "[키움하우스]라이트업뮤지컬버스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
+      },
+      "GFN0000001": {
+        "name": "코레카경찰차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
       "CDN0000017": {
         "name": "리틀러닝홈동물농장",
@@ -551,6 +536,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032421439.jpg"
       },
+      "GDN0000022": {
+        "name": "아기핸드폰",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
+      },
       "KDN0000103": {
         "name": "[고덕점] 스피닝 라이트",
         "age": "6개월 이상 ~",
@@ -635,11 +625,6 @@
         "name": "알록달록구슬세기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
-      },
-      "GDN0000022": {
-        "name": "아기핸드폰",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
       },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
@@ -1841,11 +1826,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773201440.jpg"
       },
-      "KAN0000015": {
-        "name": "[고덕점] 로보카폴리 볼링세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554670586.png"
-      },
       "GDN0000177": {
         "name": "탐험선B & 피규어",
         "age": "24개월 이상 ~",
@@ -1971,6 +1951,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
       },
+      "KAN0000015": {
+        "name": "[고덕점] 로보카폴리 볼링세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554670586.png"
+      },
       "AFN0000004": {
         "name": "[베케라]스피즈터플레인",
         "age": "12개월 이상 ~",
@@ -1995,11 +1980,6 @@
         "name": "[브이텍]6IN1 트위스트 에듀큐브",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168842913.png"
-      },
-      "GBN0000045": {
-        "name": "디럭스야생동물세트24종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029275545.jpg"
       },
       "GDN0000031": {
         "name": "스스로움직이는 모험왕공룡",
@@ -2220,6 +2200,11 @@
         "name": "디럭스농장동물세트18종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029236260.jpg"
+      },
+      "GBN0000045": {
+        "name": "디럭스야생동물세트24종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029275545.jpg"
       },
       "GDN0000179": {
         "name": "컵쌓기 & 액티비티 볼 세트",
