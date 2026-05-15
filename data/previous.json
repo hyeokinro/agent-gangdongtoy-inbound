@@ -1456,11 +1456,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
       },
-      "AFN0000005": {
-        "name": "[경화]스프링카(파랑)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778178029.jpg"
-      },
       "CEN0000002": {
         "name": "뉴 과일꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -1595,11 +1590,6 @@
         "name": "물고기실꿰기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_72.jpg"
-      },
-      "CBN0000062": {
-        "name": "[립프로그]피자카트  한영버젼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349698843.png"
       },
       "GEN0000034": {
         "name": "사파리입체퍼즐",
@@ -2830,11 +2820,6 @@
         "name": "[짐보리/맥포머스]미라클브레인세트258",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416150406.jpg"
-      },
-      "CFN0000010": {
-        "name": "미니바이크(무소음)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799954344.png"
       },
       "GDN0000072": {
         "name": "소방차(그린토이즈)",
@@ -4080,6 +4065,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434919943.png"
       },
+      "CFN0000024": {
+        "name": "[씨투엠뉴]랜드로버 붕붕카",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
+      },
       "CBN0000070": {
         "name": "[컬렉타]야생동물 30종",
         "age": "36개월 이상 ~",
@@ -4235,6 +4225,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443861058.PNG"
       },
+      "DAN0000008": {
+        "name": "[브이텍]두가지 공놀이 스포츠센터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664402531.jpg"
+      },
       "ACN0000012": {
         "name": "[주영이엔시]핑크퐁 동요 노래방",
         "age": "36개월 이상 ~",
@@ -4369,6 +4364,11 @@
         "name": "[고덕점] 콩순이 말하는팽이와 청진기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567075019.png"
+      },
+      "DDN0000150": {
+        "name": "[토이세븐]하츄핑 청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557855610.png"
       },
       "DDN0000146": {
         "name": "[코닉스]뽀로로자동차 마을&타워",
@@ -4919,6 +4919,11 @@
         "name": "[영실업]뽀로로 어린이 버스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660200021356.jpg"
+      },
+      "DBN0000035": {
+        "name": "[영실업]콩순이 말하는 펭이와 청진기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660635231096.jpg"
       },
       "GDN0000123": {
         "name": "[립프로그]립빌더 ABC 하우스",
@@ -5870,6 +5875,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
       },
+      "CDN0000088": {
+        "name": "[아이코닉스]타요 자동차노트북",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349511953.png"
+      },
       "CBN0000063": {
         "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
         "age": "36개월 이상 ~",
@@ -6074,6 +6084,11 @@
         "name": "띠띠뽀 에듀 테이블",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365070881.png"
+      },
+      "GBN0000091": {
+        "name": "콩순이 알록달록 카페놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
       },
       "GDN0000153": {
         "name": "빙글빙글 스피닝 라이언",
