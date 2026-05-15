@@ -1136,11 +1136,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
       },
-      "GAN0000047": {
-        "name": "[베네베네] 디노 프리미엄 축구 농구대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765422750233.png"
-      },
       "GBN0000158": {
         "name": "[아이코닉스] 뽀로로 3분 치과놀이",
         "age": "36개월 이상 ~",
@@ -2605,11 +2600,6 @@
         "name": "[쁘띠베베]회전목마드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771456082.jpg"
-      },
-      "GDN0000180": {
-        "name": "[브이텍] 트위스트 에듀 큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296246583.jpg"
       },
       "KDN0000083": {
         "name": "[고덕점] 카캐리어세트",
@@ -5884,6 +5874,11 @@
         "name": "[원더키드]뽀로로  캠핑카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295914353.jpg"
+      },
+      "GDN0000180": {
+        "name": "[브이텍] 트위스트 에듀 큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296246583.jpg"
       },
       "KDN0000153": {
         "name": "[고덕점] 자동드릴공구놀이",
