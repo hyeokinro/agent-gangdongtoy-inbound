@@ -201,11 +201,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592364054.JPG"
       },
-      "GBN0000078": {
-        "name": "[숲소리]소꿉놀이세트V2",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
-      },
       "GDN0000189": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -245,6 +240,11 @@
         "name": "[리틀타익스]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349805980.png"
+      },
+      "GBN0000078": {
+        "name": "[숲소리]소꿉놀이세트V2",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
       "GDN0000127": {
         "name": "[대성]말하는 포크레인",
@@ -700,11 +700,6 @@
         "name": "[리틀타익스]퍼스트 세탁기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
-      },
-      "GAN0000010": {
-        "name": "뽀로로멜로디안전그네",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590829237.jpg"
       },
       "ABN0000040": {
         "name": "[영실업]콩콩이와 119병원세트",
