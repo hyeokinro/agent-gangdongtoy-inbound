@@ -1936,11 +1936,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
       },
-      "DBN0000035": {
-        "name": "[영실업]콩순이 말하는 펭이와 청진기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660635231096.jpg"
-      },
       "GDN0000213": {
         "name": "[브이텍] 붕붕카 3 in 1 청소트럭",
         "age": "24개월 이상 ~",
@@ -3725,6 +3720,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874300858.JPG"
       },
+      "KBN0000086": {
+        "name": "[고덕점]퍼스트 냉장고",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729908695762.png"
+      },
       "GEN0000018": {
         "name": "도미노레이스",
         "age": "36개월 이상 ~",
@@ -3874,11 +3874,6 @@
         "name": "[호와]모닝커피세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768245873.jpg"
-      },
-      "GBN0000027": {
-        "name": "데코 케이크세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
       },
       "ABN0000028": {
         "name": "[영실업]콩순이 아기하마 양치놀이",
@@ -5074,6 +5069,11 @@
         "name": "디럭스농장동물세트18종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029236260.jpg"
+      },
+      "GBN0000045": {
+        "name": "디럭스야생동물세트24종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029275545.jpg"
       },
       "GCN0000000": {
         "name": "신나는악기세트",
