@@ -656,11 +656,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167667336.png"
       },
-      "KDN0000133": {
-        "name": "[고덕점] 빙글빙글 타요주차장놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
-      },
       "DDN0000098": {
         "name": "[레고]미니의공간",
         "age": "24개월 이상 ~",
@@ -1121,6 +1116,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277827603.jpg"
       },
+      "CGN0000022": {
+        "name": "와이즈체어 범보부스터(블루)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798696747.png"
+      },
       "DDN0000040": {
         "name": "[벨레덕]호박",
         "age": "48개월 이상 ~",
@@ -1180,11 +1180,6 @@
         "name": "[애니블록]뽀로로퍼즐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069852010.png"
-      },
-      "CFN0000002": {
-        "name": "3단계변형운전놀이자전거",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_110.jpg"
       },
       "GDN0000046": {
         "name": "응급자동차세트",
@@ -1515,6 +1510,11 @@
         "name": "[브이텍]러닝이모션 공작새",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479569248.JPG"
+      },
+      "CFN0000002": {
+        "name": "3단계변형운전놀이자전거",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_110.jpg"
       },
       "KDN0000068": {
         "name": "[고덕점] 아기 케잌세트",
@@ -3205,11 +3205,6 @@
         "name": "[삼진]행운핑 상자하우스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557654599.png"
-      },
-      "CDN0000074": {
-        "name": "[코닉스]뽀로로키즈팝댄스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
       },
       "DDN0000152": {
         "name": "[토이트론]달님이 플라워 가든 박스",
