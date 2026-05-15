@@ -1351,11 +1351,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538497750.png"
       },
-      "KCN0000015": {
-        "name": "[고덕점] 도형끼우기 드럼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
-      },
       "GBN0000096": {
         "name": "척척박사 우유와 뉴 콩순이 냉장고",
         "age": "36개월 이상 ~",
@@ -2700,6 +2695,11 @@
         "name": "[고덕점] 병원놀이세트[한글버전]",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567161088.png"
+      },
+      "CBY0000057": {
+        "name": "루크와 포대기 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773366052466.png"
       },
       "CDN0000079": {
         "name": "[브이텍]춤추는 강아지",
@@ -4315,6 +4315,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163801085.png"
       },
+      "GDN0000136": {
+        "name": "에어포트 플레이세트",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165421369.png"
+      },
       "GDN0000160": {
         "name": "타요 주유소 플레이세트",
         "age": "24개월 이상 ~",
@@ -4584,11 +4589,6 @@
         "name": "둑티그 장난감 계산대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801929669.jpg"
-      },
-      "CGN0000035": {
-        "name": "[피셔프라이스] 동물친구 액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628803046.png"
       },
       "ABN0000002": {
         "name": "[보육사]스탠딩 채소가게",
@@ -4969,6 +4969,11 @@
         "name": "액티비티 코끼리 농구대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
+      },
+      "GCN0000022": {
+        "name": "마이 리얼 잼 키보드",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165037890.png"
       },
       "GDN0000159": {
         "name": "오케스트라 러닝테이블",
