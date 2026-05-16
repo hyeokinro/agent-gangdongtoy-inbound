@@ -1166,11 +1166,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566470978.png"
       },
-      "CBN0000025": {
-        "name": "야생동물 24종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793246280.jpg"
-      },
       "DDN0000085": {
         "name": "[게임올로지]버팔로체스",
         "age": "60개월 이상 ~",
@@ -1646,11 +1641,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223582214.png"
       },
-      "CDN0000068": {
-        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
-      },
       "KDN0000066": {
         "name": "[고덕점] 블럭먹는 악어",
         "age": "24개월 이상 ~",
@@ -1985,6 +1975,11 @@
         "name": "뉴 오볼롤러",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791727157.jpg"
+      },
+      "GAN0000040": {
+        "name": "뮤지컬 액티비티 워커",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
       },
       "KBN0000079": {
         "name": "[고덕점] 카툰 애니멀",
@@ -3000,6 +2995,11 @@
         "name": "[아이코닉스]뽀로로 점보 비행기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277717592.jpg"
+      },
+      "GDN0000006": {
+        "name": "목욕놀이세탁기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599035107288.jpg"
       },
       "GEN0000017": {
         "name": "멘델의 유전법칙",
@@ -4844,11 +4844,6 @@
         "name": "[토이트론]달님이카페놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557572624.png"
-      },
-      "DDN0000134": {
-        "name": "[퍼니]엄마까투리 어드벤쳐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
       },
       "CDN0000092": {
         "name": "[브이텍]멜로디 덤프트럭",
