@@ -1496,11 +1496,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540560940.png"
       },
-      "CDN0000099": {
-        "name": "[아이코닉스]타요 생일케이크",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433474030.png"
-      },
       "ADN0000063": {
         "name": "[브이텍]밸런싱 링쌓기저울",
         "age": "12개월 이상 ~",
@@ -1536,6 +1531,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069314440.png"
       },
+      "CDN0000099": {
+        "name": "[아이코닉스]타요 생일케이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433474030.png"
+      },
       "GDN0000126": {
         "name": "[대성]벤츠 아록스 덤프트럭",
         "age": "36개월 이상 ~",
@@ -1545,11 +1545,6 @@
         "name": "로더심플 아이스크림 트럭",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165494801.png"
-      },
-      "DBN0000047": {
-        "name": "[리틀타익스]퍼스트 계산대놀이 유아 계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353708423.jpg"
       },
       "GDN0000130": {
         "name": "[하베브릭스]6in1변신큐브",
@@ -3695,11 +3690,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
       },
-      "KDN0000043": {
-        "name": "[고덕점] 판다 DJ 놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
-      },
       "DDN0000117": {
         "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
         "age": "1개월 이상 ~",
@@ -3825,6 +3815,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
       },
+      "GDN0000026": {
+        "name": "레코딩무선전화놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
+      },
       "DDN0000044": {
         "name": "[플랜토이즈]망치놀이",
         "age": "12개월 이상 ~",
@@ -3909,6 +3904,11 @@
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
+      },
+      "KDN0000043": {
+        "name": "[고덕점] 판다 DJ 놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
       },
       "KDN0000041": {
         "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
@@ -4044,11 +4044,6 @@
         "name": "재활용트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_84.jpg"
-      },
-      "CDN0000037": {
-        "name": "핍 디럭스15pc(스퀴즈)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_89.jpg"
       },
       "CEN0000018": {
         "name": "자석블럭",
@@ -5009,11 +5004,6 @@
         "name": "공룡벨로시랩터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_18.jpg"
-      },
-      "CDN0000029": {
-        "name": "오뚜기뽀빠이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
       },
       "CGN0000005": {
         "name": "뉴나리프 바운서",
