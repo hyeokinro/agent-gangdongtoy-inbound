@@ -1836,11 +1836,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
       },
-      "KAN0000015": {
-        "name": "[고덕점] 로보카폴리 볼링세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554670586.png"
-      },
       "AFN0000004": {
         "name": "[베케라]스피즈터플레인",
         "age": "12개월 이상 ~",
@@ -2255,6 +2250,11 @@
         "name": "가드닝카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
+      },
+      "KDN0000079": {
+        "name": "[고덕점] 브릿지 기차 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539455694.png"
       },
       "DDN0000028": {
         "name": "[자노드]쉐이프솔터",
@@ -3640,11 +3640,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
       },
-      "DDN0000117": {
-        "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
-      },
       "GBN0000081": {
         "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
@@ -3699,6 +3694,11 @@
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
+      },
+      "DDN0000117": {
+        "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
       },
       "AAN0000012": {
         "name": "[브랜드B]트윙클 볼링",
@@ -4019,11 +4019,6 @@
         "name": "페달접이식 세발자전거",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
-      },
-      "GBN0000037": {
-        "name": "아이스크림카운터놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594041401.jpg"
       },
       "GAN0000012": {
         "name": "플라워 푸쉬토이",
@@ -4519,11 +4514,6 @@
         "name": "씽크 자이언트에어 747",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165347042.png"
-      },
-      "GDN0000138": {
-        "name": "로더심플 비행기 공구놀이세트",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165549816.png"
       },
       "GDN0000157": {
         "name": "뛰뛰빵빵 출동 소방 구조대",
@@ -5824,6 +5814,11 @@
         "name": "[쿠쿠]로보카폴리그네",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759996416.jpg"
+      },
+      "AAN0000016": {
+        "name": "[쁘띠베베]러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
       },
       "ADN0000037": {
         "name": "[하페]우주선",
