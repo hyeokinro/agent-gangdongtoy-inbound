@@ -901,11 +901,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627750903.png"
       },
-      "KBN0000072": {
-        "name": "[고덕점] 콩순이코딩붕어빵가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567028582.png"
-      },
       "GAN0000012": {
         "name": "플라워 푸쉬토이",
         "age": "6개월 이상 ~",
@@ -1781,11 +1776,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
       },
-      "GDN0000220": {
-        "name": "[맥포머스] 마이퍼스트 54pcs",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765429039862.png"
-      },
       "KBN0000056": {
         "name": "[고덕점] 야채 피자세트",
         "age": "36개월 이상 ~",
@@ -2576,11 +2566,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071415258.png"
       },
-      "KDN0000119": {
-        "name": "[고덕점] 굿모닝 프렌즈",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537889075.png"
-      },
       "CDN0000079": {
         "name": "[브이텍]춤추는 강아지",
         "age": "12개월 이상 ~",
@@ -2605,6 +2590,11 @@
         "name": "[그린토이즈]대형트럭모음",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772923387.jpg"
+      },
+      "KDN0000119": {
+        "name": "[고덕점] 굿모닝 프렌즈",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537889075.png"
       },
       "KCN0000018": {
         "name": "[고덕점] 정글잼 악기세트",
@@ -3825,11 +3815,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
       },
-      "GBN0000161": {
-        "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257959184.png"
-      },
       "GFN0000010": {
         "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
         "age": "12개월 이상 ~",
@@ -4104,6 +4089,11 @@
         "name": "[고덕점] 파람팜팜 악기세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566377706.jpg"
+      },
+      "KBN0000072": {
+        "name": "[고덕점] 콩순이코딩붕어빵가게",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567028582.png"
       },
       "KBN0000071": {
         "name": "[고덕점] 콩순이 말하는팽이와 청진기",
