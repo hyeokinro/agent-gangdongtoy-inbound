@@ -211,11 +211,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070281069.png"
       },
-      "ADN0000026": {
-        "name": "[코니토이스]에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
-      },
       "KDN0000115": {
         "name": "[고덕점] 빙글빙글 해저 탐험",
         "age": "6개월 이상 ~",
@@ -2000,6 +1995,11 @@
         "name": "아파트블럭세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
+      },
+      "DDN0000102": {
+        "name": "[레고]미니언즈파일럿훈련",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071682311.png"
       },
       "KDN0000095": {
         "name": "[고덕점] 뮤직운전대",
@@ -3820,6 +3820,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260853438.png"
       },
+      "GDN0000208": {
+        "name": "[홀라베이비] 로봇 공구놀이 9in1",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
+      },
       "GFN0000010": {
         "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
         "age": "12개월 이상 ~",
@@ -5229,6 +5234,11 @@
         "name": "[보육사/GONGE]슈퍼에어보드",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627223258.png"
+      },
+      "CFN0000015": {
+        "name": "[스텝2]주니어 흔들말",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630127328.png"
       },
       "AAN0000000": {
         "name": "[브라이트]라이언스텝터",
