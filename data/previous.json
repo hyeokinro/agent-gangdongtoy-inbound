@@ -1841,11 +1841,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070553635.png"
       },
-      "AFN0000009": {
-        "name": "코레카 경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771773037.JPG"
-      },
       "KDN0000154": {
         "name": "[고덕점]밸런싱 링쌓기저울",
         "age": "12개월 이상 ~",
@@ -2641,11 +2636,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070947579.png"
       },
-      "GDN0000038": {
-        "name": "펀타임피싱",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589870976012.jpg"
-      },
       "DDN0000125": {
         "name": "[Lakeshore]미래의 우주여행",
         "age": "36개월 이상 ~",
@@ -3151,11 +3141,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030562756.jpg"
       },
-      "CAN0000062": {
-        "name": "[비키즈]미러롤러",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432947646.jpg"
-      },
       "DDN0000133": {
         "name": "[블루래빗]구스파파",
         "age": "24개월 이상 ~",
@@ -3259,6 +3244,11 @@
         "name": "어라운드음악놀이",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
+      },
+      "AFN0000010": {
+        "name": "코레카 소방차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771868270.JPG"
       },
       "GDN0000148": {
         "name": "찰칵 폴라로이드 아기 카메라",
@@ -3550,11 +3540,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765340957946.png"
       },
-      "AFN0000010": {
-        "name": "코레카 소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771868270.JPG"
-      },
       "GBN0000036": {
         "name": "아이스크림만들기",
         "age": "36개월 이상 ~",
@@ -3614,6 +3599,11 @@
         "name": "[고덕점] 걸음마 학습기 [한영버전]",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537829045.png"
+      },
+      "GDN0000193": {
+        "name": "[브라이트스타트] 공놀이 개구리 연못",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765085237887.png"
       },
       "GBN0000081": {
         "name": "뽀로로 변신 구급차",
@@ -3715,16 +3705,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
-      "DBN0000051": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
-      },
-      "DDN0000030": {
-        "name": "[자노드]청키퍼즐디노조/쥬",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
-      },
       "KDN0000124": {
         "name": "[고덕점] 엄마까투리 멜로디 풍차",
         "age": "12개월 이상 ~",
@@ -3749,6 +3729,11 @@
         "name": "[지아지조]키친토이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
+      },
+      "GBN0000027": {
+        "name": "데코 케이크세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
       },
       "AFN0000002": {
         "name": "[대호토이즈]실내용BMW(레드)",
@@ -3974,11 +3959,6 @@
         "name": "자석블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
-      },
-      "CFN0000004": {
-        "name": "꼬마버스타요부릉부릉카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_112.jpg"
       },
       "CDN0000038": {
         "name": "볼트랙-락킹보트",
@@ -5274,6 +5254,11 @@
         "name": "BBQ카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591363124.jpg"
+      },
+      "GDN0000003": {
+        "name": "[브이텍]스스로굴러가는깜짝볼",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
       },
       "GEN0000012": {
         "name": "오감발달블럭",
