@@ -991,11 +991,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069642326.png"
       },
-      "GBN0000087": {
-        "name": "[립프로그]ABC 청소기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188406169.JPG"
-      },
       "KBN0000068": {
         "name": "[고덕점] 달님이 마카롱 가게",
         "age": "36개월 이상 ~",
@@ -1656,6 +1651,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871749950.jpg"
       },
+      "GDN0000123": {
+        "name": "[립프로그]립빌더 ABC 하우스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188564404.PNG"
+      },
       "ADN0000042": {
         "name": "[J.H.INTER]뽀로로 세계여행 2층버스",
         "age": "36개월 이상 ~",
@@ -1755,11 +1755,6 @@
         "name": "탐험선B & 피규어",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223971684.png"
-      },
-      "GDN0000123": {
-        "name": "[립프로그]립빌더 ABC 하우스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188564404.PNG"
       },
       "GDN0000181": {
         "name": "[스킵합] 꿀벌 라이더",
@@ -2275,11 +2270,6 @@
         "name": "[자노드]쉐이프솔터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061342544.png"
-      },
-      "GAN0000046": {
-        "name": "[피셔프라이스] 얼티밋 스마트 러닝홈 2.0",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765249415923.png"
       },
       "GDN0000045": {
         "name": "꼬꼬닥오뚝이",
@@ -3310,11 +3300,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554261453.png"
       },
-      "KCN0000019": {
-        "name": "[고덕점] 라이트봉고드럼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
-      },
       "GDN0000016": {
         "name": "부엉이시계",
         "age": "12개월 이상 ~",
@@ -3479,6 +3464,11 @@
         "name": "[러닝리소스] 카운팅 쉐입스 터틀 세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257241905.png"
+      },
+      "KCN0000019": {
+        "name": "[고덕점] 라이트봉고드럼",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
       },
       "ABN0000042": {
         "name": "[브이텍]공구놀이세트",
