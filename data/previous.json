@@ -1336,11 +1336,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541708907.png"
       },
-      "CDN0000091": {
-        "name": "[브이텍]스마트 러닝 태블릿",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
-      },
       "DGY0000005": {
         "name": "[길동점]현대백일돌상②",
         "age": "1개월 이상 ~",
@@ -2921,11 +2916,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067727613.png"
       },
-      "CAN0000062": {
-        "name": "[비키즈]미러롤러",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432947646.jpg"
-      },
       "CDN0000040": {
         "name": "노아의 방주놀이세트",
         "age": "12개월 이상 ~",
@@ -3170,6 +3160,11 @@
         "name": "뮤지컬사운드세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030562756.jpg"
+      },
+      "CAN0000062": {
+        "name": "[비키즈]미러롤러",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432947646.jpg"
       },
       "DDN0000133": {
         "name": "[블루래빗]구스파파",
