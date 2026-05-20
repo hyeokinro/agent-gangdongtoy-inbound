@@ -726,11 +726,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
-      "KBN0000088": {
-        "name": "[고덕점]실제같은 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
-      },
       "DDN0000024": {
         "name": "[블루]자이언트펭글루",
         "age": "48개월 이상 ~",
@@ -2396,11 +2391,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163247814.png"
       },
-      "GCN0000018": {
-        "name": "[베이비아인슈타인] 해저탐험 피아노",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671505259713.PNG"
-      },
       "GCN0000010": {
         "name": "리틀디제이",
         "age": "12개월 이상 ~",
@@ -2431,6 +2421,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296246583.jpg"
       },
+      "GCN0000018": {
+        "name": "[베이비아인슈타인] 해저탐험 피아노",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671505259713.PNG"
+      },
       "ACN0000013": {
         "name": "뮤지컬 악기5종세트",
         "age": "12개월 이상 ~",
@@ -2440,11 +2435,6 @@
         "name": "[쁘띠베베]회전목마드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771456082.jpg"
-      },
-      "KDN0000153": {
-        "name": "[고덕점] 자동드릴공구놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
       },
       "ADN0000025": {
         "name": "[브이텍]스마트캐리어",
@@ -4244,6 +4234,11 @@
         "name": "[코닉스]뽀로로키즈팝댄스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562834231.png"
+      },
+      "DDN0000132": {
+        "name": "[리틀]액티비티 윈도우",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
       },
       "KDN0000152": {
         "name": "[고덕점]뽀로로 자동차마을 & 타워",
