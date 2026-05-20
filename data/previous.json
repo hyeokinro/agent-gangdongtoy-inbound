@@ -2761,11 +2761,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591363124.jpg"
       },
-      "GAN0000020": {
-        "name": "브이텍 걸음마보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1594089810516.jpg"
-      },
       "KBN0000082": {
         "name": "[고덕점] 레드 커피 머신",
         "age": "36개월 이상 ~",
@@ -2965,6 +2960,11 @@
         "name": "허니비마켓 저울세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593960886.jpg"
+      },
+      "GEN0000037": {
+        "name": "[리틀히어로] 소프트 빌딩블록 24P",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427740337.png"
       },
       "GDN0000214": {
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
@@ -5010,11 +5010,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521164847.PNG"
       },
-      "ADN0000044": {
-        "name": "[브이텍]노래하는 스피닝 휠",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204789780.PNG"
-      },
       "GBN0000088": {
         "name": "[영실업]콩순이 쇼핑카트",
         "age": "36개월 이상 ~",
@@ -5654,6 +5649,11 @@
         "name": "[베이비아인슈타인]매직터치 계산대",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433258399.jpg"
+      },
+      "CGN0000100": {
+        "name": "[엔픽스]점핑 360점퍼루(정글)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433612174.png"
       },
       "ADN0000065": {
         "name": "DJ 뮤직테이블",
