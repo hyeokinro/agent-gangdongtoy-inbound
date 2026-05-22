@@ -1046,11 +1046,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223890367.png"
       },
-      "GAN0000034": {
-        "name": "[원펀]뉴러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671517309106.PNG"
-      },
       "CDN0000034": {
         "name": "펀타임피싱(낚시)",
         "age": "12개월 이상 ~",
@@ -1811,11 +1806,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557572624.png"
       },
-      "GDN0000220": {
-        "name": "[맥포머스] 마이퍼스트 54pcs",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765429039862.png"
-      },
       "CBN0000001": {
         "name": "공룡벨로시랩터",
         "age": "36개월 이상 ~",
@@ -2251,11 +2241,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034601824.jpg"
       },
-      "ABN0000031": {
-        "name": "[BoHui]뽀로로 캐리어 소꿉놀이-노랑",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204227036.PNG"
-      },
       "KDN0000067": {
         "name": "[고덕점] 모양 맞추기",
         "age": "12개월 이상 ~",
@@ -2670,6 +2655,11 @@
         "name": "[레고]주차장과세차장",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071415258.png"
+      },
+      "ABN0000031": {
+        "name": "[BoHui]뽀로로 캐리어 소꿉놀이-노랑",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204227036.PNG"
       },
       "GDN0000173": {
         "name": "레인보우 회전놀이",
@@ -4209,11 +4199,6 @@
         "name": "에듀플러스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865815738.jpg"
-      },
-      "GGN0000010": {
-        "name": "오피스러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1590036737966.jpg"
       },
       "GEN0000002": {
         "name": "Sand stacking tower",
@@ -5809,11 +5794,6 @@
         "name": "[리틀타익스] 리틀 꼬마 스쿠터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
-      },
-      "GEN0000037": {
-        "name": "[리틀히어로] 소프트 빌딩블록 24P",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427740337.png"
       }
     }
   },
