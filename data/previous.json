@@ -391,11 +391,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070065465.png"
       },
-      "CDN0000043": {
-        "name": "빙글빙글 해저탐험",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
-      },
       "KDN0000110": {
         "name": "[고덕점] 이집트원정대",
         "age": "36개월 이상 ~",
@@ -896,11 +891,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
       },
-      "CDN0000097": {
-        "name": "[브이텍]6in1 트위스트 에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432672724.jpg"
-      },
       "CBN0000005": {
         "name": "공룡프테라노돈",
         "age": "36개월 이상 ~",
@@ -1061,11 +1051,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671517309106.PNG"
       },
-      "CDN0000087": {
-        "name": "[브이텍]밸런싱 링쌓기저울",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349615479.png"
-      },
       "CDN0000034": {
         "name": "펀타임피싱(낚시)",
         "age": "12개월 이상 ~",
@@ -1110,11 +1095,6 @@
         "name": "레인포레스트점퍼루",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_132.jpg"
-      },
-      "GDN0000206": {
-        "name": "[브루더] MAN 트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259294701.png"
       },
       "GBN0000098": {
         "name": "다이노 월드 랩 세트",
@@ -2206,11 +2186,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
       },
-      "GDN0000125": {
-        "name": "[대성]말하는 도져쇼벨",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256358110.PNG"
-      },
       "GEN0000027": {
         "name": "컨스트럭션세트(26pcs)3차원자석블럭",
         "age": "36개월 이상 ~",
@@ -3000,6 +2975,11 @@
         "name": "미니스쿠터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1592454791120.jpg"
+      },
+      "GDN0000188": {
+        "name": "[아이코닉스]뽀로로 점보 비행기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277717592.jpg"
       },
       "AAN0000021": {
         "name": "[브이텍] 3in1 스포츠 센터",
@@ -4269,6 +4249,11 @@
         "name": "[스마트라이크]트램폴린 3in 1 세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627906971.png"
+      },
+      "CGN0000035": {
+        "name": "[피셔프라이스] 동물친구 액티비티 점퍼루",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628803046.png"
       },
       "CDN0000069": {
         "name": "[하페]레인보우기차세트",
