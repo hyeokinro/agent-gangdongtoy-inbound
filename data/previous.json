@@ -1756,15 +1756,15 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248693569.png"
       },
-      "GDN0000192": {
-        "name": "[브이텍] 대형 자동차 수송트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084464918.png"
-      },
       "ACN0000007": {
         "name": "[브랜드B]파람팜팜악기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771005210.jpg"
+      },
+      "GDN0000192": {
+        "name": "[브이텍] 대형 자동차 수송트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084464918.png"
       },
       "DDN0000108": {
         "name": "[레고]인페르노제트",
@@ -4519,6 +4519,11 @@
         "name": "아기드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033339231.jpg"
+      },
+      "CBN0000039": {
+        "name": "푸드트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726785905.JPG"
       },
       "CDN0000068": {
         "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
