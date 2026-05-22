@@ -1846,11 +1846,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067352254.png"
       },
-      "CAN0000002": {
-        "name": "놀이판베이비룸",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_2.jpg"
-      },
       "DDN0000134": {
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
@@ -2120,6 +2115,11 @@
         "name": "컵쌓기 & 액티비티 볼 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224102932.png"
+      },
+      "CBN0000068": {
+        "name": "[영실업]콩순이 말하는 청진기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433142189.png"
       },
       "CBN0000011": {
         "name": "병원놀이(원목)",
@@ -5254,11 +5254,6 @@
         "name": "[브이텍]스마트캐리어",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773743427.jpg"
-      },
-      "ADN0000032": {
-        "name": "[보육사]과일,자석낚시판",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777250564.jpg"
       },
       "AGN0000003": {
         "name": "[아이존]올인원아기체육관",
