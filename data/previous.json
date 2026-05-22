@@ -391,6 +391,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070065465.png"
       },
+      "CDN0000043": {
+        "name": "빙글빙글 해저탐험",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
+      },
       "KDN0000110": {
         "name": "[고덕점] 이집트원정대",
         "age": "36개월 이상 ~",
@@ -1100,6 +1105,11 @@
         "name": "[고덕점] 댄싱 유니콘",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
+      },
+      "CGN0000013": {
+        "name": "레인포레스트점퍼루",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_132.jpg"
       },
       "GDN0000206": {
         "name": "[브루더] MAN 트럭",
@@ -3075,11 +3085,6 @@
         "name": "탑 트럭(레드)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595208161.jpg"
-      },
-      "AAN0000016": {
-        "name": "[쁘띠베베]러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
       },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
