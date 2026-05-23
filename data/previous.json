@@ -296,6 +296,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
       },
+      "ABN0000010": {
+        "name": "[립프]아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
+      },
       "GCN0000011": {
         "name": "어라운드음악놀이",
         "age": "1개월 이상 ~",
@@ -741,11 +746,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060855186.png"
       },
-      "ACN0000009": {
-        "name": "[보육사]영아용리듬악기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
-      },
       "CGN0000102": {
         "name": "[엔픽스]스텝 360보행기(크림그레이)",
         "age": "6개월 이상 ~",
@@ -980,11 +980,6 @@
         "name": "[코닉스]뽀로로EQ테마파크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562724440.png"
-      },
-      "CBN0000042": {
-        "name": "[하페] 빵만들기 놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628341661.png"
       },
       "CEN0000018": {
         "name": "자석블럭",
@@ -2151,6 +2146,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
       },
+      "CGN0000005": {
+        "name": "뉴나리프 바운서",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_124.jpg"
+      },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
         "age": "36개월 이상 ~",
@@ -2496,11 +2496,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594354214.jpg"
       },
-      "ADN0000050": {
-        "name": "[영진완구]핑크퐁 원더스타 소방관제센터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205388397.PNG"
-      },
       "KGN0000004": {
         "name": "[고덕점] 콤비 YT-Belle 아기보행기",
         "age": "6개월 이상 ~",
@@ -2650,11 +2645,6 @@
         "name": "뽀로로119멜로디소방차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866029938.jpg"
-      },
-      "CBN0000067": {
-        "name": "[브이텍]첫 계산대 놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432749828.jpg"
       },
       "KBN0000084": {
         "name": "[고덕점]로즈우드 돌하우스가방",
@@ -3965,11 +3955,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
       },
-      "KBN0000068": {
-        "name": "[고덕점] 달님이 마카롱 가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538059209.png"
-      },
       "KGN0000005": {
         "name": "[고덕점] 디럭스 아기체육관",
         "age": "6개월 이상 ~",
@@ -4879,11 +4864,6 @@
         "name": "[고덕점] 똑똑한 꼬마버스 타요",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538675288.png"
-      },
-      "KDN0000092": {
-        "name": "[고덕점] 로켓모양 맞추기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
       },
       "KGN0000003": {
         "name": "[고덕점] 엔픽스 롤링360 보행기",
