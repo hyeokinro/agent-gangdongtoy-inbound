@@ -1331,11 +1331,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593784979.jpg"
       },
-      "KBN0000089": {
-        "name": "[고덕점] 핑크퐁진동벨계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733816538226.png"
-      },
       "DDN0000052": {
         "name": "[하바]플라워페깅게임",
         "age": "12개월 이상 ~",
@@ -1420,6 +1415,11 @@
         "name": "[브이텍]밸런싱 링쌓기저울",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168862339.png"
+      },
+      "KBN0000089": {
+        "name": "[고덕점] 핑크퐁진동벨계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733816538226.png"
       },
       "CDN0000020": {
         "name": "물고기실꿰기",
@@ -2856,11 +2856,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034645993.jpg"
       },
-      "GDN0000219": {
-        "name": "[브이텍] 다이노 먹이주기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
-      },
       "GBN0000035": {
         "name": "허니비마켓 저울세트",
         "age": "36개월 이상 ~",
@@ -3062,11 +3057,6 @@
         "name": "[택배]현대백일돌상⑤",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357394730.jpg"
-      },
-      "CGN0000058": {
-        "name": "[택배]전통백일돌상⑦",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357709829.png"
       },
       "CGN0000051": {
         "name": "[택배]현대백일돌상 ⑫",
@@ -3470,6 +3460,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
       },
+      "DDN0000077": {
+        "name": "[하바]동물쌓기",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070281069.png"
+      },
       "ADN0000001": {
         "name": "[사라앤]도로레스&카스버트",
         "age": "12개월 이상 ~",
@@ -3610,10 +3605,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
       },
-      "DDN0000170": {
-        "name": "[피노키오]타요 운전놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
+      "DDN0000118": {
+        "name": "[브라이트스타트]뉴 ABC러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
       },
       "DDN0000117": {
         "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
@@ -3709,6 +3704,11 @@
         "name": "[리틀타익스]퍼스트 세탁기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
+      },
+      "DDN0000170": {
+        "name": "[피노키오]타요 운전놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
       "DBN0000049": {
         "name": "[립프로그]피자카트 한영버젼",
