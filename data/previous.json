@@ -2061,11 +2061,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537811238.png"
       },
-      "GDN0000025": {
-        "name": "마이퍼스트러닝하우스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865593493.jpg"
-      },
       "ADN0000034": {
         "name": "[플랜토이즈]램프레이서",
         "age": "12개월 이상 ~",
@@ -2090,6 +2085,11 @@
         "name": "컨스트럭션세트(26pcs)3차원자석블럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873694859.jpg"
+      },
+      "GDN0000025": {
+        "name": "마이퍼스트러닝하우스",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865593493.jpg"
       },
       "DDN0000169": {
         "name": "[오즈토이]피아노 퍼즐하우스 완구",
@@ -3320,11 +3320,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
       },
-      "GDN0000193": {
-        "name": "[브라이트스타트] 공놀이 개구리 연못",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765085237887.png"
-      },
       "KDN0000148": {
         "name": "[고덕점] 오뚜기(빨강)",
         "age": "6개월 이상 ~",
@@ -3520,6 +3515,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594667384.jpg"
       },
+      "KBN0000088": {
+        "name": "[고덕점]실제같은 쇼핑카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
+      },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
         "age": "6개월 이상 ~",
@@ -3614,11 +3614,6 @@
         "name": "[고덕점]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
-      },
-      "KBN0000088": {
-        "name": "[고덕점]실제같은 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
       },
       "DBN0000051": {
         "name": "[리틀타익스]퍼스트 세탁기",
@@ -5669,11 +5664,6 @@
         "name": "[아이존]뽀로로 변신 경찰본부",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278434158.jpg"
-      },
-      "GAN0000043": {
-        "name": "[리틀타익스]액티비티가든",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296015695.jpg"
       },
       "CAN0000062": {
         "name": "[비키즈]미러롤러",
