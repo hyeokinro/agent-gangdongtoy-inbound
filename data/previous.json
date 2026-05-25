@@ -641,11 +641,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771888983.jpg"
       },
-      "GDN0000158": {
-        "name": "립스토리 [한영버전]",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167667336.png"
-      },
       "DDN0000098": {
         "name": "[레고]미니의공간",
         "age": "24개월 이상 ~",
@@ -1681,11 +1676,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033185737.jpg"
       },
-      "CGN0000011": {
-        "name": "락카루바운서(멀티)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_130.jpg"
-      },
       "DDN0000088": {
         "name": "[조엔]팅팅퍽",
         "age": "60개월 이상 ~",
@@ -2271,11 +2261,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559018228.png"
       },
-      "KDN0000072": {
-        "name": "[고덕점] 러닝 액티비티 큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1704356804689.png"
-      },
       "ABN0000036": {
         "name": "[아이플러스]핑크퐁 진동벨 계산대",
         "age": "36개월 이상 ~",
@@ -2436,11 +2421,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594354214.jpg"
       },
-      "KGN0000004": {
-        "name": "[고덕점] 콤비 YT-Belle 아기보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566705523.png"
-      },
       "ADN0000012": {
         "name": "[보육사]농촌중장비",
         "age": "24개월 이상 ~",
@@ -2460,6 +2440,11 @@
         "name": "[Lakeshore]미래의 우주여행",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672192962552.PNG"
+      },
+      "KDN0000072": {
+        "name": "[고덕점] 러닝 액티비티 큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1704356804689.png"
       },
       "DDN0000097": {
         "name": "[레고]해변출동",
