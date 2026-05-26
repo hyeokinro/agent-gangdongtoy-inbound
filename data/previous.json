@@ -1971,11 +1971,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672122685216.PNG"
       },
-      "KDN0000049": {
-        "name": "[고덕점] 엄마까투리 어드벤쳐 플레이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541827094.png"
-      },
       "DDN0000090": {
         "name": "[아이누리]핑크퐁레이싱",
         "age": "36개월 이상 ~",
@@ -2295,6 +2290,11 @@
         "name": "[브라이트]미키마우스락커",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779059096.jpg"
+      },
+      "KDN0000049": {
+        "name": "[고덕점] 엄마까투리 어드벤쳐 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541827094.png"
       },
       "GEN0000027": {
         "name": "컨스트럭션세트(26pcs)3차원자석블럭",
@@ -3260,11 +3260,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166519534.png"
       },
-      "KDN0000137": {
-        "name": "[고덕점] 쥬라기월드 트래커 다이노팩",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554767625.png"
-      },
       "GDN0000016": {
         "name": "부엉이시계",
         "age": "12개월 이상 ~",
@@ -3755,6 +3750,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
+      "DDN0000044": {
+        "name": "[플랜토이즈]망치놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
+      },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
         "age": "6개월 이상 ~",
@@ -3804,11 +3804,6 @@
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
-      },
-      "KBN0000059": {
-        "name": "[고덕점] 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540709566.png"
       },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
@@ -6068,6 +6063,11 @@
         "name": "한복 테스트",
         "age": "1개월 이상 ~",
         "image": ""
+      },
+      "HSN0000069": {
+        "name": "[물놀이팩]유아체어파라솔(B)+모래놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778214762490.png"
       },
       "HSN0000037": {
         "name": "[놀이팩]노래하는 젖소",
