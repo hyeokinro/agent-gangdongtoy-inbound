@@ -1531,6 +1531,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069852010.png"
       },
+      "CDN0000048": {
+        "name": "뽀로로 멜로디소방차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672137047.jpg"
+      },
       "CBN0000034": {
         "name": "원목화장품가방",
         "age": "36개월 이상 ~",
@@ -1776,6 +1781,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768199086.jpg"
       },
+      "CDN0000045": {
+        "name": "빙글빙글 동물친구놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
+      },
       "GCN0000009": {
         "name": "멜로디 곤충피아노",
         "age": "6개월 이상 ~",
@@ -1895,11 +1905,6 @@
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
-      },
-      "CDN0000045": {
-        "name": "빙글빙글 동물친구놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
       },
       "KDN0000045": {
         "name": "[고덕점] 뽀로로 노래하는 줄줄이 티슈",
@@ -2311,6 +2316,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541827094.png"
       },
+      "CDN0000102": {
+        "name": "[베이비아인슈타인]뮤지컬 무빙 문어아빠",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435737111.jpg"
+      },
       "GEN0000027": {
         "name": "컨스트럭션세트(26pcs)3차원자석블럭",
         "age": "36개월 이상 ~",
@@ -2320,11 +2330,6 @@
         "name": "[오즈토이]피아노 퍼즐하우스 완구",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
-      },
-      "CDN0000102": {
-        "name": "[베이비아인슈타인]뮤지컬 무빙 문어아빠",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435737111.jpg"
       },
       "DDN0000028": {
         "name": "[자노드]쉐이프솔터",
@@ -2940,11 +2945,6 @@
         "name": "[바조]탈것세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415157841.jpg"
-      },
-      "KDN0000134": {
-        "name": "[고덕점] 즐거운뽀로로하우스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540248063.png"
       },
       "ADN0000005": {
         "name": "[플레이포에버]자동차2",
@@ -6069,6 +6069,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778199751438.png"
       },
+      "HSN0000051": {
+        "name": "[물놀이팩]니모수영복(2XL)+유아보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139855613.png"
+      },
       "CWN0000000": {
         "name": "한복 테스트",
         "age": "1개월 이상 ~",
@@ -6093,6 +6098,11 @@
         "name": "[물놀이팩]아기비치체어+모래놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778200245015.png"
+      },
+      "HSN0000083": {
+        "name": "[물놀이팩]돌고래물총튜브+수영복",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218949969.png"
       },
       "HSN0000033": {
         "name": "[놀이팩]달콩아 응가하자",
@@ -6139,15 +6149,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778219035775.png"
       },
+      "HSN0000059": {
+        "name": "[물놀이팩]애플수영복(M)+보행기튜브",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778199123125.png"
+      },
       "HSN0000057": {
         "name": "[물놀이팩]쥬라기수영복+오리튜브",
         "age": "12개월 이상 ~",
         "image": ""
-      },
-      "HSN0000065": {
-        "name": "[물놀이팩]보행기튜브+유아수영복(3호)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778200079340.png"
       },
       "HSN0000048": {
         "name": "[물놀이팩]구명조끼+보트모래놀이",
@@ -6173,6 +6183,11 @@
         "name": "[물놀이팩]파인애플수영복(2XL)+암튜브",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140314073.png"
+      },
+      "HSN0000072": {
+        "name": "[물놀이팩]목욕놀이장난감 2종",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778215643731.png"
       },
       "HSN0000045": {
         "name": "[놀이팩]커들반 인형(코끼리)",
