@@ -331,6 +331,11 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061207647.png"
       },
+      "AGN0000011": {
+        "name": "[페도라]카시트(블랙)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779135844.jpg"
+      },
       "DEN0000003": {
         "name": "[스틱오]피싱세트",
         "age": "36개월 이상 ~",
@@ -1266,6 +1271,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069765107.png"
       },
+      "CDN0000072": {
+        "name": "[블루래빗]꼬꼬맘",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521273599.PNG"
+      },
       "GBN0000019": {
         "name": "허니비마켓 과일상자",
         "age": "36개월 이상 ~",
@@ -1791,6 +1801,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773201440.jpg"
       },
+      "CDN0000098": {
+        "name": "[블루래빗]아기오리랑 마마덕",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433333649.jpg"
+      },
       "GDN0000177": {
         "name": "탐험선B & 피규어",
         "age": "24개월 이상 ~",
@@ -2305,6 +2320,11 @@
         "name": "[오즈토이]피아노 퍼즐하우스 완구",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
+      },
+      "CDN0000102": {
+        "name": "[베이비아인슈타인]뮤지컬 무빙 문어아빠",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435737111.jpg"
       },
       "DDN0000028": {
         "name": "[자노드]쉐이프솔터",
@@ -4965,11 +4985,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029236260.jpg"
       },
-      "GBN0000045": {
-        "name": "디럭스야생동물세트24종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029275545.jpg"
-      },
       "GCN0000000": {
         "name": "신나는악기세트",
         "age": "12개월 이상 ~",
@@ -5870,11 +5885,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537757084.png"
       },
-      "KBN0000077": {
-        "name": "[고덕점] 강아지 돌보기놀이 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
-      },
       "KDN0000099": {
         "name": "[고덕점] 도형놀이 블록트럭",
         "age": "36개월 이상 ~",
@@ -6054,10 +6064,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138853163.png"
       },
-      "HSN0000051": {
-        "name": "[물놀이팩]니모수영복(2XL)+유아보트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139855613.png"
+      "HSN0000064": {
+        "name": "[물놀이팩]목욕놀이인형+목욕책",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778199751438.png"
       },
       "CWN0000000": {
         "name": "한복 테스트",
