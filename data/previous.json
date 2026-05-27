@@ -436,11 +436,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777980685.jpg"
       },
-      "GDN0000167": {
-        "name": "타요 스트롱 구조트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222208014.png"
-      },
       "DDN0000154": {
         "name": "[손오공]옥토넛 옥토포드 플레이세트",
         "age": "36개월 이상 ~",
@@ -2851,6 +2846,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910468539.png"
       },
+      "KDN0000153": {
+        "name": "[고덕점] 자동드릴공구놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
+      },
       "DDN0000104": {
         "name": "[레고]스케이트공원",
         "age": "60개월 이상 ~",
@@ -4264,6 +4264,11 @@
         "name": "[리틀]액티비티 윈도우",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
+      },
+      "KDN0000152": {
+        "name": "[고덕점]뽀로로 자동차마을 & 타워",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910157580.png"
       },
       "KDN0000150": {
         "name": "[고덕점]큐블로 매직큐브  자석블럭",
