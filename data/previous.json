@@ -731,11 +731,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
       },
-      "KCN0000020": {
-        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
-      },
       "GBN0000012": {
         "name": "냉장식자재 용기모형세트",
         "age": "36개월 이상 ~",
@@ -825,6 +820,11 @@
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
+      },
+      "KCN0000020": {
+        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
       },
       "GDN0000026": {
         "name": "레코딩무선전화놀이",
@@ -2320,11 +2320,6 @@
         "name": "[캐스비] 플레이 역할의상 요리사",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779871790807.png"
-      },
-      "KGN0000006": {
-        "name": "[고덕점] 베이비베이스 부스터2",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
       },
       "GBN0000000": {
         "name": "가드닝카트",
