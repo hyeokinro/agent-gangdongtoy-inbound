@@ -191,11 +191,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
       },
-      "ADN0000026": {
-        "name": "[코니토이스]에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
-      },
       "GBN0000036": {
         "name": "아이스크림만들기",
         "age": "36개월 이상 ~",
@@ -576,11 +571,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
-      "KBN0000083": {
-        "name": "[고덕점]피자카트 한영버전",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
-      },
       "GDN0000022": {
         "name": "아기핸드폰",
         "age": "1개월 이상 ~",
@@ -790,6 +780,11 @@
         "name": "[보육사]음식컷팅세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
+      },
+      "KBN0000083": {
+        "name": "[고덕점]피자카트 한영버전",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
       "DDN0000030": {
         "name": "[자노드]청키퍼즐디노조/쥬",
@@ -2950,11 +2945,6 @@
         "name": "[벨레덕]바나나",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066443949.png"
-      },
-      "AAN0000022": {
-        "name": "[브이텍]스스로굴러가는깜짝볼핑크",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168019223.png"
       },
       "GDN0000090": {
         "name": "[짐보리/맥포머스]브레인마스터세트300",
@@ -5819,6 +5809,11 @@
         "name": "[부루마블]클래식",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071205795.png"
+      },
+      "ADN0000039": {
+        "name": "[코닉스]타요긴급출동세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650517520779.png"
       },
       "ADN0000040": {
         "name": "[브라이트]공놀이고래",
