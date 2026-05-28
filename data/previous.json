@@ -1021,11 +1021,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
       },
-      "AGN0000008": {
-        "name": "[브라이트]포레스트바운서",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
-      },
       "ADN0000019": {
         "name": "[아이코닉스]뽀로로폴리스",
         "age": "48개월 이상 ~",
@@ -2310,11 +2305,6 @@
         "name": "소프트미용놀이A형",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163407667.png"
-      },
-      "AGN0000017": {
-        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
       },
       "ADN0000062": {
         "name": "[현우토이]원목 낚시 놀이 10p",
@@ -3950,6 +3940,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_84.jpg"
       },
+      "CDN0000037": {
+        "name": "핍 디럭스15pc(스퀴즈)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_89.jpg"
+      },
       "CEN0000018": {
         "name": "자석블럭",
         "age": "12개월 이상 ~",
@@ -5045,6 +5040,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
       },
+      "AGN0000016": {
+        "name": "베이비범 액티비티 워커",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672367306425.png"
+      },
       "GBN0000089": {
         "name": "콩순이 콩콩이와 119 병원세트",
         "age": "12개월 이상 ~",
@@ -5344,6 +5344,11 @@
         "name": "[립프로그]BBQ 카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768138822.jpg"
+      },
+      "ADN0000012": {
+        "name": "[보육사]농촌중장비",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772869896.jpg"
       },
       "ADN0000013": {
         "name": "[그린토이즈]대형트럭모음",
