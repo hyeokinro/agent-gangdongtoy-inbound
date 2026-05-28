@@ -6034,15 +6034,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218949969.png"
       },
-      "HSN0000033": {
-        "name": "[놀이팩]달콩아 응가하자",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140825167.png"
-      },
       "HSN0000056": {
         "name": "[물놀이팩]플라밍고수영복(2XL)+모래놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140502667.png"
+      },
+      "HSN0000033": {
+        "name": "[놀이팩]달콩아 응가하자",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140825167.png"
       },
       "HSN0000016": {
         "name": "[놀이팩]5단변신 알파벳로봇",
@@ -6054,11 +6054,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300071529.png"
       },
-      "HSN0000024": {
-        "name": "[놀이팩]야구배팅 놀이세트(핑크)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
-      },
       "HSN0000073": {
         "name": "[물놀이팩]너프물총+모래놀이",
         "age": "36개월 이상 ~",
@@ -6068,6 +6063,11 @@
         "name": "[놀이팩]야구배팅 놀이세트(블루)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139698114.png"
+      },
+      "HSN0000024": {
+        "name": "[놀이팩]야구배팅 놀이세트(핑크)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
       },
       "HSN0000048": {
         "name": "[물놀이팩]구명조끼+보트모래놀이",
@@ -6094,20 +6094,10 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301749300.png"
       },
-      "HSN0000044": {
-        "name": "[놀이팩]콩순이 강아지랑 목욕놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300710393.png"
-      },
       "HSN0000088": {
         "name": "[물놀이팩]샤크수영복(XL)+모래놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778226852773.png"
-      },
-      "HSN0000029": {
-        "name": "[놀이팩]콩순이 응가습관 콩콩이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140425130.png"
       }
     },
     "delivery": {},
