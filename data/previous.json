@@ -3576,11 +3576,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594838337.jpg"
       },
-      "CDN0000074": {
-        "name": "[코닉스]뽀로로키즈팝댄스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
-      },
       "DDN0000060": {
         "name": "[타일블록스]인스파이어",
         "age": "36개월 이상 ~",
@@ -4610,6 +4605,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542340893.png"
       },
+      "KDN0000101": {
+        "name": "[고덕점] 원통 쌓기 블록",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
+      },
       "KDN0000089": {
         "name": "[고덕점] 코랄리프",
         "age": "24개월 이상 ~",
@@ -5534,6 +5534,11 @@
         "name": "소프트미용놀이A형",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163407667.png"
+      },
+      "GAN0000040": {
+        "name": "뮤지컬 액티비티 워커",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
       },
       "GDN0000152": {
         "name": "전동드릴 공구놀이세트",
