@@ -2001,11 +2001,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188564404.PNG"
       },
-      "ADN0000042": {
-        "name": "[J.H.INTER]뽀로로 세계여행 2층버스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204513843.jpg"
-      },
       "GDN0000062": {
         "name": "클라부 신차안전검사놀이세트",
         "age": "24개월 이상 ~",
@@ -4405,6 +4400,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_60.jpg"
       },
+      "CDN0000009": {
+        "name": "동물 숨기기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_61.jpg"
+      },
       "CDN0000032": {
         "name": "재활용트럭",
         "age": "12개월 이상 ~",
@@ -5779,6 +5779,11 @@
         "name": "피에로 고리끼우기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791972689.jpg"
+      },
+      "CBN0000031": {
+        "name": "쇼핑카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792719664.jpg"
       },
       "CAN0000034": {
         "name": "[보육사/GONGE]슈퍼에어보드",
