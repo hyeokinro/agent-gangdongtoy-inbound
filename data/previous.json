@@ -1191,11 +1191,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780040014906.png"
       },
-      "KDN0000060": {
-        "name": "[고덕점] 팝피 토피",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564446654.png"
-      },
       "CBN0000006": {
         "name": "냄비세트(원목)",
         "age": "36개월 이상 ~",
@@ -1325,6 +1320,11 @@
         "name": "디에인샵 비행기 점퍼루 아기쏘서",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030632649.png"
+      },
+      "KDN0000060": {
+        "name": "[고덕점] 팝피 토피",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564446654.png"
       },
       "DBN0000050": {
         "name": "[리틀타익스]퍼스트 냉장고",
@@ -2436,11 +2436,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780042220787.png"
       },
-      "GBN0000089": {
-        "name": "콩순이 콩콩이와 119 병원세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162870728.png"
-      },
       "KDN0000065": {
         "name": "[고덕점] 노아의 방주",
         "age": "36개월 이상 ~",
@@ -2561,6 +2556,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791727157.jpg"
       },
+      "GBN0000089": {
+        "name": "콩순이 콩콩이와 119 병원세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162870728.png"
+      },
       "KDN0000092": {
         "name": "[고덕점] 로켓모양 맞추기",
         "age": "36개월 이상 ~",
@@ -2591,6 +2591,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664459155.jpg"
       },
+      "GBN0000000": {
+        "name": "가드닝카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
+      },
       "GDN0000015": {
         "name": "브라이트스타트 심포니기어",
         "age": "12개월 이상 ~",
@@ -2600,11 +2605,6 @@
         "name": "[고덕점] 엄마까투리 디럭스 트리 하우스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541753455.png"
-      },
-      "GBN0000000": {
-        "name": "가드닝카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
       },
       "GBN0000029": {
         "name": "아이스크림",
@@ -3436,11 +3436,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554304144.png"
       },
-      "GBN0000150": {
-        "name": "[립프로그]피자카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277688466.jpg"
-      },
       "GDN0000066": {
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
         "age": "36개월 이상 ~",
@@ -3560,6 +3555,11 @@
         "name": "[텐더리프] 미니쉐프 버디 찻잔세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958965396.png"
+      },
+      "GBN0000150": {
+        "name": "[립프로그]피자카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277688466.jpg"
       },
       "KDN0000064": {
         "name": "[고덕점] 스쿨버스",
