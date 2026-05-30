@@ -171,11 +171,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034147285.jpg"
       },
-      "GDN0000203": {
-        "name": "[러닝리소스] 카운팅 쉐입스 터틀 세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257241905.png"
-      },
       "GBN0000025": {
         "name": "(르토이반) 피자",
         "age": "36개월 이상 ~",
@@ -3548,6 +3543,11 @@
       }
     },
     "delivery": {
+      "CAY0000042": {
+        "name": "[택배]코끼리미끄럼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636441159660.png"
+      },
       "CGN0000076": {
         "name": "[택배]][브라이트스타트]바운스 액티비티 점퍼루(핑크)",
         "age": "6개월 이상 ~",
@@ -4725,11 +4725,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771980712.jpg"
       },
-      "ADN0000018": {
-        "name": "[코닉스]뽀로로비행기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773384193.jpg"
-      },
       "ADN0000020": {
         "name": "[브리오]월드소방서세트",
         "age": "36개월 이상 ~",
@@ -5289,11 +5284,6 @@
         "name": "신나는악기세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030442188.jpg"
-      },
-      "GBN0000004": {
-        "name": "뷰티드레서화장대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031788346.jpg"
       },
       "GDN0000001": {
         "name": "제니쥬",
@@ -6418,6 +6408,11 @@
         "name": "[놀이팩]자석 변신로봇(블루)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138749780.png"
+      },
+      "HSN0000068": {
+        "name": "[물놀이팩]유아체어파라솔(A)+감성매트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778214603752.png"
       },
       "HSN0000030": {
         "name": "[놀이팩]콩순이 바른생활 콩콩이",
