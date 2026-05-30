@@ -1246,11 +1246,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539301320.png"
       },
-      "GDN0000226": {
-        "name": "[초이락] 헬로카봇 나이트X",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431950943.png"
-      },
       "ADN0000035": {
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
@@ -3376,11 +3371,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958965396.png"
       },
-      "GBN0000150": {
-        "name": "[립프로그]피자카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277688466.jpg"
-      },
       "KDN0000064": {
         "name": "[고덕점] 스쿨버스",
         "age": "24개월 이상 ~",
@@ -3583,11 +3573,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357394730.jpg"
       },
-      "CAN0000047": {
-        "name": "[택배][리틀]베이비스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650529597150.PNG"
-      },
       "CGN0000075": {
         "name": "[택배]][브라이트스타트]바운스 액티비티 점퍼루(그린)",
         "age": "6개월 이상 ~",
@@ -3603,15 +3588,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
       },
-      "CGN0000007": {
-        "name": "[택배]니모액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726138267.JPG"
-      },
       "CGN0000039": {
         "name": "[택배]현대백일돌상 ⑧",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732451249.png"
+      },
+      "CGN0000007": {
+        "name": "[택배]니모액티비티 점퍼루",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726138267.JPG"
       }
     },
     "wait": {
@@ -5455,6 +5440,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
       },
+      "KGN0000006": {
+        "name": "[고덕점] 베이비베이스 부스터2",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
+      },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
         "age": "36개월 이상 ~",
@@ -5844,6 +5834,11 @@
         "name": "[고덕점] 굿모닝 프렌즈",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537889075.png"
+      },
+      "KAN0000011": {
+        "name": "[고덕점] 베이비 스포츠센터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539382532.png"
       },
       "KDN0000146": {
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
