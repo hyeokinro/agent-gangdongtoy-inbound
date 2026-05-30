@@ -511,11 +511,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
       },
-      "CFN0000003": {
-        "name": "코레카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
-      },
       "GCN0000005": {
         "name": "악어레인메이커",
         "age": "36개월 이상 ~",
@@ -850,6 +845,11 @@
         "name": "[호와]모닝커피세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768245873.jpg"
+      },
+      "CFN0000003": {
+        "name": "코레카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
       },
       "ABN0000040": {
         "name": "[영실업]콩콩이와 119병원세트",
@@ -1800,11 +1800,6 @@
         "name": "[고덕점] 도형끼우기 드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
-      },
-      "GDN0000171": {
-        "name": "와일드 어드벤처 애니멀 구조대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222971602.png"
       },
       "GDN0000135": {
         "name": "씽크 자이언트에어 747",
@@ -3655,11 +3650,6 @@
       }
     },
     "wait": {
-      "KDN0000044": {
-        "name": "[고덕점] 크레인&자동차 놀이세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
-      },
       "GDN0000060": {
         "name": "클라부 화재경보놀이",
         "age": "24개월 이상 ~",
@@ -3789,6 +3779,11 @@
         "name": "[브루더] MAN 로더",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259170574.png"
+      },
+      "KDN0000044": {
+        "name": "[고덕점] 크레인&자동차 놀이세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
       },
       "CGN0000023": {
         "name": "와이즈체어 범보부스터(핑크)",
@@ -5154,6 +5149,11 @@
         "name": "액티비티 코끼리 농구대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
+      },
+      "GCN0000022": {
+        "name": "마이 리얼 잼 키보드",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165037890.png"
       },
       "GDN0000149": {
         "name": "기차세트 스타터",
