@@ -3680,11 +3680,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
       },
-      "CGN0000023": {
-        "name": "와이즈체어 범보부스터(핑크)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
-      },
       "GDN0000209": {
         "name": "[블루레빗]꼬꼬맘",
         "age": "12개월 이상 ~",
@@ -3889,6 +3884,11 @@
         "name": "[브라이트]컴포트스윙",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
+      },
+      "CGN0000023": {
+        "name": "와이즈체어 범보부스터(핑크)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
       },
       "KBN0000058": {
         "name": "[고덕점] 헤어 드레싱세트",
@@ -4905,11 +4905,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278605112.jpg"
       },
-      "CGN0000098": {
-        "name": "[에시앙]범보의자(클라우드베어 일체형)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432429604.png"
-      },
       "AGN0000019": {
         "name": "하늘썬별 피아노체육관 걸음마 (블루)",
         "age": "1개월 이상 ~",
@@ -5699,6 +5694,16 @@
         "name": "[하페]꽃과별끼우기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062149596.png"
+      },
+      "DDN0000087": {
+        "name": "[코리아보드]루미큐브",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070947579.png"
+      },
+      "DDN0000093": {
+        "name": "[코리아보드]딕싯",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071250033.png"
       },
       "DDN0000095": {
         "name": "[레고]놀이공원",
