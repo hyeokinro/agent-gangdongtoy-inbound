@@ -3885,6 +3885,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
       },
+      "GCN0000011": {
+        "name": "어라운드음악놀이",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
+      },
       "GBN0000027": {
         "name": "데코 케이크세트",
         "age": "36개월 이상 ~",
@@ -4030,10 +4035,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777980685.jpg"
       },
-      "KDN0000090": {
-        "name": "[고덕점] 로더심플 페리보트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
+      "GDN0000128": {
+        "name": "[브이텍]러닝 액티비티 큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671497051740.PNG"
       },
       "GDN0000132": {
         "name": "[브이텍]나잡아봐 야옹이",
@@ -4064,6 +4069,11 @@
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
+      },
+      "KDN0000090": {
+        "name": "[고덕점] 로더심플 페리보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
       },
       "KBN0000059": {
         "name": "[고덕점] 쇼핑카트",
