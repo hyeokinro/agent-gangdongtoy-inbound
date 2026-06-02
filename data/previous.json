@@ -1151,11 +1151,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069642326.png"
       },
-      "GBN0000087": {
-        "name": "[립프로그]ABC 청소기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188406169.JPG"
-      },
       "KBN0000068": {
         "name": "[고덕점] 달님이 마카롱 가게",
         "age": "36개월 이상 ~",
@@ -2001,11 +1996,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193688069.PNG"
       },
-      "CBN0000039": {
-        "name": "푸드트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726785905.JPG"
-      },
       "ABN0000013": {
         "name": "[멜리사앤]피자베이커리",
         "age": "36개월 이상 ~",
@@ -2135,11 +2125,6 @@
         "name": "[고덕점] 킥앤스코어 아기체육관",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566776220.png"
-      },
-      "CFN0000023": {
-        "name": "[아이코닉스] 타요 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433409969.jpg"
       },
       "KDN0000145": {
         "name": "[고덕점] 에듀플러스",
@@ -2546,6 +2531,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780035146678.png"
       },
+      "ADN0000044": {
+        "name": "[브이텍]노래하는 스피닝 휠",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204789780.PNG"
+      },
       "KDN0000080": {
         "name": "[고덕점] 즐거운 놀이공원",
         "age": "36개월 이상 ~",
@@ -2856,11 +2846,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
       },
-      "GBN0000094": {
-        "name": "미키와친구들 자동차 병원놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
-      },
       "PBN0000074": {
         "name": "[올리앤캐롤] 존레몬",
         "age": "1개월 이상 ~",
@@ -3065,6 +3050,11 @@
         "name": "도형맞추기 하우스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
+      },
+      "GBN0000094": {
+        "name": "미키와친구들 자동차 병원놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
       },
       "ABN0000031": {
         "name": "[BoHui]뽀로로 캐리어 소꿉놀이-노랑",
