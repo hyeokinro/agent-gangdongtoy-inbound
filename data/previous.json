@@ -4075,6 +4075,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349805980.png"
       },
+      "ABN0000038": {
+        "name": "[립프로그]아이스크림 카트 디럭스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
+      },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
@@ -4239,11 +4244,6 @@
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
-      },
-      "GDN0000085": {
-        "name": "[숲소리]실꿰기세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415748622.jpg"
       },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
@@ -6164,6 +6164,11 @@
         "name": "베이비밴드",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_45.jpg"
+      },
+      "CDN0000004": {
+        "name": "나잡아봐야옹이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_56.jpg"
       },
       "CDN0000019": {
         "name": "멀티플렉스세트150pc(스퀴즈)",
