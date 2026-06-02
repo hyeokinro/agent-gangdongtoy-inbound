@@ -176,11 +176,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590946963.jpg"
       },
-      "GDN0000145": {
-        "name": "타요 고속도로 하이패스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166519534.png"
-      },
       "GBN0000021": {
         "name": "허니비마켓 달걀상자",
         "age": "36개월 이상 ~",
@@ -685,11 +680,6 @@
         "name": "[대성]뉴 말하는 레미콘",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
-      },
-      "DDN0000164": {
-        "name": "[지오맥]매직큐브프리빌딩 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
       },
       "GDN0000014": {
         "name": "꿀벌톱니바퀴",
@@ -2531,11 +2521,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593637428.jpg"
       },
-      "GCN0000000": {
-        "name": "신나는악기세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030442188.jpg"
-      },
       "GEN0000009": {
         "name": "아파트블럭세트",
         "age": "36개월 이상 ~",
@@ -2901,11 +2886,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773984790.jpg"
       },
-      "DDN0000033": {
-        "name": "[하베브릭스]자석블록",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
-      },
       "GDN0000150": {
         "name": "빙글빙글 스피닝 헬리콥터",
         "age": "12개월 이상 ~",
@@ -3125,6 +3105,11 @@
         "name": "소방차(그린토이즈)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032321381.jpg"
+      },
+      "DDN0000033": {
+        "name": "[하베브릭스]자석블록",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
       },
       "GEN0000033": {
         "name": "해양입체퍼즐",
