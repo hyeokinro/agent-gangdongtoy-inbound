@@ -626,11 +626,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032421439.jpg"
       },
-      "DDN0000044": {
-        "name": "[플랜토이즈]망치놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
-      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -690,11 +685,6 @@
         "name": "[대성]뉴 말하는 레미콘",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
-      },
-      "DDN0000118": {
-        "name": "[브라이트스타트]뉴 ABC러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
       },
       "GDN0000014": {
         "name": "꿀벌톱니바퀴",
@@ -835,6 +825,11 @@
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
+      },
+      "DDN0000044": {
+        "name": "[플랜토이즈]망치놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
       },
       "DDN0000101": {
         "name": "[레고]스파이더맨본부",
@@ -2601,6 +2596,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559206841.png"
       },
+      "KBN0000087": {
+        "name": "[고덕점] 멜리사앤더그 쇼핑카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730185392699.png"
+      },
       "MBN0000063": {
         "name": "보쉬 높이 조절 공구 작업대",
         "age": "36개월 이상 ~",
@@ -2760,11 +2760,6 @@
         "name": "스탠드 케이크세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593612799.jpg"
-      },
-      "DDN0000036": {
-        "name": "[하페]꽃과별끼우기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062149596.png"
       },
       "DDN0000155": {
         "name": "[손오공]옥토넛탐험선A & 캡틴버나클",
@@ -3556,11 +3551,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030562756.jpg"
       },
-      "KDN0000134": {
-        "name": "[고덕점] 즐거운뽀로로하우스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540248063.png"
-      },
       "PBN0000084": {
         "name": "[올리앤캐롤] 쥬시토마토",
         "age": "1개월 이상 ~",
@@ -4040,11 +4030,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
-      "DBN0000049": {
-        "name": "[립프로그]피자카트 한영버젼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
-      },
       "GBN0000167": {
         "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
         "age": "36개월 이상 ~",
@@ -4120,6 +4105,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
       },
+      "DDN0000164": {
+        "name": "[지오맥]매직큐브프리빌딩 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
+      },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
@@ -4170,10 +4160,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
       },
-      "DDN0000164": {
-        "name": "[지오맥]매직큐브프리빌딩 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
+      "DBN0000049": {
+        "name": "[립프로그]피자카트 한영버젼",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
       },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
@@ -6014,11 +6004,6 @@
         "name": "[아이존] 뽀로로 변신특공대 S",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765344239553.png"
-      },
-      "CBY0000057": {
-        "name": "루크와 포대기 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773366052466.png"
       },
       "CAN0000015": {
         "name": "쿠쿠그네",
