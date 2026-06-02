@@ -456,11 +456,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205015903.jpg"
       },
-      "KBN0000059": {
-        "name": "[고덕점] 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540709566.png"
-      },
       "DDN0000067": {
         "name": "[애니블록]퍼즐올인원팩",
         "age": "36개월 이상 ~",
@@ -1066,6 +1061,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
       },
+      "KDN0000149": {
+        "name": "[고덕점]6IN1 트위스트 에듀큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910389019.png"
+      },
       "ABN0000009": {
         "name": "[마더가든]오븐베이커리",
         "age": "36개월 이상 ~",
@@ -1136,11 +1136,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780041363285.png"
       },
-      "AGN0000008": {
-        "name": "[브라이트]포레스트바운서",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
-      },
       "CDN0000066": {
         "name": "[하페]레드브릿지 기차세트",
         "age": "36개월 이상 ~",
@@ -1165,6 +1160,11 @@
         "name": "리틀타익스 리틀 더티디거 청소차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959222191.png"
+      },
+      "AGN0000008": {
+        "name": "[브라이트]포레스트바운서",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
       },
       "CEN0000018": {
         "name": "자석블럭",
@@ -3501,6 +3501,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595194327.jpg"
       },
+      "GDN0000052": {
+        "name": "토끼(핑크)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034645993.jpg"
+      },
       "CDN0000040": {
         "name": "노아의 방주놀이세트",
         "age": "12개월 이상 ~",
@@ -3809,11 +3814,6 @@
         "name": "[브이텍]액티비티에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
-      },
-      "GDN0000209": {
-        "name": "[블루레빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765340957946.png"
       },
       "AFN0000010": {
         "name": "코레카 소방차",
@@ -4205,10 +4205,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703556955467.png"
       },
-      "GDN0000158": {
-        "name": "립스토리 [한영버전]",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167667336.png"
+      "KDN0000094": {
+        "name": "[고덕점] 츄츄레일",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
@@ -4229,11 +4229,6 @@
         "name": "[고덕점] 엄마까투리 멜로디 풍차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
-      },
-      "KDN0000094": {
-        "name": "[고덕점] 츄츄레일",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
       "DEN0000000": {
         "name": "[스틱오]아기상어 프렌즈 세트",
@@ -6543,6 +6538,11 @@
         "name": "한복 테스트",
         "age": "1개월 이상 ~",
         "image": ""
+      },
+      "HSN0000083": {
+        "name": "[물놀이팩]돌고래물총튜브+수영복",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218949969.png"
       },
       "HSN0000056": {
         "name": "[물놀이팩]플라밍고수영복(2XL)+모래놀이",
