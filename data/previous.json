@@ -3860,11 +3860,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
       },
-      "CGN0000023": {
-        "name": "와이즈체어 범보부스터(핑크)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
-      },
       "KBN0000058": {
         "name": "[고덕점] 헤어 드레싱세트",
         "age": "36개월 이상 ~",
@@ -4075,10 +4070,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
       },
-      "GDN0000144": {
-        "name": "춤추며 배우는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
+      "DDN0000168": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
@@ -4140,11 +4135,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
       },
-      "DDN0000168": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
-      },
       "DDN0000164": {
         "name": "[지오맥]매직큐브프리빌딩 세트",
         "age": "24개월 이상 ~",
@@ -4154,6 +4144,11 @@
         "name": "[토도리브로]씽씽자동차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
+      },
+      "CGN0000102": {
+        "name": "[엔픽스]스텝 360보행기(크림그레이)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434809214.jpg"
       },
       "CFN0000024": {
         "name": "[씨투엠뉴]랜드로버 붕붕카",
@@ -4889,6 +4884,11 @@
         "name": "하늘썬별 피아노체육관 걸음마 (블루)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758013592535.JPG"
+      },
+      "GDN0000195": {
+        "name": "[브라이트스타트] 공놀이 코끼리 버스",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245706771.png"
       },
       "GGN0000028": {
         "name": "[디즈니베이비] 푸우 캐릭터 멜로디 모빌 체육관",
