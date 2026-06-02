@@ -1486,11 +1486,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069765107.png"
       },
-      "CDN0000072": {
-        "name": "[블루래빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521273599.PNG"
-      },
       "MBN0000075": {
         "name": "요리양념세트",
         "age": "36개월 이상 ~",
@@ -1500,6 +1495,11 @@
         "name": "[텐더리프] 얌냠식사 냄비와 프라이팬",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780032982783.png"
+      },
+      "GBN0000019": {
+        "name": "허니비마켓 과일상자",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593384161.jpg"
       },
       "KDN0000139": {
         "name": "[고덕점] 테이크얼롱프린세스테일즈모빌",
@@ -5539,6 +5539,11 @@
         "name": "[고덕점] 댄싱퍼피",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537718725.png"
+      },
+      "KDN0000100": {
+        "name": "[고덕점] 공구 상자",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537842099.png"
       },
       "KDN0000070": {
         "name": "[고덕점] 동전 놀이",
