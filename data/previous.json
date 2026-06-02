@@ -206,11 +206,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779960129037.png"
       },
-      "ADN0000002": {
-        "name": "[브이텍]액티비티에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
-      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -1086,11 +1081,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
       },
-      "KDN0000149": {
-        "name": "[고덕점]6IN1 트위스트 에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910389019.png"
-      },
       "ABN0000009": {
         "name": "[마더가든]오븐베이커리",
         "age": "36개월 이상 ~",
@@ -1390,11 +1380,6 @@
         "name": "[텐더리프] 미니쉐프 홈베이킹 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780033117894.png"
-      },
-      "CGN0000013": {
-        "name": "레인포레스트점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_132.jpg"
       },
       "ADN0000022": {
         "name": "[짐보리]맥포머스90PCS",
@@ -5690,11 +5675,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
       },
-      "CGY0000094": {
-        "name": "[브라이트스타트]디즈니 미니마우스 액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750312134266.jpg"
-      },
       "CGY0000095": {
         "name": "[엔픽스]동물원 에디션 보행기",
         "age": "6개월 이상 ~",
@@ -5744,6 +5724,11 @@
         "name": "오감발달블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594717180.JPG"
+      },
+      "GDN0000010": {
+        "name": "망치놀이",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595157074.jpg"
       },
       "GDN0000040": {
         "name": "공놀이 고래",
