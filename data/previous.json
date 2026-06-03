@@ -926,11 +926,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415492870.jpg"
       },
-      "GFN0000004": {
-        "name": "페달접이식 세발자전거",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
-      },
       "KCN0000014": {
         "name": "[고덕점] 리틀탭어튠실로폰",
         "age": "12개월 이상 ~",
@@ -1020,6 +1015,11 @@
         "name": "[에드토이]공중수단3종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773225279.jpg"
+      },
+      "GFN0000004": {
+        "name": "페달접이식 세발자전거",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
@@ -3040,11 +3040,6 @@
         "name": "소방차(그린토이즈)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032321381.jpg"
-      },
-      "DDN0000033": {
-        "name": "[하베브릭스]자석블록",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
       },
       "GEN0000033": {
         "name": "해양입체퍼즐",
