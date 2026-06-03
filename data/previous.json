@@ -1111,11 +1111,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780041363285.png"
       },
-      "CDN0000066": {
-        "name": "[하페]레드브릿지 기차세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631221901.png"
-      },
       "PBN0000073": {
         "name": "[올리앤캐롤] 윌리 수박",
         "age": "1개월 이상 ~",
@@ -1170,6 +1165,11 @@
         "name": "[하페]주스&컵케잌세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629185091758.jpg"
+      },
+      "CDN0000066": {
+        "name": "[하페]레드브릿지 기차세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631221901.png"
       },
       "GDN0000077": {
         "name": "응급차량미니카13종",
@@ -1446,11 +1446,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069366597.png"
       },
-      "CBN0000008": {
-        "name": "둑티그 장난감 계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801929669.jpg"
-      },
       "GBN0000034": {
         "name": "허니비마켓 계산놀이세트",
         "age": "36개월 이상 ~",
@@ -1500,6 +1495,11 @@
         "name": "[플랜토이즈]공룡퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061902481.png"
+      },
+      "CBN0000008": {
+        "name": "둑티그 장난감 계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801929669.jpg"
       },
       "GCN0000006": {
         "name": "멜로디 멀티기타",
@@ -2490,11 +2490,6 @@
         "name": "[고덕점]아기곰저울&숫자놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910238791.png"
-      },
-      "CAN0000057": {
-        "name": "[키움하우스]팝핑 워커 거북이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
       },
       "DDN0000102": {
         "name": "[레고]미니언즈파일럿훈련",
