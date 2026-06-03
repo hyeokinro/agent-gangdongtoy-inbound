@@ -1276,11 +1276,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594788112.jpg"
       },
-      "KDN0000104": {
-        "name": "[고덕점] 댄싱 유니콘",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
-      },
       "GDN0000131": {
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
@@ -1771,6 +1766,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780022443163.png"
       },
+      "KDN0000104": {
+        "name": "[고덕점] 댄싱 유니콘",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
+      },
       "KDN0000123": {
         "name": "[고덕점] 매직큐브프리빌딩 세트",
         "age": "24개월 이상 ~",
@@ -1835,11 +1835,6 @@
         "name": "[르토이반]동물친구들",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416325981.jpg"
-      },
-      "GDN0000021": {
-        "name": "로데오루스터",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027499707.jpg"
       },
       "GCN0000016": {
         "name": "크록심포니",
@@ -1935,6 +1930,11 @@
         "name": "다이노 헌터 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223582214.png"
+      },
+      "GDN0000021": {
+        "name": "로데오루스터",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027499707.jpg"
       },
       "KDN0000066": {
         "name": "[고덕점] 블럭먹는 악어",
@@ -5164,11 +5164,6 @@
         "name": "[고덕점] 퍼스트 오븐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566898937.png"
-      },
-      "KFN0000001": {
-        "name": "[고덕점] 코니 4in1 스프링카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568278011.png"
       },
       "DDN0000126": {
         "name": "[브이텍]액티비티 에듀 테이블",
