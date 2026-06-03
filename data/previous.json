@@ -296,6 +296,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
       },
+      "KBN0000076": {
+        "name": "[고덕점] 옥토레이 변신 본부 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542513703.png"
+      },
       "GDN0000155": {
         "name": "자장가램프 운전놀이 프로젝트",
         "age": "12개월 이상 ~",
@@ -365,11 +370,6 @@
         "name": "[립프로그]ABC 청소기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664695076.jpg"
-      },
-      "KBN0000076": {
-        "name": "[고덕점] 옥토레이 변신 본부 플레이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542513703.png"
       },
       "GCN0000011": {
         "name": "어라운드음악놀이",
@@ -766,6 +766,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_59.jpg"
       },
+      "KBN0000085": {
+        "name": "[고덕점]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
+      },
       "DEN0000000": {
         "name": "[스틱오]아기상어 프렌즈 세트",
         "age": "36개월 이상 ~",
@@ -860,11 +865,6 @@
         "name": "[영실업]콩콩이와 119병원세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
-      },
-      "KBN0000085": {
-        "name": "[고덕점]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
       "PBN0000083": {
         "name": "[올리앤캐롤] 두두케일",
@@ -3450,6 +3450,11 @@
         "name": "[브이텍]3단계 말하는 얼룩말 스쿠터",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
+      },
+      "KGN0000008": {
+        "name": "[고덕점] 수더프린테일즈모빌+거치대",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540732302.png"
       },
       "GEN0000008": {
         "name": "Forest soul cubes set",
@@ -6329,16 +6334,6 @@
         "age": "1개월 이상 ~",
         "image": ""
       },
-      "HSN0000083": {
-        "name": "[물놀이팩]돌고래물총튜브+수영복",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218949969.png"
-      },
-      "HSN0000056": {
-        "name": "[물놀이팩]플라밍고수영복(2XL)+모래놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140502667.png"
-      },
       "HSN0000033": {
         "name": "[놀이팩]달콩아 응가하자",
         "age": "36개월 이상 ~",
@@ -6359,16 +6354,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139698114.png"
       },
-      "HSN0000082": {
-        "name": "[물놀이팩]풀장+오리목욕장난감",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218857772.png"
-      },
-      "HSN0000073": {
-        "name": "[물놀이팩]너프물총+모래놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778216616040.png"
-      },
       "HSN0000014": {
         "name": "[놀이팩]자석 변신로봇(블루)",
         "age": "36개월 이상 ~",
@@ -6383,16 +6368,6 @@
         "name": "[물놀이팩]파인애플수영복(2XL)+암튜브",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140314073.png"
-      },
-      "HSN0000085": {
-        "name": "[물놀이팩]뽀로로물총+해양동물뜰채",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778818253907.png"
-      },
-      "HSN0000088": {
-        "name": "[물놀이팩]샤크수영복(XL)+모래놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778226852773.png"
       },
       "HSN0000025": {
         "name": "[놀이팩]무당벌레3in1 운동기구",
