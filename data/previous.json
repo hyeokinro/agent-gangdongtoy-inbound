@@ -951,11 +951,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780041837334.png"
       },
-      "CGN0000089": {
-        "name": "[비키즈]망아지 플레이테이블 (걸음마)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
-      },
       "ADN0000004": {
         "name": "[플레이포에버]자동차1",
         "age": "36개월 이상 ~",
@@ -4115,11 +4110,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
-      "CDN0000076": {
-        "name": "[메가블럭]블럭놀이 테이블 30PCS",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207218733.jpg"
-      },
       "CBN0000059": {
         "name": "[리틀타익스]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
@@ -4319,6 +4309,11 @@
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
+      },
+      "GDN0000132": {
+        "name": "[브이텍]나잡아봐 야옹이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504425776.PNG"
       },
       "KBN0000059": {
         "name": "[고덕점] 쇼핑카트",
@@ -5050,6 +5045,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541708907.png"
       },
+      "KDN0000132": {
+        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
+      },
       "KDN0000074": {
         "name": "[고덕점] 타요 중앙차고지놀이",
         "age": "36개월 이상 ~",
@@ -5334,6 +5334,11 @@
         "name": "[고덕점] 스마트 러닝 액티비티 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540952834.png"
+      },
+      "KBN0000046": {
+        "name": "[고덕점] 아이스크림카트 디럭스 민트초코",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541536917.png"
       },
       "KBN0000056": {
         "name": "[고덕점] 야채 피자세트",
