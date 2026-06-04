@@ -2021,11 +2021,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032272823.jpg"
       },
-      "GDN0000130": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
-      },
       "GDN0000181": {
         "name": "[스킵합] 꿀벌 라이더",
         "age": "36개월 이상 ~",
@@ -2310,6 +2305,11 @@
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
+      },
+      "GDN0000130": {
+        "name": "[하베브릭스]6in1변신큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
       },
       "CBN0000001": {
         "name": "공룡벨로시랩터",
@@ -4165,6 +4165,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
       },
+      "GDN0000076": {
+        "name": "공사차량미니카12종",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948399708.JPG"
+      },
       "KDN0000059": {
         "name": "[고덕점] 스키핑스톤",
         "age": "6개월 이상 ~",
@@ -4360,11 +4365,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031257691.jpg"
       },
-      "CBN0000017": {
-        "name": "원목찻잔세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_34.jpg"
-      },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
         "age": "36개월 이상 ~",
@@ -4404,11 +4404,6 @@
         "name": "[립프로그]피자카트 한영버젼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
-      },
-      "DDN0000042": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
@@ -5459,11 +5454,6 @@
         "name": "루키미러",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_68.jpg"
-      },
-      "CDN0000030": {
-        "name": "오뚜기삐에로",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_82.jpg"
       },
       "CGN0000005": {
         "name": "뉴나리프 바운서",
