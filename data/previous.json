@@ -36,11 +36,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780034171736.png"
       },
-      "DDN0000163": {
-        "name": "[시쿠]버스차량 5종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553595180.png"
-      },
       "PBN0000054": {
         "name": "[텐더리프] 알로하 열대과일 도마",
         "age": "36개월 이상 ~",
@@ -2011,11 +2006,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591121089.jpg"
       },
-      "DDN0000045": {
-        "name": "[하바]마법의소리게임",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
-      },
       "GDN0000071": {
         "name": "원목덤프트럭",
         "age": "36개월 이상 ~",
@@ -2295,6 +2285,11 @@
         "name": "[올리앤캐롤] 파브루스 브로컬리",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780042366502.png"
+      },
+      "DDN0000045": {
+        "name": "[하바]마법의소리게임",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
       },
       "GDN0000177": {
         "name": "탐험선B & 피규어",
