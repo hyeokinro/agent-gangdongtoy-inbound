@@ -3751,6 +3751,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800150102.png"
       },
+      "KBN0000077": {
+        "name": "[고덕점] 강아지 돌보기놀이 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
+      },
       "CAN0000001": {
         "name": "걸이식 농구대",
         "age": "12개월 이상 ~",
@@ -3999,11 +4004,6 @@
         "name": "[코닉스]타요 포크레인 중장비 놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563561634.png"
-      },
-      "GEN0000035": {
-        "name": "애완동물입체퍼즐",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
       },
       "GFN0000001": {
         "name": "코레카경찰차",
@@ -4325,6 +4325,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
       },
+      "KBN0000059": {
+        "name": "[고덕점] 쇼핑카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540709566.png"
+      },
       "AGN0000020": {
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
         "age": "1개월 이상 ~",
@@ -4359,11 +4364,6 @@
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_34.jpg"
-      },
-      "KBN0000059": {
-        "name": "[고덕점] 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540709566.png"
       },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
@@ -6249,6 +6249,11 @@
         "name": "베이직블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_101.jpg"
+      },
+      "GBN0000017": {
+        "name": "원목자석과일자르기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
       },
       "GBN0000040": {
         "name": "직업인형12종소꿉놀이",
