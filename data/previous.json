@@ -331,11 +331,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
-      "DDN0000145": {
-        "name": "[코닉스]타요 주유소플레이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
-      },
       "DDN0000029": {
         "name": "[자노드]청키퍼즐비히클/팜",
         "age": "12개월 이상 ~",
@@ -811,11 +806,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
       },
-      "KDN0000094": {
-        "name": "[고덕점] 츄츄레일",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
-      },
       "KBN0000085": {
         "name": "[고덕점]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
@@ -920,6 +910,11 @@
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
+      },
+      "KDN0000094": {
+        "name": "[고덕점] 츄츄레일",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
@@ -2811,11 +2806,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539238781.png"
       },
-      "DDN0000104": {
-        "name": "[레고]스케이트공원",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
-      },
       "GDN0000147": {
         "name": "라이트업 뮤지컬버스",
         "age": "12개월 이상 ~",
@@ -3290,6 +3280,11 @@
         "name": "[고덕점]로즈우드 돌하우스가방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910468539.png"
+      },
+      "DDN0000104": {
+        "name": "[레고]스케이트공원",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
       },
       "ABN0000019": {
         "name": "[보육사]목재의사놀이",
