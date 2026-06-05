@@ -346,11 +346,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
       },
-      "GAN0000044": {
-        "name": "[리틀타익스]핀볼 액티비티 테이블",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277171510.jpg"
-      },
       "ABN0000004": {
         "name": "[테팔]오픈쿡키친세트",
         "age": "36개월 이상 ~",
@@ -2231,11 +2226,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032199643.jpg"
       },
-      "ABN0000045": {
-        "name": "[원더코퍼레이션]원목소꿉놀이 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730937887813.png"
-      },
       "DDN0000124": {
         "name": "[Lakeshore]믹스매치 건설차량",
         "age": "36개월 이상 ~",
@@ -2320,6 +2310,11 @@
         "name": "[고덕점] 노아의 방주",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537946226.png"
+      },
+      "ABN0000045": {
+        "name": "[원더코퍼레이션]원목소꿉놀이 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730937887813.png"
       },
       "DDN0000021": {
         "name": "[하페]토터타워",
@@ -2495,11 +2490,6 @@
         "name": "아파트블럭세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
-      },
-      "AFN0000003": {
-        "name": "[베케라]스피즈터소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778059048.jpg"
       },
       "KDN0000151": {
         "name": "[고덕점]아기곰저울&숫자놀이",
@@ -3605,11 +3595,6 @@
       }
     },
     "wait": {
-      "KDN0000055": {
-        "name": "[고덕점] 마그네틱 블록 잠수비행기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539091885.png"
-      },
       "GBN0000003": {
         "name": "(영어)아이스크림카트",
         "age": "24개월 이상 ~",
@@ -3874,6 +3859,11 @@
         "name": "어라운드음악놀이",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
+      },
+      "KDN0000055": {
+        "name": "[고덕점] 마그네틱 블록 잠수비행기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539091885.png"
       },
       "CBN0000059": {
         "name": "[리틀타익스]퍼스트 식기세척기",
