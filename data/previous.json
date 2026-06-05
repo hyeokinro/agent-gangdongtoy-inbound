@@ -1681,11 +1681,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948193376.JPG"
       },
-      "GDN0000195": {
-        "name": "[브라이트스타트] 공놀이 코끼리 버스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245706771.png"
-      },
       "CBN0000034": {
         "name": "원목화장품가방",
         "age": "36개월 이상 ~",
@@ -3026,11 +3021,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
       },
-      "GDN0000080": {
-        "name": "에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033978290.jpg"
-      },
       "GDN0000056": {
         "name": "차고지&헬리콥터세트",
         "age": "36개월 이상 ~",
@@ -3785,11 +3775,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538866628.png"
       },
-      "GDN0000139": {
-        "name": "망아지 플레이테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165738861.png"
-      },
       "GDN0000189": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -3969,6 +3954,11 @@
         "name": "[고덕점] 헤어 드레싱세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
+      },
+      "GDN0000139": {
+        "name": "망아지 플레이테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165738861.png"
       },
       "GDN0000165": {
         "name": "내가바로 축구왕",
@@ -5225,6 +5215,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568143126.png"
       },
+      "KFN0000001": {
+        "name": "[고덕점] 코니 4in1 스프링카",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568278011.png"
+      },
       "DBN0000042": {
         "name": "[토이트론]달님이카페놀이",
         "age": "36개월 이상 ~",
@@ -5524,6 +5519,11 @@
         "name": "[고덕점] 뮤직운전대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
+      },
+      "KGN0000006": {
+        "name": "[고덕점] 베이비베이스 부스터2",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
       },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
@@ -6279,6 +6279,11 @@
         "name": "[고덕점] 뿡뿡이 컵쌓기 블록",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540420642.png"
+      },
+      "KAN0000009": {
+        "name": "[고덕점] 액티비티 가든",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541625180.png"
       },
       "KBN0000055": {
         "name": "[고덕점] 채소썰기놀이",
