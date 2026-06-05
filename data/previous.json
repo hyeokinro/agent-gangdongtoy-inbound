@@ -3755,11 +3755,6 @@
       }
     },
     "wait": {
-      "GBN0000003": {
-        "name": "(영어)아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592194663.jpg"
-      },
       "KDN0000112": {
         "name": "[고덕점] 샵앤런 점심식사",
         "age": "36개월 이상 ~",
@@ -3874,6 +3869,11 @@
         "name": "[고덕점] 꼬꼬맘",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
+      },
+      "GBN0000003": {
+        "name": "(영어)아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592194663.jpg"
       },
       "GFN0000001": {
         "name": "코레카경찰차",
