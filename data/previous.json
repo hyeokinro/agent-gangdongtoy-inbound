@@ -626,11 +626,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031023597.jpg"
       },
-      "CFN0000006": {
-        "name": "밴츠붕붕카(레드)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599802247728.jpg"
-      },
       "PBN0000088": {
         "name": "[올리앤캐롤] 아놀드 아보카도",
         "age": "1개월 이상 ~",
@@ -2845,6 +2840,11 @@
         "name": "[토이트론]달님이 과일주스가게",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557539976.png"
+      },
+      "AAN0000000": {
+        "name": "[브라이트]라이언스텝터",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617758904028.jpg"
       },
       "GCN0000003": {
         "name": "뮤지컬에그",
@@ -6538,6 +6538,11 @@
         "name": "[놀이팩]크롱응가놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140347396.png"
+      },
+      "HSN0000005": {
+        "name": "[놀이팩]마이퍼스트북NO.6동화세계(작은책)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773137890931.png"
       },
       "HSN0000017": {
         "name": "[놀이팩]레이싱 핸들게임",
