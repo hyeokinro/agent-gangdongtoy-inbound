@@ -291,11 +291,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259170574.png"
       },
-      "GBN0000002": {
-        "name": "푸드트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
-      },
       "AAN0000020": {
         "name": "캐스B 말랑말랑 볼링친구들",
         "age": "24개월 이상 ~",
@@ -1225,11 +1220,6 @@
         "name": "아이팜 힘찬 포크레인 붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958018487.png"
-      },
-      "ADN0000036": {
-        "name": "[브라이어트]스핀몽키",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777585031.jpg"
       },
       "ADN0000019": {
         "name": "[아이코닉스]뽀로로폴리스",
@@ -2301,11 +2291,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660200334286.PNG"
       },
-      "ADN0000044": {
-        "name": "[브이텍]노래하는 스피닝 휠",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204789780.PNG"
-      },
       "GDN0000047": {
         "name": "에코차량운송트럭",
         "age": "12개월 이상 ~",
@@ -2470,6 +2455,11 @@
         "name": "[고덕점] 로켓모양 맞추기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
+      },
+      "ADN0000044": {
+        "name": "[브이텍]노래하는 스피닝 휠",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204789780.PNG"
       },
       "DDN0000028": {
         "name": "[자노드]쉐이프솔터",
