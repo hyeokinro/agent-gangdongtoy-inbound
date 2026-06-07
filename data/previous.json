@@ -3400,11 +3400,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "AAN0000020": {
         "name": "캐스B 말랑말랑 볼링친구들",
         "age": "24개월 이상 ~",
@@ -3429,6 +3424,11 @@
         "name": "[브이텍]스마트 러닝 태블릿",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
+      },
+      "GDN0000189": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
       "KDN0000144": {
         "name": "[고덕점] 춤추는 낚시놀이 세트",
@@ -5409,11 +5409,6 @@
         "name": "베이직(30pcs)3차원자석블럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057677550.JPG"
-      },
-      "GEN0000031": {
-        "name": "차량입체퍼즐",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026751352.jpg"
       },
       "GCN0000010": {
         "name": "리틀디제이",
