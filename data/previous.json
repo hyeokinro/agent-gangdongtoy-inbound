@@ -2476,11 +2476,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
       },
-      "CBN0000063": {
-        "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349571247.png"
-      },
       "KDN0000083": {
         "name": "[고덕점] 카캐리어세트",
         "age": "12개월 이상 ~",
@@ -2790,6 +2785,11 @@
         "name": "[구디우디]오리푸쉬",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760364393.jpg"
+      },
+      "CBN0000063": {
+        "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349571247.png"
       },
       "MFN0000022": {
         "name": "야야 CAT 로더",
@@ -3156,11 +3156,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
       },
-      "CEN0000010": {
-        "name": "마린청키퍼즐",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800150102.png"
-      },
       "KBN0000077": {
         "name": "[고덕점] 강아지 돌보기놀이 세트",
         "age": "36개월 이상 ~",
@@ -3200,6 +3195,11 @@
         "name": "[고덕점] NEW 알파벳 주볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537757084.png"
+      },
+      "CEN0000010": {
+        "name": "마린청키퍼즐",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800150102.png"
       }
     },
     "delivery": {
