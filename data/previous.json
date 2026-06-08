@@ -1971,11 +1971,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032199643.jpg"
       },
-      "DDN0000124": {
-        "name": "[Lakeshore]믹스매치 건설차량",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672122685216.PNG"
-      },
       "DDN0000090": {
         "name": "[아이누리]핑크퐁레이싱",
         "age": "36개월 이상 ~",
@@ -2131,11 +2126,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664459155.jpg"
       },
-      "ADN0000062": {
-        "name": "[현우토이]원목 낚시 놀이 10p",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169045398.png"
-      },
       "GBN0000004": {
         "name": "뷰티드레서화장대",
         "age": "36개월 이상 ~",
@@ -2225,6 +2215,11 @@
         "name": "[고덕점] 걸음마친구 수다쟁이 전화기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537811238.png"
+      },
+      "DDN0000124": {
+        "name": "[Lakeshore]믹스매치 건설차량",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672122685216.PNG"
       },
       "ABN0000037": {
         "name": "쇼핑카트&스캐너",
@@ -3545,11 +3540,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204364533.PNG"
       },
-      "CGN0000023": {
-        "name": "와이즈체어 범보부스터(핑크)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
-      },
       "GDN0000201": {
         "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
         "age": "36개월 이상 ~",
@@ -3730,10 +3720,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
       },
-      "ADN0000047": {
-        "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
+      "DEN0000000": {
+        "name": "[스틱오]아기상어 프렌즈 세트",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
       },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
@@ -3769,11 +3759,6 @@
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
-      },
-      "DEN0000000": {
-        "name": "[스틱오]아기상어 프렌즈 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
       },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
@@ -5264,6 +5249,11 @@
         "name": "리틀디제이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033564153.jpg"
+      },
+      "GDN0000080": {
+        "name": "에듀테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033978290.jpg"
       },
       "CDN0000056": {
         "name": "피에로 고리끼우기",
