@@ -791,11 +791,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768245873.jpg"
       },
-      "GDN0000208": {
-        "name": "[홀라베이비] 로봇 공구놀이 9in1",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
-      },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
@@ -1946,11 +1941,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223971684.png"
       },
-      "GDN0000159": {
-        "name": "오케스트라 러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
-      },
       "CBN0000001": {
         "name": "공룡벨로시랩터",
         "age": "36개월 이상 ~",
@@ -2000,11 +1990,6 @@
         "name": "폴라비 원목 케이크 스탠드 티파티 2종세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780022188084.png"
-      },
-      "GAN0000026": {
-        "name": "[오볼]오볼놀이세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416270996.jpg"
       },
       "DDN0000100": {
         "name": "[레고]비행기와공항",
@@ -2240,6 +2225,11 @@
         "name": "아이스크림",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593637428.jpg"
+      },
+      "GAN0000026": {
+        "name": "[오볼]오볼놀이세트",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416270996.jpg"
       },
       "GBN0000095": {
         "name": "소프트미용놀이A형",
@@ -2770,11 +2760,6 @@
         "name": "[코닉스]뽀로로캐리어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768856166.jpg"
-      },
-      "KDN0000114": {
-        "name": "[고덕점] 호기심 러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703556854197.png"
       },
       "GDN0000162": {
         "name": "도형맞추기 하우스",
