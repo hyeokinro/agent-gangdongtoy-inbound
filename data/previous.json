@@ -1661,11 +1661,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566776220.png"
       },
-      "KDN0000087": {
-        "name": "[고덕점] 뉴 ABC테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537962707.png"
-      },
       "CDN0000068": {
         "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
         "age": "6개월 이상 ~",
@@ -2130,11 +2125,6 @@
         "name": "Earth colors cubes set",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594457968.jpg"
-      },
-      "KDN0000142": {
-        "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543318470.png"
       },
       "KDN0000065": {
         "name": "[고덕점] 노아의 방주",
@@ -3156,11 +3146,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1705718567999.PNG"
       },
-      "CDN0000004": {
-        "name": "나잡아봐야옹이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_56.jpg"
-      },
       "GDN0000007": {
         "name": "빅 카고트럭(레드)",
         "age": "6개월 이상 ~",
@@ -3236,16 +3221,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
       },
-      "CGN0000015": {
-        "name": "반짝반짝뮤지컬걸음마",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
-      },
-      "GBN0000091": {
-        "name": "콩순이 알록달록 카페놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
-      },
       "KBN0000077": {
         "name": "[고덕점] 강아지 돌보기놀이 세트",
         "age": "36개월 이상 ~",
@@ -3280,6 +3255,11 @@
         "name": "직업인형12종소꿉놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589872838953.jpg"
+      },
+      "GBN0000091": {
+        "name": "콩순이 알록달록 카페놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
       }
     },
     "delivery": {
