@@ -306,11 +306,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
       },
-      "DDN0000029": {
-        "name": "[자노드]청키퍼즐비히클/팜",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
-      },
       "GDN0000075": {
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
@@ -335,11 +330,6 @@
         "name": "[브이텍]스마트 러닝 태블릿",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
-      },
-      "ABN0000004": {
-        "name": "[테팔]오픈쿡키친세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767388902.jpg"
       },
       "CEN0000003": {
         "name": "뉴 농장꼭지퍼즐",
@@ -2001,6 +1991,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539159047.png"
       },
+      "GDN0000183": {
+        "name": "[브랜드B] 팝핑웨일",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
+      },
       "GDN0000031": {
         "name": "스스로움직이는 모험왕공룡",
         "age": "12개월 이상 ~",
@@ -2155,6 +2150,11 @@
         "name": "[고덕점] 오뚜기(파랑)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558282617.png"
+      },
+      "GDN0000152": {
+        "name": "전동드릴 공구놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
       },
       "ABN0000043": {
         "name": "[브이텍]첫 계산대 놀이세트",
@@ -3030,11 +3030,6 @@
         "name": "[하바]개구리쌓기블록",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067302203.png"
-      },
-      "GFN0000002": {
-        "name": "미니스쿠터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1592454791120.jpg"
       },
       "CAN0000062": {
         "name": "[비키즈]미러롤러",
@@ -4864,11 +4859,6 @@
         "name": "[토이트론]달님이카페놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557572624.png"
-      },
-      "ABN0000044": {
-        "name": "[영실업]수다쟁이포미와말하는계산대카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169074652.png"
       },
       "CDN0000092": {
         "name": "[브이텍]멜로디 덤프트럭",
