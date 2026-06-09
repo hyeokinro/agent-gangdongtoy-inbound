@@ -1131,11 +1131,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628341661.png"
       },
-      "CAN0000019": {
-        "name": "감각징검다리세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793100015.jpg"
-      },
       "KBN0000052": {
         "name": "[고덕점] 색이 변하는 쿠키오븐",
         "age": "36개월 이상 ~",
@@ -1395,6 +1390,11 @@
         "name": "[고덕점] 주니어퓨처북 옥토넛펜",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
+      },
+      "CBY0000055": {
+        "name": "인형유모차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690363158.jpg"
       },
       "GDN0000013": {
         "name": "아기새의 집",
@@ -3390,11 +3390,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554261453.png"
       },
-      "CDN0000033": {
-        "name": "클래식8자기차트렉세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_85.jpg"
-      },
       "ABN0000038": {
         "name": "[립프로그]아이스크림 카트 디럭스",
         "age": "24개월 이상 ~",
@@ -3790,11 +3785,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594111378.jpg"
       },
-      "DEN0000000": {
-        "name": "[스틱오]아기상어 프렌즈 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
-      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -3850,6 +3840,16 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
       },
+      "GBN0000168": {
+        "name": "[슐라이히] 공룡 9종 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423123360.png"
+      },
+      "KDN0000059": {
+        "name": "[고덕점] 스키핑스톤",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
+      },
       "GDN0000167": {
         "name": "타요 스트롱 구조트럭",
         "age": "36개월 이상 ~",
@@ -3859,11 +3859,6 @@
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
-      },
-      "KDN0000059": {
-        "name": "[고덕점] 스키핑스톤",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
@@ -3949,11 +3944,6 @@
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
-      },
-      "GBN0000168": {
-        "name": "[슐라이히] 공룡 9종 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423123360.png"
       },
       "GDN0000222": {
         "name": "[영실업] 뉴 또봇 Y",
