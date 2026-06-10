@@ -296,6 +296,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
       },
+      "KAN0000010": {
+        "name": "[고덕점] 걸음마 학습기 [한영버전]",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537829045.png"
+      },
       "ADN0000026": {
         "name": "[코니토이스]에듀테이블",
         "age": "1개월 이상 ~",
@@ -355,11 +360,6 @@
         "name": "러닝 이모션 공작새",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
-      },
-      "DEN0000003": {
-        "name": "[스틱오]피싱세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553766249.png"
       },
       "DDN0000130": {
         "name": "[나비타월드]공룡울타리 오프로드차량",
@@ -1701,11 +1701,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415937138.jpg"
       },
-      "CDN0000085": {
-        "name": "[비키즈]판다DJ놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349898173.png"
-      },
       "GDN0000053": {
         "name": "달팽이 폴어롱토이",
         "age": "1개월 이상 ~",
@@ -1931,11 +1926,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
       },
-      "CDN0000068": {
-        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
-      },
       "MFN0000026": {
         "name": "대호토이즈 벤츠 붕붕카",
         "age": "36개월 이상 ~",
@@ -1975,6 +1965,11 @@
         "name": "키즈팝 댄스 파티",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202453098.png"
+      },
+      "CDN0000085": {
+        "name": "[비키즈]판다DJ놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349898173.png"
       },
       "GDN0000024": {
         "name": "노래하는 버드하우스",
@@ -6008,11 +6003,6 @@
         "name": "한복 테스트",
         "age": "1개월 이상 ~",
         "image": ""
-      },
-      "HSN0000005": {
-        "name": "[놀이팩]마이퍼스트북NO.6동화세계(작은책)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773137890931.png"
       },
       "HSN0000019": {
         "name": "[놀이팩]공룡농구 게임기",
