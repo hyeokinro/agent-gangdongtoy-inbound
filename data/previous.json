@@ -1816,11 +1816,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554067874.png"
       },
-      "GDN0000192": {
-        "name": "[브이텍] 대형 자동차 수송트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084464918.png"
-      },
       "ADN0000051": {
         "name": "스마트 러닝 포크레인",
         "age": "12개월 이상 ~",
@@ -1880,6 +1875,11 @@
         "name": "맨 TGA 시멘트 믹서와 헬멧 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779953710546.png"
+      },
+      "GDN0000192": {
+        "name": "[브이텍] 대형 자동차 수송트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084464918.png"
       },
       "DDN0000108": {
         "name": "[레고]인페르노제트",
@@ -2566,11 +2566,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594741230.jpg"
       },
-      "CCN0000019": {
-        "name": "퍼커션세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1591661391946.png"
-      },
       "GBN0000026": {
         "name": "바닐라케이크",
         "age": "36개월 이상 ~",
@@ -2625,11 +2620,6 @@
         "name": "얼리러닝셰이프",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031327357.jpg"
-      },
-      "CCN0000004": {
-        "name": "물고기쉐이커",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_44.jpg"
       },
       "KDN0000153": {
         "name": "[고덕점] 자동드릴공구놀이",
@@ -3290,11 +3280,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
       },
-      "GFN0000001": {
-        "name": "코레카경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
-      },
       "ABN0000041": {
         "name": "[브이텍]병원놀이세트",
         "age": "12개월 이상 ~",
@@ -3439,6 +3424,11 @@
         "name": "[고덕점] 반짝반짝 케이크링쌓기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
+      },
+      "GFN0000001": {
+        "name": "코레카경찰차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
       "CDN0000081": {
         "name": "[오볼]오볼세트",
