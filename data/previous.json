@@ -231,11 +231,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
       },
-      "GDN0000143": {
-        "name": "타요 말하는 미니카 자판기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
-      },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
         "age": "24개월 이상 ~",
@@ -1096,11 +1091,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069642326.png"
       },
-      "KBN0000068": {
-        "name": "[고덕점] 달님이 마카롱 가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538059209.png"
-      },
       "CBN0000006": {
         "name": "냄비세트(원목)",
         "age": "36개월 이상 ~",
@@ -1180,6 +1170,11 @@
         "name": "[고덕점]큐블로 매직큐브  자석블럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910311268.png"
+      },
+      "KBN0000068": {
+        "name": "[고덕점] 달님이 마카롱 가게",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538059209.png"
       },
       "CCN0000016": {
         "name": "미니밴드",
@@ -2201,11 +2196,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
       },
-      "KDN0000070": {
-        "name": "[고덕점] 동전 놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538409636.png"
-      },
       "GBN0000079": {
         "name": "뽀로로 변신 소방차",
         "age": "36개월 이상 ~",
@@ -2376,6 +2366,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
       },
+      "KDN0000125": {
+        "name": "[고덕점] 달님이 에어프라이어",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
+      },
       "GBN0000089": {
         "name": "콩순이 콩콩이와 119 병원세트",
         "age": "12개월 이상 ~",
@@ -2436,6 +2431,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
       },
+      "KDN0000070": {
+        "name": "[고덕점] 동전 놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538409636.png"
+      },
       "KDN0000151": {
         "name": "[고덕점]아기곰저울&숫자놀이",
         "age": "36개월 이상 ~",
@@ -2445,11 +2445,6 @@
         "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
-      },
-      "KDN0000125": {
-        "name": "[고덕점] 달님이 에어프라이어",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
       },
       "DDN0000089": {
         "name": "[바오밥]다이빙피쉬",
@@ -2985,6 +2980,11 @@
         "name": "[아이코닉스]타요운전놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773342807.jpg"
+      },
+      "GBN0000159": {
+        "name": "[아이코닉스] 뽀로로 말하는 바코드 계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765256884446.png"
       },
       "GDN0000056": {
         "name": "차고지&헬리콥터세트",
@@ -4829,6 +4829,11 @@
         "name": "루시와 포대기세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690498537.jpg"
+      },
+      "CDY0000084": {
+        "name": "[브이텍]스스로굴러가는깜짝볼",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690751785.jpg"
       },
       "ADN0000063": {
         "name": "[브이텍]밸런싱 링쌓기저울",
