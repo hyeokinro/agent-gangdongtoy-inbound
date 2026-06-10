@@ -111,6 +111,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166734522.png"
       },
+      "CEN0000005": {
+        "name": "뉴 해양꼭지퍼즐",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
+      },
       "DDN0000064": {
         "name": "[지오맥]코어프로테온타우렉스",
         "age": "60개월 이상 ~",
@@ -185,11 +190,6 @@
         "name": "농장비즈끼우기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032076409.jpg"
-      },
-      "CEN0000005": {
-        "name": "뉴 해양꼭지퍼즐",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
       },
       "MDN0000018": {
         "name": "리틀타익스 더티디거 시리즈 불도저",
@@ -666,11 +666,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
       },
-      "GDN0000022": {
-        "name": "아기핸드폰",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
-      },
       "GBN0000012": {
         "name": "냉장식자재 용기모형세트",
         "age": "36개월 이상 ~",
@@ -745,6 +740,11 @@
         "name": "피자가게세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031639492.jpg"
+      },
+      "GDN0000022": {
+        "name": "아기핸드폰",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
       },
       "DDN0000101": {
         "name": "[레고]스파이더맨본부",
@@ -1130,11 +1130,6 @@
         "name": "악기 웨이브드럼(레드)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590041042006.JPG"
-      },
-      "DDN0000043": {
-        "name": "[하베브릭스]빅에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066995179.png"
       },
       "GEN0000015": {
         "name": "맨하탄블럭",
@@ -2560,11 +2555,6 @@
         "name": "[고덕점] 엄마까투리 두리 하우스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541733746.png"
-      },
-      "KDN0000119": {
-        "name": "[고덕점] 굿모닝 프렌즈",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537889075.png"
       },
       "GDN0000036": {
         "name": "댄싱로봇빗보",
@@ -4530,11 +4520,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566255326.png"
       },
-      "KBN0000065": {
-        "name": "[고덕점] 키티 피크닉가방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567425121.png"
-      },
       "AFN0000008": {
         "name": "[코닉스]뽀로로 시소붕붕카",
         "age": "36개월 이상 ~",
@@ -5169,11 +5154,6 @@
         "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543318470.png"
-      },
-      "KDN0000125": {
-        "name": "[고덕점] 달님이 에어프라이어",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
       },
       "KDN0000121": {
         "name": "[고덕점] 오뚜기(파랑)",
@@ -6028,6 +6008,11 @@
         "name": "한복 테스트",
         "age": "1개월 이상 ~",
         "image": ""
+      },
+      "HSN0000005": {
+        "name": "[놀이팩]마이퍼스트북NO.6동화세계(작은책)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773137890931.png"
       },
       "HSN0000019": {
         "name": "[놀이팩]공룡농구 게임기",
