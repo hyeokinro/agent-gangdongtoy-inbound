@@ -896,11 +896,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593409425.jpg"
       },
-      "KCN0000013": {
-        "name": "[고덕점] 파람팜팜 악기세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566377706.jpg"
-      },
       "ABN0000018": {
         "name": "[보육사]화장가방세트",
         "age": "36개월 이상 ~",
@@ -1906,6 +1901,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
       },
+      "GCN0000015": {
+        "name": "아기드럼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033339231.jpg"
+      },
       "ADN0000015": {
         "name": "[에드토이]역할차량5종",
         "age": "36개월 이상 ~",
@@ -2050,11 +2050,6 @@
         "name": "탐험선B & 피규어",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223971684.png"
-      },
-      "GCN0000015": {
-        "name": "아기드럼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033339231.jpg"
       },
       "KDN0000045": {
         "name": "[고덕점] 뽀로로 노래하는 줄줄이 티슈",
@@ -2500,6 +2495,11 @@
         "name": "[플레이포에버]자동차4",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772014891.jpg"
+      },
+      "CBN0000014": {
+        "name": "요리놀이세트(실리콘)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801767914.jpg"
       },
       "GDN0000122": {
         "name": "[우토]공구놀이",
@@ -5445,11 +5445,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_42.jpg"
       },
-      "CDN0000002": {
-        "name": "경주용카트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_54.jpg"
-      },
       "CFN0000005": {
         "name": "사운드범퍼카",
         "age": "12개월 이상 ~",
@@ -5999,11 +5994,6 @@
         "name": "[브이텍]3단계 말하는 얼룩말 스쿠터",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
-      },
-      "CGN0000072": {
-        "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207189878.jpg"
       },
       "GDN0000153": {
         "name": "빙글빙글 스피닝 라이언",
