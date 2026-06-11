@@ -2666,6 +2666,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594741230.jpg"
       },
+      "CCN0000019": {
+        "name": "퍼커션세트",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1591661391946.png"
+      },
       "GBN0000026": {
         "name": "바닐라케이크",
         "age": "36개월 이상 ~",
@@ -3705,11 +3710,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
       },
-      "DDN0000168": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
-      },
       "CDN0000023": {
         "name": "비행기",
         "age": "12개월 이상 ~",
@@ -3764,6 +3764,11 @@
         "name": "범블비",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594111378.jpg"
+      },
+      "DDN0000168": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
@@ -3955,6 +3960,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
       },
+      "GFN0000010": {
+        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
+      },
       "GBN0000167": {
         "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
         "age": "36개월 이상 ~",
@@ -4009,11 +4019,6 @@
         "name": "미니밴드",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792342158.jpg"
-      },
-      "CAN0000018": {
-        "name": "말랑볼링친구들",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793169638.jpg"
       },
       "CBN0000024": {
         "name": "컬렉타 공룡 11종",
@@ -4385,11 +4390,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800603760.jpg"
       },
-      "CBN0000020": {
-        "name": "쿡&다이닝세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801460756.png"
-      },
       "CBN0000008": {
         "name": "둑티그 장난감 계산대",
         "age": "36개월 이상 ~",
@@ -4685,6 +4685,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765428483265.png"
       },
+      "GDN0000223": {
+        "name": "[영실업] 뉴 또봇 Z",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431502187.png"
+      },
       "CDN0000006": {
         "name": "더티디거불더저",
         "age": "24개월 이상 ~",
@@ -4789,11 +4794,6 @@
         "name": "[하페]고리와퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062062893.png"
-      },
-      "DDN0000045": {
-        "name": "[하바]마법의소리게임",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
       },
       "DDN0000047": {
         "name": "[하바]벌레잡기집게게임",
@@ -5724,11 +5724,6 @@
         "name": "[브이텍] 타이거 락 기타",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
-      },
-      "GBN0000159": {
-        "name": "[아이코닉스] 뽀로로 말하는 바코드 계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765256884446.png"
       },
       "GDN0000211": {
         "name": "[아이존] 뽀로로 변신특공대 S",
