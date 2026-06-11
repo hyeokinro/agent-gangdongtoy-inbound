@@ -2906,11 +2906,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779957806353.png"
       },
-      "CCN0000012": {
-        "name": "클래식 실로폰",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_52.jpg"
-      },
       "DDN0000095": {
         "name": "[레고]놀이공원",
         "age": "24개월 이상 ~",
@@ -3680,6 +3675,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168762213.png"
       },
+      "GBN0000157": {
+        "name": "[미미월드] 똘똘이 딸기농장",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
+      },
       "KDN0000102": {
         "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
         "age": "36개월 이상 ~",
@@ -3849,11 +3849,6 @@
         "name": "[영실업]콩순이 아기하마 양치놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
-      },
-      "CBN0000037": {
-        "name": "컬렉타교육세트 해양15종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566625939129.jpg"
       },
       "CDN0000075": {
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
@@ -5739,6 +5734,11 @@
         "name": "[브이텍] 타이거 락 기타",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
+      },
+      "GBN0000159": {
+        "name": "[아이코닉스] 뽀로로 말하는 바코드 계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765256884446.png"
       },
       "GDN0000211": {
         "name": "[아이존] 뽀로로 변신특공대 S",
