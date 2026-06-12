@@ -1991,11 +1991,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416325981.jpg"
       },
-      "GDN0000213": {
-        "name": "[브이텍] 붕붕카 3 in 1 청소트럭",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765345684338.png"
-      },
       "ACN0000007": {
         "name": "[브랜드B]파람팜팜악기",
         "age": "12개월 이상 ~",
@@ -3845,11 +3840,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423123360.png"
       },
-      "KDN0000059": {
-        "name": "[고덕점] 스키핑스톤",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
-      },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
@@ -3900,10 +3890,25 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
       },
+      "GCN0000013": {
+        "name": "미니오케스트라",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027659281.jpg"
+      },
+      "KDN0000085": {
+        "name": "[고덕점] 빅정글 파이터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
+      },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
+      },
+      "KDN0000059": {
+        "name": "[고덕점] 스키핑스톤",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
       "KDN0000136": {
         "name": "[고덕점] 에듀볼",
@@ -5319,6 +5324,11 @@
         "name": "[베이비아인슈타인]뮤지컬 무빙 문어아빠",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435737111.jpg"
+      },
+      "GFN0000012": {
+        "name": "[중모토이] CAT 포크레인차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765343908013.png"
       },
       "GDN0000225": {
         "name": "[초이락] 헬로카봇 폰X",
