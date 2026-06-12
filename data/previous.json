@@ -2596,11 +2596,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221528691.png"
       },
-      "GDN0000180": {
-        "name": "[브이텍] 트위스트 에듀 큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296246583.jpg"
-      },
       "ADN0000025": {
         "name": "[브이텍]스마트캐리어",
         "age": "12개월 이상 ~",
@@ -4125,6 +4120,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193448051.PNG"
       },
+      "GAN0000038": {
+        "name": "리틀 베이비 범 액티비티 워커",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162363486.png"
+      },
       "GBN0000092": {
         "name": "디럭스 공구놀이세트",
         "age": "24개월 이상 ~",
@@ -4674,6 +4674,11 @@
         "name": "[브라이트스타트] 공놀이 코끼리 버스",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245706771.png"
+      },
+      "GDN0000196": {
+        "name": "[브라이트스타트] 바둑이 오케스트라",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246061852.png"
       },
       "GGN0000028": {
         "name": "[디즈니베이비] 푸우 캐릭터 멜로디 모빌 체육관",
