@@ -266,11 +266,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
       },
-      "KDN0000044": {
-        "name": "[고덕점] 크레인&자동차 놀이세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
-      },
       "AAN0000020": {
         "name": "캐스B 말랑말랑 볼링친구들",
         "age": "24개월 이상 ~",
@@ -300,11 +295,6 @@
         "name": "멜리사앤더그 스텐 냄비와 팬 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030050827.png"
-      },
-      "ADN0000002": {
-        "name": "[브이텍]액티비티에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
       },
       "GDN0000061": {
         "name": "클라부 경찰추격전놀이세트",
@@ -481,11 +471,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
       },
-      "AAN0000012": {
-        "name": "[브랜드B]트윙클 볼링",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760322329.jpg"
-      },
       "GDN0000083": {
         "name": "[바조]노아와 배",
         "age": "12개월 이상 ~",
@@ -615,6 +600,11 @@
         "name": "야야 꼬마버스 타요 버스 지붕차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030237991.png"
+      },
+      "AAN0000012": {
+        "name": "[브랜드B]트윙클 볼링",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760322329.jpg"
       },
       "DDN0000042": {
         "name": "[하베브릭스]6in1변신큐브",
@@ -2666,20 +2656,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032321381.jpg"
       },
-      "KDN0000098": {
-        "name": "[고덕점] 도형 맞추기 시계",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538324726.png"
-      },
       "DDN0000070": {
         "name": "[탑브라이트]탈것(증기선외)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069890335.png"
-      },
-      "ADN0000038": {
-        "name": "[아이존]똑똑한타요버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650510254971.png"
       },
       "GEN0000033": {
         "name": "해양입체퍼즐",
@@ -3475,6 +3455,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558250059.png"
       },
+      "ADN0000002": {
+        "name": "[브이텍]액티비티에듀볼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
+      },
       "KDN0000133": {
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
         "age": "36개월 이상 ~",
@@ -3675,10 +3660,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
       },
-      "KBN0000083": {
-        "name": "[고덕점]피자카트 한영버전",
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
+      },
+      "KDN0000085": {
+        "name": "[고덕점] 빅정글 파이터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
@@ -3704,6 +3694,11 @@
         "name": "[피셔]러닝 가든 앤 키친",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
+      },
+      "KBN0000083": {
+        "name": "[고덕점]피자카트 한영버전",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
       "CDN0000089": {
         "name": "[브이텍]춤추는 코딩로봇 다이노",
@@ -4605,11 +4600,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164899238.png"
       },
-      "GCN0000022": {
-        "name": "마이 리얼 잼 키보드",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165037890.png"
-      },
       "GDN0000159": {
         "name": "오케스트라 러닝테이블",
         "age": "6개월 이상 ~",
@@ -4719,11 +4709,6 @@
         "name": "[브이텍] 대형 자동차 수송트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084464918.png"
-      },
-      "GBN0000156": {
-        "name": "[아이코닉스] 봉봉 달콤 푸드트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246709657.png"
       },
       "GDN0000213": {
         "name": "[브이텍] 붕붕카 3 in 1 청소트럭",
