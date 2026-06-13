@@ -861,11 +861,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026963427.jpg"
       },
-      "GBN0000087": {
-        "name": "[립프로그]ABC 청소기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188406169.JPG"
-      },
       "ADN0000027": {
         "name": "[브레인숲]하우스블록44",
         "age": "36개월 이상 ~",
@@ -1215,6 +1210,11 @@
         "name": "허니비마켓 계산놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593934209.JPG"
+      },
+      "GDN0000196": {
+        "name": "[브라이트스타트] 바둑이 오케스트라",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246061852.png"
       },
       "KBN0000052": {
         "name": "[고덕점] 색이 변하는 쿠키오븐",
@@ -3158,11 +3158,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007631018.png"
       },
-      "CAY0000041": {
-        "name": "[택배]뉴액티비티가든(아기체육관)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007976311.jpg"
-      },
       "CGN0000012": {
         "name": "[택배]락카루바운서(그레이)",
         "age": "1개월 이상 ~",
@@ -3495,15 +3490,15 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949302607.JPG"
       },
-      "KDN0000041": {
-        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
-      },
       "KDN0000133": {
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
+      },
+      "KDN0000041": {
+        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
       },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
