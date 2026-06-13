@@ -331,11 +331,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
       },
-      "CDN0000047": {
-        "name": "첫발견 러닝운전놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672056967.jpg"
-      },
       "GBN0000006": {
         "name": "리본도트주방놀이",
         "age": "48개월 이상 ~",
@@ -3096,11 +3091,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595208161.jpg"
       },
-      "CDN0000080": {
-        "name": "[비키즈]악어 걸음마 보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672125477010.jpg"
-      },
       "GDN0000214": {
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
         "age": "36개월 이상 ~",
@@ -3739,6 +3729,11 @@
         "name": "[브이텍]춤추는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
+      },
+      "CGN0000089": {
+        "name": "[비키즈]망아지 플레이테이블 (걸음마)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
       },
       "DDN0000170": {
         "name": "[피노키오]타요 운전놀이",
