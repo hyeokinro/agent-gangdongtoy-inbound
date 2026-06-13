@@ -2821,6 +2821,11 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066443949.png"
       },
+      "DGN0000013": {
+        "name": "[코닉스]띠띠뽀에듀테이블",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554100854.png"
+      },
       "GCN0000002": {
         "name": "뮤지컬사운드세트",
         "age": "12개월 이상 ~",
@@ -2911,11 +2916,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770902524.jpg"
       },
-      "DEN0000001": {
-        "name": "[스틱오]아기상어 패밀리 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553844383.png"
-      },
       "DDN0000092": {
         "name": "[부루마블]클래식",
         "age": "60개월 이상 ~",
@@ -2965,6 +2965,11 @@
         "name": "토끼(핑크)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034645993.jpg"
+      },
+      "DEN0000001": {
+        "name": "[스틱오]아기상어 패밀리 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553844383.png"
       },
       "CDN0000040": {
         "name": "노아의 방주놀이세트",
@@ -3525,11 +3530,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554028815.png"
       },
-      "DDN0000117": {
-        "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
-      },
       "GDN0000030": {
         "name": "알파벳 주볼",
         "age": "6개월 이상 ~",
@@ -3650,10 +3650,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
       },
-      "KDN0000085": {
-        "name": "[고덕점] 빅정글 파이터",
+      "DDN0000170": {
+        "name": "[피노키오]타요 운전놀이",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
@@ -3689,11 +3689,6 @@
         "name": "[비키즈]망아지 플레이테이블 (걸음마)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
-      },
-      "DDN0000170": {
-        "name": "[피노키오]타요 운전놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
       "DDN0000042": {
         "name": "[하베브릭스]6in1변신큐브",
