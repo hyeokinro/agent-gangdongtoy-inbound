@@ -2836,11 +2836,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070332927.png"
       },
-      "ABN0000034": {
-        "name": "[립프로그]ABC 스마트 싱크대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204632368.jpg"
-      },
       "KBN0000084": {
         "name": "[고덕점]로즈우드 돌하우스가방",
         "age": "36개월 이상 ~",
@@ -2970,11 +2965,6 @@
         "name": "뮤지컬사운드세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030562756.jpg"
-      },
-      "KDN0000118": {
-        "name": "[고덕점] 뿡뿡이 컵쌓기 블록",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540420642.png"
       },
       "MCN0000005": {
         "name": "멀티 사운드 액티비티",
@@ -3815,16 +3805,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
-      "KDN0000129": {
-        "name": "[고덕점] 가드닝카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
-      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -3869,6 +3849,11 @@
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
@@ -3934,6 +3919,11 @@
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
+      },
+      "KDN0000129": {
+        "name": "[고덕점] 가드닝카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
       },
       "GDN0000222": {
         "name": "[영실업] 뉴 또봇 Y",
@@ -6034,6 +6024,11 @@
         "name": "[립프로그]아이스크림카트 레인보우셔벗",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349261361.png"
+      },
+      "CAN0000058": {
+        "name": "[아이코닉스]3in1 스포츠센터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349870151.png"
       },
       "DBN0000048": {
         "name": "[캐스B]플레이 리틀맘 그린 작동주방놀이 7종세트",
