@@ -2011,11 +2011,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559895553.png"
       },
-      "KBN0000078": {
-        "name": "[고덕점] 코코멜론 러닝키친",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564874020.png"
-      },
       "DDN0000149": {
         "name": "[브이텍]뛰뛰빵빵 기차놀이",
         "age": "36개월 이상 ~",
@@ -2081,11 +2076,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
       },
-      "KCN0000016": {
-        "name": "[고덕점] 매직터치 피아노",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
-      },
       "ADN0000003": {
         "name": "[브이텍]알파벳학습버스",
         "age": "12개월 이상 ~",
@@ -2120,6 +2110,11 @@
         "name": "아파트블럭세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
+      },
+      "KBN0000078": {
+        "name": "[고덕점] 코코멜론 러닝키친",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564874020.png"
       },
       "KDN0000151": {
         "name": "[고덕점]아기곰저울&숫자놀이",
@@ -4470,6 +4465,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1647586490831.PNG"
       },
+      "DAN0000006": {
+        "name": "[피셔]클래식러닝홈",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443691698.PNG"
+      },
       "ADN0000041": {
         "name": "[영실업]뽀로로 어린이 버스",
         "age": "36개월 이상 ~",
@@ -4689,6 +4689,11 @@
         "name": "디럭스농장동물세트18종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029236260.jpg"
+      },
+      "GBN0000045": {
+        "name": "디럭스야생동물세트24종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029275545.jpg"
       },
       "GCN0000001": {
         "name": "캐티롤러",
