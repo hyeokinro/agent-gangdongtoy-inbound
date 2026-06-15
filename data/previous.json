@@ -156,11 +156,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_90.jpg"
       },
-      "ABN0000041": {
-        "name": "[브이텍]병원놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
-      },
       "KBN0000058": {
         "name": "[고덕점] 헤어 드레싱세트",
         "age": "36개월 이상 ~",
@@ -611,11 +606,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537904906.png"
       },
-      "GEN0000023": {
-        "name": "알록달록구슬세기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
-      },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
@@ -675,6 +665,11 @@
         "name": "폴라비 원목 아이스크림 진열대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780022055738.png"
+      },
+      "GEN0000023": {
+        "name": "알록달록구슬세기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
       },
       "CDN0000023": {
         "name": "비행기",
@@ -1316,11 +1311,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165347042.png"
       },
-      "KCN0000015": {
-        "name": "[고덕점] 도형끼우기 드럼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
-      },
       "ADN0000045": {
         "name": "[주영이엔시]뽀로로 멜로디 생일케이크",
         "age": "36개월 이상 ~",
@@ -1470,6 +1460,11 @@
         "name": "[영실업]콩순이 아이스크림가게",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733212241665.jpg"
+      },
+      "KCN0000015": {
+        "name": "[고덕점] 도형끼우기 드럼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
       },
       "ADN0000030": {
         "name": "[브랜드B]바닷속,농장퍼즐",
@@ -1736,11 +1731,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1592360375646.JPG"
       },
-      "ACN0000007": {
-        "name": "[브랜드B]파람팜팜악기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771005210.jpg"
-      },
       "GCN0000015": {
         "name": "아기드럼",
         "age": "12개월 이상 ~",
@@ -1785,11 +1775,6 @@
         "name": "빙글빙글 옥토퍼스",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865256445.jpg"
-      },
-      "GDN0000024": {
-        "name": "노래하는 버드하우스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865561081.jpg"
       },
       "DDN0000135": {
         "name": "[립프로그] 립스토리",
@@ -2401,11 +2386,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594354214.jpg"
       },
-      "KDN0000083": {
-        "name": "[고덕점] 카캐리어세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559018228.png"
-      },
       "GDN0000163": {
         "name": "하우스 놀이상자",
         "age": "12개월 이상 ~",
@@ -2435,6 +2415,11 @@
         "name": "도형맞추기 하우스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
+      },
+      "KDN0000083": {
+        "name": "[고덕점] 카캐리어세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559018228.png"
       },
       "GCN0000019": {
         "name": "옥토넛 음악대장 악기세트",
