@@ -2156,11 +2156,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
       },
-      "GBN0000163": {
-        "name": "[립프로그] 소프트 아이스크림 메이커",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259715006.png"
-      },
       "CBN0000011": {
         "name": "병원놀이(원목)",
         "age": "36개월 이상 ~",
@@ -2390,6 +2385,11 @@
         "name": "[베이비아인슈타인] 해저탐험 피아노",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671505259713.PNG"
+      },
+      "GDN0000184": {
+        "name": "[원더키드]뽀로로  캠핑카",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295914353.jpg"
       },
       "ABN0000011": {
         "name": "[멜리사앤]설거지놀이",
@@ -2860,11 +2860,6 @@
         "name": "[부루마블]클래식",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071205795.png"
-      },
-      "GFN0000007": {
-        "name": "[리틀타익스] 리틀 꼬마 스쿠터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
       },
       "ABN0000047": {
         "name": "[리틀타익스]퍼스트 식기세척기",
@@ -3620,6 +3615,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554028815.png"
       },
+      "DDN0000154": {
+        "name": "[손오공]옥토넛 옥토포드 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554926633.png"
+      },
       "DBN0000040": {
         "name": "[피셔]러닝 가든 앤 키친",
         "age": "24개월 이상 ~",
@@ -3789,6 +3789,11 @@
         "name": "[타일블록스]레인보우",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069475733.png"
+      },
+      "DBN0000029": {
+        "name": "[립프]아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443861058.PNG"
       },
       "DDN0000114": {
         "name": "[코니]에듀테이블",
