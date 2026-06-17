@@ -171,11 +171,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
       },
-      "CGN0000023": {
-        "name": "와이즈체어 범보부스터(핑크)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
-      },
       "GDN0000205": {
         "name": "[브루더] MAN 로더",
         "age": "36개월 이상 ~",
@@ -1561,11 +1556,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780027881557.png"
       },
-      "GBN0000033": {
-        "name": "믹서세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593809362.jpg"
-      },
       "CFN0000002": {
         "name": "3단계변형운전놀이자전거",
         "age": "6개월 이상 ~",
@@ -1586,10 +1576,10 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_91.jpg"
       },
-      "GBN0000032": {
-        "name": "커피머신",
+      "GBN0000033": {
+        "name": "믹서세트",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593784979.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593809362.jpg"
       },
       "DDN0000052": {
         "name": "[하바]플라워페깅게임",
@@ -3336,11 +3326,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800264795.jpg"
       },
-      "CDN0000074": {
-        "name": "[코닉스]뽀로로키즈팝댄스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
-      },
       "GDN0000214": {
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
         "age": "36개월 이상 ~",
@@ -3914,11 +3899,6 @@
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
-      },
-      "GBN0000080": {
-        "name": "뽀로로 변신 경찰차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
       },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
@@ -5929,6 +5909,11 @@
         "name": "[브라이트]공놀이고래",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650517761679.png"
+      },
+      "CDN0000074": {
+        "name": "[코닉스]뽀로로키즈팝댄스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
       },
       "ADN0000049": {
         "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
