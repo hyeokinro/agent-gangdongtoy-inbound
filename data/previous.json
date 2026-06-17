@@ -856,11 +856,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_34.jpg"
       },
-      "GBN0000047": {
-        "name": "해양동물세트7종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029181805.jpg"
-      },
       "DDN0000144": {
         "name": "[코닉스]뽀로로EQ테마파크",
         "age": "36개월 이상 ~",
@@ -940,6 +935,11 @@
         "name": "동물 숨기기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_61.jpg"
+      },
+      "GBN0000047": {
+        "name": "해양동물세트7종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029181805.jpg"
       },
       "CEN0000006": {
         "name": "뉴공룡꼭지퍼즐",
@@ -1220,11 +1220,6 @@
         "name": "[고덕점] 다이나믹우퍼 기타",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
-      },
-      "GFN0000006": {
-        "name": "[브이텍] 4in1 알파벳 트레인 붕붕카",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277827603.jpg"
       },
       "CDN0000090": {
         "name": "[브이텍]빙글빙글 러닝오션월드",
@@ -4095,6 +4090,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
       },
+      "GBN0000161": {
+        "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257959184.png"
+      },
       "GBN0000166": {
         "name": "[미미월드] 똘똘이 유치원",
         "age": "36개월 이상 ~",
@@ -4814,6 +4814,11 @@
         "name": "[에스에이엠지엔터] 캐치티니핑 프린세스 팩트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765428483265.png"
+      },
+      "GDN0000223": {
+        "name": "[영실업] 뉴 또봇 Z",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431502187.png"
       },
       "CAN0000002": {
         "name": "놀이판베이비룸",
