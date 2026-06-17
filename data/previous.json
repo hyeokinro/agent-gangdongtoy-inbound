@@ -236,11 +236,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_62.jpg"
       },
-      "ABN0000046": {
-        "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168762213.png"
-      },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
         "age": "24개월 이상 ~",
@@ -1656,11 +1651,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193574431.PNG"
       },
-      "CDN0000018": {
-        "name": "멀티플렉스75p(스퀴즈)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_70.jpg"
-      },
       "GDN0000078": {
         "name": "대중교통미니카10종",
         "age": "48개월 이상 ~",
@@ -1690,6 +1680,11 @@
         "name": "[주영토이]뽀로로 빙글빙글 춤추는노래방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650518072794.png"
+      },
+      "CDN0000099": {
+        "name": "[아이코닉스]타요 생일케이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433474030.png"
       },
       "MEN0000001": {
         "name": "팝업 토이 동물",
@@ -2261,11 +2256,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594272145.JPG"
       },
-      "CGY0000095": {
-        "name": "[엔픽스]동물원 에디션 보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750725966303.jpg"
-      },
       "DDN0000149": {
         "name": "[브이텍]뛰뛰빵빵 기차놀이",
         "age": "36개월 이상 ~",
@@ -2521,11 +2511,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801767914.jpg"
       },
-      "CBN0000063": {
-        "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349571247.png"
-      },
       "GDN0000122": {
         "name": "[우토]공구놀이",
         "age": "36개월 이상 ~",
@@ -2776,11 +2761,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594741230.jpg"
       },
-      "GDN0000091": {
-        "name": "[짐보리/맥포머스]미라클브레인세트258",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416150406.jpg"
-      },
       "KBN0000067": {
         "name": "[고덕점] 알록달록 송이 미용실",
         "age": "36개월 이상 ~",
@@ -2910,6 +2890,11 @@
         "name": "[아임토이]멜로디믹스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769523588.jpg"
+      },
+      "GDN0000091": {
+        "name": "[짐보리/맥포머스]미라클브레인세트258",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416150406.jpg"
       },
       "CAN0000034": {
         "name": "[보육사/GONGE]슈퍼에어보드",
@@ -3457,6 +3442,11 @@
         "name": "[택배]프로픽스 주니어 카시트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
+      },
+      "CGN0000059": {
+        "name": "[택배]현대백일돌상①",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357452539.jpg"
       }
     },
     "wait": {
@@ -3910,11 +3900,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
       },
-      "KBN0000088": {
-        "name": "[고덕점]실제같은 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
-      },
       "CGY0000096": {
         "name": "락카루바운서(그레이)",
         "age": "1개월 이상 ~",
@@ -3960,6 +3945,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
       },
+      "GDN0000167": {
+        "name": "타요 스트롱 구조트럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222208014.png"
+      },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
@@ -3979,11 +3969,6 @@
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
-      },
-      "GDN0000167": {
-        "name": "타요 스트롱 구조트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222208014.png"
       },
       "GDN0000175": {
         "name": "옥토넛 탐험선A & 피규어",
