@@ -966,11 +966,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539301320.png"
       },
-      "KBN0000072": {
-        "name": "[고덕점] 콩순이코딩붕어빵가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567028582.png"
-      },
       "GDN0000044": {
         "name": "펭귄오뚝이",
         "age": "1개월 이상 ~",
@@ -3181,11 +3176,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067727613.png"
       },
-      "KDN0000106": {
-        "name": "[고덕점] 드라이빙 운전놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538433427.png"
-      },
       "MCN0000001": {
         "name": "폴라비 유아 원목 리듬악기세트",
         "age": "12개월 이상 ~",
@@ -3453,6 +3443,11 @@
       }
     },
     "delivery": {
+      "CGY0000042": {
+        "name": "[택배][이븐플로]젬세션점프런",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007631018.png"
+      },
       "CGN0000012": {
         "name": "[택배]락카루바운서(그레이)",
         "age": "1개월 이상 ~",
@@ -4039,11 +4034,6 @@
         "name": "[고덕점] 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
-      },
-      "KDN0000102": {
-        "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558028279.png"
       },
       "KDN0000094": {
         "name": "[고덕점] 츄츄레일",
