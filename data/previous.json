@@ -1936,11 +1936,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033185737.jpg"
       },
-      "KGN0000001": {
-        "name": "[고덕점] 동물친구 액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538389650.png"
-      },
       "DDN0000088": {
         "name": "[조엔]팅팅퍽",
         "age": "60개월 이상 ~",
@@ -2040,6 +2035,11 @@
         "name": "[르토이반]동물친구들",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416325981.jpg"
+      },
+      "KGN0000001": {
+        "name": "[고덕점] 동물친구 액티비티 점퍼루",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538389650.png"
       },
       "CBN0000001": {
         "name": "공룡벨로시랩터",
@@ -6183,11 +6183,6 @@
         "name": "[놀이팩]다이노랩터 RC로봇",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773141989056.png"
-      },
-      "HSN0000087": {
-        "name": "[물놀이팩]해상구조대목욕놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778219388237.png"
       },
       "HSN0000023": {
         "name": "[놀이팩]야구배팅 놀이세트(블루)",
