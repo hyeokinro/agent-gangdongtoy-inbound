@@ -651,11 +651,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
       },
-      "GCN0000013": {
-        "name": "미니오케스트라",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027659281.jpg"
-      },
       "GDN0000014": {
         "name": "꿀벌톱니바퀴",
         "age": "12개월 이상 ~",
@@ -850,6 +845,11 @@
         "name": "[보육사]음식컷팅세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
+      },
+      "GCN0000013": {
+        "name": "미니오케스트라",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027659281.jpg"
       },
       "ABN0000014": {
         "name": "[호와]모닝커피세트",
@@ -1521,11 +1521,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033623415.jpg"
       },
-      "CGN0000098": {
-        "name": "[에시앙]범보의자(클라우드베어 일체형)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432429604.png"
-      },
       "DDN0000166": {
         "name": "[지나월드]코코멜론 영어학습 스마트폰",
         "age": "24개월 이상 ~",
@@ -1725,6 +1720,11 @@
         "name": "[코코멜론]제이제이 인형(영어)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563897818.png"
+      },
+      "CGN0000098": {
+        "name": "[에시앙]범보의자(클라우드베어 일체형)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432429604.png"
       },
       "MBN0000080": {
         "name": "수세기푸드통조림세트65피스",
@@ -2695,11 +2695,6 @@
         "name": "발란스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034588121.gif"
-      },
-      "ADN0000038": {
-        "name": "[아이존]똑똑한타요버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650510254971.png"
       },
       "GDN0000051": {
         "name": "토끼(화이트)",
@@ -4620,11 +4615,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1764057816433.jpg"
       },
-      "GCN0000027": {
-        "name": "[하페] 톡톡 벤치 하우스 실로폰 놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342752987.png"
-      },
       "GDN0000216": {
         "name": "[퍼니플럭스] 슈퍼윙스 일렉트릭 변신 로봇 6종세트",
         "age": "36개월 이상 ~",
@@ -5455,6 +5445,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
       },
+      "GDN0000140": {
+        "name": "레이싱 스테이션",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165878905.png"
+      },
       "GDN0000152": {
         "name": "전동드릴 공구놀이세트",
         "age": "36개월 이상 ~",
@@ -6180,6 +6175,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365070881.png"
       },
+      "GBN0000091": {
+        "name": "콩순이 알록달록 카페놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
+      },
       "GDN0000170": {
         "name": "와일드 어드벤처 레인저",
         "age": "36개월 이상 ~",
@@ -6314,11 +6314,6 @@
         "name": "[아이코닉스]뽀로로 점보 비행기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277717592.jpg"
-      },
-      "GDN0000186": {
-        "name": "[아이존]뽀로로 변신 경찰본부",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278434158.jpg"
       },
       "CAN0000062": {
         "name": "[비키즈]미러롤러",
