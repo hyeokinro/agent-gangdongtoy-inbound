@@ -221,11 +221,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
       },
-      "GBN0000003": {
-        "name": "(영어)아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592194663.jpg"
-      },
       "DDN0000026": {
         "name": "[자노드]피사의사탑",
         "age": "60개월 이상 ~",
@@ -240,11 +235,6 @@
         "name": "러닝 이모션 공작새",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
-      },
-      "GDN0000143": {
-        "name": "타요 말하는 미니카 자판기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
       },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
@@ -1546,6 +1536,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033623415.jpg"
       },
+      "CGN0000098": {
+        "name": "[에시앙]범보의자(클라우드베어 일체형)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432429604.png"
+      },
       "DDN0000166": {
         "name": "[지나월드]코코멜론 영어학습 스마트폰",
         "age": "24개월 이상 ~",
@@ -1660,6 +1655,11 @@
         "name": "[고덕점] 얼리러닝컬러콥터",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541708907.png"
+      },
+      "CDN0000055": {
+        "name": "무지개 실꿰기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
       },
       "CEN0000004": {
         "name": "뉴 도형꼭지퍼즐",
