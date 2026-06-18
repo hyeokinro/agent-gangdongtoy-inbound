@@ -3361,11 +3361,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067151991.png"
       },
-      "GBN0000150": {
-        "name": "[립프로그]피자카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277688466.jpg"
-      },
       "GDN0000066": {
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
         "age": "36개월 이상 ~",
@@ -3610,6 +3605,11 @@
         "name": "4in1아기체육관/걸음마보조기겸용",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874455587.jpg"
+      },
+      "GBN0000150": {
+        "name": "[립프로그]피자카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277688466.jpg"
       },
       "GDN0000214": {
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
@@ -4624,6 +4624,11 @@
         "name": "[리틀]액티비티 윈도우",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
+      },
+      "KGN0000009": {
+        "name": "[고덕점]알루 에듀하우스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729907890236.png"
       },
       "KDN0000150": {
         "name": "[고덕점]큐블로 매직큐브  자석블럭",
@@ -6009,11 +6014,6 @@
         "name": "[윈펀]꼬꼬댁 놀이동산",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
-      },
-      "CDN0000088": {
-        "name": "[아이코닉스]타요 자동차노트북",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349511953.png"
       },
       "DDN0000120": {
         "name": "[주영이엔씨] 멜로디 생일케이크 핑크퐁 장난감",
