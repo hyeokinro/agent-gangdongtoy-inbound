@@ -591,11 +591,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069692713.png"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
       "GBN0000081": {
         "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
@@ -926,6 +921,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765345379808.png"
       },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
+      },
       "CGN0000089": {
         "name": "[비키즈]망아지 플레이테이블 (걸음마)",
         "age": "12개월 이상 ~",
@@ -981,11 +981,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201104352.png"
       },
-      "KDN0000101": {
-        "name": "[고덕점] 원통 쌓기 블록",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
-      },
       "KDN0000042": {
         "name": "[고덕점] 컵쌓기 & 액티비티 볼 세트",
         "age": "24개월 이상 ~",
@@ -1035,11 +1030,6 @@
         "name": "해양동물세트7종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029181805.jpg"
-      },
-      "KDN0000050": {
-        "name": "[고덕점]구스파파",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
       },
       "MBN0000071": {
         "name": "우디푸디 브레드세트 원목 내장자석  빵 가게놀이",
@@ -1195,6 +1185,16 @@
         "name": "에어포트 플레이세트",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165421369.png"
+      },
+      "KDN0000050": {
+        "name": "[고덕점]구스파파",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
+      },
+      "KDN0000101": {
+        "name": "[고덕점] 원통 쌓기 블록",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
       },
       "GDN0000218": {
         "name": "[브이텍]  2in1 다이노파크",
@@ -2570,11 +2570,6 @@
         "name": "병원놀이(원목)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
-      },
-      "ADN0000062": {
-        "name": "[현우토이]원목 낚시 놀이 10p",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169045398.png"
       },
       "CAN0000016": {
         "name": "흔들말타기(블루)",
