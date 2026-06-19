@@ -741,15 +741,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205015903.jpg"
       },
-      "KCN0000020": {
-        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
-      },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554028815.png"
+      },
+      "KBN0000085": {
+        "name": "[고덕점]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
       "ADN0000004": {
         "name": "[플레이포에버]자동차1",
@@ -795,11 +795,6 @@
         "name": "[영실업]콩콩이와 119병원세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
-      },
-      "KBN0000085": {
-        "name": "[고덕점]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
       "CBN0000023": {
         "name": "후라이팬세트(원목)",
@@ -1221,11 +1216,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958665711.png"
       },
-      "KBN0000068": {
-        "name": "[고덕점] 달님이 마카롱 가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538059209.png"
-      },
       "DDN0000061": {
         "name": "[타일블록스]레인보우",
         "age": "36개월 이상 ~",
@@ -1251,6 +1241,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629185091758.jpg"
       },
+      "KBN0000053": {
+        "name": "[고덕점] 똘똘이 동물병원",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538723545.png"
+      },
       "GCN0000014": {
         "name": "스탠드밴드",
         "age": "36개월 이상 ~",
@@ -1265,11 +1260,6 @@
         "name": "[리틀]액티비티 윈도우",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
-      },
-      "KBN0000053": {
-        "name": "[고덕점] 똘똘이 동물병원",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538723545.png"
       },
       "KBN0000071": {
         "name": "[고덕점] 콩순이 말하는팽이와 청진기",
@@ -1320,6 +1310,11 @@
         "name": "[피노키오] 아기상어 경찰 네비게이션 운전 놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1766046467622.png"
+      },
+      "KBN0000068": {
+        "name": "[고덕점] 달님이 마카롱 가게",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538059209.png"
       },
       "GBN0000158": {
         "name": "[아이코닉스] 뽀로로 3분 치과놀이",
@@ -1770,11 +1765,6 @@
         "name": "사파리입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026597964.jpg"
-      },
-      "GFN0000000": {
-        "name": "코레카소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
       },
       "DDN0000136": {
         "name": "[코코멜론]제이제이 인형(영어)",
@@ -2685,11 +2675,6 @@
         "name": "[브랜드B] 팝핑웨일",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
-      },
-      "KDN0000056": {
-        "name": "[고덕점] 에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541853166.png"
       },
       "GDN0000194": {
         "name": "[브라이트스타트] 공놀이 정글트리",
@@ -5094,6 +5079,11 @@
         "name": "빙글빙글 옥토퍼스",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865256445.jpg"
+      },
+      "GDN0000024": {
+        "name": "노래하는 버드하우스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865561081.jpg"
       },
       "GDN0000053": {
         "name": "달팽이 폴어롱토이",
