@@ -2796,11 +2796,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166859456.png"
       },
-      "CDN0000088": {
-        "name": "[아이코닉스]타요 자동차노트북",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349511953.png"
-      },
       "MCN0000004": {
         "name": "텐더리프 땅콩악단 봄날악기테이블세트",
         "age": "36개월 이상 ~",
@@ -3935,11 +3930,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
       },
-      "ABN0000010": {
-        "name": "[립프]아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
-      },
       "DDN0000055": {
         "name": "[맥포머스]구조대세트",
         "age": "36개월 이상 ~",
@@ -4155,10 +4145,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
       },
-      "DDN0000044": {
-        "name": "[플랜토이즈]망치놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
+      "GDN0000167": {
+        "name": "타요 스트롱 구조트럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222208014.png"
       },
       "DDN0000062": {
         "name": "[맥포머스]애니멀세트",
@@ -4214,11 +4204,6 @@
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
-      },
-      "GDN0000167": {
-        "name": "타요 스트롱 구조트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222208014.png"
       },
       "GDN0000175": {
         "name": "옥토넛 탐험선A & 피규어",
@@ -4759,6 +4744,11 @@
         "name": "[지나월드]뽀로로드럼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771078086.jpg"
+      },
+      "ADN0000018": {
+        "name": "[코닉스]뽀로로비행기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773384193.jpg"
       },
       "ADN0000020": {
         "name": "[브리오]월드소방서세트",
@@ -5364,6 +5354,11 @@
         "name": "[오볼]오볼놀이세트",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416270996.jpg"
+      },
+      "AAN0000001": {
+        "name": "[브이텍]걸음마학습기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759440239.jpg"
       },
       "ACN0000000": {
         "name": "[클래식]정글뮤직박스",
