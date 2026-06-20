@@ -101,11 +101,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949162224.JPG"
       },
-      "GBN0000002": {
-        "name": "푸드트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
-      },
       "KBN0000049": {
         "name": "[고덕점] 애프터눈티세트 15피스",
         "age": "36개월 이상 ~",
@@ -881,11 +876,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
-      "CGN0000089": {
-        "name": "[비키즈]망아지 플레이테이블 (걸음마)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
-      },
       "GDN0000222": {
         "name": "[영실업] 뉴 또봇 Y",
         "age": "36개월 이상 ~",
@@ -1566,6 +1556,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479569248.JPG"
       },
+      "CBY0000055": {
+        "name": "인형유모차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690363158.jpg"
+      },
       "GDN0000013": {
         "name": "아기새의 집",
         "age": "12개월 이상 ~",
@@ -1860,11 +1855,6 @@
         "name": "[타이니러브]수더메도우 모빌(흑백+홀더)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435286403.jpg"
-      },
-      "CDN0000068": {
-        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
       },
       "DDN0000113": {
         "name": "[큐비]고래를위하여세트",
@@ -2161,6 +2151,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
       },
+      "CDN0000068": {
+        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
+      },
       "KDN0000154": {
         "name": "[고덕점]밸런싱 링쌓기저울",
         "age": "12개월 이상 ~",
@@ -2190,6 +2185,11 @@
         "name": "액티비티 코끼리 농구대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
+      },
+      "CCN0000014": {
+        "name": "베이비 종합세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562809756803.jpg"
       },
       "DDN0000035": {
         "name": "[하페]고리와퍼즐",
@@ -2511,11 +2511,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_16.jpg"
       },
-      "KGN0000006": {
-        "name": "[고덕점] 베이비베이스 부스터2",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
-      },
       "KCN0000016": {
         "name": "[고덕점] 매직터치 피아노",
         "age": "12개월 이상 ~",
@@ -2645,11 +2640,6 @@
         "name": "첫 계산대놀이 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222329943.png"
-      },
-      "KBN0000087": {
-        "name": "[고덕점] 멜리사앤더그 쇼핑카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730185392699.png"
       },
       "KDN0000095": {
         "name": "[고덕점] 뮤직운전대",
@@ -2946,11 +2936,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504839720.PNG"
       },
-      "CDN0000079": {
-        "name": "[브이텍]춤추는 강아지",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
-      },
       "KDN0000138": {
         "name": "[고덕점] 할리갈리 컵스 딜럭스",
         "age": "24개월 이상 ~",
@@ -3100,6 +3085,11 @@
         "name": "[고덕점] 모양 맞추기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539238781.png"
+      },
+      "CDN0000079": {
+        "name": "[브이텍]춤추는 강아지",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
       },
       "GDN0000072": {
         "name": "소방차(그린토이즈)",
@@ -4805,6 +4795,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539301320.png"
       },
+      "KDN0000042": {
+        "name": "[고덕점] 컵쌓기 & 액티비티 볼 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539581250.png"
+      },
       "KDN0000050": {
         "name": "[고덕점]구스파파",
         "age": "24개월 이상 ~",
@@ -6270,11 +6265,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765344239553.png"
       },
-      "CAN0000001": {
-        "name": "걸이식 농구대",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_1.jpg"
-      },
       "CDN0000004": {
         "name": "나잡아봐야옹이",
         "age": "12개월 이상 ~",
@@ -6324,11 +6314,6 @@
         "name": "빅 카고트럭(블루)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599035006629.jpg"
-      },
-      "CDN0000040": {
-        "name": "노아의 방주놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798168401.jpg"
       },
       "CEN0000009": {
         "name": "레인보우페깅게임",
