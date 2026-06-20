@@ -536,11 +536,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554428927.png"
       },
-      "GBN0000169": {
-        "name": "[슐라이히] 야생동물세트 17종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423256106.png"
-      },
       "KDN0000063": {
         "name": "[고덕점] 소방차",
         "age": "24개월 이상 ~",
@@ -2511,6 +2506,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
       },
+      "CAN0000016": {
+        "name": "흔들말타기(블루)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_16.jpg"
+      },
       "KCN0000016": {
         "name": "[고덕점] 매직터치 피아노",
         "age": "12개월 이상 ~",
@@ -3525,6 +3525,11 @@
         "name": "[나비타]브라운 헤어 드레싱 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
+      },
+      "CFN0000020": {
+        "name": "[브이텍]3단계 말하는 얼룩말 스쿠터",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
       },
       "GDN0000219": {
         "name": "[브이텍] 다이노 먹이주기",
