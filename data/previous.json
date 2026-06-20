@@ -1451,11 +1451,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780028237235.png"
       },
-      "CBN0000025": {
-        "name": "야생동물 24종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793246280.jpg"
-      },
       "DDN0000085": {
         "name": "[게임올로지]버팔로체스",
         "age": "60개월 이상 ~",
@@ -1670,11 +1665,6 @@
         "name": "[플레이포에버]자동차3",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771980712.jpg"
-      },
-      "AFN0000005": {
-        "name": "[경화]스프링카(파랑)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778178029.jpg"
       },
       "CEN0000002": {
         "name": "뉴 과일꼭지퍼즐",
@@ -4110,6 +4100,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432864086.png"
       },
+      "GBN0000162": {
+        "name": "[에프비존] 사랑의 하츄핑 마이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259555753.png"
+      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -4219,11 +4214,6 @@
         "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
-      },
-      "DDN0000170": {
-        "name": "[피노키오]타요 운전놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
       "ACN0000009": {
         "name": "[보육사]영아용리듬악기",
@@ -4380,10 +4370,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
       },
-      "CGN0000089": {
-        "name": "[비키즈]망아지 플레이테이블 (걸음마)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
+      "DDN0000170": {
+        "name": "[피노키오]타요 운전놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
       "GBN0000153": {
         "name": "[립프로그]러빙 오븐 틸",
