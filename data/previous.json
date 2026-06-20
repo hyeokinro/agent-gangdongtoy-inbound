@@ -1826,6 +1826,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593353181.jpg"
       },
+      "CDN0000078": {
+        "name": "[홀라]디제이파티드럼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207199181.JPG"
+      },
       "KDN0000096": {
         "name": "[고덕점] 똑똑한 무선조종 공룡",
         "age": "12개월 이상 ~",
@@ -2725,6 +2730,11 @@
         "name": "차량입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026751352.jpg"
+      },
+      "CAN0000034": {
+        "name": "[보육사/GONGE]슈퍼에어보드",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627223258.png"
       },
       "GBN0000148": {
         "name": "[멜리사앤더그]쥬스 5종",
@@ -3770,11 +3780,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538866628.png"
       },
-      "KDN0000147": {
-        "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
-      },
       "KDN0000075": {
         "name": "[고덕점] 반짝반짝 케이크링쌓기",
         "age": "6개월 이상 ~",
@@ -3894,6 +3899,11 @@
         "name": "[립프로그]아이스크림 카트 디럭스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
+      },
+      "KDN0000147": {
+        "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
       },
       "ADN0000009": {
         "name": "[플레이포에버]자동차6",
@@ -4940,20 +4950,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222971602.png"
       },
-      "KBN0000081": {
-        "name": "[고덕점] 과일 바구니",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537872727.png"
-      },
       "KDN0000104": {
         "name": "[고덕점] 댄싱 유니콘",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
-      },
-      "KCN0000015": {
-        "name": "[고덕점] 도형끼우기 드럼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
       },
       "KBN0000052": {
         "name": "[고덕점] 색이 변하는 쿠키오븐",
@@ -6299,6 +6299,11 @@
         "name": "[고덕점] 리얼소방차",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538962318.png"
+      },
+      "KDN0000078": {
+        "name": "[고덕점] 뽀로로 경찰 오토바이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539942924.png"
       },
       "KDN0000134": {
         "name": "[고덕점] 즐거운뽀로로하우스",
