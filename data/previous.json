@@ -146,11 +146,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
       },
-      "GBN0000078": {
-        "name": "[숲소리]소꿉놀이세트V2",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
-      },
       "GAN0000014": {
         "name": "고양이와 쥐 푸쉬토이",
         "age": "6개월 이상 ~",
@@ -215,6 +210,11 @@
         "name": "[고덕점] 헤어 드레싱세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
+      },
+      "GBN0000078": {
+        "name": "[숲소리]소꿉놀이세트V2",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
       "KCN0000019": {
         "name": "[고덕점] 라이트봉고드럼",
@@ -346,11 +346,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221675260.png"
       },
-      "CEN0000003": {
-        "name": "뉴 농장꼭지퍼즐",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_92.jpg"
-      },
       "CGN0000023": {
         "name": "와이즈체어 범보부스터(핑크)",
         "age": "6개월 이상 ~",
@@ -365,6 +360,11 @@
         "name": "멜리사앤더그 스텐 냄비와 팬 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030050827.png"
+      },
+      "CEN0000003": {
+        "name": "뉴 농장꼭지퍼즐",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_92.jpg"
       },
       "GDN0000061": {
         "name": "클라부 경찰추격전놀이세트",
@@ -1161,6 +1161,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069475733.png"
       },
+      "CEN0000006": {
+        "name": "뉴공룡꼭지퍼즐",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_95.jpg"
+      },
       "DDN0000162": {
         "name": "[시쿠]공사차량 5종",
         "age": "36개월 이상 ~",
@@ -1785,11 +1790,6 @@
         "name": "[립프로그]피자카트  한영버젼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349698843.png"
-      },
-      "DDN0000137": {
-        "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
       },
       "GBN0000018": {
         "name": "샐러드세트(야채썰기)",
@@ -3276,11 +3276,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_71.jpg"
       },
-      "CDN0000004": {
-        "name": "나잡아봐야옹이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_56.jpg"
-      },
       "DDN0000053": {
         "name": "[맥포머스]원더세트",
         "age": "36개월 이상 ~",
@@ -3657,11 +3652,6 @@
         "name": "[택배]동물친구액티비티점퍼루",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690121784.jpg"
-      },
-      "CGN0000048": {
-        "name": "[택배]전통백일돌상⑪",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656824626.png"
       },
       "CGN0000077": {
         "name": "[택배]뉴나리프 그로우 바운서",
@@ -5929,11 +5919,6 @@
         "name": "[브이텍]춤추는 강아지",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
-      },
-      "GFN0000005": {
-        "name": "3단계 얼룩말 스쿠터",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161094497.png"
       },
       "GAN0000035": {
         "name": "걸음마 붕붕카",
