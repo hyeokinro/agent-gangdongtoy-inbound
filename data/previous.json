@@ -2206,11 +2206,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
       },
-      "GDN0000001": {
-        "name": "제니쥬",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033534551.jpg"
-      },
       "GDN0000073": {
         "name": "덤프트럭(핑크)",
         "age": "12개월 이상 ~",
@@ -2500,6 +2495,11 @@
         "name": "[브라이트]미키마우스락커",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779059096.jpg"
+      },
+      "GDN0000001": {
+        "name": "제니쥬",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033534551.jpg"
       },
       "GDN0000183": {
         "name": "[브랜드B] 팝핑웨일",
@@ -3431,11 +3431,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
       },
-      "GDN0000219": {
-        "name": "[브이텍] 다이노 먹이주기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
-      },
       "KBN0000080": {
         "name": "[고덕점] 카툰 라이브 스톡6",
         "age": "36개월 이상 ~",
@@ -3480,6 +3475,11 @@
         "name": "[아이존]뽀로로 변신경찰본부",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562468306.png"
+      },
+      "GDN0000219": {
+        "name": "[브이텍] 다이노 먹이주기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
       },
       "GDN0000066": {
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
