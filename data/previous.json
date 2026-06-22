@@ -3156,11 +3156,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553844383.png"
       },
-      "CDN0000040": {
-        "name": "노아의 방주놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798168401.jpg"
-      },
       "GBN0000035": {
         "name": "허니비마켓 저울세트",
         "age": "36개월 이상 ~",
@@ -3241,6 +3236,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594610699.jpg"
       },
+      "CDN0000040": {
+        "name": "노아의 방주놀이세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798168401.jpg"
+      },
       "DBN0000046": {
         "name": "[나비타]브라운 헤어 드레싱 세트",
         "age": "36개월 이상 ~",
@@ -3260,11 +3260,6 @@
         "name": "걸이식 농구대",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_1.jpg"
-      },
-      "DBN0000048": {
-        "name": "[캐스B]플레이 리틀맘 그린 작동주방놀이 7종세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353670385.jpg"
       },
       "ADN0000049": {
         "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
@@ -5829,6 +5824,11 @@
         "name": "톡톡실로폰놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033810037.jpg"
+      },
+      "CEN0000010": {
+        "name": "마린청키퍼즐",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800150102.png"
       },
       "CEN0000009": {
         "name": "레인보우페깅게임",
