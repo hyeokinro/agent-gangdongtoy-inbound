@@ -821,11 +821,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539581250.png"
       },
-      "ADN0000035": {
-        "name": "[하베브릭스]빅에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
-      },
       "GDN0000084": {
         "name": "[바조]캐슬블럭과 강아지",
         "age": "24개월 이상 ~",
@@ -1115,6 +1110,11 @@
         "name": "디에인샵 비행기 점퍼루 아기쏘서",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030632649.png"
+      },
+      "ADN0000035": {
+        "name": "[하베브릭스]빅에듀큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
       },
       "MFN0000023": {
         "name": "아이팜 힘찬 포크레인 붕붕카",
@@ -2616,11 +2616,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555505993.png"
       },
-      "ADN0000025": {
-        "name": "[브이텍]스마트캐리어",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773743427.jpg"
-      },
       "KCN0000018": {
         "name": "[고덕점] 정글잼 악기세트",
         "age": "24개월 이상 ~",
@@ -3909,11 +3904,6 @@
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
-      },
-      "GAN0000039": {
-        "name": "스마트 트램폴린[블루]",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162481923.png"
       },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
@@ -5754,6 +5744,11 @@
         "name": "동물농장청키퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_97.jpg"
+      },
+      "CGN0000015": {
+        "name": "반짝반짝뮤지컬걸음마",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
       },
       "GBN0000017": {
         "name": "원목자석과일자르기",
