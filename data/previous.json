@@ -396,11 +396,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780018611633.png"
       },
-      "GBN0000044": {
-        "name": "큰공룡세트12종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029370462.jpg"
-      },
       "GBN0000009": {
         "name": "식료품핸들카트",
         "age": "36개월 이상 ~",
@@ -661,11 +656,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780022055738.png"
       },
-      "ACN0000009": {
-        "name": "[보육사]영아용리듬악기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
-      },
       "GBN0000030": {
         "name": "비스켓세트",
         "age": "36개월 이상 ~",
@@ -821,10 +811,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
-      "KDN0000120": {
-        "name": "[고덕점] 뉴 알파벳 학습 버스",
+      "ACN0000009": {
+        "name": "[보육사]영아용리듬악기",
         "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
       },
       "GBN0000015": {
         "name": "야채세트(라두가그레이즈)",
@@ -1596,11 +1586,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780027881557.png"
       },
-      "CDN0000091": {
-        "name": "[브이텍]스마트 러닝 태블릿",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
-      },
       "CBN0000020": {
         "name": "쿡&다이닝세트",
         "age": "24개월 이상 ~",
@@ -2000,11 +1985,6 @@
         "name": "[영실업]뽀로로 어린이 버스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660200021356.jpg"
-      },
-      "CBN0000038": {
-        "name": "아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726978119.JPG"
       },
       "ADN0000008": {
         "name": "[플레이포에버]자동차5",
@@ -2776,11 +2756,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
       },
-      "KBN0000067": {
-        "name": "[고덕점] 알록달록 송이 미용실",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567220129.png"
-      },
       "GAN0000033": {
         "name": "[캐스b]말랑말랑 볼링친구들",
         "age": "12개월 이상 ~",
@@ -2970,6 +2945,11 @@
         "name": "[보육사]목재의사놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1664354241721.png"
+      },
+      "KBN0000067": {
+        "name": "[고덕점] 알록달록 송이 미용실",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567220129.png"
       },
       "DDN0000078": {
         "name": "[오차드]도로퍼즐",
@@ -3745,11 +3725,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594016387.jpg"
       },
-      "CDN0000047": {
-        "name": "첫발견 러닝운전놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672056967.jpg"
-      },
       "GEN0000035": {
         "name": "애완동물입체퍼즐",
         "age": "24개월 이상 ~",
@@ -4025,10 +4000,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222208014.png"
       },
-      "DDN0000037": {
-        "name": "[벨레덕]딸기",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062211217.png"
+      "CDN0000007": {
+        "name": "더티디거포크레인",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_59.jpg"
       },
       "DDN0000044": {
         "name": "[플랜토이즈]망치놀이",
@@ -5889,11 +5864,6 @@
         "name": "[고덕점] 자동드릴공구놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
-      },
-      "CBN0000067": {
-        "name": "[브이텍]첫 계산대 놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432749828.jpg"
       },
       "GDN0000191": {
         "name": "[브이텍] 터미타임 변신큐브 에듀볼",
