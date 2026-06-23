@@ -3705,6 +3705,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
+      "GDN0000205": {
+        "name": "[브루더] MAN 로더",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259170574.png"
+      },
       "GDN0000030": {
         "name": "알파벳 주볼",
         "age": "6개월 이상 ~",
@@ -3835,10 +3840,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
       },
-      "KDN0000059": {
-        "name": "[고덕점] 스키핑스톤",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
+      "DDN0000030": {
+        "name": "[자노드]청키퍼즐디노조/쥬",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
       "DDN0000037": {
         "name": "[벨레덕]딸기",
@@ -3929,6 +3934,11 @@
         "name": "[고덕점] 소방차",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540692173.png"
+      },
+      "KDN0000059": {
+        "name": "[고덕점] 스키핑스톤",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
       "KDN0000136": {
         "name": "[고덕점] 에듀볼",
@@ -5055,11 +5065,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416270996.jpg"
       },
-      "AAN0000010": {
-        "name": "[리틀타익스]스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760181744.jpg"
-      },
       "ACN0000000": {
         "name": "[클래식]정글뮤직박스",
         "age": "12개월 이상 ~",
@@ -5630,6 +5635,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540056044.png"
       },
+      "KDN0000048": {
+        "name": "[고덕점] 엄마까투리 두리 하우스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541733746.png"
+      },
       "KDN0000138": {
         "name": "[고덕점] 할리갈리 컵스 딜럭스",
         "age": "24개월 이상 ~",
@@ -5789,6 +5799,11 @@
         "name": "톡톡실로폰놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033810037.jpg"
+      },
+      "GDN0000006": {
+        "name": "목욕놀이세탁기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599035107288.jpg"
       },
       "CEN0000010": {
         "name": "마린청키퍼즐",
