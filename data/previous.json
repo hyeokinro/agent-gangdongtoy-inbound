@@ -6,6 +6,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539091885.png"
       },
+      "GDN0000143": {
+        "name": "타요 말하는 미니카 자판기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
+      },
       "KDN0000069": {
         "name": "[고덕점] 링 던지기",
         "age": "36개월 이상 ~",
@@ -730,6 +735,11 @@
         "name": "데코 케이크세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
+      },
+      "GAN0000010": {
+        "name": "뽀로로멜로디안전그네",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590829237.jpg"
       },
       "ABN0000016": {
         "name": "[보육사]음식컷팅세트",
@@ -2786,6 +2796,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069890335.png"
       },
+      "GBN0000154": {
+        "name": "[아이코닉스]뽀로로 냉장고",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733276498427.jpg"
+      },
       "GEN0000033": {
         "name": "해양입체퍼즐",
         "age": "24개월 이상 ~",
@@ -2975,6 +2990,11 @@
         "name": "[벨레덕]바나나",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066443949.png"
+      },
+      "GDN0000186": {
+        "name": "[아이존]뽀로로 변신 경찰본부",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278434158.jpg"
       },
       "MCN0000005": {
         "name": "멀티 사운드 액티비티",
@@ -3320,11 +3340,6 @@
       }
     },
     "wait": {
-      "DDN0000029": {
-        "name": "[자노드]청키퍼즐비히클/팜",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
-      },
       "KBN0000062": {
         "name": "[고덕점] 점보공룡",
         "age": "36개월 이상 ~",
@@ -3439,6 +3454,11 @@
         "name": "뉴 농장꼭지퍼즐",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_92.jpg"
+      },
+      "DDN0000029": {
+        "name": "[자노드]청키퍼즐비히클/팜",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
       },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
@@ -3690,11 +3710,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
-      "DBN0000051": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
-      },
       "GDN0000030": {
         "name": "알파벳 주볼",
         "age": "6개월 이상 ~",
@@ -3820,6 +3835,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
+      "KDN0000133": {
+        "name": "[고덕점] 빙글빙글 타요주차장놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
+      },
       "DDN0000030": {
         "name": "[자노드]청키퍼즐디노조/쥬",
         "age": "12개월 이상 ~",
@@ -3905,11 +3925,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
-      "KDN0000133": {
-        "name": "[고덕점] 빙글빙글 타요주차장놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
-      },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
         "age": "36개월 이상 ~",
@@ -3969,11 +3984,6 @@
         "name": "[립프로그]믹서 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
-      },
-      "CBN0000070": {
-        "name": "[컬렉타]야생동물 30종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
       },
       "GBN0000161": {
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
@@ -4424,11 +4434,6 @@
         "name": "감각징검다리세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793100015.jpg"
-      },
-      "CBN0000025": {
-        "name": "야생동물 24종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793246280.jpg"
       },
       "CBN0000008": {
         "name": "둑티그 장난감 계산대",
