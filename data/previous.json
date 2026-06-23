@@ -521,11 +521,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
-      "GDN0000020": {
-        "name": "반짝반짝케이크링",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031551040.jpg"
-      },
       "GDN0000070": {
         "name": "원목불도저",
         "age": "36개월 이상 ~",
@@ -590,6 +585,11 @@
         "name": "미니오케스트라",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027659281.jpg"
+      },
+      "GDN0000020": {
+        "name": "반짝반짝케이크링",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031551040.jpg"
       },
       "GDN0000014": {
         "name": "꿀벌톱니바퀴",
