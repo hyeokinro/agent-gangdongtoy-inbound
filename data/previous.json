@@ -3480,11 +3480,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538866628.png"
       },
-      "KDN0000075": {
-        "name": "[고덕점] 반짝반짝 케이크링쌓기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
-      },
       "GAN0000044": {
         "name": "[리틀타익스]핀볼 액티비티 테이블",
         "age": "24개월 이상 ~",
@@ -3494,11 +3489,6 @@
         "name": "수더메도우 모빌(흑백+홀더)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874300858.JPG"
-      },
-      "GDN0000187": {
-        "name": "[브이텍]스마트 러닝 태블릿",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
       },
       "KDN0000135": {
         "name": "[고덕점] 엉금엉금멜로디달팽이",
@@ -3589,6 +3579,11 @@
         "name": "[아이팜]토이 웨건",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759639390.jpg"
+      },
+      "KDN0000075": {
+        "name": "[고덕점] 반짝반짝 케이크링쌓기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
       },
       "KBN0000058": {
         "name": "[고덕점] 헤어 드레싱세트",
@@ -3835,11 +3830,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
-      "GAN0000045": {
-        "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
-      },
       "DDN0000117": {
         "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
         "age": "1개월 이상 ~",
@@ -3930,10 +3920,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
       },
-      "DDN0000044": {
-        "name": "[플랜토이즈]망치놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
+      "DDN0000037": {
+        "name": "[벨레덕]딸기",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062211217.png"
+      },
+      "GBN0000167": {
+        "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
       "DDN0000062": {
         "name": "[맥포머스]애니멀세트",
@@ -4080,6 +4075,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
       },
+      "GAN0000045": {
+        "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
+      },
       "GBN0000161": {
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
         "age": "36개월 이상 ~",
@@ -4094,11 +4094,6 @@
         "name": "[미미월드] 똘똘이 유치원",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765261024714.png"
-      },
-      "GBN0000167": {
-        "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
       "GDN0000222": {
         "name": "[영실업] 뉴 또봇 Y",
@@ -5339,11 +5334,6 @@
         "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543318470.png"
-      },
-      "KDN0000121": {
-        "name": "[고덕점] 오뚜기(파랑)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558282617.png"
       },
       "KDN0000080": {
         "name": "[고덕점] 즐거운 놀이공원",
