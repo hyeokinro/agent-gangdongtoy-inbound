@@ -476,11 +476,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540692173.png"
       },
-      "CDN0000007": {
-        "name": "더티디거포크레인",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_59.jpg"
-      },
       "GDN0000175": {
         "name": "옥토넛 탐험선A & 피규어",
         "age": "24개월 이상 ~",
@@ -775,6 +770,11 @@
         "name": "[보육사]영아용리듬악기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
+      },
+      "KDN0000120": {
+        "name": "[고덕점] 뉴 알파벳 학습 버스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
       },
       "GBN0000015": {
         "name": "야채세트(라두가그레이즈)",
@@ -1275,6 +1275,11 @@
         "name": "[코닉스]레스큐타요 sos출동센터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563131969.png"
+      },
+      "AFN0000008": {
+        "name": "[코닉스]뽀로로 시소붕붕카",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710468960260.JPG"
       },
       "CDN0000018": {
         "name": "멀티플렉스75p(스퀴즈)",
@@ -1850,11 +1855,6 @@
         "name": "베이비 종합세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562809756803.jpg"
-      },
-      "CDN0000006": {
-        "name": "더티디거불더저",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_58.jpg"
       },
       "ADN0000000": {
         "name": "[사라앤]엘리스&루이스",
@@ -2681,6 +2681,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
       },
+      "KBN0000067": {
+        "name": "[고덕점] 알록달록 송이 미용실",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567220129.png"
+      },
       "GAN0000033": {
         "name": "[캐스b]말랑말랑 볼링친구들",
         "age": "12개월 이상 ~",
@@ -2875,11 +2880,6 @@
         "name": "[보육사]목재의사놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1664354241721.png"
-      },
-      "KBN0000067": {
-        "name": "[고덕점] 알록달록 송이 미용실",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567220129.png"
       },
       "ADN0000033": {
         "name": "[하바]미로(건설,교통)",
@@ -3884,11 +3884,6 @@
         "name": "레코딩무선전화놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
-      },
-      "DDN0000044": {
-        "name": "[플랜토이즈]망치놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
       },
       "DDN0000067": {
         "name": "[애니블록]퍼즐올인원팩",
