@@ -956,11 +956,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062275319.png"
       },
-      "GEN0000014": {
-        "name": "가든쌓기블록",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034961747.jpg"
-      },
       "DDN0000061": {
         "name": "[타일블록스]레인보우",
         "age": "36개월 이상 ~",
@@ -3313,11 +3308,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732451249.png"
       },
-      "CAN0000004": {
-        "name": "[택배]디스커버리러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_4.jpg"
-      },
       "CGN0000059": {
         "name": "[택배]현대백일돌상①",
         "age": "1개월 이상 ~",
@@ -3670,6 +3660,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296123906.jpg"
       },
+      "CGN0000107": {
+        "name": "[코니스]에듀테이블 워커",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
+      },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
         "age": "36개월 이상 ~",
@@ -3820,11 +3815,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
       "DDN0000067": {
         "name": "[애니블록]퍼즐올인원팩",
         "age": "36개월 이상 ~",
@@ -3884,6 +3874,11 @@
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
@@ -5984,6 +5979,11 @@
         "name": "콩순이 알록달록 카페놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
+      },
+      "GDN0000161": {
+        "name": "뽀로로 멜로디 큐브버스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221373781.png"
       },
       "GDN0000170": {
         "name": "와일드 어드벤처 레인저",
