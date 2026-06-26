@@ -356,6 +356,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664695076.jpg"
       },
+      "DEN0000003": {
+        "name": "[스틱오]피싱세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553766249.png"
+      },
       "GBN0000006": {
         "name": "리본도트주방놀이",
         "age": "48개월 이상 ~",
@@ -996,11 +1001,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069475733.png"
       },
-      "KCN0000013": {
-        "name": "[고덕점] 파람팜팜 악기세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566377706.jpg"
-      },
       "GBN0000147": {
         "name": "[꼬마호랑이]소프트 병원놀이 13종",
         "age": "1개월 이상 ~",
@@ -1125,6 +1125,11 @@
         "name": "응급차량미니카13종",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948294409.JPG"
+      },
+      "KCN0000013": {
+        "name": "[고덕점] 파람팜팜 악기세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566377706.jpg"
       },
       "MBN0000065": {
         "name": "오즈토이 케이레스큐 공구놀이 리빙박스",
