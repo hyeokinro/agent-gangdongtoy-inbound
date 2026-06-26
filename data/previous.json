@@ -1126,11 +1126,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_95.jpg"
       },
-      "GFN0000009": {
-        "name": "[야야토이즈] 소방 3D 롤링카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336182215.png"
-      },
       "ABN0000008": {
         "name": "[하페]주스&컵케잌세트",
         "age": "36개월 이상 ~",
@@ -1871,11 +1866,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027499707.jpg"
       },
-      "CCN0000014": {
-        "name": "베이비 종합세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562809756803.jpg"
-      },
       "ADN0000000": {
         "name": "[사라앤]엘리스&루이스",
         "age": "12개월 이상 ~",
@@ -1985,6 +1975,11 @@
         "name": "원목마켓놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592811719.JPG"
+      },
+      "CCN0000014": {
+        "name": "베이비 종합세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562809756803.jpg"
       },
       "DDN0000035": {
         "name": "[하페]고리와퍼즐",
@@ -3331,6 +3326,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595208161.jpg"
       },
+      "CGN0000015": {
+        "name": "반짝반짝뮤지컬걸음마",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
+      },
       "GDN0000066": {
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
         "age": "36개월 이상 ~",
@@ -3450,11 +3450,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
-      "GAN0000044": {
-        "name": "[리틀타익스]핀볼 액티비티 테이블",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277171510.jpg"
-      },
       "KDN0000135": {
         "name": "[고덕점] 엉금엉금멜로디달팽이",
         "age": "24개월 이상 ~",
@@ -3539,6 +3534,11 @@
         "name": "[아이팜]토이 웨건",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759639390.jpg"
+      },
+      "GAN0000044": {
+        "name": "[리틀타익스]핀볼 액티비티 테이블",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277171510.jpg"
       },
       "KDN0000075": {
         "name": "[고덕점] 반짝반짝 케이크링쌓기",
