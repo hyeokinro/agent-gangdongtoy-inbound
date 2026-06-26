@@ -2376,6 +2376,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959345914.png"
       },
+      "CDN0000102": {
+        "name": "[베이비아인슈타인]뮤지컬 무빙 문어아빠",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435737111.jpg"
+      },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
         "age": "36개월 이상 ~",
@@ -3335,11 +3340,6 @@
       }
     },
     "wait": {
-      "AGN0000007": {
-        "name": "[브라이트]컴포트스윙",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
-      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -3835,10 +3835,10 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
       },
-      "DDN0000067": {
-        "name": "[애니블록]퍼즐올인원팩",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069733673.png"
+      "GCN0000013": {
+        "name": "미니오케스트라",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027659281.jpg"
       },
       "DDN0000098": {
         "name": "[레고]미니의공간",
@@ -3994,6 +3994,11 @@
         "name": "[미미월드] 똘똘이 유치원",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765261024714.png"
+      },
+      "GFN0000010": {
+        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
       },
       "GDN0000222": {
         "name": "[영실업] 뉴 또봇 Y",
