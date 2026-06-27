@@ -786,11 +786,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069517538.png"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
       "ACN0000009": {
         "name": "[보육사]영아용리듬악기",
         "age": "12개월 이상 ~",
@@ -1100,11 +1095,6 @@
         "name": "뉴공룡꼭지퍼즐",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_95.jpg"
-      },
-      "KBN0000053": {
-        "name": "[고덕점] 똘똘이 동물병원",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538723545.png"
       },
       "GCN0000014": {
         "name": "스탠드밴드",
@@ -2500,6 +2490,11 @@
         "name": "[고덕점] 러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1704356804689.png"
+      },
+      "GCN0000010": {
+        "name": "리틀디제이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033564153.jpg"
       },
       "GBN0000028": {
         "name": "스탠드 케이크세트",
@@ -4160,6 +4155,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222264806.png"
       },
+      "KDN0000128": {
+        "name": "[고덕점] 걸음마친구 노래하는 공놀이 공룡",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
+      },
       "KCN0000012": {
         "name": "[고덕점] 다이나믹우퍼 기타",
         "age": "6개월 이상 ~",
@@ -5240,11 +5240,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
       },
-      "KGN0000003": {
-        "name": "[고덕점] 엔픽스 롤링360 보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538925260.png"
-      },
       "KDN0000095": {
         "name": "[고덕점] 뮤직운전대",
         "age": "24개월 이상 ~",
@@ -6248,6 +6243,11 @@
         "name": "[놀이팩]야구배팅 놀이세트(핑크)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
+      },
+      "HSN0000077": {
+        "name": "[물놀이팩]타워 워터테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218270049.png"
       },
       "HSN0000084": {
         "name": "[물놀이팩]오리물총튜브+수영복",
