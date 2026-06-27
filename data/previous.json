@@ -976,11 +976,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769355982.jpg"
       },
-      "DDN0000150": {
-        "name": "[토이세븐]하츄핑 청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557855610.png"
-      },
       "KDN0000089": {
         "name": "[고덕점] 코랄리프",
         "age": "24개월 이상 ~",
@@ -1115,6 +1110,11 @@
         "name": "오즈토이 케이레스큐 공구놀이 리빙박스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959638075.png"
+      },
+      "DDN0000150": {
+        "name": "[토이세븐]하츄핑 청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557855610.png"
       },
       "MAN0000028": {
         "name": "디에인샵 비행기 점퍼루 아기쏘서",
@@ -2266,6 +2266,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541753455.png"
       },
+      "GAN0000046": {
+        "name": "[피셔프라이스] 얼티밋 스마트 러닝홈 2.0",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765249415923.png"
+      },
       "GBN0000029": {
         "name": "아이스크림",
         "age": "36개월 이상 ~",
@@ -3340,11 +3345,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
-      "KDN0000135": {
-        "name": "[고덕점] 엉금엉금멜로디달팽이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
-      },
       "KBN0000074": {
         "name": "[고덕점] 퍼스트 계산대놀이",
         "age": "36개월 이상 ~",
@@ -3454,6 +3454,11 @@
         "name": "[브이텍]공구놀이세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
+      },
+      "KDN0000135": {
+        "name": "[고덕점] 엉금엉금멜로디달팽이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
       },
       "DBN0000039": {
         "name": "[브이텍]ABC 쇼핑카트",
@@ -4605,11 +4610,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540454076.png"
       },
-      "KDN0000071": {
-        "name": "[고덕점] 소근육놀이 아기상어",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540560940.png"
-      },
       "KDN0000047": {
         "name": "[고덕점] 엄마까투리 소방구조대",
         "age": "36개월 이상 ~",
@@ -4974,11 +4974,6 @@
         "name": "[고덕점] 특수차량 12종세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559059417.png"
-      },
-      "KBN0000073": {
-        "name": "[고덕점] 퍼스트 오븐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566898937.png"
       },
       "KAN0000014": {
         "name": "[고덕점] 뉴 뽀로로 노래하는 안전그네",
@@ -5520,11 +5515,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760049725.jpg"
       },
-      "ABN0000012": {
-        "name": "[립프로그]BBQ 카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768138822.jpg"
-      },
       "ACN0000010": {
         "name": "[쁘띠베베]회전목마드럼",
         "age": "12개월 이상 ~",
@@ -5679,11 +5669,6 @@
         "name": "[고덕점] 모양 맞추기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539238781.png"
-      },
-      "KDN0000146": {
-        "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540056044.png"
       },
       "KDN0000048": {
         "name": "[고덕점] 엄마까투리 두리 하우스",
