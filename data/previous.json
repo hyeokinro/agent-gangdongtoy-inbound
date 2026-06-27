@@ -1191,11 +1191,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958183570.png"
       },
-      "KDN0000052": {
-        "name": "[고덕점] 티니핑 놀이공원",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564996272.png"
-      },
       "MBN0000066": {
         "name": "[스탠리주니어] 드라이버공구놀이세트25피스",
         "age": "36개월 이상 ~",
@@ -1530,6 +1525,11 @@
         "name": "[하바]플라워페깅게임",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067483787.png"
+      },
+      "KDN0000052": {
+        "name": "[고덕점] 티니핑 놀이공원",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564996272.png"
       },
       "DDN0000059": {
         "name": "[맥포머스]프린세스세트",
@@ -2255,6 +2255,11 @@
         "name": "물고기드럼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030702820.jpg"
+      },
+      "GAN0000040": {
+        "name": "뮤지컬 액티비티 워커",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
       },
       "GDN0000015": {
         "name": "브라이트스타트 심포니기어",
@@ -4150,6 +4155,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201104352.png"
       },
+      "AGN0000014": {
+        "name": "학습 테이블 멜로디 에듀 테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672204953272.png"
+      },
       "GAN0000038": {
         "name": "리틀 베이비 범 액티비티 워커",
         "age": "6개월 이상 ~",
@@ -5814,11 +5824,6 @@
         "name": "멀티플렉스세트150pc(스퀴즈)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_71.jpg"
-      },
-      "CEN0000008": {
-        "name": "동물농장청키퍼즐",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_97.jpg"
       },
       "GBN0000017": {
         "name": "원목자석과일자르기",
