@@ -181,11 +181,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769299116.jpg"
       },
-      "GDN0000017": {
-        "name": "농장비즈끼우기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032076409.jpg"
-      },
       "MDN0000018": {
         "name": "리틀타익스 더티디거 시리즈 불도저",
         "age": "36개월 이상 ~",
@@ -1481,6 +1476,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278605112.jpg"
       },
+      "DGY0000005": {
+        "name": "[길동점]현대백일돌상②",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1647586462585.PNG"
+      },
       "DDN0000086": {
         "name": "[보약게임]플라잉치즈",
         "age": "60개월 이상 ~",
@@ -1595,11 +1595,6 @@
         "name": "[짐보리]맥포머스90PCS",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773586233.jpg"
-      },
-      "AFN0000008": {
-        "name": "[코닉스]뽀로로 시소붕붕카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710468960260.JPG"
       },
       "GBN0000096": {
         "name": "척척박사 우유와 뉴 콩순이 냉장고",
@@ -1850,11 +1845,6 @@
         "name": "티세트(테라&블루)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033185737.jpg"
-      },
-      "KDN0000082": {
-        "name": "[고덕점] 특수차량 12종세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559059417.png"
       },
       "DDN0000099": {
         "name": "[레고]공룡탈출",
@@ -2911,11 +2901,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780013846176.png"
       },
-      "GBN0000008": {
-        "name": "쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592848165.JPG"
-      },
       "GEN0000000": {
         "name": "숲네츄럴세트",
         "age": "36개월 이상 ~",
@@ -3020,6 +3005,11 @@
         "name": "[맥포머스]원더세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067727613.png"
+      },
+      "GBN0000008": {
+        "name": "쇼핑카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592848165.JPG"
       },
       "MCN0000001": {
         "name": "폴라비 유아 원목 리듬악기세트",
@@ -3135,11 +3125,6 @@
         "name": "[코닉스]뽀로로키즈팝댄스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
-      },
-      "AAN0000006": {
-        "name": "[지나월드]뽀로로그네",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759863935.jpg"
       },
       "GEN0000017": {
         "name": "멘델의 유전법칙",
@@ -6115,16 +6100,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168019223.png"
       },
-      "ABN0000047": {
-        "name": "[리틀타익스]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168707540.png"
-      },
-      "AAN0000023": {
-        "name": "[키움하우스]팝핑 워커 거북이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169116548.png"
-      },
       "CBN0000061": {
         "name": "[브이텍]2in1 다이노 파크",
         "age": "12개월 이상 ~",
@@ -6184,11 +6159,6 @@
         "name": "[브이텍] 다이노 먹이주기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
-      },
-      "GDN0000224": {
-        "name": "[초이락] 헬로카봇 루크X",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431698560.png"
       }
     }
   },
