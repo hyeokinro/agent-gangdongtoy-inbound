@@ -3430,6 +3430,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
       },
+      "CDN0000081": {
+        "name": "[오볼]오볼세트",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
+      },
       "KDN0000135": {
         "name": "[고덕점] 엉금엉금멜로디달팽이",
         "age": "24개월 이상 ~",
@@ -3494,11 +3499,6 @@
         "name": "[러닝리소스] 넘버블럭스 레인보우 카운팅 버스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257533508.png"
-      },
-      "CDN0000081": {
-        "name": "[오볼]오볼세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
       },
       "AAN0000020": {
         "name": "캐스B 말랑말랑 볼링친구들",
@@ -3620,11 +3620,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
       },
-      "CGN0000023": {
-        "name": "와이즈체어 범보부스터(핑크)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
-      },
       "GBN0000162": {
         "name": "[에프비존] 사랑의 하츄핑 마이크",
         "age": "36개월 이상 ~",
@@ -3659,6 +3654,11 @@
         "name": "부엉이시계",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032021366.jpg"
+      },
+      "GDN0000187": {
+        "name": "[브이텍]스마트 러닝 태블릿",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
       },
       "KDN0000041": {
         "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
@@ -5330,6 +5330,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553696233.png"
       },
+      "CGY0000086": {
+        "name": "피아노아기체육관 디럭스",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690654254.jpg"
+      },
       "KDN0000151": {
         "name": "[고덕점]아기곰저울&숫자놀이",
         "age": "36개월 이상 ~",
@@ -6138,11 +6143,6 @@
         "name": "[물놀이팩]수도꼭지+문어목욕놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778219251934.png"
-      },
-      "HSN0000052": {
-        "name": "[물놀이팩]수박수영복(XL)+목튜브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139965196.png"
       },
       "HSN0000046": {
         "name": "[놀이팩]커들반 인형(강아지)",
