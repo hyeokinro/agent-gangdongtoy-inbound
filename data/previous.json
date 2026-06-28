@@ -3685,11 +3685,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
-      "GBN0000153": {
-        "name": "[립프로그]러빙 오븐 틸",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277205094.jpg"
-      },
       "GDN0000132": {
         "name": "[브이텍]나잡아봐 야옹이",
         "age": "12개월 이상 ~",
@@ -3744,6 +3739,11 @@
         "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
+      },
+      "GBN0000166": {
+        "name": "[미미월드] 똘똘이 유치원",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765261024714.png"
       },
       "CDN0000071": {
         "name": "[코닉스]타요트랙미니카",
@@ -3850,6 +3850,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
+      "GBN0000153": {
+        "name": "[립프로그]러빙 오븐 틸",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277205094.jpg"
+      },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
         "age": "36개월 이상 ~",
@@ -3889,11 +3894,6 @@
         "name": "[미미월드] 타요 차고지 스페셜 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260853438.png"
-      },
-      "GBN0000166": {
-        "name": "[미미월드] 똘똘이 유치원",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765261024714.png"
       },
       "GDN0000208": {
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
@@ -5590,6 +5590,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221528691.png"
       },
+      "GDN0000173": {
+        "name": "레인보우 회전놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223643846.png"
+      },
       "KDN0000119": {
         "name": "[고덕점] 굿모닝 프렌즈",
         "age": "12개월 이상 ~",
@@ -6178,11 +6183,6 @@
         "name": "[놀이팩]야구배팅 놀이세트(핑크)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
-      },
-      "HSN0000077": {
-        "name": "[물놀이팩]타워 워터테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218270049.png"
       },
       "HSN0000084": {
         "name": "[물놀이팩]오리물총튜브+수영복",
