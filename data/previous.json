@@ -1311,6 +1311,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541175594.png"
       },
+      "CDN0000018": {
+        "name": "멀티플렉스75p(스퀴즈)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_70.jpg"
+      },
       "DDN0000082": {
         "name": "[오차드]우체통게임",
         "age": "24개월 이상 ~",
@@ -1380,11 +1385,6 @@
         "name": "공룡피규어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
-      },
-      "CBN0000008": {
-        "name": "둑티그 장난감 계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801929669.jpg"
       },
       "GDN0000195": {
         "name": "[브라이트스타트] 공놀이 코끼리 버스",
@@ -1845,11 +1845,6 @@
         "name": "[르토이반]동물친구들",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416325981.jpg"
-      },
-      "CDN0000068": {
-        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
       },
       "GDN0000019": {
         "name": "빙글빙글 옥토퍼스",
@@ -3285,6 +3280,11 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592364054.JPG"
       },
+      "DBN0000031": {
+        "name": "[립프로그]ABC 청소기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664695076.jpg"
+      },
       "GBN0000160": {
         "name": "[러닝리소스] 넘버블럭스 레인보우 카운팅 버스",
         "age": "36개월 이상 ~",
@@ -3625,10 +3625,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223776600.png"
       },
-      "DDN0000154": {
-        "name": "[손오공]옥토넛 옥토포드 플레이세트",
+      "CDN0000071": {
+        "name": "[코닉스]타요트랙미니카",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554926633.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521003419.PNG"
       },
       "DDN0000117": {
         "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
@@ -3699,6 +3699,11 @@
         "name": "[스틱오]아기상어 프렌즈 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
+      },
+      "DDN0000154": {
+        "name": "[손오공]옥토넛 옥토포드 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554926633.png"
       },
       "DBN0000040": {
         "name": "[피셔]러닝 가든 앤 키친",
@@ -3784,11 +3789,6 @@
         "name": "[영실업] 뉴 또봇 Y",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1768541710508.png"
-      },
-      "CAN0000010": {
-        "name": "아메리칸미끄럼틀",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_10.jpg"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
