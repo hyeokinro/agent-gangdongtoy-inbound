@@ -358,7 +358,14 @@ def main():
                 print(f"  [{tab['id']}] 실패: {exc}")
                 # 실패한 탭은 이전 데이터 유지 (다음 실행에서 재시도)
                 curr_data[gbn][tab["id"]] = prev_data.get(gbn, {}).get(tab["id"], {})
-                if prev_data and TELEGRAM_TOKEN:
+                # 417·타임아웃 등 서버 일시 오류는 알림 생략
+                is_transient = (
+                    isinstance(exc, requests.exceptions.Timeout)
+                    or (isinstance(exc, requests.exceptions.HTTPError)
+                        and exc.response is not None
+                        and exc.response.status_code in (417, 503, 429))
+                )
+                if prev_data and TELEGRAM_TOKEN and not is_transient:
                     send_message(
                         f"⚠️ <b>[{_esc(category['label'])}] {_esc(tab['label'])}</b> 크롤링 실패\n"
                         f"{_esc(str(exc)[:200])}"
