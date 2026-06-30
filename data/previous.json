@@ -26,11 +26,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590857050.jpg"
       },
-      "GDN0000139": {
-        "name": "망아지 플레이테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165738861.png"
-      },
       "KDN0000135": {
         "name": "[고덕점] 엉금엉금멜로디달팽이",
         "age": "24개월 이상 ~",
@@ -961,11 +956,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599035070919.jpg"
       },
-      "GBN0000087": {
-        "name": "[립프로그]ABC 청소기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188406169.JPG"
-      },
       "GBN0000020": {
         "name": "허니비마켓 야채상자",
         "age": "36개월 이상 ~",
@@ -1221,11 +1211,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030632649.png"
       },
-      "GAN0000034": {
-        "name": "[원펀]뉴러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671517309106.PNG"
-      },
       "MFN0000023": {
         "name": "아이팜 힘찬 포크레인 붕붕카",
         "age": "36개월 이상 ~",
@@ -1235,6 +1220,11 @@
         "name": "플라워 푸쉬토이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599010892288.JPG"
+      },
+      "GBN0000087": {
+        "name": "[립프로그]ABC 청소기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188406169.JPG"
       },
       "DDN0000040": {
         "name": "[벨레덕]호박",
