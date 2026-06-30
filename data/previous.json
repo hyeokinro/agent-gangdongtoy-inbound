@@ -56,11 +56,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349805980.png"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -220,6 +215,11 @@
         "name": "클라부 컬러세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
+      },
+      "GDN0000189": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
       "ABN0000032": {
         "name": "[미미월드]뽀로로 소방서",
@@ -1965,6 +1965,11 @@
         "name": "빙글빙글 옥토퍼스",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865256445.jpg"
+      },
+      "CDN0000065": {
+        "name": "[맬리사엔더그]사운드퍼즐(야행 소방서 악기)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1606897297489.png"
       },
       "ACN0000002": {
         "name": "[baoli]피아노드럼",
