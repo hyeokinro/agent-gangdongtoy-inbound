@@ -2421,11 +2421,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554836237.png"
       },
-      "GDN0000040": {
-        "name": "공놀이 고래",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
-      },
       "GEN0000033": {
         "name": "해양입체퍼즐",
         "age": "24개월 이상 ~",
@@ -2530,6 +2525,11 @@
         "name": "[고덕점] 카캐리어세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559018228.png"
+      },
+      "GDN0000040": {
+        "name": "공놀이 고래",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
       },
       "ADN0000029": {
         "name": "[자석나라]픽스앤픽스",
@@ -2895,11 +2895,6 @@
         "name": "[삼진]행운핑 상자하우스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557654599.png"
-      },
-      "CCN0000020": {
-        "name": "[베이비아인슈타인]플립기타 2in 1",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
       },
       "GDN0000011": {
         "name": "공구세트",
@@ -3500,11 +3495,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
       },
-      "KDN0000120": {
-        "name": "[고덕점] 뉴 알파벳 학습 버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
-      },
       "CCN0000003": {
         "name": "레인메이커(중)",
         "age": "6개월 이상 ~",
@@ -3569,6 +3559,11 @@
         "name": "코레카",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
+      },
+      "DDN0000098": {
+        "name": "[레고]미니의공간",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071507258.png"
       },
       "ABN0000028": {
         "name": "[영실업]콩순이 아기하마 양치놀이",
