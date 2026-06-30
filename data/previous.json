@@ -1016,11 +1016,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767930014.jpg"
       },
-      "KDN0000101": {
-        "name": "[고덕점] 원통 쌓기 블록",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
-      },
       "GDN0000032": {
         "name": "트라이앵글",
         "age": "36개월 이상 ~",
@@ -1110,6 +1105,11 @@
         "name": "동물 숨기기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_61.jpg"
+      },
+      "KDN0000101": {
+        "name": "[고덕점] 원통 쌓기 블록",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
       },
       "GDN0000218": {
         "name": "[브이텍]  2in1 다이노파크",
@@ -1406,6 +1406,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538497750.png"
       },
+      "GDN0000195": {
+        "name": "[브라이트스타트] 공놀이 코끼리 버스",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245706771.png"
+      },
       "ADN0000020": {
         "name": "[브리오]월드소방서세트",
         "age": "36개월 이상 ~",
@@ -1500,11 +1505,6 @@
         "name": "도형놀이 균형맞추기 발란세오",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780029864871.png"
-      },
-      "GDN0000195": {
-        "name": "[브라이트스타트] 공놀이 코끼리 버스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245706771.png"
       },
       "CDN0000053": {
         "name": "꼬마버스타요 4종세트",
@@ -1896,11 +1896,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865256445.jpg"
       },
-      "CDN0000065": {
-        "name": "[맬리사엔더그]사운드퍼즐(야행 소방서 악기)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1606897297489.png"
-      },
       "GBN0000049": {
         "name": "티세트(테라&블루)",
         "age": "36개월 이상 ~",
@@ -2260,11 +2255,6 @@
         "name": "[캐스B]영유아악기17종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770953629.jpg"
-      },
-      "CAN0000016": {
-        "name": "흔들말타기(블루)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_16.jpg"
       },
       "CAN0000032": {
         "name": "뉴 오볼롤러",
@@ -2896,6 +2886,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161094497.png"
       },
+      "GDN0000040": {
+        "name": "공놀이 고래",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
+      },
       "GEN0000033": {
         "name": "해양입체퍼즐",
         "age": "24개월 이상 ~",
@@ -2925,11 +2920,6 @@
         "name": "[보육사]목재의사놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1664354241721.png"
-      },
-      "GDN0000040": {
-        "name": "공놀이 고래",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
       },
       "ADN0000033": {
         "name": "[하바]미로(건설,교통)",
@@ -3320,11 +3310,6 @@
         "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
-      },
-      "GBN0000017": {
-        "name": "원목자석과일자르기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
       },
       "DBN0000041": {
         "name": "[삼진]행운핑 상자하우스",
