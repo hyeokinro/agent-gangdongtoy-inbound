@@ -2471,11 +2471,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672192962552.PNG"
       },
-      "ACN0000001": {
-        "name": "[아임토이]멜로디믹스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769523588.jpg"
-      },
       "MBN0000073": {
         "name": "소프트 피크닉 자석썰기놀이세트",
         "age": "36개월 이상 ~",
@@ -2640,6 +2635,11 @@
         "name": "[코닉스]띠띠뽀 차량기지 놀이세트2",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710561927763.png"
+      },
+      "ACN0000001": {
+        "name": "[아임토이]멜로디믹스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769523588.jpg"
       },
       "DDN0000087": {
         "name": "[코리아보드]루미큐브",
@@ -4369,11 +4369,6 @@
         "name": "[브이텍]스마트 러닝 태블릿",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
-      },
-      "CBN0000058": {
-        "name": "[리틀타익스]퍼스트 냉장고",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349834025.png"
       },
       "DDN0000171": {
         "name": "[브이텍]밸런싱 링쌓기저울",
