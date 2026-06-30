@@ -156,11 +156,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070609185.png"
       },
-      "ADN0000026": {
-        "name": "[코니토이스]에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
-      },
       "KDN0000077": {
         "name": "[고덕점] 피쉬풀어롱",
         "age": "6개월 이상 ~",
@@ -1615,6 +1610,11 @@
         "name": "[에시앙]범보의자(클라우드베어 일체형)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432429604.png"
+      },
+      "ACN0000008": {
+        "name": "[지나월드]뽀로로드럼",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771078086.jpg"
       },
       "KDN0000068": {
         "name": "[고덕점] 아기 케잌세트",
@@ -3281,11 +3281,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594838337.jpg"
       },
-      "CDN0000074": {
-        "name": "[코닉스]뽀로로키즈팝댄스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
-      },
       "GDN0000074": {
         "name": "건설트럭3종세트",
         "age": "12개월 이상 ~",
@@ -4354,6 +4349,11 @@
         "name": "[고덕점] 리틀탭어튠실로폰",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538657246.png"
+      },
+      "KBN0000053": {
+        "name": "[고덕점] 똘똘이 동물병원",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538723545.png"
       },
       "KDN0000127": {
         "name": "[고덕점] 리얼청소차",
@@ -5429,6 +5429,11 @@
         "name": "[고덕점] 엄마까투리 어드벤쳐 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541827094.png"
+      },
+      "KDN0000056": {
+        "name": "[고덕점] 에듀테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541853166.png"
       },
       "KDN0000142": {
         "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
