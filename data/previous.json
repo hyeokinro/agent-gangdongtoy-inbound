@@ -366,11 +366,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030050827.png"
       },
-      "KDN0000135": {
-        "name": "[고덕점] 엉금엉금멜로디달팽이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
-      },
       "ADN0000002": {
         "name": "[브이텍]액티비티에듀볼",
         "age": "12개월 이상 ~",
@@ -415,11 +410,6 @@
         "name": "[고덕점] 라이트봉고드럼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
-      },
-      "GFN0000001": {
-        "name": "코레카경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
       "GBN0000006": {
         "name": "리본도트주방놀이",
@@ -601,6 +591,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031023597.jpg"
       },
+      "ABN0000028": {
+        "name": "[영실업]콩순이 아기하마 양치놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
+      },
       "GDN0000070": {
         "name": "원목불도저",
         "age": "36개월 이상 ~",
@@ -660,11 +655,6 @@
         "name": "레코딩무선전화놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
-      },
-      "ABN0000028": {
-        "name": "[영실업]콩순이 아기하마 양치놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
       "KDN0000061": {
         "name": "[고덕점] 엔젤워터폴",
@@ -795,11 +785,6 @@
         "name": "피자가게세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031639492.jpg"
-      },
-      "KCN0000020": {
-        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
       },
       "KDN0000133": {
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
@@ -1230,6 +1215,11 @@
         "name": "가든쌓기블록",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034961747.jpg"
+      },
+      "ACN0000012": {
+        "name": "[주영이엔시]핑크퐁 동요 노래방",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204943593.jpg"
       },
       "MAN0000028": {
         "name": "디에인샵 비행기 점퍼루 아기쏘서",
@@ -2911,11 +2901,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032321381.jpg"
       },
-      "AAN0000000": {
-        "name": "[브라이트]라이언스텝터",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617758904028.jpg"
-      },
       "ABN0000012": {
         "name": "[립프로그]BBQ 카트",
         "age": "24개월 이상 ~",
@@ -4304,6 +4289,11 @@
         "name": "[립프]아이스크림카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443861058.PNG"
+      },
+      "DAN0000008": {
+        "name": "[브이텍]두가지 공놀이 스포츠센터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664402531.jpg"
       },
       "ACN0000012": {
         "name": "[주영이엔시]핑크퐁 동요 노래방",
@@ -5884,6 +5874,11 @@
         "name": "[손오공]아기상어 비상자동차(3종)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432212391.jpg"
+      },
+      "CBN0000067": {
+        "name": "[브이텍]첫 계산대 놀이세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432749828.jpg"
       },
       "CBN0000069": {
         "name": "[베이비아인슈타인]매직터치 계산대",
