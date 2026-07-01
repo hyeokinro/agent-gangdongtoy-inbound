@@ -316,11 +316,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
       },
-      "CDN0000081": {
-        "name": "[오볼]오볼세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
-      },
       "CEN0000003": {
         "name": "뉴 농장꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -1681,11 +1676,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
       },
-      "CBN0000034": {
-        "name": "원목화장품가방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792405951.jpg"
-      },
       "GDN0000126": {
         "name": "[대성]벤츠 아록스 덤프트럭",
         "age": "36개월 이상 ~",
@@ -1736,11 +1726,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032272823.jpg"
       },
-      "CGN0000105": {
-        "name": "[타이니러브]수더메도우 모빌(흑백+홀더)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435286403.jpg"
-      },
       "GDN0000130": {
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
@@ -1790,6 +1775,11 @@
         "name": "멜로디 곤충피아노",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
+      },
+      "CDN0000068": {
+        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
       },
       "GDN0000058": {
         "name": "클라부 구조세트",
@@ -2710,6 +2700,11 @@
         "name": "[미미월드]햄찌하우스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710556857241.png"
+      },
+      "CDN0000079": {
+        "name": "[브이텍]춤추는 강아지",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
       },
       "GEN0000013": {
         "name": "6가지 계절그림 맞추기큐브",
@@ -3900,15 +3895,15 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
       },
-      "CFN0000003": {
-        "name": "코레카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
-      },
       "DDN0000098": {
         "name": "[레고]미니의공간",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071507258.png"
+      },
+      "CBN0000023": {
+        "name": "후라이팬세트(원목)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
       },
       "CDN0000071": {
         "name": "[코닉스]타요트랙미니카",
