@@ -341,6 +341,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553766249.png"
       },
+      "KDN0000044": {
+        "name": "[고덕점] 크레인&자동차 놀이세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
+      },
       "AAN0000020": {
         "name": "캐스B 말랑말랑 볼링친구들",
         "age": "24개월 이상 ~",
@@ -706,6 +711,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
       },
+      "KCN0000020": {
+        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
+      },
       "KBN0000085": {
         "name": "[고덕점]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
@@ -870,6 +880,11 @@
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "DDN0000062": {
         "name": "[맥포머스]애니멀세트",
@@ -1225,6 +1240,11 @@
         "name": "아이팜 힘찬 포크레인 붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958018487.png"
+      },
+      "KDN0000140": {
+        "name": "[고덕점] 바하마낚시게임",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539301320.png"
       },
       "GAN0000012": {
         "name": "플라워 푸쉬토이",
@@ -2686,6 +2706,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780017086025.png"
       },
+      "KDN0000098": {
+        "name": "[고덕점] 도형 맞추기 시계",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538324726.png"
+      },
       "KDN0000048": {
         "name": "[고덕점] 엄마까투리 두리 하우스",
         "age": "36개월 이상 ~",
@@ -2905,11 +2930,6 @@
         "name": "[멜리사앤]설거지놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768086087.jpg"
-      },
-      "KDN0000098": {
-        "name": "[고덕점] 도형 맞추기 시계",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538324726.png"
       },
       "DDN0000070": {
         "name": "[탑브라이트]탈것(증기선외)",
@@ -3575,11 +3595,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
-      "GBN0000002": {
-        "name": "푸드트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
-      },
       "DDN0000055": {
         "name": "[맥포머스]구조대세트",
         "age": "36개월 이상 ~",
@@ -3749,6 +3764,11 @@
         "name": "[고덕점] 애프터눈티세트 15피스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541603628.png"
+      },
+      "GBN0000002": {
+        "name": "푸드트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
       },
       "GBN0000157": {
         "name": "[미미월드] 똘똘이 딸기농장",
