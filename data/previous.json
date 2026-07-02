@@ -3800,11 +3800,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
       },
-      "DDN0000101": {
-        "name": "[레고]스파이더맨본부",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
-      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -3965,10 +3960,20 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
+      "GDN0000085": {
+        "name": "[숲소리]실꿰기세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415748622.jpg"
+      },
       "DDN0000081": {
         "name": "[오차드]덧셈하며등산해요",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070663277.png"
+      },
+      "DDN0000101": {
+        "name": "[레고]스파이더맨본부",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
       "CDN0000071": {
         "name": "[코닉스]타요트랙미니카",
@@ -4995,11 +5000,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071551522.png"
       },
-      "DGY0000006": {
-        "name": "[길동점]현대돌백일상③",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1647586490831.PNG"
-      },
       "DAN0000006": {
         "name": "[피셔]클래식러닝홈",
         "age": "6개월 이상 ~",
@@ -5225,16 +5225,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031489996.jpg"
       },
-      "GBN0000004": {
-        "name": "뷰티드레서화장대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031788346.jpg"
-      },
-      "GDN0000001": {
-        "name": "제니쥬",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033534551.jpg"
-      },
       "CAN0000032": {
         "name": "뉴 오볼롤러",
         "age": "6개월 이상 ~",
@@ -5294,11 +5284,6 @@
         "name": "[콤비]보행기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779278159.jpg"
-      },
-      "DDN0000100": {
-        "name": "[레고]비행기와공항",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071603353.png"
       },
       "DDN0000102": {
         "name": "[레고]미니언즈파일럿훈련",
