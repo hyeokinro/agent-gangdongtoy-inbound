@@ -3780,11 +3780,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
       },
-      "GBN0000002": {
-        "name": "푸드트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
-      },
       "GBN0000003": {
         "name": "(영어)아이스크림카트",
         "age": "24개월 이상 ~",
@@ -3975,6 +3970,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257959184.png"
       },
+      "GDN0000144": {
+        "name": "춤추며 배우는 코딩로봇 다이노",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
+      },
       "DDN0000081": {
         "name": "[오차드]덧셈하며등산해요",
         "age": "48개월 이상 ~",
@@ -4004,11 +4004,6 @@
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
-      },
-      "GDN0000144": {
-        "name": "춤추며 배우는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
@@ -4079,6 +4074,11 @@
         "name": "[고덕점]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
+      },
+      "KBN0000083": {
+        "name": "[고덕점]피자카트 한영버전",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
       "KBN0000088": {
         "name": "[고덕점]실제같은 쇼핑카트",
@@ -5010,11 +5010,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
       },
-      "DDN0000047": {
-        "name": "[하바]벌레잡기집게게임",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067211459.png"
-      },
       "DDN0000099": {
         "name": "[레고]공룡탈출",
         "age": "24개월 이상 ~",
@@ -5784,6 +5779,11 @@
         "name": "[고덕점] 모양 맞추기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539238781.png"
+      },
+      "KDN0000146": {
+        "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540056044.png"
       },
       "KDN0000048": {
         "name": "[고덕점] 엄마까투리 두리 하우스",
