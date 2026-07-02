@@ -3381,15 +3381,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480767102.JPG"
       },
-      "DDN0000121": {
-        "name": "[아이코닉스]크롱 양치놀이+ 청소 돌돌이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663582644.jpg"
-      },
       "GDN0000066": {
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607064333706.jpg"
+      },
+      "CGN0000072": {
+        "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207189878.jpg"
       },
       "GCN0000002": {
         "name": "뮤지컬사운드세트",
@@ -3420,6 +3420,11 @@
         "name": "콩순이 알록달록 카페놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
+      },
+      "DDN0000121": {
+        "name": "[아이코닉스]크롱 양치놀이+ 청소 돌돌이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663582644.jpg"
       }
     },
     "delivery": {
@@ -4199,11 +4204,6 @@
         "name": "미니밴드",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792342158.jpg"
-      },
-      "CAN0000018": {
-        "name": "말랑볼링친구들",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793169638.jpg"
       },
       "CBN0000042": {
         "name": "[하페] 빵만들기 놀이",
