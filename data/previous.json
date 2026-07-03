@@ -306,11 +306,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032360550.jpg"
       },
-      "GAN0000009": {
-        "name": "2in1 록킹미끄럼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590804263.JPG"
-      },
       "DEN0000003": {
         "name": "[스틱오]피싱세트",
         "age": "36개월 이상 ~",
@@ -825,11 +820,6 @@
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_34.jpg"
-      },
-      "GBN0000080": {
-        "name": "뽀로로 변신 경찰차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
       },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
@@ -2021,11 +2011,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169074652.png"
       },
-      "GDN0000159": {
-        "name": "오케스트라 러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
-      },
       "ADN0000064": {
         "name": "[브이텍]6IN1 트위스트 에듀큐브",
         "age": "12개월 이상 ~",
@@ -2725,11 +2710,6 @@
         "name": "[고덕점] 액티비티 보드게임",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555505993.png"
-      },
-      "GEN0000028": {
-        "name": "베이직(30pcs)3차원자석블럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057677550.JPG"
       },
       "GDN0000133": {
         "name": "[피셔프라이스] 링키멀스 풀어롱 고슴도치",
@@ -3775,6 +3755,16 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
       },
+      "ADN0000059": {
+        "name": "[키움하우스]라이트업뮤지컬버스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
+      },
+      "GDN0000127": {
+        "name": "[대성]말하는 포크레인",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671265319760.PNG"
+      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -3930,15 +3920,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
       },
-      "GBN0000167": {
-        "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
+      "DDN0000044": {
+        "name": "[플랜토이즈]망치놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
       },
-      "GDN0000085": {
-        "name": "[숲소리]실꿰기세트",
+      "DDN0000062": {
+        "name": "[맥포머스]애니멀세트",
         "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415748622.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069517538.png"
       },
       "DDN0000081": {
         "name": "[오차드]덧셈하며등산해요",
@@ -4104,6 +4094,11 @@
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
+      },
+      "GBN0000167": {
+        "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
       "GDN0000222": {
         "name": "[영실업] 뉴 또봇 Y",
@@ -5010,6 +5005,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188564404.PNG"
       },
+      "GDN0000126": {
+        "name": "[대성]벤츠 아록스 덤프트럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671262414325.PNG"
+      },
       "GDN0000130": {
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
@@ -5614,6 +5614,11 @@
         "name": "[쁘띠베베]회전목마드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771456082.jpg"
+      },
+      "ADN0000013": {
+        "name": "[그린토이즈]대형트럭모음",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772923387.jpg"
       },
       "ADN0000017": {
         "name": "[아이코닉스]타요운전놀이",
