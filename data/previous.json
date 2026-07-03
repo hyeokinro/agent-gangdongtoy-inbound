@@ -2661,11 +2661,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710556857241.png"
       },
-      "CDN0000079": {
-        "name": "[브이텍]춤추는 강아지",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
-      },
       "GEN0000013": {
         "name": "6가지 계절그림 맞추기큐브",
         "age": "12개월 이상 ~",
@@ -3640,6 +3635,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070609185.png"
       },
+      "CGN0000023": {
+        "name": "와이즈체어 범보부스터(핑크)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
+      },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
@@ -3825,11 +3825,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
       "ABN0000028": {
         "name": "[영실업]콩순이 아기하마 양치놀이",
         "age": "36개월 이상 ~",
@@ -3854,6 +3849,11 @@
         "name": "[고덕점] 가드닝카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
