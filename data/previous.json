@@ -251,11 +251,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671510535985.PNG"
       },
-      "DDN0000077": {
-        "name": "[하바]동물쌓기",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070281069.png"
-      },
       "GEN0000030": {
         "name": "건설차량입체퍼즐",
         "age": "24개월 이상 ~",
@@ -365,6 +360,11 @@
         "name": "[캐스돈]다이슨청소기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
+      },
+      "DDN0000077": {
+        "name": "[하바]동물쌓기",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070281069.png"
       },
       "GDN0000201": {
         "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
@@ -2215,11 +2215,6 @@
         "name": "[고덕점] 오뚜기(파랑)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558282617.png"
-      },
-      "DGY0000004": {
-        "name": "[길동점]현대백일돌상①",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1647586425510.PNG"
       },
       "KBN0000079": {
         "name": "[고덕점] 카툰 애니멀",
@@ -4449,6 +4444,11 @@
         "name": "[초이락] 헬로카봇 나이트X",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431950943.png"
+      },
+      "GDN0000215": {
+        "name": "[피노키오] 아기상어 경찰 네비게이션 운전 놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1766046467622.png"
       },
       "CDN0000018": {
         "name": "멀티플렉스75p(스퀴즈)",
