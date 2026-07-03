@@ -296,11 +296,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
       },
-      "CDN0000081": {
-        "name": "[오볼]오볼세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
-      },
       "GDN0000075": {
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
@@ -1200,11 +1195,6 @@
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
-      },
-      "CGN0000022": {
-        "name": "와이즈체어 범보부스터(블루)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798696747.png"
       },
       "DDN0000040": {
         "name": "[벨레덕]호박",
@@ -2421,11 +2411,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672122685216.PNG"
       },
-      "CDN0000030": {
-        "name": "오뚜기삐에로",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_82.jpg"
-      },
       "DDN0000102": {
         "name": "[레고]미니언즈파일럿훈련",
         "age": "48개월 이상 ~",
@@ -3270,6 +3255,11 @@
         "name": "[나비타]브라운 헤어 드레싱 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
+      },
+      "GDN0000219": {
+        "name": "[브이텍] 다이노 먹이주기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
       },
       "DDN0000147": {
         "name": "[아이존]뽀로로 변신경찰본부",
@@ -4729,11 +4719,6 @@
         "name": "[고덕점] 티니핑 놀이공원",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564996272.png"
-      },
-      "KCN0000017": {
-        "name": "[고덕점] 포니 멜로디 실로폰",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566255326.png"
       },
       "KBN0000065": {
         "name": "[고덕점] 키티 피크닉가방",
