@@ -3375,11 +3375,6 @@
       }
     },
     "wait": {
-      "GCN0000011": {
-        "name": "어라운드음악놀이",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
-      },
       "KBN0000064": {
         "name": "[고덕점] 빅레츠고오션월드",
         "age": "36개월 이상 ~",
@@ -3445,11 +3440,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202299073.png"
       },
-      "GDN0000134": {
-        "name": "[디즈니베이비] 클레멘토니 팔로오  미 미키",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671510535985.PNG"
-      },
       "ABN0000042": {
         "name": "[브이텍]공구놀이세트",
         "age": "12개월 이상 ~",
@@ -3470,20 +3460,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
-      "GDN0000209": {
-        "name": "[블루레빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765340957946.png"
-      },
       "KDN0000054": {
         "name": "[고덕점] 꼬꼬맘",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
-      },
-      "CDN0000033": {
-        "name": "클래식8자기차트렉세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_85.jpg"
       },
       "DBN0000031": {
         "name": "[립프로그]ABC 청소기",
@@ -3875,10 +3855,25 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
       },
-      "CDN0000071": {
-        "name": "[코닉스]타요트랙미니카",
+      "GEN0000023": {
+        "name": "알록달록구슬세기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
+      },
+      "CDN0000075": {
+        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521003419.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
+      },
+      "KDN0000061": {
+        "name": "[고덕점] 엔젤워터폴",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "ABN0000028": {
         "name": "[영실업]콩순이 아기하마 양치놀이",
@@ -3895,11 +3890,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
       },
-      "CDN0000075": {
-        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
-      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -3909,11 +3899,6 @@
         "name": "[고덕점] 가드닝카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
-      },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
@@ -3939,11 +3924,6 @@
         "name": "[고덕점] 엄마까투리 멜로디 풍차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
-      },
-      "KDN0000061": {
-        "name": "[고덕점] 엔젤워터폴",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
       },
       "KDN0000113": {
         "name": "[고덕점] 샵앤런 저녁식사",
