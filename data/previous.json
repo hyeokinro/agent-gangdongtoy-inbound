@@ -3391,6 +3391,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
       },
+      "CDN0000019": {
+        "name": "멀티플렉스세트150pc(스퀴즈)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_71.jpg"
+      },
       "GAN0000043": {
         "name": "[리틀타익스]액티비티가든",
         "age": "6개월 이상 ~",
@@ -6344,6 +6349,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778810436659.png"
       },
+      "HSN0000070": {
+        "name": "[물놀이팩]유아체어파라솔(B)+감성매트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778214977031.png"
+      },
       "HSN0000019": {
         "name": "[놀이팩]공룡농구 게임기",
         "age": "36개월 이상 ~",
@@ -6379,6 +6389,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300071529.png"
       },
+      "HSN0000082": {
+        "name": "[물놀이팩]풀장+오리목욕장난감",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218857772.png"
+      },
       "HSN0000073": {
         "name": "[물놀이팩]너프물총+모래놀이",
         "age": "36개월 이상 ~",
@@ -6389,10 +6404,25 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
       },
+      "HSN0000087": {
+        "name": "[물놀이팩]해상구조대목욕놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778219388237.png"
+      },
+      "HSN0000023": {
+        "name": "[놀이팩]야구배팅 놀이세트(블루)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139698114.png"
+      },
       "HSN0000084": {
         "name": "[물놀이팩]오리물총튜브+수영복",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778219035775.png"
+      },
+      "HSN0000071": {
+        "name": "[물놀이팩]분수매트+넥튜브",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778215546675.png"
       },
       "HSN0000048": {
         "name": "[물놀이팩]구명조끼+보트모래놀이",
@@ -6418,6 +6448,16 @@
         "name": "[물놀이팩]파인애플수영복(2XL)+암튜브",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140314073.png"
+      },
+      "HSN0000072": {
+        "name": "[물놀이팩]목욕놀이장난감 2종",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778215643731.png"
+      },
+      "HSN0000045": {
+        "name": "[놀이팩]커들반 인형(코끼리)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301749300.png"
       },
       "HSN0000042": {
         "name": "[놀이팩]다이노 플레이파크",
