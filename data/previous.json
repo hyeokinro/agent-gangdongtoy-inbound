@@ -2426,11 +2426,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672122685216.PNG"
       },
-      "GDN0000183": {
-        "name": "[브랜드B] 팝핑웨일",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
-      },
       "DDN0000102": {
         "name": "[레고]미니언즈파일럿훈련",
         "age": "48개월 이상 ~",
@@ -2810,6 +2805,11 @@
         "name": "[레고]해변출동",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071464624.png"
+      },
+      "CBN0000067": {
+        "name": "[브이텍]첫 계산대 놀이세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432749828.jpg"
       },
       "DDN0000148": {
         "name": "[코닉스]띠띠뽀 차량기지 놀이세트2",
@@ -3905,11 +3905,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
-      "GDN0000085": {
-        "name": "[숲소리]실꿰기세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415748622.jpg"
-      },
       "GDN0000083": {
         "name": "[바조]노아와 배",
         "age": "12개월 이상 ~",
@@ -3929,6 +3924,11 @@
         "name": "[영실업] 뉴 또봇 Y",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1768541710508.png"
+      },
+      "GAN0000045": {
+        "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
       },
       "DDN0000081": {
         "name": "[오차드]덧셈하며등산해요",
@@ -4095,11 +4095,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
       },
-      "GAN0000045": {
-        "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
-      },
       "GBN0000165": {
         "name": "[원앤원] 콩지래빗 구급차 약국놀이",
         "age": "36개월 이상 ~",
@@ -4199,11 +4194,6 @@
         "name": "[마더가든]오븐베이커리",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767930014.jpg"
-      },
-      "ADN0000016": {
-        "name": "[아이코닉스]뽀로로스쿨버스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773296381.jpg"
       },
       "ADN0000019": {
         "name": "[아이코닉스]뽀로로폴리스",
@@ -4945,11 +4935,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415937138.jpg"
       },
-      "GDN0000093": {
-        "name": "[르토이반]동물친구들",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416325981.jpg"
-      },
       "ACN0000007": {
         "name": "[브랜드B]파람팜팜악기",
         "age": "12개월 이상 ~",
@@ -5029,11 +5014,6 @@
         "name": "액티비티 코끼리 농구대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
-      },
-      "GCN0000020": {
-        "name": "펀아토 베이비드럼",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164899238.png"
       },
       "GCN0000022": {
         "name": "마이 리얼 잼 키보드",
@@ -6189,6 +6169,11 @@
         "name": "[아이존]뽀로로 변신 경찰본부",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278434158.jpg"
+      },
+      "CGN0000097": {
+        "name": "[하베브릭스]바람개비 아기체육관",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432123408.jpg"
       },
       "CAN0000062": {
         "name": "[비키즈]미러롤러",
