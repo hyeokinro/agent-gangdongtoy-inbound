@@ -351,11 +351,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
       },
-      "GCN0000011": {
-        "name": "어라운드음악놀이",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
-      },
       "GDN0000209": {
         "name": "[블루레빗]꼬꼬맘",
         "age": "12개월 이상 ~",
@@ -1596,11 +1591,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_91.jpg"
       },
-      "GBN0000032": {
-        "name": "커피머신",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593784979.jpg"
-      },
       "KDN0000052": {
         "name": "[고덕점] 티니핑 놀이공원",
         "age": "36개월 이상 ~",
@@ -2321,11 +2311,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791727157.jpg"
       },
-      "GDN0000169": {
-        "name": "첫 계산대놀이 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222329943.png"
-      },
       "DDN0000091": {
         "name": "[만두게임즈]박스몬스터",
         "age": "60개월 이상 ~",
@@ -2490,6 +2475,11 @@
         "name": "[원앤원] 조이앤그로우 에듀하우스 6in1",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765432227830.png"
+      },
+      "GDN0000169": {
+        "name": "첫 계산대놀이 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222329943.png"
       },
       "GDN0000045": {
         "name": "꼬꼬닥오뚝이",
@@ -4650,6 +4640,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1619163664701.jpg"
       },
+      "DDN0000031": {
+        "name": "[플랜토이즈]바다친구퍼즐",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061848108.png"
+      },
       "DDN0000043": {
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
@@ -4784,6 +4779,11 @@
         "name": "[고덕점] 엄마까투리 소방구조대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541801372.png"
+      },
+      "KDN0000132": {
+        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
       },
       "KDN0000074": {
         "name": "[고덕점] 타요 중앙차고지놀이",
@@ -5695,6 +5695,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773743427.jpg"
       },
+      "ADN0000029": {
+        "name": "[자석나라]픽스앤픽스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773984790.jpg"
+      },
       "ADN0000033": {
         "name": "[하바]미로(건설,교통)",
         "age": "24개월 이상 ~",
@@ -6079,6 +6084,11 @@
         "name": "[레드박스]팝업동물농장",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672194271073.PNG"
+      },
+      "CFN0000020": {
+        "name": "[브이텍]3단계 말하는 얼룩말 스쿠터",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
       },
       "CGN0000072": {
         "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
