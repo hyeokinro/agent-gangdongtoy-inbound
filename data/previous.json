@@ -506,11 +506,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554428927.png"
       },
-      "GDN0000175": {
-        "name": "옥토넛 탐험선A & 피규어",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223776600.png"
-      },
       "DDN0000066": {
         "name": "[지오맥]코어타쭈파코",
         "age": "60개월 이상 ~",
@@ -610,6 +605,11 @@
         "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
+      },
+      "GDN0000175": {
+        "name": "옥토넛 탐험선A & 피규어",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223776600.png"
       },
       "GDN0000083": {
         "name": "[바조]노아와 배",
@@ -3820,6 +3820,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874300858.JPG"
       },
+      "AGN0000007": {
+        "name": "[브라이트]컴포트스윙",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
+      },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
@@ -3980,10 +3985,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
-      "GDN0000222": {
-        "name": "[영실업] 뉴 또봇 Y",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1768541710508.png"
+      "DDN0000062": {
+        "name": "[맥포머스]애니멀세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069517538.png"
       },
       "DDN0000081": {
         "name": "[오차드]덧셈하며등산해요",
@@ -4154,6 +4159,11 @@
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
+      },
+      "GDN0000222": {
+        "name": "[영실업] 뉴 또봇 Y",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1768541710508.png"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
