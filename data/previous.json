@@ -261,11 +261,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
       },
-      "KBN0000064": {
-        "name": "[고덕점] 빅레츠고오션월드",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538866628.png"
-      },
       "DDN0000130": {
         "name": "[나비타월드]공룡울타리 오프로드차량",
         "age": "36개월 이상 ~",
@@ -275,6 +270,11 @@
         "name": "캐스B 말랑말랑 볼링친구들",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
+      },
+      "KBN0000064": {
+        "name": "[고덕점] 빅레츠고오션월드",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538866628.png"
       },
       "GDN0000202": {
         "name": "[리틀타익스] 리틀큐티버그",
@@ -360,6 +360,11 @@
         "name": "[하바]동물쌓기",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070281069.png"
+      },
+      "CDN0000042": {
+        "name": "에듀플러스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562640401127.jpg"
       },
       "GBN0000006": {
         "name": "리본도트주방놀이",
@@ -805,6 +810,11 @@
         "name": "한글블럭훈민",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_108.jpg"
+      },
+      "CAN0000010": {
+        "name": "아메리칸미끄럼틀",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_10.jpg"
       },
       "GBN0000047": {
         "name": "해양동물세트7종",
@@ -1280,11 +1290,6 @@
         "name": "허니비마켓 과일상자",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593384161.jpg"
-      },
-      "DBN0000030": {
-        "name": "[영실업]콩순이 알록달록 카페놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664742258.jpg"
       },
       "DDN0000151": {
         "name": "[삼진]티니핑 미스틱 하트윙",
