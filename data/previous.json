@@ -196,11 +196,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "DDN0000063": {
         "name": "[트리코]스쿨박스세트",
         "age": "60개월 이상 ~",
@@ -351,15 +346,15 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779135844.jpg"
       },
-      "ABN0000021": {
-        "name": "[캐스돈]다이슨청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
-      },
       "DDN0000077": {
         "name": "[하바]동물쌓기",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070281069.png"
+      },
+      "GDN0000189": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
       "ABN0000038": {
         "name": "[립프로그]아이스크림 카트 디럭스",
@@ -625,11 +620,6 @@
         "name": "비스켓세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599010616405.JPG"
-      },
-      "ADN0000046": {
-        "name": "[지나월드]핑크퐁 아기 상어랜드",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205015903.jpg"
       },
       "ABN0000016": {
         "name": "[보육사]음식컷팅세트",
@@ -1866,11 +1856,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779953710546.png"
       },
-      "GDN0000192": {
-        "name": "[브이텍] 대형 자동차 수송트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084464918.png"
-      },
       "CDN0000092": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -2015,11 +2000,6 @@
         "name": "폴라비 원목 케이크 스탠드 티파티 2종세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780022188084.png"
-      },
-      "DDN0000100": {
-        "name": "[레고]비행기와공항",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071603353.png"
       },
       "GDN0000073": {
         "name": "덤프트럭(핑크)",
@@ -3000,6 +2980,11 @@
         "name": "뽀로로 멜로디 큐브버스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221373781.png"
+      },
+      "MDN0000022": {
+        "name": "리틀타익스 몬스터디거",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959133315.png"
       },
       "CDN0000040": {
         "name": "노아의 방주놀이세트",
