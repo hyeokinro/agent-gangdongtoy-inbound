@@ -2556,11 +2556,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871854319.JPG"
       },
-      "GDN0000003": {
-        "name": "[브이텍]스스로굴러가는깜짝볼",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
-      },
       "CAN0000034": {
         "name": "[보육사/GONGE]슈퍼에어보드",
         "age": "36개월 이상 ~",
@@ -2615,6 +2610,11 @@
         "name": "[보육사]농촌중장비",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772869896.jpg"
+      },
+      "GDN0000003": {
+        "name": "[브이텍]스스로굴러가는깜짝볼",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
       },
       "GDN0000038": {
         "name": "펀타임피싱",
@@ -3152,11 +3152,6 @@
         "name": "[택배]현대백일돌상 ⑩",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732559154.png"
-      },
-      "CGY0000044": {
-        "name": "[택배][이븐플로]액서쏘서티파티",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007681875.jpg"
       }
     },
     "wait": {
@@ -4169,6 +4164,11 @@
         "name": "[야야토이즈] 경찰 3D 롤링카",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765335813848.png"
+      },
+      "GFN0000009": {
+        "name": "[야야토이즈] 소방 3D 롤링카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336182215.png"
       },
       "GCN0000027": {
         "name": "[하페] 톡톡 벤치 하우스 실로폰 놀이",
