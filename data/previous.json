@@ -761,6 +761,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
       },
+      "CDN0000043": {
+        "name": "빙글빙글 해저탐험",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
+      },
       "DDN0000062": {
         "name": "[맥포머스]애니멀세트",
         "age": "24개월 이상 ~",
@@ -1450,11 +1455,6 @@
         "name": "[놀이자신감] 레인보우 원목퍼즐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278605112.jpg"
-      },
-      "DGY0000005": {
-        "name": "[길동점]현대백일돌상②",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1647586462585.PNG"
       },
       "MEN0000003": {
         "name": "도형놀이 균형맞추기 발란세오",
@@ -3283,15 +3283,20 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732649126.png"
       },
+      "CGN0000062": {
+        "name": "[택배]현대백일돌상④",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357407047.jpg"
+      },
       "CGN0000031": {
         "name": "[택배]프로픽스 주니어 카시트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
       },
-      "CGN0000077": {
-        "name": "[택배]뉴나리프 그로우 바운서",
+      "CGN0000041": {
+        "name": "[택배]현대백일돌상 ⑩",
         "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210339318.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732559154.png"
       }
     },
     "wait": {
@@ -4679,6 +4684,11 @@
         "name": "인형유모차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690363158.jpg"
+      },
+      "CDY0000084": {
+        "name": "[브이텍]스스로굴러가는깜짝볼",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690751785.jpg"
       },
       "ADN0000063": {
         "name": "[브이텍]밸런싱 링쌓기저울",
@@ -6199,16 +6209,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773141096377.png"
       },
-      "HSN0000067": {
-        "name": "[물놀이팩]아기비치체어+모래놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778200245015.png"
-      },
-      "HSN0000083": {
-        "name": "[물놀이팩]돌고래물총튜브+수영복",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218949969.png"
-      },
       "HSN0000066": {
         "name": "[물놀이팩]문어물총+목욕책",
         "age": "12개월 이상 ~",
@@ -6218,11 +6218,6 @@
         "name": "[물놀이팩]플라밍고수영복(2XL)+모래놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140502667.png"
-      },
-      "HSN0000061": {
-        "name": "[물놀이팩]오리수영복(XL)+오리물총",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778199355547.png"
       },
       "HSN0000016": {
         "name": "[놀이팩]5단변신 알파벳로봇",
@@ -6269,6 +6264,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139698114.png"
       },
+      "HSN0000084": {
+        "name": "[물놀이팩]오리물총튜브+수영복",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778219035775.png"
+      },
       "HSN0000059": {
         "name": "[물놀이팩]애플수영복(M)+보행기튜브",
         "age": "24개월 이상 ~",
@@ -6278,11 +6278,6 @@
         "name": "[물놀이팩]분수매트+넥튜브",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778215546675.png"
-      },
-      "HSN0000048": {
-        "name": "[물놀이팩]구명조끼+보트모래놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139295178.png"
       },
       "HSN0000081": {
         "name": "[물놀이팩]풀장+목욕책",
