@@ -3226,11 +3226,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432947646.jpg"
       },
-      "CDN0000074": {
-        "name": "[코닉스]뽀로로키즈팝댄스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
-      },
       "CEN0000010": {
         "name": "마린청키퍼즐",
         "age": "12개월 이상 ~",
@@ -3300,11 +3295,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202299073.png"
       },
-      "CDN0000081": {
-        "name": "[오볼]오볼세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
-      },
       "DDN0000127": {
         "name": "[리틀타익스]소프트 스트링박스",
         "age": "12개월 이상 ~",
@@ -3319,6 +3309,11 @@
         "name": "[러닝리소스] 넘버블럭스 레인보우 카운팅 버스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257533508.png"
+      },
+      "CDN0000081": {
+        "name": "[오볼]오볼세트",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
       },
       "GDN0000164": {
         "name": "리틀 드라이버",
@@ -5180,11 +5175,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204706127.jpg"
       },
-      "ADN0000044": {
-        "name": "[브이텍]노래하는 스피닝 휠",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204789780.PNG"
-      },
       "GBN0000088": {
         "name": "[영실업]콩순이 쇼핑카트",
         "age": "36개월 이상 ~",
@@ -5760,11 +5750,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432749828.jpg"
       },
-      "ADN0000066": {
-        "name": "[블루래빗]아기오리랑 마마덕",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1764055568675.JPG"
-      },
       "GDN0000191": {
         "name": "[브이텍] 터미타임 변신큐브 에듀볼",
         "age": "6개월 이상 ~",
@@ -6054,6 +6039,11 @@
         "name": "[삼진]행운핑 상자하우스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557654599.png"
+      },
+      "DCN0000016": {
+        "name": "[타요]뮤직 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563775202.png"
       },
       "AAN0000022": {
         "name": "[브이텍]스스로굴러가는깜짝볼핑크",
