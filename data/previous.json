@@ -381,11 +381,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415866554.jpg"
       },
-      "DDN0000030": {
-        "name": "[자노드]청키퍼즐디노조/쥬",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
-      },
       "GEN0000010": {
         "name": "숲속동물퍼즐",
         "age": "12개월 이상 ~",
@@ -2716,11 +2711,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353975378.jpg"
       },
-      "DDN0000049": {
-        "name": "[하바]개구리쌓기블록",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067302203.png"
-      },
       "KDN0000051": {
         "name": "[고덕점] 멜로디 오션 에듀볼",
         "age": "12개월 이상 ~",
@@ -2960,6 +2950,11 @@
         "name": "빙글빙글 스피닝 라이언",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167208501.png"
+      },
+      "DDN0000049": {
+        "name": "[하바]개구리쌓기블록",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067302203.png"
       },
       "DBN0000046": {
         "name": "[나비타]브라운 헤어 드레싱 세트",
@@ -5304,6 +5299,11 @@
         "name": "[브이텍]스스로굴러가는깜짝볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
+      },
+      "GDN0000033": {
+        "name": "뽀로로119멜로디소방차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866029938.jpg"
       },
       "GDN0000040": {
         "name": "공놀이 고래",
