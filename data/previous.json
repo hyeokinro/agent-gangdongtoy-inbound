@@ -681,11 +681,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777884680.jpg"
       },
-      "CDN0000093": {
-        "name": "[브라이트스타트]공놀이 기린 라이트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349285389.png"
-      },
       "DDN0000168": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -1931,11 +1926,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539474472.png"
       },
-      "ADN0000053": {
-        "name": "키즈팝 댄스 파티",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202453098.png"
-      },
       "CDN0000045": {
         "name": "빙글빙글 동물친구놀이",
         "age": "6개월 이상 ~",
@@ -2875,11 +2865,6 @@
         "name": "[아임토이]멜로디믹스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769523588.jpg"
-      },
-      "GBN0000001": {
-        "name": "BBQ카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591363124.jpg"
       },
       "AAN0000023": {
         "name": "[키움하우스]팝핑 워커 거북이",
@@ -6014,6 +5999,11 @@
         "name": "[고덕점] 뽀로로 아이스크림 가게",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540168670.png"
+      },
+      "KDN0000134": {
+        "name": "[고덕점] 즐거운뽀로로하우스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540248063.png"
       },
       "KDN0000118": {
         "name": "[고덕점] 뿡뿡이 컵쌓기 블록",
