@@ -686,11 +686,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760322329.jpg"
       },
-      "AFN0000000": {
-        "name": "[베케라]가스스테이션",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777884680.jpg"
-      },
       "DDN0000168": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -1451,11 +1446,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541708907.png"
       },
-      "CDN0000091": {
-        "name": "[브이텍]스마트 러닝 태블릿",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
-      },
       "GBN0000097": {
         "name": "헬로 역할놀이 세트",
         "age": "36개월 이상 ~",
@@ -1570,11 +1560,6 @@
         "name": "코레카소방차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
-      },
-      "CGN0000035": {
-        "name": "[피셔프라이스] 동물친구 액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628803046.png"
       },
       "DDN0000058": {
         "name": "[맥포머스]디자이너세트",
@@ -1890,11 +1875,6 @@
         "name": "맨 TGA 시멘트 믹서와 헬멧 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779953710546.png"
-      },
-      "CDN0000092": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349307790.png"
       },
       "KGN0000002": {
         "name": "[고덕점] 킥앤스코어 아기체육관",
@@ -2220,6 +2200,11 @@
         "name": "[고덕점] 푸쉬앤팝 미니 청소기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
+      },
+      "CDN0000029": {
+        "name": "오뚜기뽀빠이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
       },
       "GDN0000065": {
         "name": "뛰뛰빵빵드라이버 응급미니카3종",
@@ -3141,6 +3126,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538962318.png"
       },
+      "CDN0000004": {
+        "name": "나잡아봐야옹이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_56.jpg"
+      },
       "GDN0000007": {
         "name": "빅 카고트럭(레드)",
         "age": "6개월 이상 ~",
@@ -3225,11 +3215,6 @@
         "name": "탑 트럭(레드)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595208161.jpg"
-      },
-      "CDN0000004": {
-        "name": "나잡아봐야옹이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_56.jpg"
       },
       "ADN0000057": {
         "name": "[손오공]옥토넛 쌩쌩 레이서",
@@ -4144,6 +4129,11 @@
         "name": "에어포트 플레이세트",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165421369.png"
+      },
+      "GDN0000160": {
+        "name": "타요 주유소 플레이세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167858935.png"
       },
       "GDN0000168": {
         "name": "360회전 주차타워",
@@ -6199,6 +6189,16 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778199751438.png"
       },
+      "HSN0000028": {
+        "name": "[놀이팩]크롱응가놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140347396.png"
+      },
+      "HSN0000037": {
+        "name": "[놀이팩]노래하는 젖소",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773141096377.png"
+      },
       "HSN0000067": {
         "name": "[물놀이팩]아기비치체어+모래놀이",
         "age": "12개월 이상 ~",
@@ -6253,6 +6253,11 @@
         "name": "[놀이팩]야구배팅 놀이세트(핑크)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
+      },
+      "HSN0000040": {
+        "name": "[놀이팩]다이노랩터 RC로봇",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773141989056.png"
       },
       "HSN0000087": {
         "name": "[물놀이팩]해상구조대목욕놀이세트",
