@@ -566,11 +566,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
       },
-      "CDN0000089": {
-        "name": "[브이텍]춤추는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
-      },
       "ABN0000007": {
         "name": "[지아지조]키친토이",
         "age": "36개월 이상 ~",
@@ -750,6 +745,11 @@
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
+      },
+      "DBN0000040": {
+        "name": "[피셔]러닝 가든 앤 키친",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
       },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
@@ -1000,11 +1000,6 @@
         "name": "리틀 베이비 범 액티비티 워커",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162363486.png"
-      },
-      "MBN0000072": {
-        "name": "우디푸디 보글보글요리세트 원목 내장  자석 주방놀이 소품",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1780016904121.png"
       },
       "GDN0000044": {
         "name": "펭귄오뚝이",
@@ -1780,6 +1775,11 @@
         "name": "크록심포니",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1592360375646.JPG"
+      },
+      "AFN0000009": {
+        "name": "코레카 경찰차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771773037.JPG"
       },
       "KDN0000111": {
         "name": "[고덕점] 주니어킴블",
@@ -3385,6 +3385,11 @@
         "name": "[하페]우주선",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777695748.jpg"
+      },
+      "ABN0000039": {
+        "name": "[영실업]응가습관 콩콩이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479895753.jpg"
       },
       "GBN0000008": {
         "name": "쇼핑카트",
