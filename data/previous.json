@@ -1411,11 +1411,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866107098.jpg"
       },
-      "DDN0000075": {
-        "name": "[하바]낚시놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070193297.png"
-      },
       "KBN0000081": {
         "name": "[고덕점] 과일 바구니",
         "age": "24개월 이상 ~",
@@ -1600,6 +1595,11 @@
         "name": "피에스타 우드 다리미 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780022443163.png"
+      },
+      "DBN0000030": {
+        "name": "[영실업]콩순이 알록달록 카페놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664742258.jpg"
       },
       "ABN0000017": {
         "name": "[보육사]과일야채컷팅",
@@ -2000,11 +2000,6 @@
         "name": "[고덕점] 로켓모양 맞추기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
-      },
-      "KDN0000095": {
-        "name": "[고덕점] 뮤직운전대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
       },
       "MBN0000079": {
         "name": "폴라비 원목 케이크 스탠드 티파티 2종세트",
@@ -2881,6 +2876,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780013846176.png"
       },
+      "DBN0000045": {
+        "name": "[영실업]콩순이 요리왕세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555605015.png"
+      },
       "KDN0000099": {
         "name": "[고덕점] 도형놀이 블록트럭",
         "age": "36개월 이상 ~",
@@ -3050,11 +3050,6 @@
         "name": "[아이코닉스]띠띠뽀 차량기지 놀이+전동기차세터+기차역",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664716270.jpg"
-      },
-      "DBN0000045": {
-        "name": "[영실업]콩순이 요리왕세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555605015.png"
       },
       "KDN0000086": {
         "name": "[고덕점] NEW 알파벳 주볼",
@@ -3370,11 +3365,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
-      "KBN0000062": {
-        "name": "[고덕점] 점보공룡",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567519736.png"
-      },
       "KDN0000091": {
         "name": "[고덕점] 타요 포크레인 중장비 타워",
         "age": "36개월 이상 ~",
@@ -3389,6 +3379,11 @@
         "name": "타요 말하는 미니카 자판기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
+      },
+      "KBN0000062": {
+        "name": "[고덕점] 점보공룡",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567519736.png"
       },
       "KDN0000137": {
         "name": "[고덕점] 쥬라기월드 트래커 다이노팩",
