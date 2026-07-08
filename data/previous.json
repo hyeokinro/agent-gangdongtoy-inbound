@@ -136,11 +136,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780029774843.png"
       },
-      "KDN0000091": {
-        "name": "[고덕점] 타요 포크레인 중장비 타워",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
-      },
       "KBN0000076": {
         "name": "[고덕점] 옥토레이 변신 본부 플레이세트",
         "age": "36개월 이상 ~",
@@ -285,11 +280,6 @@
         "name": "건설차량입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026689969.jpg"
-      },
-      "KDN0000147": {
-        "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
       },
       "DDN0000130": {
         "name": "[나비타월드]공룡울타리 오프로드차량",
@@ -1730,11 +1720,6 @@
         "name": "[보육사]과일야채컷팅",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1619163664701.jpg"
-      },
-      "KDN0000123": {
-        "name": "[고덕점] 매직큐브프리빌딩 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539117440.png"
       },
       "GDN0000126": {
         "name": "[대성]벤츠 아록스 덤프트럭",
@@ -3500,11 +3485,6 @@
       }
     },
     "wait": {
-      "KDN0000147": {
-        "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
-      },
       "KDN0000075": {
         "name": "[고덕점] 반짝반짝 케이크링쌓기",
         "age": "6개월 이상 ~",
@@ -3819,6 +3799,11 @@
         "name": "[블루레빗]꼬꼬맘",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765340957946.png"
+      },
+      "KDN0000147": {
+        "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
       },
       "CDN0000023": {
         "name": "비행기",
@@ -5744,11 +5729,6 @@
         "name": "[하바]미로(건설,교통)",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777291297.jpg"
-      },
-      "DDN0000033": {
-        "name": "[하베브릭스]자석블록",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
       },
       "DDN0000034": {
         "name": "[하페]다람쥐통끼우기",
