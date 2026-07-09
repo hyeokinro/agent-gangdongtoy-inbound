@@ -2206,11 +2206,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537946226.png"
       },
-      "ABN0000045": {
-        "name": "[원더코퍼레이션]원목소꿉놀이 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730937887813.png"
-      },
       "KBN0000078": {
         "name": "[고덕점] 코코멜론 러닝키친",
         "age": "12개월 이상 ~",
@@ -3455,6 +3450,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202299073.png"
       },
+      "GBN0000002": {
+        "name": "푸드트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
+      },
       "DDN0000127": {
         "name": "[리틀타익스]소프트 스트링박스",
         "age": "12개월 이상 ~",
@@ -3940,10 +3940,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
       },
-      "DEN0000000": {
-        "name": "[스틱오]아기상어 프렌즈 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
+      "GDN0000132": {
+        "name": "[브이텍]나잡아봐 야옹이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504425776.PNG"
       },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
@@ -3989,6 +3989,11 @@
         "name": "[블루래빗]꼬꼬맘",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479951809.JPG"
+      },
+      "DEN0000000": {
+        "name": "[스틱오]아기상어 프렌즈 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
       },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
