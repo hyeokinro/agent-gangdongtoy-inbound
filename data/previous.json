@@ -166,11 +166,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
-      "KDN0000135": {
-        "name": "[고덕점] 엉금엉금멜로디달팽이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
-      },
       "KDN0000054": {
         "name": "[고덕점] 꼬꼬맘",
         "age": "12개월 이상 ~",
@@ -2001,6 +1996,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062062893.png"
       },
+      "DDN0000134": {
+        "name": "[퍼니]엄마까투리 어드벤쳐",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
+      },
       "DDN0000079": {
         "name": "[오차드]아기돼지삼형제",
         "age": "36개월 이상 ~",
@@ -3291,11 +3291,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1705718567999.PNG"
       },
-      "KDN0000143": {
-        "name": "[고덕점] 리얼소방차",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538962318.png"
-      },
       "GDN0000214": {
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
         "age": "36개월 이상 ~",
@@ -3380,6 +3375,11 @@
         "name": "[고덕점] 채소썰기놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567742277.png"
+      },
+      "CBN0000061": {
+        "name": "[브이텍]2in1 다이노 파크",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349736604.png"
       },
       "DBN0000046": {
         "name": "[나비타]브라운 헤어 드레싱 세트",
@@ -3620,11 +3620,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541603628.png"
       },
-      "GBN0000157": {
-        "name": "[미미월드] 똘똘이 딸기농장",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
-      },
       "ABN0000021": {
         "name": "[캐스돈]다이슨청소기",
         "age": "36개월 이상 ~",
@@ -3634,6 +3629,11 @@
         "name": "코레카 소방차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771868270.JPG"
+      },
+      "GBN0000157": {
+        "name": "[미미월드] 똘똘이 딸기농장",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
       },
       "DDN0000076": {
         "name": "[하바]첫번째과수원까마귀",
@@ -5149,11 +5149,6 @@
         "name": "[토이트론]달님이카페놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557572624.png"
-      },
-      "KDN0000154": {
-        "name": "[고덕점]밸런싱 링쌓기저울",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729908396190.png"
       },
       "CDN0000092": {
         "name": "[브이텍]멜로디 덤프트럭",
