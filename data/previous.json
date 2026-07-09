@@ -1886,11 +1886,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
       },
-      "CCN0000014": {
-        "name": "베이비 종합세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562809756803.jpg"
-      },
       "ADN0000015": {
         "name": "[에드토이]역할차량5종",
         "age": "36개월 이상 ~",
@@ -3760,6 +3755,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161760824.png"
       },
+      "DDN0000160": {
+        "name": "[시쿠]구급차량 5종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553373525.png"
+      },
       "CDN0000023": {
         "name": "비행기",
         "age": "12개월 이상 ~",
@@ -3945,11 +3945,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
       },
-      "KDN0000085": {
-        "name": "[고덕점] 빅정글 파이터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
-      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -3964,6 +3959,11 @@
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
+      },
+      "KDN0000085": {
+        "name": "[고덕점] 빅정글 파이터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
@@ -4314,6 +4314,11 @@
         "name": "[시쿠]공사차량 5종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553563501.png"
+      },
+      "DDN0000150": {
+        "name": "[토이세븐]하츄핑 청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557855610.png"
       },
       "DDN0000146": {
         "name": "[코닉스]뽀로로자동차 마을&타워",
