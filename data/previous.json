@@ -691,11 +691,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
       },
-      "CGN0000103": {
-        "name": "[엔픽스]롤링 360 이지보행기(블루)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434919943.png"
-      },
       "KDN0000059": {
         "name": "[고덕점] 스키핑스톤",
         "age": "6개월 이상 ~",
@@ -1596,11 +1591,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690751785.jpg"
       },
-      "GFN0000000": {
-        "name": "코레카소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
-      },
       "ADN0000022": {
         "name": "[짐보리]맥포머스90PCS",
         "age": "36개월 이상 ~",
@@ -2270,6 +2260,11 @@
         "name": "캐티롤러",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030492835.jpg"
+      },
+      "CGY0000095": {
+        "name": "[엔픽스]동물원 에디션 보행기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750725966303.jpg"
       },
       "DDN0000149": {
         "name": "[브이텍]뛰뛰빵빵 기차놀이",
@@ -3346,11 +3341,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479895753.jpg"
       },
-      "GBN0000008": {
-        "name": "쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592848165.JPG"
-      },
       "GEN0000037": {
         "name": "[리틀히어로] 소프트 빌딩블록 24P",
         "age": "6개월 이상 ~",
@@ -3405,6 +3395,11 @@
         "name": "[아이존]뽀로로 변신경찰본부",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562468306.png"
+      },
+      "GBN0000008": {
+        "name": "쇼핑카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592848165.JPG"
       },
       "ADN0000057": {
         "name": "[손오공]옥토넛 쌩쌩 레이서",
