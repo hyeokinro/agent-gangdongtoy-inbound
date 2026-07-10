@@ -1001,11 +1001,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030341023.png"
       },
-      "CDN0000037": {
-        "name": "핍 디럭스15pc(스퀴즈)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_89.jpg"
-      },
       "ADN0000028": {
         "name": "[브레인숲]서커스도미노",
         "age": "36개월 이상 ~",
@@ -2061,11 +2056,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070005758.png"
       },
-      "AGN0000013": {
-        "name": "[콤비]보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779278159.jpg"
-      },
       "GBN0000010": {
         "name": "양념세트",
         "age": "36개월 이상 ~",
@@ -2276,11 +2266,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479636419.JPG"
       },
-      "ACN0000006": {
-        "name": "[캐스B]영유아악기17종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770953629.jpg"
-      },
       "DDN0000091": {
         "name": "[만두게임즈]박스몬스터",
         "age": "60개월 이상 ~",
@@ -2355,6 +2340,11 @@
         "name": "아파트블럭세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
+      },
+      "ACN0000006": {
+        "name": "[캐스B]영유아악기17종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770953629.jpg"
       },
       "GDN0000018": {
         "name": "공놀이 개구리 연못",
@@ -6164,11 +6154,6 @@
   },
   "3": {
     "online": {
-      "HSN0000062": {
-        "name": "[물놀이팩]공룡수영복(XL)+보행기튜브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778199453257.png"
-      },
       "HSN0000046": {
         "name": "[놀이팩]커들반 인형(강아지)",
         "age": "6개월 이상 ~",
