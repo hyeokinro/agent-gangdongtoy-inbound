@@ -2236,6 +2236,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030492835.jpg"
       },
+      "AGN0000016": {
+        "name": "베이비범 액티비티 워커",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672367306425.png"
+      },
       "DDN0000149": {
         "name": "[브이텍]뛰뛰빵빵 기차놀이",
         "age": "36개월 이상 ~",
@@ -3427,11 +3432,6 @@
         "name": "[택배]뉴나리프 그로우 바운서",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210339318.jpg"
-      },
-      "CGN0000041": {
-        "name": "[택배]현대백일돌상 ⑩",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732559154.png"
       }
     },
     "wait": {
@@ -3969,6 +3969,11 @@
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
+      },
+      "KDN0000059": {
+        "name": "[고덕점] 스키핑스톤",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
