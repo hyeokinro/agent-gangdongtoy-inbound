@@ -966,11 +966,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
       },
-      "GBN0000149": {
-        "name": "[립프로그]피크닉 바구니",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277976469.jpg"
-      },
       "CBN0000005": {
         "name": "공룡프테라노돈",
         "age": "36개월 이상 ~",
@@ -1185,6 +1180,11 @@
         "name": "[고덕점] 바하마낚시게임",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539301320.png"
+      },
+      "GBN0000149": {
+        "name": "[립프로그]피크닉 바구니",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277976469.jpg"
       },
       "GAN0000012": {
         "name": "플라워 푸쉬토이",
@@ -1415,11 +1415,6 @@
         "name": "[고덕점] 키티 피크닉가방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567425121.png"
-      },
-      "DDN0000166": {
-        "name": "[지나월드]코코멜론 영어학습 스마트폰",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
       },
       "AGN0000019": {
         "name": "하늘썬별 피아노체육관 걸음마 (블루)",
@@ -1670,6 +1665,11 @@
         "name": "[보육사]과일야채컷팅",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1619163664701.jpg"
+      },
+      "DDN0000166": {
+        "name": "[지나월드]코코멜론 영어학습 스마트폰",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
       },
       "GBN0000018": {
         "name": "샐러드세트(야채썰기)",
