@@ -841,11 +841,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353509361.jpg"
       },
-      "GEN0000022": {
-        "name": "1-5쌓기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034838117.jpg"
-      },
       "GBN0000037": {
         "name": "아이스크림카운터놀이",
         "age": "36개월 이상 ~",
@@ -1106,11 +1101,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958665711.png"
       },
-      "DDN0000146": {
-        "name": "[코닉스]뽀로로자동차 마을&타워",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562535431.png"
-      },
       "KBN0000068": {
         "name": "[고덕점] 달님이 마카롱 가게",
         "age": "36개월 이상 ~",
@@ -1140,6 +1130,11 @@
         "name": "응급차량미니카13종",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948294409.JPG"
+      },
+      "GEN0000022": {
+        "name": "1-5쌓기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034838117.jpg"
       },
       "MBN0000065": {
         "name": "오즈토이 케이레스큐 공구놀이 리빙박스",
@@ -3880,11 +3875,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540692173.png"
       },
-      "AGN0000020": {
-        "name": "하늘썬별 피아노체육관 걸음마 (레드)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
-      },
       "GBN0000044": {
         "name": "큰공룡세트12종",
         "age": "36개월 이상 ~",
@@ -3914,6 +3904,11 @@
         "name": "후라이팬세트(원목)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
+      },
+      "GBN0000165": {
+        "name": "[원앤원] 콩지래빗 구급차 약국놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260497973.png"
       },
       "CGN0000067": {
         "name": "[콤비]보행기(아이보리)",
@@ -4050,10 +4045,10 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434919943.png"
       },
-      "GBN0000165": {
-        "name": "[원앤원] 콩지래빗 구급차 약국놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260497973.png"
+      "AGN0000020": {
+        "name": "하늘썬별 피아노체육관 걸음마 (레드)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
       },
       "GDN0000207": {
         "name": "[미미월드] 타요 차고지 스페셜 세트",
@@ -4224,6 +4219,11 @@
         "name": "타요 주유소 플레이세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167858935.png"
+      },
+      "GDN0000168": {
+        "name": "360회전 주차타워",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222264806.png"
       },
       "KDN0000058": {
         "name": "[고덕점] NEW 마이펫 키트",
@@ -5440,11 +5440,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_42.jpg"
       },
-      "CCN0000012": {
-        "name": "클래식 실로폰",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_52.jpg"
-      },
       "CDN0000005": {
         "name": "[브이텍]뉴스스로굴러가는깜짝볼",
         "age": "6개월 이상 ~",
@@ -6005,6 +6000,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540732302.png"
       },
+      "KDN0000064": {
+        "name": "[고덕점] 스쿨버스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564327636.png"
+      },
       "KBN0000055": {
         "name": "[고덕점] 채소썰기놀이",
         "age": "36개월 이상 ~",
@@ -6273,11 +6273,6 @@
         "name": "[놀이팩]다이노 플레이파크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773142188138.png"
-      },
-      "HSN0000044": {
-        "name": "[놀이팩]콩순이 강아지랑 목욕놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300710393.png"
       },
       "HSN0000088": {
         "name": "[물놀이팩]샤크수영복(XL)+모래놀이",
