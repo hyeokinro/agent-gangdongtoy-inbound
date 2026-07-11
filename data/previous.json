@@ -606,11 +606,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
       },
-      "KDN0000136": {
-        "name": "[고덕점] 에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
-      },
       "MCN0000003": {
         "name": "애니맘보 일렉트로닉 피아노",
         "age": "36개월 이상 ~",
@@ -780,6 +775,11 @@
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
+      },
+      "KDN0000136": {
+        "name": "[고덕점] 에듀볼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
@@ -2391,6 +2391,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
       },
+      "KDN0000056": {
+        "name": "[고덕점] 에듀테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541853166.png"
+      },
       "CBN0000036": {
         "name": "싱싱한 야채소품",
         "age": "36개월 이상 ~",
@@ -2516,6 +2521,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030634457.jpg"
       },
+      "DDN0000036": {
+        "name": "[하페]꽃과별끼우기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062149596.png"
+      },
       "GEN0000031": {
         "name": "차량입체퍼즐",
         "age": "24개월 이상 ~",
@@ -2550,11 +2560,6 @@
         "name": "스탠드 케이크세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593612799.jpg"
-      },
-      "DDN0000036": {
-        "name": "[하페]꽃과별끼우기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062149596.png"
       },
       "DDN0000155": {
         "name": "[손오공]옥토넛탐험선A & 캡틴버나클",
@@ -3875,11 +3880,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558250059.png"
       },
-      "GAN0000036": {
-        "name": "클래식 러닝홈",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161760824.png"
-      },
       "DDN0000160": {
         "name": "[시쿠]구급차량 5종",
         "age": "36개월 이상 ~",
@@ -4085,6 +4085,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
       },
+      "KDN0000085": {
+        "name": "[고덕점] 빅정글 파이터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
+      },
       "ADN0000047": {
         "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
         "age": "36개월 이상 ~",
@@ -4119,11 +4124,6 @@
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
-      },
-      "KDN0000085": {
-        "name": "[고덕점] 빅정글 파이터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
       "KDN0000133": {
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
@@ -4445,11 +4445,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542340893.png"
       },
-      "KDN0000089": {
-        "name": "[고덕점] 코랄리프",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558846426.png"
-      },
       "KDN0000060": {
         "name": "[고덕점] 팝피 토피",
         "age": "6개월 이상 ~",
@@ -4489,6 +4484,11 @@
         "name": "[코닉스]뽀로로EQ테마파크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562724440.png"
+      },
+      "DDN0000132": {
+        "name": "[리틀]액티비티 윈도우",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
       },
       "KDN0000152": {
         "name": "[고덕점]뽀로로 자동차마을 & 타워",
@@ -5069,11 +5069,6 @@
         "name": "[레고]공룡탈출",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071551522.png"
-      },
-      "ADN0000041": {
-        "name": "[영실업]뽀로로 어린이 버스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660200021356.jpg"
       },
       "ADN0000042": {
         "name": "[J.H.INTER]뽀로로 세계여행 2층버스",
