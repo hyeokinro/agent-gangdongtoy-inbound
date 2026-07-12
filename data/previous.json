@@ -11,11 +11,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
       },
-      "GEN0000035": {
-        "name": "애완동물입체퍼즐",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
-      },
       "GDN0000076": {
         "name": "공사차량미니카12종",
         "age": "48개월 이상 ~",
@@ -251,6 +246,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257074054.png"
       },
+      "GEN0000035": {
+        "name": "애완동물입체퍼즐",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
+      },
       "DDN0000055": {
         "name": "[맥포머스]구조대세트",
         "age": "36개월 이상 ~",
@@ -430,11 +430,6 @@
         "name": "악어레인메이커",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033841992.jpg"
-      },
-      "DBN0000049": {
-        "name": "[립프로그]피자카트 한영버젼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
       },
       "KDN0000113": {
         "name": "[고덕점] 샵앤런 저녁식사",
@@ -2961,11 +2956,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067259977.png"
       },
-      "DDN0000116": {
-        "name": "[아이코닉스]띠띠뽀 차량기지 놀이+전동기차세터+기차역",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664716270.jpg"
-      },
       "ACN0000005": {
         "name": "[캐스B]원목악기10종",
         "age": "36개월 이상 ~",
@@ -5444,6 +5434,11 @@
         "name": "[립프로그]스위트 트릿 뮤지컬 티 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277238311.jpg"
+      },
+      "GBN0000148": {
+        "name": "[멜리사앤더그]쥬스 5종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278500695.jpg"
       },
       "GDN0000184": {
         "name": "[원더키드]뽀로로  캠핑카",
