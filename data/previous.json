@@ -321,11 +321,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
       },
-      "DDN0000127": {
-        "name": "[리틀타익스]소프트 스트링박스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193368742.PNG"
-      },
       "GDN0000189": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -395,6 +390,11 @@
         "name": "비스켓세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599010616405.JPG"
+      },
+      "ACN0000009": {
+        "name": "[보육사]영아용리듬악기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
       },
       "KDN0000113": {
         "name": "[고덕점] 샵앤런 저녁식사",
@@ -560,11 +560,6 @@
         "name": "[블루]자이언트펭글루",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060855186.png"
-      },
-      "ACN0000009": {
-        "name": "[보육사]영아용리듬악기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
       },
       "ABN0000028": {
         "name": "[영실업]콩순이 아기하마 양치놀이",
@@ -990,11 +985,6 @@
         "name": "공룡프테라노돈",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_22.jpg"
-      },
-      "DDN0000143": {
-        "name": "[코닉스]뽀로로키즈팝댄스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562834231.png"
       },
       "MAN0000028": {
         "name": "디에인샵 비행기 점퍼루 아기쏘서",
@@ -2541,11 +2531,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031327357.jpg"
       },
-      "DDN0000034": {
-        "name": "[하페]다람쥐통끼우기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062011300.png"
-      },
       "GDN0000162": {
         "name": "도형맞추기 하우스",
         "age": "12개월 이상 ~",
@@ -3400,11 +3385,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
       },
-      "GDN0000139": {
-        "name": "망아지 플레이테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165738861.png"
-      },
       "GGN0000002": {
         "name": "수더메도우 모빌(흑백+홀더)",
         "age": "1개월 이상 ~",
@@ -3424,6 +3404,11 @@
         "name": "[오볼]오볼세트",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
+      },
+      "GDN0000139": {
+        "name": "망아지 플레이테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165738861.png"
       },
       "CEN0000005": {
         "name": "뉴 해양꼭지퍼즐",
