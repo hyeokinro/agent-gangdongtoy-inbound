@@ -1046,11 +1046,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030632649.png"
       },
-      "ADN0000035": {
-        "name": "[하베브릭스]빅에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
-      },
       "MFN0000023": {
         "name": "아이팜 힘찬 포크레인 붕붕카",
         "age": "36개월 이상 ~",
@@ -2200,11 +2195,6 @@
         "name": "오뚜기삐에로",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_82.jpg"
-      },
-      "CAN0000057": {
-        "name": "[키움하우스]팝핑 워커 거북이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
       },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
@@ -3500,11 +3490,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671510535985.PNG"
       },
-      "ADN0000026": {
-        "name": "[코니토이스]에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
-      },
       "ABN0000046": {
         "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
         "age": "36개월 이상 ~",
@@ -3695,10 +3680,10 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
       },
-      "GDN0000144": {
-        "name": "춤추며 배우는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
+      "DDN0000168": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -3754,11 +3739,6 @@
         "name": "[립프로그]피자카트 한영버젼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
-      },
-      "DDN0000168": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
       "DDN0000164": {
         "name": "[지오맥]매직큐브프리빌딩 세트",
@@ -3879,6 +3859,11 @@
         "name": "[브레인숲]서커스도미노",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773914995.jpg"
+      },
+      "ADN0000035": {
+        "name": "[하베브릭스]빅에듀큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
       },
       "AGN0000012": {
         "name": "[콤비]보행기(그레이)",
