@@ -1901,11 +1901,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071097282.png"
       },
-      "CDN0000029": {
-        "name": "오뚜기뽀빠이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
-      },
       "DDN0000135": {
         "name": "[립프로그] 립스토리",
         "age": "36개월 이상 ~",
@@ -3460,6 +3455,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168762213.png"
       },
+      "AAN0000020": {
+        "name": "캐스B 말랑말랑 볼링친구들",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
+      },
       "GBN0000161": {
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
         "age": "36개월 이상 ~",
@@ -3649,11 +3649,6 @@
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
-      },
-      "DDN0000081": {
-        "name": "[오차드]덧셈하며등산해요",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070663277.png"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -4570,6 +4565,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067352254.png"
       },
+      "DDN0000079": {
+        "name": "[오차드]아기돼지삼형제",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070553635.png"
+      },
       "DDN0000099": {
         "name": "[레고]공룡탈출",
         "age": "24개월 이상 ~",
@@ -4819,6 +4819,11 @@
         "name": "[브이텍]알파벳학습버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771807892.jpg"
+      },
+      "ADN0000021": {
+        "name": "[짐보리]클릭포머스200",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773532214.jpg"
       },
       "ADN0000034": {
         "name": "[플랜토이즈]램프레이서",
