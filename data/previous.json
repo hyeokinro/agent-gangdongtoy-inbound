@@ -601,11 +601,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595267264.JPG"
       },
-      "GBN0000167": {
-        "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
-      },
       "GDN0000005": {
         "name": "범블비",
         "age": "6개월 이상 ~",
@@ -645,6 +640,11 @@
         "name": "[보육사]음식컷팅세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
+      },
+      "GBN0000167": {
+        "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
       "ADN0000004": {
         "name": "[플레이포에버]자동차1",
@@ -2721,11 +2721,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1731976998760.png"
       },
-      "GBN0000152": {
-        "name": "[립프로그]스위트 트릿 뮤지컬 티 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277238311.jpg"
-      },
       "GDN0000091": {
         "name": "[짐보리/맥포머스]미라클브레인세트258",
         "age": "36개월 이상 ~",
@@ -2755,11 +2750,6 @@
         "name": "해양입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026798261.jpg"
-      },
-      "AGN0000018": {
-        "name": "[리틀타익스]스쿠터 액티비티 걸음마보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168880694.png"
       },
       "GDN0000080": {
         "name": "에듀테이블",
@@ -3625,16 +3615,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
       },
-      "GDN0000083": {
-        "name": "[바조]노아와 배",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415325088.jpg"
-      },
-      "GDN0000050": {
-        "name": "딸랑이기차",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031023597.jpg"
-      },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
@@ -3800,15 +3780,15 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592381468.JPG"
       },
-      "GDN0000124": {
-        "name": "[대성]뉴 말하는 레미콘",
+      "KBN0000083": {
+        "name": "[고덕점]피자카트 한영버전",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
-      "GDN0000132": {
-        "name": "[브이텍]나잡아봐 야옹이",
+      "CDN0000015": {
+        "name": "롤러코스터씽씽",
         "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504425776.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_67.jpg"
       },
       "CDN0000075": {
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
@@ -3854,11 +3834,6 @@
         "name": "[피셔]러닝 가든 앤 키친",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
-      },
-      "KBN0000083": {
-        "name": "[고덕점]피자카트 한영버전",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
       "DDN0000164": {
         "name": "[지오맥]매직큐브프리빌딩 세트",
@@ -5090,11 +5065,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537811238.png"
       },
-      "KDN0000065": {
-        "name": "[고덕점] 노아의 방주",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537946226.png"
-      },
       "KDN0000070": {
         "name": "[고덕점] 동전 놀이",
         "age": "24개월 이상 ~",
@@ -5209,11 +5179,6 @@
         "name": "[키움하우스]팝핑 워커 거북이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
-      },
-      "ABN0000045": {
-        "name": "[원더코퍼레이션]원목소꿉놀이 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730937887813.png"
       },
       "GDN0000183": {
         "name": "[브랜드B] 팝핑웨일",
@@ -5504,11 +5469,6 @@
         "name": "[고덕점] 콤비 YT-Belle 아기보행기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566705523.png"
-      },
-      "KBN0000069": {
-        "name": "[고덕점] 병원놀이세트[한글버전]",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567161088.png"
       },
       "KBN0000057": {
         "name": "[고덕점] 쿠킹 조리세트",
