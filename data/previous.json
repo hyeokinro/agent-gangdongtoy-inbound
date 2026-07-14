@@ -3735,11 +3735,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
       },
-      "CDN0000038": {
-        "name": "볼트랙-락킹보트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
-      },
       "GFN0000004": {
         "name": "페달접이식 세발자전거",
         "age": "24개월 이상 ~",
@@ -3919,6 +3914,11 @@
         "name": "[고덕점] 스스로 굴러가는 3in1매직볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540985780.png"
+      },
+      "KDN0000050": {
+        "name": "[고덕점]구스파파",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
       },
       "KAN0000016": {
         "name": "[고덕점] 오볼 개구리볼",
@@ -4284,6 +4284,11 @@
         "name": "[고덕점] 과일 바구니",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537872727.png"
+      },
+      "KDN0000104": {
+        "name": "[고덕점] 댄싱 유니콘",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
       },
       "KCN0000015": {
         "name": "[고덕점] 도형끼우기 드럼",
@@ -4774,6 +4779,11 @@
         "name": "[오볼]오볼놀이세트",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416270996.jpg"
+      },
+      "AAN0000002": {
+        "name": "[피셔]퍼피 걸음마(분홍)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759531392.jpg"
       },
       "AAN0000010": {
         "name": "[리틀타익스]스포츠센터",
