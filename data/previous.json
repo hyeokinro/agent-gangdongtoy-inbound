@@ -1026,6 +1026,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631221901.png"
       },
+      "CDN0000037": {
+        "name": "핍 디럭스15pc(스퀴즈)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_89.jpg"
+      },
       "KDN0000060": {
         "name": "[고덕점] 팝피 토피",
         "age": "6개월 이상 ~",
@@ -1405,11 +1410,6 @@
         "name": "뉴 도형꼭지퍼즐",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_93.jpg"
-      },
-      "CDN0000072": {
-        "name": "[블루래빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521273599.PNG"
       },
       "GBN0000023": {
         "name": "허니비마켓 생선상자",
@@ -2786,11 +2786,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026798261.jpg"
       },
-      "CFN0000005": {
-        "name": "사운드범퍼카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_113.jpg"
-      },
       "AGN0000018": {
         "name": "[리틀타익스]스쿠터 액티비티 걸음마보조기",
         "age": "6개월 이상 ~",
@@ -3283,11 +3278,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1637657027420.jpg"
       },
-      "CGN0000069": {
-        "name": "[택배][브라이트스타트]2in1 어라운드 위고(핑크)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672122964431.png"
-      },
       "CGN0000049": {
         "name": "[택배]전통백일돌상⑫",
         "age": "1개월 이상 ~",
@@ -3425,11 +3415,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
       },
-      "GBN0000003": {
-        "name": "(영어)아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592194663.jpg"
-      },
       "AAN0000003": {
         "name": "[아이팜]토이 웨건",
         "age": "12개월 이상 ~",
@@ -3444,6 +3429,11 @@
         "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255610187.png"
+      },
+      "GBN0000003": {
+        "name": "(영어)아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592194663.jpg"
       },
       "KBN0000086": {
         "name": "[고덕점]퍼스트 냉장고",
