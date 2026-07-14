@@ -331,11 +331,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949302607.JPG"
       },
-      "GDN0000139": {
-        "name": "망아지 플레이테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165738861.png"
-      },
       "GCN0000011": {
         "name": "어라운드음악놀이",
         "age": "1개월 이상 ~",
@@ -1456,11 +1451,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780027881557.png"
       },
-      "AFN0000007": {
-        "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710469127941.JPG"
-      },
       "GBN0000033": {
         "name": "믹서세트",
         "age": "36개월 이상 ~",
@@ -2486,11 +2476,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296246583.jpg"
       },
-      "ADN0000025": {
-        "name": "[브이텍]스마트캐리어",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773743427.jpg"
-      },
       "KBN0000069": {
         "name": "[고덕점] 병원놀이세트[한글버전]",
         "age": "36개월 이상 ~",
@@ -2805,6 +2790,11 @@
         "name": "[오차드]도로퍼즐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070332927.png"
+      },
+      "KDN0000083": {
+        "name": "[고덕점] 카캐리어세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559018228.png"
       },
       "GDN0000162": {
         "name": "도형맞추기 하우스",
@@ -3615,11 +3605,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026689969.jpg"
       },
-      "KAN0000010": {
-        "name": "[고덕점] 걸음마 학습기 [한영버전]",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537829045.png"
-      },
       "AFN0000010": {
         "name": "코레카 소방차",
         "age": "12개월 이상 ~",
@@ -3804,6 +3789,11 @@
         "name": "[오차드]덧셈하며등산해요",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070663277.png"
+      },
+      "GBN0000006": {
+        "name": "리본도트주방놀이",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592381468.JPG"
       },
       "GDN0000132": {
         "name": "[브이텍]나잡아봐 야옹이",
