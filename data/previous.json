@@ -1896,11 +1896,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873822834.jpg"
       },
-      "CDN0000045": {
-        "name": "빙글빙글 동물친구놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
-      },
       "ADN0000051": {
         "name": "스마트 러닝 포크레인",
         "age": "12개월 이상 ~",
@@ -3270,11 +3265,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
       },
-      "ABN0000021": {
-        "name": "[캐스돈]다이슨청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
-      },
       "KDN0000097": {
         "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
         "age": "12개월 이상 ~",
@@ -3299,6 +3289,11 @@
         "name": "[에프비존] 새콤달콤 캐치티니핑 마이 스마트폰",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427999457.png"
+      },
+      "ABN0000021": {
+        "name": "[캐스돈]다이슨청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
       },
       "GDN0000201": {
         "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
