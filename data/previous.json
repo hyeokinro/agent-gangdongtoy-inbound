@@ -2566,11 +2566,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
       },
-      "GEN0000028": {
-        "name": "베이직(30pcs)3차원자석블럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057677550.JPG"
-      },
       "CBN0000014": {
         "name": "요리놀이세트(실리콘)",
         "age": "36개월 이상 ~",
@@ -3310,11 +3305,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
       },
-      "GDN0000127": {
-        "name": "[대성]말하는 포크레인",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671265319760.PNG"
-      },
       "GFN0000001": {
         "name": "코레카경찰차",
         "age": "12개월 이상 ~",
@@ -3700,15 +3690,15 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_67.jpg"
       },
-      "CDN0000075": {
-        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
-      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
+      },
+      "CDN0000075": {
+        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -4460,6 +4450,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
       },
+      "GGN0000024": {
+        "name": "[코닉스]알루 에듀하우스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733211178309.PNG"
+      },
       "GEN0000036": {
         "name": "[놀이자신감] 레인보우 원목퍼즐",
         "age": "36개월 이상 ~",
@@ -5084,11 +5079,6 @@
         "name": "[영실업]콩순이 말하는 청진기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433142189.png"
-      },
-      "GFN0000012": {
-        "name": "[중모토이] CAT 포크레인차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765343908013.png"
       },
       "GDN0000225": {
         "name": "[초이락] 헬로카봇 폰X",
