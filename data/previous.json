@@ -371,11 +371,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257241905.png"
       },
-      "CDN0000017": {
-        "name": "리틀러닝홈동물농장",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_69.jpg"
-      },
       "GBN0000006": {
         "name": "리본도트주방놀이",
         "age": "48개월 이상 ~",
@@ -2811,11 +2806,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295914353.jpg"
       },
-      "CDN0000079": {
-        "name": "[브이텍]춤추는 강아지",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
-      },
       "GDN0000210": {
         "name": "[큐블로] 매직큐브 스피드레이서",
         "age": "36개월 이상 ~",
@@ -3256,15 +3246,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592848165.JPG"
       },
-      "CCN0000020": {
-        "name": "[베이비아인슈타인]플립기타 2in 1",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
-      },
       "GCN0000002": {
         "name": "뮤지컬사운드세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030562756.jpg"
+      },
+      "CCN0000020": {
+        "name": "[베이비아인슈타인]플립기타 2in 1",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
       },
       "CAN0000062": {
         "name": "[비키즈]미러롤러",
@@ -4339,6 +4329,11 @@
         "name": "원목화장품가방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792405951.jpg"
+      },
+      "CAN0000019": {
+        "name": "감각징검다리세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793100015.jpg"
       },
       "CBN0000025": {
         "name": "야생동물 24종",
@@ -5904,11 +5899,6 @@
         "name": "[아이존]뽀로로 변신 경찰본부",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278434158.jpg"
-      },
-      "GAN0000043": {
-        "name": "[리틀타익스]액티비티가든",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296015695.jpg"
       },
       "CAN0000062": {
         "name": "[비키즈]미러롤러",
