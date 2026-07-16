@@ -766,15 +766,15 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
       },
-      "GBN0000081": {
-        "name": "뽀로로 변신 구급차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
-      },
       "GCN0000007": {
         "name": "멜로디 멀티블록세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590039182551.jpg"
+      },
+      "GBN0000081": {
+        "name": "뽀로로 변신 구급차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
       },
       "DDN0000062": {
         "name": "[맥포머스]애니멀세트",
@@ -3780,11 +3780,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553595180.png"
       },
-      "GAN0000044": {
-        "name": "[리틀타익스]핀볼 액티비티 테이블",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277171510.jpg"
-      },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
@@ -3950,6 +3945,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
+      "CFN0000024": {
+        "name": "[씨투엠뉴]랜드로버 붕붕카",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
+      },
       "CDN0000075": {
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
         "age": "36개월 이상 ~",
@@ -4014,11 +4014,6 @@
         "name": "[엔픽스]롤링 360 이지보행기(블루)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434919943.png"
-      },
-      "CFN0000024": {
-        "name": "[씨투엠뉴]랜드로버 붕붕카",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
       },
       "GBN0000161": {
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
@@ -4419,11 +4414,6 @@
         "name": "사파리입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026597964.jpg"
-      },
-      "GBN0000048": {
-        "name": "공룡피규어",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
       },
       "CBN0000034": {
         "name": "원목화장품가방",
