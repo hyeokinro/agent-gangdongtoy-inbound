@@ -466,11 +466,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
       },
-      "CFN0000024": {
-        "name": "[씨투엠뉴]랜드로버 붕붕카",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
-      },
       "GCN0000005": {
         "name": "악어레인메이커",
         "age": "36개월 이상 ~",
@@ -1336,11 +1331,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070705376.png"
       },
-      "GDN0000078": {
-        "name": "대중교통미니카10종",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948193376.JPG"
-      },
       "DDN0000068": {
         "name": "[애니블록]바다탐험대",
         "age": "36개월 이상 ~",
@@ -1631,6 +1621,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540560940.png"
       },
+      "GDN0000078": {
+        "name": "대중교통미니카10종",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948193376.JPG"
+      },
       "CBN0000034": {
         "name": "원목화장품가방",
         "age": "36개월 이상 ~",
@@ -1685,11 +1680,6 @@
         "name": "플레이 월드푸드파티세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780020273054.png"
-      },
-      "GDN0000178": {
-        "name": "뽀로로 변신 굴착기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224030033.png"
       },
       "MBN0000081": {
         "name": "피에스타 우드 다리미 세트",
@@ -1780,11 +1770,6 @@
         "name": "운송수단청키퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_106.jpg"
-      },
-      "GDN0000079": {
-        "name": "미니스포츠카15종",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948063466.JPG"
       },
       "GAN0000015": {
         "name": "딸랑이 푸쉬토이",
@@ -1931,15 +1916,15 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223971684.png"
       },
+      "GDN0000079": {
+        "name": "미니스포츠카15종",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948063466.JPG"
+      },
       "DDN0000084": {
         "name": "[디자인연]푸시피시",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070805892.png"
-      },
-      "GDN0000192": {
-        "name": "[브이텍] 대형 자동차 수송트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084464918.png"
       },
       "GDN0000019": {
         "name": "빙글빙글 옥토퍼스",
@@ -2366,6 +2351,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
       },
+      "AGN0000017": {
+        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
+      },
       "CAN0000057": {
         "name": "[키움하우스]팝핑 워커 거북이",
         "age": "36개월 이상 ~",
@@ -2385,11 +2375,6 @@
         "name": "[캐스B]영유아악기17종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770953629.jpg"
-      },
-      "AGN0000017": {
-        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
       },
       "DDN0000102": {
         "name": "[레고]미니언즈파일럿훈련",
