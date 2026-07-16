@@ -211,11 +211,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_62.jpg"
       },
-      "GDN0000151": {
-        "name": "러닝 이모션 공작새",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
-      },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
         "age": "24개월 이상 ~",
@@ -361,6 +356,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
       },
+      "GDN0000151": {
+        "name": "러닝 이모션 공작새",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
+      },
       "GBN0000162": {
         "name": "[에프비존] 사랑의 하츄핑 마이크",
         "age": "36개월 이상 ~",
@@ -455,6 +455,11 @@
         "name": "냉장식자재 용기모형세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1594096239215.jpg"
+      },
+      "ADN0000054": {
+        "name": "노래하고 말하는 전화기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "AGN0000020": {
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
@@ -635,11 +640,6 @@
         "name": "[영실업]콩순이 아기하마 양치놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
-      },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "GDN0000014": {
         "name": "꿀벌톱니바퀴",
@@ -1005,11 +1005,6 @@
         "name": "페달접이식 세발자전거",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
-      },
-      "CDN0000097": {
-        "name": "[브이텍]6in1 트위스트 에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432672724.jpg"
       },
       "CDN0000038": {
         "name": "볼트랙-락킹보트",
@@ -2001,11 +1996,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067352254.png"
       },
-      "CDN0000085": {
-        "name": "[비키즈]판다DJ놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349898173.png"
-      },
       "GDN0000200": {
         "name": "[윈펀] 멜로디 재활용트럭",
         "age": "12개월 이상 ~",
@@ -2476,11 +2466,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
       },
-      "KDN0000070": {
-        "name": "[고덕점] 동전 놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538409636.png"
-      },
       "GDN0000045": {
         "name": "꼬꼬닥오뚝이",
         "age": "1개월 이상 ~",
@@ -2600,6 +2585,11 @@
         "name": "[베이비아인슈타인] 해저탐험 피아노",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671505259713.PNG"
+      },
+      "AGN0000018": {
+        "name": "[리틀타익스]스쿠터 액티비티 걸음마보조기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168880694.png"
       },
       "GCN0000010": {
         "name": "리틀디제이",
@@ -2850,11 +2840,6 @@
         "name": "[구디우디]오리푸쉬",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760364393.jpg"
-      },
-      "AGN0000018": {
-        "name": "[리틀타익스]스쿠터 액티비티 걸음마보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168880694.png"
       },
       "DDN0000112": {
         "name": "[큐비]동물똥세트",
