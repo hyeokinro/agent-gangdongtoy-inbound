@@ -2761,11 +2761,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071464624.png"
       },
-      "DBN0000037": {
-        "name": "[브이텍]병원놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
-      },
       "DDN0000148": {
         "name": "[코닉스]띠띠뽀 차량기지 놀이세트2",
         "age": "36개월 이상 ~",
@@ -4079,6 +4074,11 @@
         "name": "미니밴드",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792342158.jpg"
+      },
+      "CAN0000035": {
+        "name": "[보육사/GONGE]아치활동보드 (3개세트)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627750903.png"
       },
       "CBN0000042": {
         "name": "[하페] 빵만들기 놀이",
@@ -5764,6 +5764,11 @@
         "name": "[베이비아인슈타인]플립기타 2in 1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
+      },
+      "AAN0000016": {
+        "name": "[쁘띠베베]러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
       },
       "ACN0000005": {
         "name": "[캐스B]원목악기10종",
