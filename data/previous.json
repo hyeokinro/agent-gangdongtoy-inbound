@@ -481,11 +481,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423256106.png"
       },
-      "KDN0000063": {
-        "name": "[고덕점] 소방차",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540692173.png"
-      },
       "DDN0000066": {
         "name": "[지오맥]코어타쭈파코",
         "age": "60개월 이상 ~",
@@ -590,6 +585,11 @@
         "name": "옥토넛 탐험선A & 피규어",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223776600.png"
+      },
+      "KDN0000063": {
+        "name": "[고덕점] 소방차",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540692173.png"
       },
       "GBN0000165": {
         "name": "[원앤원] 콩지래빗 구급차 약국놀이",
@@ -1620,11 +1620,6 @@
         "name": "팝업 토이 동물",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780028852559.png"
-      },
-      "GBN0000018": {
-        "name": "샐러드세트(야채썰기)",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593353181.jpg"
       },
       "GDN0000135": {
         "name": "씽크 자이언트에어 747",
@@ -4390,11 +4385,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792405951.jpg"
       },
-      "CBN0000025": {
-        "name": "야생동물 24종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793246280.jpg"
-      },
       "CBN0000008": {
         "name": "둑티그 장난감 계산대",
         "age": "36개월 이상 ~",
@@ -4624,11 +4614,6 @@
         "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
-      },
-      "CBY0000055": {
-        "name": "인형유모차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690363158.jpg"
       },
       "CDY0000084": {
         "name": "[브이텍]스스로굴러가는깜짝볼",
@@ -5769,6 +5754,11 @@
         "name": "[캐스B]원목악기10종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770902524.jpg"
+      },
+      "ADN0000011": {
+        "name": "[보육사]건설현장중장비",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772824423.jpg"
       },
       "ADN0000037": {
         "name": "[하페]우주선",
