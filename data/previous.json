@@ -436,11 +436,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
       },
-      "GBN0000027": {
-        "name": "데코 케이크세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
-      },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
@@ -691,6 +686,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
       },
+      "GBN0000027": {
+        "name": "데코 케이크세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
+      },
       "GBN0000081": {
         "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
@@ -740,11 +740,6 @@
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
-      },
-      "KDN0000102": {
-        "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558028279.png"
       },
       "GBN0000161": {
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
@@ -3006,11 +3001,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
       },
-      "KDN0000118": {
-        "name": "[고덕점] 뿡뿡이 컵쌓기 블록",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540420642.png"
-      },
       "GEN0000008": {
         "name": "Forest soul cubes set",
         "age": "36개월 이상 ~",
@@ -3385,11 +3375,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
-      "GBN0000162": {
-        "name": "[에프비존] 사랑의 하츄핑 마이크",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259555753.png"
-      },
       "GDN0000145": {
         "name": "타요 고속도로 하이패스",
         "age": "36개월 이상 ~",
@@ -3710,10 +3695,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
-      "DDN0000118": {
-        "name": "[브라이트스타트]뉴 ABC러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
+      "DDN0000081": {
+        "name": "[오차드]덧셈하며등산해요",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070663277.png"
       },
       "DDN0000117": {
         "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
@@ -5614,11 +5599,6 @@
         "name": "[짐보리/맥포머스]브레인마스터세트300",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416071787.jpg"
-      },
-      "CCN0000020": {
-        "name": "[베이비아인슈타인]플립기타 2in 1",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
       },
       "AAN0000016": {
         "name": "[쁘띠베베]러닝테이블",
