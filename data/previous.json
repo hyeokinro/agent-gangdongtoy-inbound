@@ -306,15 +306,15 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
       },
-      "KDN0000075": {
-        "name": "[고덕점] 반짝반짝 케이크링쌓기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
-      },
       "GDN0000151": {
         "name": "러닝 이모션 공작새",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
+      },
+      "KDN0000075": {
+        "name": "[고덕점] 반짝반짝 케이크링쌓기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
       },
       "GDN0000203": {
         "name": "[러닝리소스] 카운팅 쉐입스 터틀 세트",
@@ -735,11 +735,6 @@
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257959184.png"
-      },
-      "GDN0000128": {
-        "name": "[브이텍]러닝 액티비티 큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671497051740.PNG"
       },
       "ADN0000047": {
         "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
@@ -1825,6 +1820,11 @@
         "name": "[하바]반짝이는얼음조각",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067352254.png"
+      },
+      "GDN0000200": {
+        "name": "[윈펀] 멜로디 재활용트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248693569.png"
       },
       "DDN0000035": {
         "name": "[하페]고리와퍼즐",
@@ -4790,6 +4790,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435486649.jpg"
       },
+      "GDN0000192": {
+        "name": "[브이텍] 대형 자동차 수송트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084464918.png"
+      },
       "GDN0000200": {
         "name": "[윈펀] 멜로디 재활용트럭",
         "age": "12개월 이상 ~",
@@ -5854,6 +5859,11 @@
         "name": "[아이코닉스] 집게트럭 너클",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765247221844.png"
+      },
+      "GFN0000007": {
+        "name": "[리틀타익스] 리틀 꼬마 스쿠터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
       },
       "GDN0000219": {
         "name": "[브이텍] 다이노 먹이주기",
