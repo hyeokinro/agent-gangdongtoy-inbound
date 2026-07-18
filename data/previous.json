@@ -2046,11 +2046,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769452233.jpg"
       },
-      "GDN0000015": {
-        "name": "브라이트스타트 심포니기어",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595351291.jpg"
-      },
       "KDN0000100": {
         "name": "[고덕점] 공구 상자",
         "age": "24개월 이상 ~",
@@ -2185,6 +2180,11 @@
         "name": "[고덕점] 푸쉬앤팝 미니 청소기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
+      },
+      "GDN0000015": {
+        "name": "브라이트스타트 심포니기어",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595351291.jpg"
       },
       "GBN0000000": {
         "name": "가드닝카트",
