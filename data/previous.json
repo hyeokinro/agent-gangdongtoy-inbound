@@ -2821,11 +2821,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066443949.png"
       },
-      "GBN0000091": {
-        "name": "콩순이 알록달록 카페놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
-      },
       "KBN0000080": {
         "name": "[고덕점] 카툰 라이브 스톡6",
         "age": "36개월 이상 ~",
@@ -3805,6 +3800,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423123360.png"
       },
+      "GBN0000169": {
+        "name": "[슐라이히] 야생동물세트 17종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423256106.png"
+      },
       "GDN0000221": {
         "name": "[영실업] 뉴 또봇 X",
         "age": "36개월 이상 ~",
@@ -4464,6 +4464,11 @@
         "name": "[지나월드]코코멜론 영어학습 스마트폰",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
+      },
+      "GGN0000024": {
+        "name": "[코닉스]알루 에듀하우스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733211178309.PNG"
       },
       "GEN0000036": {
         "name": "[놀이자신감] 레인보우 원목퍼즐",
@@ -5624,6 +5629,11 @@
         "name": "뽀로로 멜로디 큐브버스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221373781.png"
+      },
+      "GDN0000166": {
+        "name": "원목레인보우블록 33피스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221771795.png"
       },
       "KDN0000086": {
         "name": "[고덕점] NEW 알파벳 주볼",
