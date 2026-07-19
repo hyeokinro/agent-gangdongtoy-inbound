@@ -3083,6 +3083,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210364980.jpg"
       },
+      "CGN0000064": {
+        "name": "[택배]현대백일돌상⑥",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357376697.png"
+      },
       "CGN0000073": {
         "name": "[택배][엔픽스]동물원 에디션 보행기",
         "age": "6개월 이상 ~",
@@ -3097,11 +3102,6 @@
         "name": "[택배]현대백일돌상③",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357425038.png"
-      },
-      "CGN0000064": {
-        "name": "[택배]현대백일돌상⑥",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357376697.png"
       },
       "CGN0000049": {
         "name": "[택배]전통백일돌상⑫",
@@ -3118,25 +3118,25 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210379020.jpg"
       },
-      "CGN0000062": {
-        "name": "[택배]현대백일돌상④",
+      "CGN0000048": {
+        "name": "[택배]전통백일돌상⑪",
         "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357407047.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656824626.png"
       },
       "CGY0000047": {
         "name": "[택배]엑서쏘서 포라플레이그라운드",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007853569.jpg"
       },
-      "CGN0000048": {
-        "name": "[택배]전통백일돌상⑪",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656824626.png"
-      },
       "CGN0000031": {
         "name": "[택배]프로픽스 주니어 카시트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
+      },
+      "CGN0000077": {
+        "name": "[택배]뉴나리프 그로우 바운서",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210339318.jpg"
       },
       "CGN0000007": {
         "name": "[택배]니모액티비티 점퍼루",
@@ -3147,11 +3147,6 @@
         "name": "[택배][브라이트스타트]비행기 액티비티 점퍼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349061197.png"
-      },
-      "CGN0000077": {
-        "name": "[택배]뉴나리프 그로우 바운서",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210339318.jpg"
       }
     },
     "wait": {
