@@ -276,11 +276,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_62.jpg"
       },
-      "KDN0000075": {
-        "name": "[고덕점] 반짝반짝 케이크링쌓기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
-      },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
         "age": "24개월 이상 ~",
@@ -1141,11 +1136,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780022315131.png"
       },
-      "ADN0000022": {
-        "name": "[짐보리]맥포머스90PCS",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773586233.jpg"
-      },
       "CEN0000004": {
         "name": "뉴 도형꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -1220,6 +1210,11 @@
         "name": "[고덕점] 얼리러닝컬러콥터",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541708907.png"
+      },
+      "ADN0000022": {
+        "name": "[짐보리]맥포머스90PCS",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773586233.jpg"
       },
       "CDN0000018": {
         "name": "멀티플렉스75p(스퀴즈)",
