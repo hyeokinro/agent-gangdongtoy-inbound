@@ -1296,11 +1296,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
       },
-      "GBN0000098": {
-        "name": "다이노 월드 랩 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163732327.png"
-      },
       "GDN0000138": {
         "name": "로더심플 비행기 공구놀이세트",
         "age": "6개월 이상 ~",
@@ -1380,6 +1375,11 @@
         "name": "씽크 자이언트에어 747",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165347042.png"
+      },
+      "GBN0000098": {
+        "name": "다이노 월드 랩 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163732327.png"
       },
       "MEN0000003": {
         "name": "도형놀이 균형맞추기 발란세오",
@@ -4025,6 +4025,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_78.jpg"
       },
+      "CEN0000002": {
+        "name": "뉴 과일꼭지퍼즐",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_91.jpg"
+      },
       "CEN0000004": {
         "name": "뉴 도형꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -5259,6 +5264,11 @@
         "name": "[토이트론]달님이 과일주스가게",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557539976.png"
+      },
+      "DDN0000148": {
+        "name": "[코닉스]띠띠뽀 차량기지 놀이세트2",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710561927763.png"
       },
       "DDN0000139": {
         "name": "[코닉스]타요 액션 소방센터",
