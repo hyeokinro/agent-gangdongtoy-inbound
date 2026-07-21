@@ -3155,16 +3155,6 @@
       }
     },
     "wait": {
-      "GBN0000078": {
-        "name": "[숲소리]소꿉놀이세트V2",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
-      },
-      "KDN0000091": {
-        "name": "[고덕점] 타요 포크레인 중장비 타워",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
-      },
       "KBN0000062": {
         "name": "[고덕점] 점보공룡",
         "age": "36개월 이상 ~",
@@ -3209,11 +3199,6 @@
         "name": "[미미월드]뽀로로 소방서",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204364533.PNG"
-      },
-      "DDN0000140": {
-        "name": "[실버릿]로보카폴리 스타터팩",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563398685.png"
       },
       "ADN0000059": {
         "name": "[키움하우스]라이트업뮤지컬버스",
@@ -3330,6 +3315,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592194663.jpg"
       },
+      "KDN0000091": {
+        "name": "[고덕점] 타요 포크레인 중장비 타워",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
+      },
       "DDN0000160": {
         "name": "[시쿠]구급차량 5종",
         "age": "36개월 이상 ~",
@@ -3390,6 +3380,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168762213.png"
       },
+      "GBN0000078": {
+        "name": "[숲소리]소꿉놀이세트V2",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
+      },
       "AAN0000020": {
         "name": "캐스B 말랑말랑 볼링친구들",
         "age": "24개월 이상 ~",
@@ -3419,6 +3414,11 @@
         "name": "[브이텍]ABC 쇼핑카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193514140.PNG"
+      },
+      "DDN0000140": {
+        "name": "[실버릿]로보카폴리 스타터팩",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563398685.png"
       },
       "DDN0000163": {
         "name": "[시쿠]버스차량 5종",
@@ -3529,11 +3529,6 @@
         "name": "[브이텍]액티비티에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
-      },
-      "GBN0000153": {
-        "name": "[립프로그]러빙 오븐 틸",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277205094.jpg"
       },
       "GDN0000020": {
         "name": "반짝반짝케이크링",
@@ -3655,6 +3650,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
       },
+      "KDN0000129": {
+        "name": "[고덕점] 가드닝카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
+      },
       "DDN0000067": {
         "name": "[애니블록]퍼즐올인원팩",
         "age": "36개월 이상 ~",
@@ -3689,11 +3689,6 @@
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167667336.png"
-      },
-      "KDN0000129": {
-        "name": "[고덕점] 가드닝카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
       },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
@@ -3949,11 +3944,6 @@
         "name": "[립프]아이스크림카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443861058.PNG"
-      },
-      "DAN0000008": {
-        "name": "[브이텍]두가지 공놀이 스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664402531.jpg"
       },
       "ACN0000012": {
         "name": "[주영이엔시]핑크퐁 동요 노래방",
@@ -4369,11 +4359,6 @@
         "name": "[영실업]콩순이 알록달록 카페놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664742258.jpg"
-      },
-      "ADN0000045": {
-        "name": "[주영이엔시]뽀로로 멜로디 생일케이크",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204874946.jpg"
       },
       "ABN0000035": {
         "name": "[리틀타익스]퍼스트세탁기",
