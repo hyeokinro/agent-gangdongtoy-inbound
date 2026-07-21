@@ -31,11 +31,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032076409.jpg"
       },
-      "ABN0000041": {
-        "name": "[브이텍]병원놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
-      },
       "AGN0000007": {
         "name": "[브라이트]컴포트스윙",
         "age": "1개월 이상 ~",
@@ -305,6 +300,11 @@
         "name": "어라운드음악놀이",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
+      },
+      "ABN0000041": {
+        "name": "[브이텍]병원놀이세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
       },
       "DDN0000026": {
         "name": "[자노드]피사의사탑",
@@ -2146,11 +2146,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
       },
-      "ADN0000062": {
-        "name": "[현우토이]원목 낚시 놀이 10p",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169045398.png"
-      },
       "CBN0000011": {
         "name": "병원놀이(원목)",
         "age": "36개월 이상 ~",
@@ -3575,11 +3570,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
       },
-      "GDN0000143": {
-        "name": "타요 말하는 미니카 자판기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
-      },
       "GDN0000164": {
         "name": "리틀 드라이버",
         "age": "12개월 이상 ~",
@@ -3710,6 +3700,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
+      "KDN0000124": {
+        "name": "[고덕점] 엄마까투리 멜로디 풍차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
+      },
       "DDN0000067": {
         "name": "[애니블록]퍼즐올인원팩",
         "age": "36개월 이상 ~",
@@ -3789,11 +3784,6 @@
         "name": "[고덕점] 아기의사 돌리",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541498757.png"
-      },
-      "KDN0000124": {
-        "name": "[고덕점] 엄마까투리 멜로디 풍차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
       },
       "KDN0000094": {
         "name": "[고덕점] 츄츄레일",
