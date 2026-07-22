@@ -1471,11 +1471,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538497750.png"
       },
-      "KDN0000132": {
-        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
-      },
       "ADN0000058": {
         "name": "[브이텍]러닝이모션 공작새",
         "age": "24개월 이상 ~",
@@ -2516,11 +2511,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202139861.png"
       },
-      "GDN0000210": {
-        "name": "[큐블로] 매직큐브 스피드레이서",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765341896712.png"
-      },
       "DDN0000122": {
         "name": "[아이코닉스]타요 천하장사 중장비 놀이세트",
         "age": "36개월 이상 ~",
@@ -2550,6 +2540,11 @@
         "name": "[고덕점] 리싸이클 트럭",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538947516.jpg"
+      },
+      "GDN0000210": {
+        "name": "[큐블로] 매직큐브 스피드레이서",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765341896712.png"
       },
       "ADN0000050": {
         "name": "[영진완구]핑크퐁 원더스타 소방관제센터",
@@ -4624,6 +4619,11 @@
         "name": "[영실업]콩순이 알록달록 카페놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664742258.jpg"
+      },
+      "ABN0000029": {
+        "name": "[영실업]척척박사 우유와 뉴 콩순이 냉장고",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199882267.jpg"
       },
       "ABN0000035": {
         "name": "[리틀타익스]퍼스트세탁기",
