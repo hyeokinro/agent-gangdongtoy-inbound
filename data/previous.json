@@ -1431,11 +1431,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
       },
-      "KDN0000123": {
-        "name": "[고덕점] 매직큐브프리빌딩 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539117440.png"
-      },
       "GEN0000016": {
         "name": "시티우드퍼즐",
         "age": "1개월 이상 ~",
@@ -2661,6 +2656,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563480536.png"
       },
+      "ADN0000038": {
+        "name": "[아이존]똑똑한타요버스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650510254971.png"
+      },
       "DBN0000044": {
         "name": "[미미월드]햄찌하우스",
         "age": "36개월 이상 ~",
@@ -3306,15 +3306,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353670385.jpg"
       },
-      "GBN0000017": {
-        "name": "원목자석과일자르기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
-      },
       "ADN0000049": {
         "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
+      },
+      "GBN0000017": {
+        "name": "원목자석과일자르기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
       },
       "DDN0000161": {
         "name": "[시쿠]소방차량 5종",
@@ -5115,11 +5115,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
       },
-      "CDN0000030": {
-        "name": "오뚜기삐에로",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_82.jpg"
-      },
       "CGN0000005": {
         "name": "뉴나리프 바운서",
         "age": "1개월 이상 ~",
@@ -5829,6 +5824,11 @@
         "name": "[브이텍] 타이거 락 기타",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
+      },
+      "GBN0000159": {
+        "name": "[아이코닉스] 뽀로로 말하는 바코드 계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765256884446.png"
       },
       "CBY0000056": {
         "name": "루시와 포대기세트",
