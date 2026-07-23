@@ -116,11 +116,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949162224.JPG"
       },
-      "GDN0000016": {
-        "name": "부엉이시계",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032021366.jpg"
-      },
       "KBN0000049": {
         "name": "[고덕점] 애프터눈티세트 15피스",
         "age": "36개월 이상 ~",
@@ -180,6 +175,11 @@
         "name": "고양이와 쥐 푸쉬토이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590946963.jpg"
+      },
+      "GDN0000016": {
+        "name": "부엉이시계",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032021366.jpg"
       },
       "GBN0000021": {
         "name": "허니비마켓 달걀상자",
@@ -285,11 +285,6 @@
         "name": "[에프비존] 사랑의 하츄핑 마이크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259555753.png"
-      },
-      "GFN0000001": {
-        "name": "코레카경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
       "GDN0000202": {
         "name": "[리틀타익스] 리틀큐티버그",
@@ -781,11 +776,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1566625939129.jpg"
       },
-      "DGN0000014": {
-        "name": "[브이텍]킥앤스코어 아기체육관",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554028815.png"
-      },
       "CBN0000017": {
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
@@ -800,6 +790,11 @@
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
+      },
+      "DGN0000014": {
+        "name": "[브이텍]킥앤스코어 아기체육관",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554028815.png"
       },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
@@ -4145,6 +4140,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777585031.jpg"
       },
+      "AGN0000008": {
+        "name": "[브라이트]포레스트바운서",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
+      },
       "DDN0000051": {
         "name": "[하바]호수페깅게임",
         "age": "12개월 이상 ~",
@@ -5255,11 +5255,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163005290.png"
       },
-      "GAN0000040": {
-        "name": "뮤지컬 액티비티 워커",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
-      },
       "KDN0000131": {
         "name": "[고덕점] 댄싱퍼피",
         "age": "6개월 이상 ~",
@@ -5804,11 +5799,6 @@
         "name": "[브이텍] 터미타임 변신큐브 에듀볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765083656518.png"
-      },
-      "GCN0000024": {
-        "name": "[브이텍] 타이거 락 기타",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
       },
       "GBN0000159": {
         "name": "[아이코닉스] 뽀로로 말하는 바코드 계산대",
