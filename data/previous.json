@@ -1936,11 +1936,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188564404.PNG"
       },
-      "KBN0000054": {
-        "name": "[고덕점] 뽀로로 반반 치킨가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540086071.png"
-      },
       "MDN0000016": {
         "name": "맨 TGA 시멘트 믹서와 헬멧 세트",
         "age": "36개월 이상 ~",
@@ -2040,11 +2035,6 @@
         "name": "빙글빙글 동물친구놀이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
-      },
-      "CBN0000039": {
-        "name": "푸드트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726785905.JPG"
       },
       "GDN0000159": {
         "name": "오케스트라 러닝테이블",
@@ -3760,11 +3750,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772084383.jpg"
       },
-      "GDN0000020": {
-        "name": "반짝반짝케이크링",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031551040.jpg"
-      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -3900,6 +3885,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
+      "KDN0000043": {
+        "name": "[고덕점] 판다 DJ 놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
+      },
       "GBN0000081": {
         "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
@@ -3965,11 +3955,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
-      "KDN0000043": {
-        "name": "[고덕점] 판다 DJ 놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
-      },
       "ADN0000056": {
         "name": "[블루래빗]꼬꼬맘",
         "age": "12개월 이상 ~",
@@ -4024,6 +4009,11 @@
         "name": "[엔픽스]롤링 360 이지보행기(블루)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434919943.png"
+      },
+      "ABN0000040": {
+        "name": "[영실업]콩콩이와 119병원세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
       "AGN0000020": {
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
@@ -4419,11 +4409,6 @@
         "name": "멀티플렉스75p(스퀴즈)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_70.jpg"
-      },
-      "CDN0000026": {
-        "name": "신나는아기실로폰",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_78.jpg"
       },
       "CEN0000002": {
         "name": "뉴 과일꼭지퍼즐",
@@ -4915,6 +4900,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726978119.JPG"
       },
+      "GDN0000088": {
+        "name": "[하바]클라부 미니카세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415937138.jpg"
+      },
       "GDN0000093": {
         "name": "[르토이반]동물친구들",
         "age": "12개월 이상 ~",
@@ -5140,6 +5130,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873694859.jpg"
       },
+      "GDN0000037": {
+        "name": "댄싱로봇빗벨",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029060560.jpg"
+      },
       "GBN0000046": {
         "name": "디럭스농장동물세트18종",
         "age": "36개월 이상 ~",
@@ -5154,11 +5149,6 @@
         "name": "마트전자계산대놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031427827.jpg"
-      },
-      "CAN0000032": {
-        "name": "뉴 오볼롤러",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791727157.jpg"
       },
       "GAN0000026": {
         "name": "[오볼]오볼놀이세트",
@@ -5869,11 +5859,6 @@
         "name": "공구세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595194327.jpg"
-      },
-      "GGN0000006": {
-        "name": "4in1아기체육관/걸음마보조기겸용",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874455587.jpg"
       },
       "GCN0000008": {
         "name": "톡톡실로폰놀이",
