@@ -796,11 +796,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
-      "GDN0000212": {
-        "name": "[맥포머스] 애니멀 점블 60PCS",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765345379808.png"
-      },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
         "age": "6개월 이상 ~",
@@ -2056,11 +2051,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164899238.png"
       },
-      "KDN0000045": {
-        "name": "[고덕점] 뽀로로 노래하는 줄줄이 티슈",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539966115.png"
-      },
       "KDN0000076": {
         "name": "[고덕점] 얼리러닝-맥도날드농장",
         "age": "36개월 이상 ~",
@@ -2240,6 +2230,11 @@
         "name": "[브이텍]뛰뛰빵빵 기차놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557934442.png"
+      },
+      "ACN0000000": {
+        "name": "[클래식]정글뮤직박스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769452233.jpg"
       },
       "GDN0000047": {
         "name": "에코차량운송트럭",
@@ -5585,6 +5580,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663546455.jpg"
       },
+      "ABN0000034": {
+        "name": "[립프로그]ABC 스마트 싱크대",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204632368.jpg"
+      },
       "ABN0000036": {
         "name": "[아이플러스]핑크퐁 진동벨 계산대",
         "age": "36개월 이상 ~",
@@ -6095,6 +6095,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
       },
+      "GDN0000214": {
+        "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765425818204.png"
+      },
       "GEN0000037": {
         "name": "[리틀히어로] 소프트 빌딩블록 24P",
         "age": "6개월 이상 ~",
@@ -6138,6 +6143,11 @@
         "name": "[놀이팩]미니공 자동발사기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139472672.png"
+      },
+      "HSN0000079": {
+        "name": "[물놀이팩]아기수영장+목튜브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218498228.png"
       },
       "HSN0000015": {
         "name": "[놀이팩]자석 변신로봇(노랑)",
@@ -6258,11 +6268,6 @@
         "name": "[놀이팩]자석 변신로봇(블루)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138749780.png"
-      },
-      "HSN0000027": {
-        "name": "[놀이팩]사운드 패드세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140263488.png"
       },
       "HSN0000068": {
         "name": "[물놀이팩]유아체어파라솔(A)+감성매트",
