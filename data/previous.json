@@ -1201,11 +1201,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562834231.png"
       },
-      "AGN0000012": {
-        "name": "[콤비]보행기(그레이)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779246288.jpg"
-      },
       "KBN0000068": {
         "name": "[고덕점] 달님이 마카롱 가게",
         "age": "36개월 이상 ~",
@@ -2241,11 +2236,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557934442.png"
       },
-      "ADN0000043": {
-        "name": "[베이비아인슈타인]터미타임 멜로디 깜짝볼",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204706127.jpg"
-      },
       "ABN0000030": {
         "name": "[BoHui]뽀로로 캐리어 소꿉놀이-핑크",
         "age": "36개월 이상 ~",
@@ -2360,6 +2350,11 @@
         "name": "[고덕점] 즐거운 놀이공원",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559206841.png"
+      },
+      "ADN0000043": {
+        "name": "[베이비아인슈타인]터미타임 멜로디 깜짝볼",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204706127.jpg"
       },
       "ACN0000006": {
         "name": "[캐스B]영유아악기17종",
@@ -3316,11 +3311,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277688466.jpg"
       },
-      "CGN0000015": {
-        "name": "반짝반짝뮤지컬걸음마",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
-      },
       "DDN0000161": {
         "name": "[시쿠]소방차량 5종",
         "age": "36개월 이상 ~",
@@ -3514,11 +3504,6 @@
         "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
-      },
-      "DDN0000063": {
-        "name": "[트리코]스쿨박스세트",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069561146.png"
       },
       "KDN0000148": {
         "name": "[고덕점] 오뚜기(빨강)",
@@ -3900,10 +3885,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029370462.jpg"
       },
-      "DDN0000067": {
-        "name": "[애니블록]퍼즐올인원팩",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069733673.png"
+      "KDN0000120": {
+        "name": "[고덕점] 뉴 알파벳 학습 버스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
       },
       "CGN0000067": {
         "name": "[콤비]보행기(아이보리)",
@@ -3939,11 +3924,6 @@
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
-      },
-      "KDN0000120": {
-        "name": "[고덕점] 뉴 알파벳 학습 버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
       },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
