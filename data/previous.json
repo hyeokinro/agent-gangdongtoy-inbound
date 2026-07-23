@@ -666,11 +666,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
-      "AGN0000020": {
-        "name": "하늘썬별 피아노체육관 걸음마 (레드)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
-      },
       "DDN0000056": {
         "name": "[맥포머스]경찰차세트",
         "age": "36개월 이상 ~",
@@ -1046,11 +1041,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062275319.png"
       },
-      "AGN0000008": {
-        "name": "[브라이트]포레스트바운서",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
-      },
       "KDN0000060": {
         "name": "[고덕점] 팝피 토피",
         "age": "6개월 이상 ~",
@@ -1075,6 +1065,11 @@
         "name": "리틀타익스 리틀 더티디거 청소차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959222191.png"
+      },
+      "AGN0000008": {
+        "name": "[브라이트]포레스트바운서",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
       },
       "DDN0000065": {
         "name": "[지오맥]코어타쭈토코",
@@ -1936,11 +1931,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033185737.jpg"
       },
-      "KDN0000154": {
-        "name": "[고덕점]밸런싱 링쌓기저울",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729908396190.png"
-      },
       "KAN0000015": {
         "name": "[고덕점] 로보카폴리 볼링세트",
         "age": "24개월 이상 ~",
@@ -2720,11 +2710,6 @@
         "name": "물고기쉐이커",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_44.jpg"
-      },
-      "DDN0000120": {
-        "name": "[주영이엔씨] 멜로디 생일케이크 핑크퐁 장난감",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354033397.jpg"
       },
       "GEN0000005": {
         "name": "Oval rainbow",
@@ -4790,6 +4775,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278605112.jpg"
       },
+      "CGN0000098": {
+        "name": "[에시앙]범보의자(클라우드베어 일체형)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432429604.png"
+      },
       "CGN0000104": {
         "name": "[아이존]베이비워커 걸음마보조기",
         "age": "6개월 이상 ~",
@@ -4894,6 +4884,11 @@
         "name": "멜로디 곤충피아노",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
+      },
+      "CBN0000038": {
+        "name": "아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726978119.JPG"
       },
       "GDN0000093": {
         "name": "[르토이반]동물친구들",
@@ -5369,6 +5364,11 @@
         "name": "[키움하우스]팝핑 워커 거북이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
+      },
+      "DDN0000169": {
+        "name": "[오즈토이]피아노 퍼즐하우스 완구",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
       },
       "ABN0000045": {
         "name": "[원더코퍼레이션]원목소꿉놀이 세트",
