@@ -996,11 +996,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
       },
-      "GDN0000032": {
-        "name": "트라이앵글",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598943837047.jpg"
-      },
       "AGN0000021": {
         "name": "토디 우드 디데이 달력",
         "age": "1개월 이상 ~",
@@ -1621,6 +1616,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733212241665.jpg"
       },
+      "ABN0000017": {
+        "name": "[보육사]과일야채컷팅",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1619163664701.jpg"
+      },
       "DDN0000136": {
         "name": "[코코멜론]제이제이 인형(영어)",
         "age": "36개월 이상 ~",
@@ -1705,11 +1705,6 @@
         "name": "뛰뛰빵빵 출동 소방 구조대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167605643.png"
-      },
-      "ABN0000017": {
-        "name": "[보육사]과일야채컷팅",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1619163664701.jpg"
       },
       "GDN0000178": {
         "name": "뽀로로 변신 굴착기",
@@ -2421,6 +2416,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910238791.png"
       },
+      "ADN0000044": {
+        "name": "[브이텍]노래하는 스피닝 휠",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204789780.PNG"
+      },
       "KBN0000087": {
         "name": "[고덕점] 멜리사앤더그 쇼핑카트",
         "age": "24개월 이상 ~",
@@ -2885,6 +2885,11 @@
         "name": "[코닉스]뽀로로캐리어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768856166.jpg"
+      },
+      "ADN0000029": {
+        "name": "[자석나라]픽스앤픽스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773984790.jpg"
       },
       "KDN0000119": {
         "name": "[고덕점] 굿모닝 프렌즈",
@@ -3387,11 +3392,6 @@
         "name": "[택배]현대백일돌상③",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357425038.png"
-      },
-      "CGN0000049": {
-        "name": "[택배]전통백일돌상⑫",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656884413.png"
       },
       "CGN0000091": {
         "name": "[택배][이븐플로]엑서쏘서트리플펀씨사이드",
