@@ -3580,6 +3580,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
       },
+      "GDN0000209": {
+        "name": "[블루레빗]꼬꼬맘",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765340957946.png"
+      },
       "KDN0000147": {
         "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
         "age": "36개월 이상 ~",
@@ -3644,11 +3649,6 @@
         "name": "뉴 해양꼭지퍼즐",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
-      },
-      "GDN0000209": {
-        "name": "[블루레빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765340957946.png"
       },
       "DDN0000145": {
         "name": "[코닉스]타요 주유소플레이세트",
@@ -4329,11 +4329,6 @@
         "name": "[고덕점] 달님이 마카롱 가게",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538059209.png"
-      },
-      "KGN0000005": {
-        "name": "[고덕점] 디럭스 아기체육관",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538478311.png"
       },
       "KDN0000088": {
         "name": "[고덕점] 리틀 트레인",
