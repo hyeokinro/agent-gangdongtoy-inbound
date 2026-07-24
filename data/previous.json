@@ -296,11 +296,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
       },
-      "GFN0000011": {
-        "name": "[중모토이] CAT 로더 푸쉬카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765343668026.png"
-      },
       "GDN0000075": {
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
@@ -370,6 +365,11 @@
         "name": "수더메도우 모빌(흑백+홀더)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874300858.JPG"
+      },
+      "GFN0000001": {
+        "name": "코레카경찰차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
       "KDN0000054": {
         "name": "[고덕점] 꼬꼬맘",
@@ -1446,11 +1446,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
       },
-      "DDN0000166": {
-        "name": "[지나월드]코코멜론 영어학습 스마트폰",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
-      },
       "GEN0000016": {
         "name": "시티우드퍼즐",
         "age": "1개월 이상 ~",
@@ -1480,6 +1475,11 @@
         "name": "Sand stacking tower",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057234087.JPG"
+      },
+      "DDN0000166": {
+        "name": "[지나월드]코코멜론 영어학습 스마트폰",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
       },
       "GDN0000013": {
         "name": "아기새의 집",
@@ -1735,11 +1735,6 @@
         "name": "뽀로로 변신 굴착기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224030033.png"
-      },
-      "AFN0000008": {
-        "name": "[코닉스]뽀로로 시소붕붕카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710468960260.JPG"
       },
       "GDN0000135": {
         "name": "씽크 자이언트에어 747",
@@ -2936,11 +2931,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026798261.jpg"
       },
-      "ADN0000033": {
-        "name": "[하바]미로(건설,교통)",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777291297.jpg"
-      },
       "ABN0000020": {
         "name": "[코닉스]뽀로로캐리어",
         "age": "36개월 이상 ~",
@@ -2970,6 +2960,11 @@
         "name": "[보육사]목재의사놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1664354241721.png"
+      },
+      "ADN0000033": {
+        "name": "[하바]미로(건설,교통)",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777291297.jpg"
       },
       "DDN0000078": {
         "name": "[오차드]도로퍼즐",
@@ -3844,6 +3839,11 @@
         "name": "[고덕점] 옥토레이 변신 본부 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542513703.png"
+      },
+      "DBN0000031": {
+        "name": "[립프로그]ABC 청소기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664695076.jpg"
       },
       "DEN0000000": {
         "name": "[스틱오]아기상어 프렌즈 세트",
