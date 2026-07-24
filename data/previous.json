@@ -3386,11 +3386,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
       },
-      "DDN0000161": {
-        "name": "[시쿠]소방차량 5종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553523924.png"
-      },
       "CDN0000074": {
         "name": "[코닉스]뽀로로키즈팝댄스",
         "age": "36개월 이상 ~",
@@ -3805,6 +3800,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
       },
+      "GBN0000002": {
+        "name": "푸드트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
+      },
       "DEN0000000": {
         "name": "[스틱오]아기상어 프렌즈 세트",
         "age": "36개월 이상 ~",
@@ -3950,10 +3950,10 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
       },
-      "DDN0000170": {
-        "name": "[피노키오]타요 운전놀이",
+      "GBN0000081": {
+        "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
       },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
@@ -4029,6 +4029,11 @@
         "name": "[브이텍]춤추는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
+      },
+      "DDN0000170": {
+        "name": "[피노키오]타요 운전놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
       "DDN0000168": {
         "name": "[브이텍]멜로디 덤프트럭",
