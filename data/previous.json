@@ -586,11 +586,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
-      "GBN0000081": {
-        "name": "뽀로로 변신 구급차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
-      },
       "GDN0000022": {
         "name": "아기핸드폰",
         "age": "1개월 이상 ~",
@@ -640,6 +635,11 @@
         "name": "레코딩무선전화놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
+      },
+      "GBN0000081": {
+        "name": "뽀로로 변신 구급차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
       },
       "GDN0000014": {
         "name": "꿀벌톱니바퀴",
@@ -956,6 +956,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026963427.jpg"
       },
+      "CAN0000018": {
+        "name": "말랑볼링친구들",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793169638.jpg"
+      },
       "GBN0000087": {
         "name": "[립프로그]ABC 청소기",
         "age": "24개월 이상 ~",
@@ -1175,11 +1180,6 @@
         "name": "아이팜 힘찬 포크레인 붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958018487.png"
-      },
-      "CAN0000018": {
-        "name": "말랑볼링친구들",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793169638.jpg"
       },
       "GFN0000006": {
         "name": "[브이텍] 4in1 알파벳 트레인 붕붕카",
@@ -2050,11 +2050,6 @@
         "name": "[하바]마법의소리게임",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
-      },
-      "AFN0000004": {
-        "name": "[베케라]스피즈터플레인",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
       },
       "GDN0000159": {
         "name": "오케스트라 러닝테이블",
@@ -4930,11 +4925,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
       },
-      "CBN0000039": {
-        "name": "푸드트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726785905.JPG"
-      },
       "CBN0000038": {
         "name": "아이스크림카트",
         "age": "24개월 이상 ~",
@@ -5784,11 +5774,6 @@
         "name": "[윈펀]꼬꼬댁 놀이동산",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
-      },
-      "CBN0000065": {
-        "name": "[립프로그]아이스크림카트 민트초코",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349245017.png"
       },
       "CBN0000063": {
         "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
