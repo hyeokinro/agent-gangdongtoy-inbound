@@ -881,6 +881,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
       },
+      "ADN0000035": {
+        "name": "[하베브릭스]빅에듀큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
+      },
       "GDN0000084": {
         "name": "[바조]캐슬블럭과 강아지",
         "age": "24개월 이상 ~",
@@ -1101,11 +1106,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069475733.png"
       },
-      "GAN0000034": {
-        "name": "[원펀]뉴러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671517309106.PNG"
-      },
       "CGN0000010": {
         "name": "듀얼모션 모빌+홀더",
         "age": "1개월 이상 ~",
@@ -1145,6 +1145,11 @@
         "name": "1-5쌓기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034838117.jpg"
+      },
+      "DGN0000012": {
+        "name": "[리틀타익스]4in1 알파벳 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193448051.PNG"
       },
       "MBN0000065": {
         "name": "오즈토이 케이레스큐 공구놀이 리빙박스",
@@ -2040,11 +2045,6 @@
         "name": "[베케라]스피즈터플레인",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
-      },
-      "CDN0000045": {
-        "name": "빙글빙글 동물친구놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
       },
       "GDN0000159": {
         "name": "오케스트라 러닝테이블",
@@ -4069,11 +4069,6 @@
         "name": "[지오맥]매직큐브프리빌딩 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
-      },
-      "DDN0000042": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
       "GBN0000153": {
         "name": "[립프로그]러빙 오븐 틸",
