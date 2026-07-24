@@ -656,11 +656,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
       },
-      "GDN0000020": {
-        "name": "반짝반짝케이크링",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031551040.jpg"
-      },
       "GDN0000014": {
         "name": "꿀벌톱니바퀴",
         "age": "12개월 이상 ~",
@@ -3635,11 +3630,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349805980.png"
       },
-      "GDN0000139": {
-        "name": "망아지 플레이테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165738861.png"
-      },
       "CEN0000005": {
         "name": "뉴 해양꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -3985,6 +3975,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
       },
+      "DDN0000170": {
+        "name": "[피노키오]타요 운전놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
+      },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
         "age": "6개월 이상 ~",
@@ -4059,11 +4054,6 @@
         "name": "[브이텍]춤추는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
-      },
-      "DDN0000170": {
-        "name": "[피노키오]타요 운전놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
       "DDN0000168": {
         "name": "[브이텍]멜로디 덤프트럭",
@@ -4289,11 +4279,6 @@
         "name": "디럭스 공구놀이세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163186469.png"
-      },
-      "GGN0000022": {
-        "name": "콤비 YT-Belle 아기보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163801085.png"
       },
       "GDN0000136": {
         "name": "에어포트 플레이세트",
