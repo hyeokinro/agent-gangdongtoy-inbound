@@ -371,6 +371,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874300858.JPG"
       },
+      "CCN0000024": {
+        "name": "[비키즈]뮤직센터(10-IN-1)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432864086.png"
+      },
       "GFN0000001": {
         "name": "코레카경찰차",
         "age": "12개월 이상 ~",
@@ -2341,11 +2346,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
       },
-      "CBN0000011": {
-        "name": "병원놀이(원목)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
-      },
       "KDN0000046": {
         "name": "[고덕점] 엄마까투리 디럭스 트리 하우스",
         "age": "24개월 이상 ~",
@@ -2475,6 +2475,11 @@
         "name": "보쉬 높이 조절 공구 작업대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959345914.png"
+      },
+      "CBN0000011": {
+        "name": "병원놀이(원목)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
       },
       "GDN0000169": {
         "name": "첫 계산대놀이 세트",
@@ -2965,11 +2970,6 @@
         "name": "도형맞추기 하우스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
-      },
-      "GDN0000191": {
-        "name": "[브이텍] 터미타임 변신큐브 에듀볼",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765083656518.png"
       },
       "ABN0000019": {
         "name": "[보육사]목재의사놀이",
@@ -5029,11 +5029,6 @@
         "name": "[대성]벤츠 아록스 덤프트럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671262414325.PNG"
-      },
-      "GDN0000130": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
       },
       "DDN0000129": {
         "name": "[레드박스]경찰놀이 가방",
