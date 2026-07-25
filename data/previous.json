@@ -1826,11 +1826,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590400786.jpg"
       },
-      "KDN0000145": {
-        "name": "[고덕점] 에듀플러스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554067874.png"
-      },
       "ADN0000008": {
         "name": "[플레이포에버]자동차5",
         "age": "36개월 이상 ~",
@@ -1905,6 +1900,11 @@
         "name": "[디자인연]푸시피시",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070805892.png"
+      },
+      "KDN0000145": {
+        "name": "[고덕점] 에듀플러스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554067874.png"
       },
       "GDN0000019": {
         "name": "빙글빙글 옥토퍼스",
@@ -3458,6 +3458,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210445797.jpg"
       },
+      "CAY0000066": {
+        "name": "[택배]로켓 높낮이 미끄럼틀",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1784942929081.png"
+      },
       "CGY0000084": {
         "name": "[택배]동물친구액티비티점퍼루",
         "age": "6개월 이상 ~",
@@ -3900,11 +3905,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415748622.jpg"
       },
-      "KBN0000085": {
-        "name": "[고덕점]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
-      },
       "KDN0000136": {
         "name": "[고덕점] 에듀볼",
         "age": "12개월 이상 ~",
@@ -3974,6 +3974,11 @@
         "name": "멜로디 멀티블록세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590039182551.jpg"
+      },
+      "KBN0000085": {
+        "name": "[고덕점]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
       "GBN0000044": {
         "name": "큰공룡세트12종",
