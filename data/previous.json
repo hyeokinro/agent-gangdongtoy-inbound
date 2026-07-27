@@ -3535,11 +3535,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729908695762.png"
       },
-      "CGN0000108": {
-        "name": "와이즈체어 범보부스터(애쉬크림)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291115702.png"
-      },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
@@ -3675,10 +3670,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
-      "GBN0000081": {
-        "name": "뽀로로 변신 구급차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
+      "CDN0000043": {
+        "name": "빙글빙글 해저탐험",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
       },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
@@ -3754,6 +3749,11 @@
         "name": "[지오맥]매직큐브프리빌딩 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
+      },
+      "DDN0000042": {
+        "name": "[하베브릭스]6in1변신큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
       "GBN0000153": {
         "name": "[립프로그]러빙 오븐 틸",
@@ -4079,6 +4079,11 @@
         "name": "[립프로그]피크닉 바구니",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277976469.jpg"
+      },
+      "GBN0000147": {
+        "name": "[꼬마호랑이]소프트 병원놀이 13종",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
       },
       "GDN0000182": {
         "name": "[아이코닉스]키즈팝 댄스 파티",
@@ -5394,6 +5399,11 @@
         "name": "[고덕점] 정글잼 악기세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566223633.png"
+      },
+      "KGN0000004": {
+        "name": "[고덕점] 콤비 YT-Belle 아기보행기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566705523.png"
       },
       "KBN0000069": {
         "name": "[고덕점] 병원놀이세트[한글버전]",
