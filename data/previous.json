@@ -276,6 +276,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
+      "ABN0000041": {
+        "name": "[브이텍]병원놀이세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
+      },
       "CGN0000023": {
         "name": "와이즈체어 범보부스터(핑크)",
         "age": "6개월 이상 ~",
@@ -751,11 +756,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777884680.jpg"
       },
-      "CDN0000071": {
-        "name": "[코닉스]타요트랙미니카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521003419.PNG"
-      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -765,11 +765,6 @@
         "name": "[미미월드] 타요 차고지 스페셜 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260853438.png"
-      },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "CGN0000102": {
         "name": "[엔픽스]스텝 360보행기(크림그레이)",
@@ -1085,6 +1080,11 @@
         "name": "자석블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
+      },
+      "CDN0000087": {
+        "name": "[브이텍]밸런싱 링쌓기저울",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349615479.png"
       },
       "KDN0000042": {
         "name": "[고덕점] 컵쌓기 & 액티비티 볼 세트",
@@ -1815,6 +1815,11 @@
         "name": "아기드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033339231.jpg"
+      },
+      "CDN0000098": {
+        "name": "[블루래빗]아기오리랑 마마덕",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433333649.jpg"
       },
       "GEN0000029": {
         "name": "롤플레이세트(26pcs)4차원자석블럭",
@@ -5274,11 +5279,6 @@
         "name": "[아이코닉스]타요 천하장사 중장비 놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663546455.jpg"
-      },
-      "ABN0000031": {
-        "name": "[BoHui]뽀로로 캐리어 소꿉놀이-노랑",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204227036.PNG"
       },
       "ABN0000034": {
         "name": "[립프로그]ABC 스마트 싱크대",
