@@ -2441,11 +2441,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
       },
-      "DDN0000023": {
-        "name": "[블루]가블리트가블러스",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060725953.png"
-      },
       "GDN0000010": {
         "name": "망치놀이",
         "age": "1개월 이상 ~",
@@ -2675,6 +2670,11 @@
         "name": "물고기쉐이커",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_44.jpg"
+      },
+      "DDN0000023": {
+        "name": "[블루]가블리트가블러스",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060725953.png"
       },
       "GFN0000005": {
         "name": "3단계 얼룩말 스쿠터",
