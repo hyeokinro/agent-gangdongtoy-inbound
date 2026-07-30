@@ -1146,11 +1146,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671917972.jpg"
       },
-      "CGN0000101": {
-        "name": "[엔픽스]점핑 360점퍼루(언더더씨)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434707646.png"
-      },
       "GCN0000014": {
         "name": "스탠드밴드",
         "age": "36개월 이상 ~",
@@ -2666,11 +2661,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
       },
-      "KBN0000067": {
-        "name": "[고덕점] 알록달록 송이 미용실",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567220129.png"
-      },
       "GBN0000094": {
         "name": "미키와친구들 자동차 병원놀이",
         "age": "24개월 이상 ~",
@@ -2705,6 +2695,11 @@
         "name": "펀아토 베이비베이스 기타",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164977292.png"
+      },
+      "KBN0000067": {
+        "name": "[고덕점] 알록달록 송이 미용실",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567220129.png"
       },
       "DDN0000109": {
         "name": "[큐비]이상한아파트세트",
@@ -6084,6 +6079,11 @@
         "name": "[브이텍] 다이노 먹이주기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
+      },
+      "GDN0000224": {
+        "name": "[초이락] 헬로카봇 루크X",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431698560.png"
       }
     }
   },
@@ -6263,11 +6263,6 @@
         "name": "[물놀이팩]샤크수영복(XL)+모래놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778226852773.png"
-      },
-      "HSN0000025": {
-        "name": "[놀이팩]무당벌레3in1 운동기구",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139851033.png"
       },
       "HSN0000029": {
         "name": "[놀이팩]콩순이 응가습관 콩콩이",
