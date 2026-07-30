@@ -871,6 +871,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593409425.jpg"
       },
+      "CDN0000008": {
+        "name": "덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_60.jpg"
+      },
       "KBN0000053": {
         "name": "[고덕점] 똘똘이 동물병원",
         "age": "36개월 이상 ~",
@@ -930,11 +935,6 @@
         "name": "[퍼니플럭스] 슈퍼윙스 일렉트릭 변신 로봇 6종세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765426773154.png"
-      },
-      "CDN0000008": {
-        "name": "덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_60.jpg"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
@@ -1091,6 +1091,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958665711.png"
       },
+      "KDN0000127": {
+        "name": "[고덕점] 리얼청소차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538979549.png"
+      },
       "KDN0000150": {
         "name": "[고덕점]큐블로 매직큐브  자석블럭",
         "age": "36개월 이상 ~",
@@ -1125,6 +1130,11 @@
         "name": "강아지 도형끼우기차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671917972.jpg"
+      },
+      "CGN0000101": {
+        "name": "[엔픽스]점핑 360점퍼루(언더더씨)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434707646.png"
       },
       "GCN0000014": {
         "name": "스탠드밴드",
@@ -1220,6 +1230,11 @@
         "name": "[애니블록]뽀로로퍼즐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069852010.png"
+      },
+      "KDN0000047": {
+        "name": "[고덕점] 엄마까투리 소방구조대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541801372.png"
       },
       "GDN0000046": {
         "name": "응급자동차세트",
@@ -2351,6 +2366,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029060560.jpg"
       },
+      "KDN0000151": {
+        "name": "[고덕점]아기곰저울&숫자놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910238791.png"
+      },
       "GDN0000183": {
         "name": "[브랜드B] 팝핑웨일",
         "age": "24개월 이상 ~",
@@ -2365,11 +2385,6 @@
         "name": "[고덕점] 뮤직운전대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
-      },
-      "KDN0000151": {
-        "name": "[고덕점]아기곰저울&숫자놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910238791.png"
       },
       "MBN0000063": {
         "name": "보쉬 높이 조절 공구 작업대",
@@ -3382,11 +3397,6 @@
         "name": "[택배]락카루바운서(그레이)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799165251.jpg"
-      },
-      "CGN0000048": {
-        "name": "[택배]전통백일돌상⑪",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656824626.png"
       },
       "CGY0000084": {
         "name": "[택배]동물친구액티비티점퍼루",
