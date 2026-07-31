@@ -241,11 +241,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772084383.jpg"
       },
-      "KDN0000115": {
-        "name": "[고덕점] 빙글빙글 해저 탐험",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
-      },
       "GDN0000134": {
         "name": "[디즈니베이비] 클레멘토니 팔로오  미 미키",
         "age": "6개월 이상 ~",
@@ -1026,11 +1021,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765426997707.png"
       },
-      "KCN0000013": {
-        "name": "[고덕점] 파람팜팜 악기세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566377706.jpg"
-      },
       "GBN0000147": {
         "name": "[꼬마호랑이]소프트 병원놀이 13종",
         "age": "1개월 이상 ~",
@@ -1465,6 +1455,11 @@
         "name": "오피스러닝테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590036737966.jpg"
+      },
+      "DAN0000005": {
+        "name": "[리틀]뉴액티비티가든",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443489913.PNG"
       },
       "MEN0000003": {
         "name": "도형놀이 균형맞추기 발란세오",
@@ -3236,6 +3231,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
       },
+      "DDN0000131": {
+        "name": "[레드박스]팝업동물농장",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672194271073.PNG"
+      },
       "CDN0000019": {
         "name": "멀티플렉스세트150pc(스퀴즈)",
         "age": "36개월 이상 ~",
@@ -3330,11 +3330,6 @@
       }
     },
     "wait": {
-      "KDN0000135": {
-        "name": "[고덕점] 엉금엉금멜로디달팽이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
-      },
       "GFN0000001": {
         "name": "코레카경찰차",
         "age": "12개월 이상 ~",
@@ -3364,6 +3359,11 @@
         "name": "[러닝리소스] 카운팅 쉐입스 터틀 세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257241905.png"
+      },
+      "KDN0000135": {
+        "name": "[고덕점] 엉금엉금멜로디달팽이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
       },
       "GCN0000011": {
         "name": "어라운드음악놀이",
@@ -4569,11 +4569,6 @@
         "name": "[브이텍]스마트 러닝 태블릿",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
-      },
-      "CBN0000058": {
-        "name": "[리틀타익스]퍼스트 냉장고",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349834025.png"
       },
       "DDN0000171": {
         "name": "[브이텍]밸런싱 링쌓기저울",
