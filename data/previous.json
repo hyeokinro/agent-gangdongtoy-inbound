@@ -921,11 +921,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026963427.jpg"
       },
-      "GBN0000087": {
-        "name": "[립프로그]ABC 청소기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188406169.JPG"
-      },
       "ADN0000027": {
         "name": "[브레인숲]하우스블록44",
         "age": "36개월 이상 ~",
@@ -1521,6 +1516,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
       },
+      "KBN0000052": {
+        "name": "[고덕점] 색이 변하는 쿠키오븐",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540454076.png"
+      },
       "GDN0000009": {
         "name": "버섯모양망치게임",
         "age": "12개월 이상 ~",
@@ -1946,11 +1946,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193688069.PNG"
       },
-      "DDN0000108": {
-        "name": "[레고]인페르노제트",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072089351.png"
-      },
       "DBN0000042": {
         "name": "[토이트론]달님이카페놀이",
         "age": "36개월 이상 ~",
@@ -2025,6 +2020,11 @@
         "name": "[비키즈]판다DJ놀이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349898173.png"
+      },
+      "DDN0000108": {
+        "name": "[레고]인페르노제트",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072089351.png"
       },
       "GEN0000027": {
         "name": "컨스트럭션세트(26pcs)3차원자석블럭",
@@ -2640,11 +2640,6 @@
         "name": "[브이텍]스스로굴러가는깜짝볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
-      },
-      "GBN0000094": {
-        "name": "미키와친구들 자동차 병원놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
       },
       "CCN0000019": {
         "name": "퍼커션세트",
