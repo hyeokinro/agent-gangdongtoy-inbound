@@ -1586,11 +1586,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193574431.PNG"
       },
-      "AFN0000007": {
-        "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710469127941.JPG"
-      },
       "GBN0000155": {
         "name": "[영실업]콩순이 아이스크림가게",
         "age": "36개월 이상 ~",
@@ -2441,6 +2436,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772014891.jpg"
       },
+      "CBN0000014": {
+        "name": "요리놀이세트(실리콘)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801767914.jpg"
+      },
       "GDN0000122": {
         "name": "[우토]공구놀이",
         "age": "36개월 이상 ~",
@@ -2806,11 +2806,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538324726.png"
       },
-      "GDN0000147": {
-        "name": "라이트업 뮤지컬버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166663866.png"
-      },
       "DDN0000070": {
         "name": "[탑브라이트]탈것(증기선외)",
         "age": "36개월 이상 ~",
@@ -3136,11 +3131,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537757084.png"
       },
-      "CBN0000060": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
-      },
       "KDN0000064": {
         "name": "[고덕점] 스쿨버스",
         "age": "24개월 이상 ~",
@@ -3337,6 +3327,11 @@
         "name": "[택배]현대백일돌상⑦",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357361546.png"
+      },
+      "CAY0000065": {
+        "name": "[택배]굴착기흔들말",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1784881953848.png"
       },
       "CGN0000040": {
         "name": "[택배]현대백일돌상 ⑨",
