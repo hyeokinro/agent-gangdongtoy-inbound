@@ -1896,6 +1896,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435286403.jpg"
       },
+      "CDN0000045": {
+        "name": "빙글빙글 동물친구놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
+      },
       "KAN0000015": {
         "name": "[고덕점] 로보카폴리 볼링세트",
         "age": "24개월 이상 ~",
@@ -2246,6 +2251,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
       },
+      "CBN0000036": {
+        "name": "싱싱한 야채소품",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566372310043.jpg"
+      },
       "GDN0000179": {
         "name": "컵쌓기 & 액티비티 볼 세트",
         "age": "24개월 이상 ~",
@@ -2255,6 +2265,11 @@
         "name": "보쉬 높이 조절 공구 작업대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959345914.png"
+      },
+      "CDN0000030": {
+        "name": "오뚜기삐에로",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_82.jpg"
       },
       "GBN0000045": {
         "name": "디럭스야생동물세트24종",
@@ -2660,6 +2675,11 @@
         "name": "얼리러닝셰이프",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031327357.jpg"
+      },
+      "CDN0000079": {
+        "name": "[브이텍]춤추는 강아지",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
       },
       "MBN0000074": {
         "name": "플레이 역할의상 요리사",
@@ -3152,11 +3172,6 @@
         "name": "[택배]현대백일돌상②",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357437050.png"
-      },
-      "CGY0000084": {
-        "name": "[택배]동물친구액티비티점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690121784.jpg"
       },
       "CGN0000031": {
         "name": "[택배]프로픽스 주니어 카시트",
@@ -4190,11 +4205,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061848108.png"
       },
-      "DDN0000059": {
-        "name": "[맥포머스]프린세스세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069366597.png"
-      },
       "DDN0000086": {
         "name": "[보약게임]플라잉치즈",
         "age": "60개월 이상 ~",
@@ -4540,10 +4550,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067352254.png"
       },
-      "DDN0000099": {
-        "name": "[레고]공룡탈출",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071551522.png"
+      "DDN0000088": {
+        "name": "[조엔]팅팅퍽",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070984832.png"
       },
       "DDN0000108": {
         "name": "[레고]인페르노제트",
@@ -4810,11 +4820,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779278159.jpg"
       },
-      "DDN0000102": {
-        "name": "[레고]미니언즈파일럿훈련",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071682311.png"
-      },
       "DDN0000110": {
         "name": "[큐비]아기공룡들세트",
         "age": "36개월 이상 ~",
@@ -5004,11 +5009,6 @@
         "name": "[키움하우스]팝핑 워커 거북이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
-      },
-      "DDN0000169": {
-        "name": "[오즈토이]피아노 퍼즐하우스 완구",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
       },
       "ABN0000045": {
         "name": "[원더코퍼레이션]원목소꿉놀이 세트",
