@@ -156,11 +156,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069594426.png"
       },
-      "CDN0000081": {
-        "name": "[오볼]오볼세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
-      },
       "GBN0000078": {
         "name": "[숲소리]소꿉놀이세트V2",
         "age": "12개월 이상 ~",
@@ -300,11 +295,6 @@
         "name": "[러닝리소스] 카운팅 쉐입스 터틀 세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257241905.png"
-      },
-      "DDN0000127": {
-        "name": "[리틀타익스]소프트 스트링박스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193368742.PNG"
       },
       "DDN0000026": {
         "name": "[자노드]피사의사탑",
@@ -1945,11 +1935,6 @@
         "name": "[맬리사엔더그]사운드퍼즐(야행 소방서 악기)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1606897297489.png"
-      },
-      "CDN0000085": {
-        "name": "[비키즈]판다DJ놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349898173.png"
       },
       "DDN0000108": {
         "name": "[레고]인페르노제트",
@@ -4570,6 +4555,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
       },
+      "CBN0000038": {
+        "name": "아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726978119.JPG"
+      },
       "CDN0000068": {
         "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
         "age": "6개월 이상 ~",
@@ -4614,6 +4604,16 @@
         "name": "[레고]공룡탈출",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071551522.png"
+      },
+      "DDN0000108": {
+        "name": "[레고]인페르노제트",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072089351.png"
+      },
+      "CDN0000073": {
+        "name": "[코닉스]뽀로로스쿨버스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521449972.PNG"
       },
       "DBN0000035": {
         "name": "[영실업]콩순이 말하는 펭이와 청진기",
@@ -5350,6 +5350,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504646137.PNG"
       },
+      "DDN0000125": {
+        "name": "[Lakeshore]미래의 우주여행",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672192962552.PNG"
+      },
       "DBN0000037": {
         "name": "[브이텍]병원놀이세트",
         "age": "36개월 이상 ~",
@@ -5704,11 +5709,6 @@
         "name": "[비키즈]악어 걸음마 보조기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672125477010.jpg"
-      },
-      "AGN0000015": {
-        "name": "띠띠뽀 에듀 테이블",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365070881.png"
       },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
