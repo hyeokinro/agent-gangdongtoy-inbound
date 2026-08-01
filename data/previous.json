@@ -16,11 +16,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
       },
-      "GEN0000035": {
-        "name": "애완동물입체퍼즐",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
-      },
       "KCN0000019": {
         "name": "[고덕점] 라이트봉고드럼",
         "age": "36개월 이상 ~",
@@ -55,6 +50,11 @@
         "name": "농장비즈끼우기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032076409.jpg"
+      },
+      "GEN0000035": {
+        "name": "애완동물입체퍼즐",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
       },
       "KDN0000148": {
         "name": "[고덕점] 오뚜기(빨강)",
@@ -1935,11 +1935,6 @@
         "name": "오케스트라 러닝테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
-      },
-      "GDN0000220": {
-        "name": "[맥포머스] 마이퍼스트 54pcs",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765429039862.png"
       },
       "GDN0000019": {
         "name": "빙글빙글 옥토퍼스",
