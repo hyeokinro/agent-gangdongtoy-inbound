@@ -3765,11 +3765,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540709566.png"
       },
-      "CGN0000089": {
-        "name": "[비키즈]망아지 플레이테이블 (걸음마)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
-      },
       "KDN0000136": {
         "name": "[고덕점] 에듀볼",
         "age": "12개월 이상 ~",
@@ -3829,6 +3824,11 @@
         "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
+      },
+      "DDN0000024": {
+        "name": "[블루]자이언트펭글루",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060855186.png"
       },
       "GDN0000124": {
         "name": "[대성]뉴 말하는 레미콘",
@@ -5045,6 +5045,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072188559.png"
       },
+      "DGY0000004": {
+        "name": "[길동점]현대백일돌상①",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1647586425510.PNG"
+      },
       "GBN0000079": {
         "name": "뽀로로 변신 소방차",
         "age": "36개월 이상 ~",
@@ -6128,6 +6133,11 @@
         "name": "[놀이팩]노래하는 젖소",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773141096377.png"
+      },
+      "HSN0000074": {
+        "name": "[물놀이팩]물나오는싱크대놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778810436659.png"
       },
       "HSN0000064": {
         "name": "[물놀이팩]목욕놀이인형+목욕책",
