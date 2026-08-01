@@ -1961,11 +1961,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_130.jpg"
       },
-      "GEN0000027": {
-        "name": "컨스트럭션세트(26pcs)3차원자석블럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873694859.jpg"
-      },
       "DDN0000135": {
         "name": "[립프로그] 립스토리",
         "age": "36개월 이상 ~",
@@ -3520,6 +3515,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752293705922.png"
       },
+      "KAN0000012": {
+        "name": "[고덕점] 우주선 높낮이 미끄럼틀",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543406750.png"
+      },
       "GBN0000044": {
         "name": "큰공룡세트12종",
         "age": "36개월 이상 ~",
@@ -3685,10 +3685,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
       },
-      "ADN0000046": {
-        "name": "[지나월드]핑크퐁 아기 상어랜드",
+      "GAN0000039": {
+        "name": "스마트 트램폴린[블루]",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205015903.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162481923.png"
       },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
@@ -5299,6 +5299,11 @@
         "name": "[Lakeshore]미래의 우주여행",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672192962552.PNG"
+      },
+      "DBN0000037": {
+        "name": "[브이텍]병원놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
       },
       "AAN0000018": {
         "name": "클리어리 볼링",
