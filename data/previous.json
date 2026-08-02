@@ -101,11 +101,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167356478.png"
       },
-      "CGN0000099": {
-        "name": "[오비]다용도 러닝워커",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432656787.jpg"
-      },
       "GBN0000021": {
         "name": "허니비마켓 달걀상자",
         "age": "36개월 이상 ~",
@@ -2191,11 +2186,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071156544.png"
       },
-      "CDN0000029": {
-        "name": "오뚜기뽀빠이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
-      },
       "CBN0000036": {
         "name": "싱싱한 야채소품",
         "age": "36개월 이상 ~",
@@ -3835,6 +3825,11 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773427627.jpg"
       },
+      "ADN0000035": {
+        "name": "[하베브릭스]빅에듀큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
+      },
       "AGN0000008": {
         "name": "[브라이트]포레스트바운서",
         "age": "1개월 이상 ~",
@@ -4529,6 +4524,11 @@
         "name": "[코닉스]뽀로로스쿨버스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521449972.PNG"
+      },
+      "ADN0000041": {
+        "name": "[영실업]뽀로로 어린이 버스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660200021356.jpg"
       },
       "DBN0000035": {
         "name": "[영실업]콩순이 말하는 펭이와 청진기",
@@ -5799,6 +5799,11 @@
         "name": "[리틀히어로] 소프트 빌딩블록 24P",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427740337.png"
+      },
+      "GDN0000219": {
+        "name": "[브이텍] 다이노 먹이주기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
       }
     }
   },
