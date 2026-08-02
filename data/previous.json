@@ -2091,11 +2091,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071027729.png"
       },
-      "KDN0000105": {
-        "name": "[고덕점] 걸음마친구 수다쟁이 전화기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537811238.png"
-      },
       "CDN0000086": {
         "name": "[브이텍]3in1 리사이클 붕붕카",
         "age": "24개월 이상 ~",
@@ -2130,6 +2125,11 @@
         "name": "[맥포머스]타운스페셜세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553696233.png"
+      },
+      "KDN0000105": {
+        "name": "[고덕점] 걸음마친구 수다쟁이 전화기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537811238.png"
       },
       "GDN0000037": {
         "name": "댄싱로봇빗벨",
@@ -2206,11 +2206,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071156544.png"
       },
-      "KBN0000048": {
-        "name": "[고덕점] 푸쉬앤팝 미니 청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
-      },
       "CDN0000029": {
         "name": "오뚜기뽀빠이",
         "age": "6개월 이상 ~",
@@ -2265,6 +2260,11 @@
         "name": "제니쥬",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033534551.jpg"
+      },
+      "KBN0000048": {
+        "name": "[고덕점] 푸쉬앤팝 미니 청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
       },
       "KDN0000095": {
         "name": "[고덕점] 뮤직운전대",
@@ -4180,6 +4180,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773586233.jpg"
       },
+      "ADN0000030": {
+        "name": "[브랜드B]바닷속,농장퍼즐",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617774048063.jpg"
+      },
       "ADN0000031": {
         "name": "[브랜드B]공룡,교통퍼즐",
         "age": "12개월 이상 ~",
@@ -4895,6 +4900,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
       },
+      "KGN0000006": {
+        "name": "[고덕점] 베이비베이스 부스터2",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
+      },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
         "age": "36개월 이상 ~",
@@ -4939,6 +4949,11 @@
         "name": "[고덕점] 점보 야생 동물",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
+      },
+      "KBN0000048": {
+        "name": "[고덕점] 푸쉬앤팝 미니 청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
       },
       "ABN0000043": {
         "name": "[브이텍]첫 계산대 놀이세트",
@@ -5590,6 +5605,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672125477010.jpg"
       },
+      "CGN0000072": {
+        "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207189878.jpg"
+      },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
         "age": "24개월 이상 ~",
@@ -5624,6 +5644,11 @@
         "name": "[고덕점] 강아지 돌보기놀이 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
+      },
+      "KDN0000099": {
+        "name": "[고덕점] 도형놀이 블록트럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538363714.png"
       },
       "KBN0000063": {
         "name": "[고덕점] 뽀로로 아이스크림 가게",
@@ -5788,11 +5813,6 @@
         "name": "[놀이팩]RC 스턴트 레이서",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140037687.png"
-      },
-      "HSN0000055": {
-        "name": "[물놀이팩]꿀벌수영복+목튜브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140391519.png"
       },
       "HSN0000015": {
         "name": "[놀이팩]자석 변신로봇(노랑)",
