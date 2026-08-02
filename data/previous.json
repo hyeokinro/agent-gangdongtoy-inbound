@@ -311,11 +311,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061207647.png"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "CDN0000010": {
         "name": "동물농장쿼드바이크",
         "age": "12개월 이상 ~",
@@ -1826,6 +1821,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071551522.png"
       },
+      "GDN0000024": {
+        "name": "노래하는 버드하우스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865561081.jpg"
+      },
       "ADN0000000": {
         "name": "[사라앤]엘리스&루이스",
         "age": "12개월 이상 ~",
@@ -2500,11 +2500,6 @@
         "name": "[손오공]옥토넛탐험선A & 캡틴버나클",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554836237.png"
-      },
-      "GCN0000024": {
-        "name": "[브이텍] 타이거 락 기타",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
       },
       "ABN0000011": {
         "name": "[멜리사앤]설거지놀이",
@@ -3885,11 +3880,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201104352.png"
       },
-      "GAN0000038": {
-        "name": "리틀 베이비 범 액티비티 워커",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162363486.png"
-      },
       "GBN0000092": {
         "name": "디럭스 공구놀이세트",
         "age": "24개월 이상 ~",
@@ -4845,6 +4835,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
       },
+      "GDN0000169": {
+        "name": "첫 계산대놀이 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222329943.png"
+      },
       "KDN0000131": {
         "name": "[고덕점] 댄싱퍼피",
         "age": "6개월 이상 ~",
@@ -5254,6 +5249,11 @@
         "name": "[브이텍]춤추는 강아지",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
+      },
+      "GFN0000005": {
+        "name": "3단계 얼룩말 스쿠터",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161094497.png"
       },
       "GBN0000093": {
         "name": "미키와친구들 만능공구놀이",
