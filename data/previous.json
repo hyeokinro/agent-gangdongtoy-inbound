@@ -186,11 +186,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590857050.jpg"
       },
-      "AAN0000020": {
-        "name": "캐스B 말랑말랑 볼링친구들",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
-      },
       "KBN0000049": {
         "name": "[고덕점] 애프터눈티세트 15피스",
         "age": "36개월 이상 ~",
@@ -305,6 +300,11 @@
         "name": "[키즈카니발]사파리세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769299116.jpg"
+      },
+      "AAN0000020": {
+        "name": "캐스B 말랑말랑 볼링친구들",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
       },
       "ABN0000042": {
         "name": "[브이텍]공구놀이세트",
@@ -801,6 +801,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_10.jpg"
       },
+      "DDN0000114": {
+        "name": "[코니]에듀테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650444279476.PNG"
+      },
       "GEN0000011": {
         "name": "노아의방주 쌓기놀이",
         "age": "12개월 이상 ~",
@@ -875,11 +880,6 @@
         "name": "[고덕점] 원통 쌓기 블록",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
-      },
-      "KCN0000012": {
-        "name": "[고덕점] 다이나믹우퍼 기타",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
       },
       "GDN0000044": {
         "name": "펭귄오뚝이",
@@ -1841,11 +1841,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780014881272.png"
       },
-      "KBN0000073": {
-        "name": "[고덕점] 퍼스트 오븐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566898937.png"
-      },
       "KBN0000054": {
         "name": "[고덕점] 뽀로로 반반 치킨가게",
         "age": "36개월 이상 ~",
@@ -2655,11 +2650,6 @@
         "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349571247.png"
-      },
-      "ABN0000036": {
-        "name": "[아이플러스]핑크퐁 진동벨 계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660206127343.jpg"
       },
       "GCN0000019": {
         "name": "옥토넛 음악대장 악기세트",
