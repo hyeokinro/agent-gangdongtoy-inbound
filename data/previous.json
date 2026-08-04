@@ -321,11 +321,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
       },
-      "GDN0000127": {
-        "name": "[대성]말하는 포크레인",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671265319760.PNG"
-      },
       "DDN0000140": {
         "name": "[실버릿]로보카폴리 스타터팩",
         "age": "36개월 이상 ~",
@@ -646,11 +641,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800037561.jpg"
       },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
-      },
       "DDN0000056": {
         "name": "[맥포머스]경찰차세트",
         "age": "36개월 이상 ~",
@@ -681,6 +671,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
+      "KBN0000085": {
+        "name": "[고덕점]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
+      },
       "CBN0000017": {
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
@@ -700,11 +695,6 @@
         "name": "코레카",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
-      },
-      "KBN0000085": {
-        "name": "[고덕점]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
       "CDN0000093": {
         "name": "[브라이트스타트]공놀이 기린 라이트",
@@ -1335,11 +1325,6 @@
         "name": "애벌레균형놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027269036.jpg"
-      },
-      "GGN0000024": {
-        "name": "[코닉스]알루 에듀하우스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733211178309.PNG"
       },
       "GDN0000157": {
         "name": "뛰뛰빵빵 출동 소방 구조대",
@@ -2686,11 +2671,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780017269709.png"
       },
-      "KDN0000083": {
-        "name": "[고덕점] 카캐리어세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559018228.png"
-      },
       "CCN0000019": {
         "name": "퍼커션세트",
         "age": "1개월 이상 ~",
@@ -3734,6 +3714,11 @@
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
+      },
+      "KDN0000063": {
+        "name": "[고덕점] 소방차",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540692173.png"
       },
       "KBN0000059": {
         "name": "[고덕점] 쇼핑카트",
