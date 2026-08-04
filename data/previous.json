@@ -681,11 +681,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
-      "KBN0000085": {
-        "name": "[고덕점]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
-      },
       "CBN0000017": {
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
@@ -705,6 +700,11 @@
         "name": "코레카",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
+      },
+      "KBN0000085": {
+        "name": "[고덕점]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
       "CDN0000093": {
         "name": "[브라이트스타트]공놀이 기린 라이트",
@@ -2146,11 +2146,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071027729.png"
       },
-      "CDN0000086": {
-        "name": "[브이텍]3in1 리사이클 붕붕카",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349655832.png"
-      },
       "DDN0000074": {
         "name": "[하바]연못알아볼까요?",
         "age": "24개월 이상 ~",
@@ -2686,11 +2681,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777291297.jpg"
       },
-      "GDN0000033": {
-        "name": "뽀로로119멜로디소방차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866029938.jpg"
-      },
       "GDN0000028": {
         "name": "얼리러닝셰이프",
         "age": "36개월 이상 ~",
@@ -2926,11 +2916,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030562756.jpg"
       },
-      "AAN0000021": {
-        "name": "[브이텍] 3in1 스포츠 센터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480767102.JPG"
-      },
       "MDN0000022": {
         "name": "리틀타익스 몬스터디거",
         "age": "36개월 이상 ~",
@@ -3070,6 +3055,11 @@
         "name": "[짐보리/맥포머스]브레인마스터세트300",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416071787.jpg"
+      },
+      "AAN0000021": {
+        "name": "[브이텍] 3in1 스포츠 센터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480767102.JPG"
       },
       "KDN0000086": {
         "name": "[고덕점] NEW 알파벳 주볼",
