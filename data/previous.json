@@ -556,11 +556,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069692713.png"
       },
-      "GDN0000221": {
-        "name": "[영실업] 뉴 또봇 X",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765430197053.png"
-      },
       "KDN0000061": {
         "name": "[고덕점] 엔젤워터폴",
         "age": "24개월 이상 ~",
@@ -706,10 +701,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
-      "KBN0000066": {
-        "name": "[고덕점] 그루밍 캣",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537904906.png"
+      "CFN0000003": {
+        "name": "코레카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
       },
       "CDN0000093": {
         "name": "[브라이트스타트]공놀이 기린 라이트",
@@ -996,11 +991,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631221901.png"
       },
-      "GBN0000147": {
-        "name": "[꼬마호랑이]소프트 병원놀이 13종",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
-      },
       "GDN0000077": {
         "name": "응급차량미니카13종",
         "age": "48개월 이상 ~",
@@ -1051,11 +1041,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030632649.png"
       },
-      "CDN0000037": {
-        "name": "핍 디럭스15pc(스퀴즈)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_89.jpg"
-      },
       "ADN0000035": {
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
@@ -1105,6 +1090,11 @@
         "name": "[아카데미과학] 로보카폴리 변신로봇",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765426997707.png"
+      },
+      "GBN0000147": {
+        "name": "[꼬마호랑이]소프트 병원놀이 13종",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
       },
       "ADN0000019": {
         "name": "[아이코닉스]뽀로로폴리스",
@@ -1956,20 +1946,10 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
       },
-      "CFN0000023": {
-        "name": "[아이코닉스] 타요 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433409969.jpg"
-      },
       "GDN0000019": {
         "name": "빙글빙글 옥토퍼스",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865256445.jpg"
-      },
-      "CDN0000065": {
-        "name": "[맬리사엔더그]사운드퍼즐(야행 소방서 악기)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1606897297489.png"
       },
       "CDN0000085": {
         "name": "[비키즈]판다DJ놀이",
@@ -1985,11 +1965,6 @@
         "name": "락카루바운서(멀티)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_130.jpg"
-      },
-      "CAN0000002": {
-        "name": "놀이판베이비룸",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_2.jpg"
       },
       "DDN0000135": {
         "name": "[립프로그] 립스토리",
@@ -4909,11 +4884,6 @@
         "name": "[Land of B] 히포팝핑피아노",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
-      },
-      "AFN0000009": {
-        "name": "코레카 경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771773037.JPG"
       },
       "GBN0000164": {
         "name": "[립프로그] 아이스크림카트 한영버전(노랑)",
