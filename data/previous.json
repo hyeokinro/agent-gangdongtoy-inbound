@@ -366,11 +366,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780018611633.png"
       },
-      "GBN0000044": {
-        "name": "큰공룡세트12종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029370462.jpg"
-      },
       "MBN0000069": {
         "name": "우디푸디 샐러드세트 원목 주방놀이  소품 내장 자석 야채자르기",
         "age": "36개월 이상 ~",
@@ -646,6 +641,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
       },
+      "GBN0000044": {
+        "name": "큰공룡세트12종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029370462.jpg"
+      },
       "GDN0000005": {
         "name": "범블비",
         "age": "6개월 이상 ~",
@@ -805,11 +805,6 @@
         "name": "[코닉스]뽀로로EQ테마파크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562724440.png"
-      },
-      "KBN0000072": {
-        "name": "[고덕점] 콩순이코딩붕어빵가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567028582.png"
       },
       "GBN0000015": {
         "name": "야채세트(라두가그레이즈)",
@@ -3116,11 +3111,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617761037394.jpg"
       },
-      "GDN0000090": {
-        "name": "[짐보리/맥포머스]브레인마스터세트300",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416071787.jpg"
-      },
       "KDN0000086": {
         "name": "[고덕점] NEW 알파벳 주볼",
         "age": "6개월 이상 ~",
@@ -3375,11 +3365,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
       },
-      "CDN0000076": {
-        "name": "[메가블럭]블럭놀이 테이블 30PCS",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207218733.jpg"
-      },
       "ABN0000038": {
         "name": "[립프로그]아이스크림 카트 디럭스",
         "age": "24개월 이상 ~",
@@ -3394,11 +3379,6 @@
         "name": "타요 말하는 미니카 자판기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
-      },
-      "GDN0000145": {
-        "name": "타요 고속도로 하이패스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166519534.png"
       },
       "GDN0000148": {
         "name": "찰칵 폴라로이드 아기 카메라",
@@ -4265,11 +4245,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765250209349.png"
       },
-      "GFN0000008": {
-        "name": "[야야토이즈] 경찰 3D 롤링카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765335813848.png"
-      },
       "GCN0000027": {
         "name": "[하페] 톡톡 벤치 하우스 실로폰 놀이",
         "age": "6개월 이상 ~",
@@ -4344,11 +4319,6 @@
         "name": "오피스러닝테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590036737966.jpg"
-      },
-      "GEN0000002": {
-        "name": "Sand stacking tower",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057234087.JPG"
       },
       "GEN0000034": {
         "name": "사파리입체퍼즐",
