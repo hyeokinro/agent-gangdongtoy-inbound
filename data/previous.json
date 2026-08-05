@@ -796,6 +796,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
+      "DDN0000118": {
+        "name": "[브라이트스타트]뉴 ABC러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
+      },
       "GDN0000002": {
         "name": "세븐 롤러코스터",
         "age": "12개월 이상 ~",
@@ -981,11 +986,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773837808.jpg"
       },
-      "GFN0000006": {
-        "name": "[브이텍] 4in1 알파벳 트레인 붕붕카",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277827603.jpg"
-      },
       "ADN0000014": {
         "name": "[에드토이]공중수단3종",
         "age": "36개월 이상 ~",
@@ -1085,11 +1085,6 @@
         "name": "[타일블록스]레인보우",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069475733.png"
-      },
-      "GDN0000217": {
-        "name": "[아카데미과학] 로보카폴리 변신로봇",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765426997707.png"
       },
       "KDN0000128": {
         "name": "[고덕점] 걸음마친구 노래하는 공놀이 공룡",
@@ -1906,11 +1901,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780014881272.png"
       },
-      "GCN0000023": {
-        "name": "[Land of B] 히포팝핑피아노",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
-      },
       "DDN0000041": {
         "name": "[벨레덕]감자",
         "age": "48개월 이상 ~",
@@ -2065,6 +2055,11 @@
         "name": "액티비티 코끼리 농구대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
+      },
+      "GCN0000023": {
+        "name": "[Land of B] 히포팝핑피아노",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
       },
       "ADN0000051": {
         "name": "스마트 러닝 포크레인",
@@ -4820,6 +4815,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
       },
+      "KDN0000074": {
+        "name": "[고덕점] 타요 중앙차고지놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559619534.png"
+      },
       "KDN0000053": {
         "name": "[고덕점] 티니핑 마차",
         "age": "24개월 이상 ~",
@@ -5025,6 +5025,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773201440.jpg"
       },
+      "AFN0000004": {
+        "name": "[베케라]스피즈터플레인",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
+      },
       "DDN0000050": {
         "name": "[하바]반짝이는얼음조각",
         "age": "36개월 이상 ~",
@@ -5099,6 +5104,11 @@
         "name": "오케스트라 러닝테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
+      },
+      "KDN0000087": {
+        "name": "[고덕점] 뉴 ABC테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537962707.png"
       },
       "KCN0000011": {
         "name": "[고덕점] 리틀밴드 멜로디터치 피아노",
