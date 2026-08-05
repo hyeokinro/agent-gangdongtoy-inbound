@@ -111,11 +111,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780029774843.png"
       },
-      "GDN0000164": {
-        "name": "리틀 드라이버",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221615837.png"
-      },
       "KBN0000076": {
         "name": "[고덕점] 옥토레이 변신 본부 플레이세트",
         "age": "36개월 이상 ~",
@@ -1000,11 +995,6 @@
         "name": "[고덕점] 리틀 트레인",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539001900.png"
-      },
-      "GBN0000087": {
-        "name": "[립프로그]ABC 청소기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188406169.JPG"
       },
       "AGN0000021": {
         "name": "토디 우드 디데이 달력",
@@ -3226,11 +3216,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564327636.png"
       },
-      "ABN0000047": {
-        "name": "[리틀타익스]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168707540.png"
-      },
       "GFN0000002": {
         "name": "미니스쿠터",
         "age": "12개월 이상 ~",
@@ -3360,6 +3345,11 @@
         "name": "[베이비아인슈타인]플립기타 2in 1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
+      },
+      "ABN0000047": {
+        "name": "[리틀타익스]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168707540.png"
       },
       "CDN0000019": {
         "name": "멀티플렉스세트150pc(스퀴즈)",
