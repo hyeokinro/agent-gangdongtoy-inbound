@@ -4900,11 +4900,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765254304218.png"
       },
-      "GDN0000223": {
-        "name": "[영실업] 뉴 또봇 Z",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431502187.png"
-      },
       "CDN0000006": {
         "name": "더티디거불더저",
         "age": "24개월 이상 ~",
@@ -5179,6 +5174,11 @@
         "name": "흔들말타기(블루)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_16.jpg"
+      },
+      "CDN0000029": {
+        "name": "오뚜기뽀빠이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
       },
       "CGN0000005": {
         "name": "뉴나리프 바운서",
@@ -5944,6 +5944,11 @@
         "name": "[아이코닉스] 뽀로로 말하는 바코드 계산대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765256884446.png"
+      },
+      "GDN0000210": {
+        "name": "[큐블로] 매직큐브 스피드레이서",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765341896712.png"
       },
       "GDN0000211": {
         "name": "[아이존] 뽀로로 변신특공대 S",
