@@ -1891,11 +1891,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066724140.png"
       },
-      "ABN0000013": {
-        "name": "[멜리사앤]피자베이커리",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768199086.jpg"
-      },
       "GCN0000015": {
         "name": "아기드럼",
         "age": "12개월 이상 ~",
@@ -3356,11 +3351,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
       },
-      "KDN0000134": {
-        "name": "[고덕점] 즐거운뽀로로하우스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540248063.png"
-      },
       "CDN0000080": {
         "name": "[비키즈]악어 걸음마 보조기",
         "age": "6개월 이상 ~",
@@ -3380,6 +3370,11 @@
         "name": "[브이텍] 다이노 먹이주기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
+      },
+      "KDN0000134": {
+        "name": "[고덕점] 즐거운뽀로로하우스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540248063.png"
       },
       "CBN0000060": {
         "name": "[리틀타익스]퍼스트 세탁기",
