@@ -966,11 +966,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1762407114232.png"
       },
-      "GAN0000038": {
-        "name": "리틀 베이비 범 액티비티 워커",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162363486.png"
-      },
       "GDN0000182": {
         "name": "[아이코닉스]키즈팝 댄스 파티",
         "age": "36개월 이상 ~",
@@ -1135,6 +1130,11 @@
         "name": "응급차량미니카13종",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948294409.JPG"
+      },
+      "GAN0000038": {
+        "name": "리틀 베이비 범 액티비티 워커",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162363486.png"
       },
       "GDN0000168": {
         "name": "360회전 주차타워",
@@ -5344,11 +5344,6 @@
         "name": "[고덕점] 똑똑한 꼬마버스 타요",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538675288.png"
-      },
-      "KCN0000016": {
-        "name": "[고덕점] 매직터치 피아노",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
       },
       "KDN0000095": {
         "name": "[고덕점] 뮤직운전대",
