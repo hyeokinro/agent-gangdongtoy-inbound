@@ -2701,11 +2701,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_21.jpg"
       },
-      "ACN0000015": {
-        "name": "[브이텍]도형끼우기 드럼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1731976998760.png"
-      },
       "GDN0000091": {
         "name": "[짐보리/맥포머스]미라클브레인세트258",
         "age": "36개월 이상 ~",
@@ -3645,6 +3640,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
       },
+      "GDN0000151": {
+        "name": "러닝 이모션 공작새",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166927810.png"
+      },
       "KDN0000094": {
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
@@ -3800,10 +3800,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
-      "GDN0000026": {
-        "name": "레코딩무선전화놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
+      "ADN0000047": {
+        "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
       },
       "GDN0000124": {
         "name": "[대성]뉴 말하는 레미콘",
@@ -5164,11 +5164,6 @@
         "name": "[고덕점] 베이비베이스 부스터2",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
-      },
-      "KDN0000079": {
-        "name": "[고덕점] 브릿지 기차 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539455694.png"
       },
       "KDN0000046": {
         "name": "[고덕점] 엄마까투리 디럭스 트리 하우스",
