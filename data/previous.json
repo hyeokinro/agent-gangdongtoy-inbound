@@ -3185,11 +3185,6 @@
       }
     },
     "wait": {
-      "CEN0000005": {
-        "name": "뉴 해양꼭지퍼즐",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
-      },
       "GEN0000030": {
         "name": "건설차량입체퍼즐",
         "age": "24개월 이상 ~",
@@ -3535,11 +3530,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427999457.png"
       },
-      "DDN0000168": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
-      },
       "DDN0000170": {
         "name": "[피노키오]타요 운전놀이",
         "age": "36개월 이상 ~",
@@ -3685,10 +3675,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
-      "DDN0000118": {
-        "name": "[브라이트스타트]뉴 ABC러닝테이블",
+      "KDN0000043": {
+        "name": "[고덕점] 판다 DJ 놀이",
         "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
+      },
+      "ADN0000004": {
+        "name": "[플레이포에버]자동차1",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771888983.jpg"
       },
       "ABN0000028": {
         "name": "[영실업]콩순이 아기하마 양치놀이",
@@ -3750,11 +3745,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
-      "KDN0000043": {
-        "name": "[고덕점] 판다 DJ 놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
-      },
       "ADN0000056": {
         "name": "[블루래빗]꼬꼬맘",
         "age": "12개월 이상 ~",
@@ -3789,6 +3779,11 @@
         "name": "[리틀타익스]퍼스트 세탁기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
+      },
+      "DDN0000168": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
       "DDN0000042": {
         "name": "[하베브릭스]6in1변신큐브",
@@ -5339,11 +5334,6 @@
         "name": "[코리아보드]루미큐브",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070947579.png"
-      },
-      "DDN0000095": {
-        "name": "[레고]놀이공원",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071361245.png"
       },
       "DDN0000115": {
         "name": "[미미]뽀로로코딩컴퓨터",
