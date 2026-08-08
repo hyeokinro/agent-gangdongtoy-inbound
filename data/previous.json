@@ -936,11 +936,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539001900.png"
       },
-      "CDN0000037": {
-        "name": "핍 디럭스15pc(스퀴즈)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_89.jpg"
-      },
       "KDN0000101": {
         "name": "[고덕점] 원통 쌓기 블록",
         "age": "24개월 이상 ~",
@@ -3316,11 +3311,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
       },
-      "GBN0000040": {
-        "name": "직업인형12종소꿉놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589872838953.jpg"
-      },
       "ADN0000011": {
         "name": "[보육사]건설현장중장비",
         "age": "24개월 이상 ~",
@@ -3815,11 +3805,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
-      "CDN0000017": {
-        "name": "리틀러닝홈동물농장",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_69.jpg"
-      },
       "GBN0000151": {
         "name": "[립프로그]믹서 플레이세트",
         "age": "36개월 이상 ~",
@@ -3860,10 +3845,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260497973.png"
       },
-      "GBN0000080": {
-        "name": "뽀로로 변신 경찰차",
+      "ABN0000014": {
+        "name": "[호와]모닝커피세트",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768245873.jpg"
       },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
@@ -5355,11 +5340,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
       },
-      "CGY0000095": {
-        "name": "[엔픽스]동물원 에디션 보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750725966303.jpg"
-      },
       "CDN0000102": {
         "name": "[베이비아인슈타인]뮤지컬 무빙 문어아빠",
         "age": "6개월 이상 ~",
@@ -5719,11 +5699,6 @@
         "name": "[토이트론]달님이 과일주스가게",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557539976.png"
-      },
-      "DDN0000148": {
-        "name": "[코닉스]띠띠뽀 차량기지 놀이세트2",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710561927763.png"
       },
       "KDN0000155": {
         "name": "[고덕점]월드컵테이블 축구보드게임",
@@ -6259,15 +6234,15 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138183057.png"
       },
-      "HSN0000024": {
-        "name": "[놀이팩]야구배팅 놀이세트(핑크)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
-      },
       "HSN0000073": {
         "name": "[물놀이팩]너프물총+모래놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778216616040.png"
+      },
+      "HSN0000024": {
+        "name": "[놀이팩]야구배팅 놀이세트(핑크)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
       },
       "HSN0000023": {
         "name": "[놀이팩]야구배팅 놀이세트(블루)",
