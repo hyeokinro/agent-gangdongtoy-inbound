@@ -386,11 +386,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760322329.jpg"
       },
-      "GEN0000023": {
-        "name": "알록달록구슬세기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
-      },
       "DDN0000067": {
         "name": "[애니블록]퍼즐올인원팩",
         "age": "36개월 이상 ~",
@@ -625,6 +620,11 @@
         "name": "밴츠붕붕카(화이트)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800037561.jpg"
+      },
+      "GEN0000023": {
+        "name": "알록달록구슬세기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
       },
       "DDN0000056": {
         "name": "[맥포머스]경찰차세트",
@@ -931,15 +931,15 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948294409.JPG"
       },
-      "GEN0000022": {
-        "name": "1-5쌓기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034838117.jpg"
-      },
       "ADN0000027": {
         "name": "[브레인숲]하우스블록44",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773837808.jpg"
+      },
+      "GEN0000022": {
+        "name": "1-5쌓기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034838117.jpg"
       },
       "CDN0000038": {
         "name": "볼트랙-락킹보트",
@@ -5060,6 +5060,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
       },
+      "KDN0000079": {
+        "name": "[고덕점] 브릿지 기차 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539455694.png"
+      },
       "KDN0000046": {
         "name": "[고덕점] 엄마까투리 디럭스 트리 하우스",
         "age": "24개월 이상 ~",
@@ -5754,6 +5759,11 @@
         "name": "[고덕점] 도형놀이 블록트럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538363714.png"
+      },
+      "KDN0000143": {
+        "name": "[고덕점] 리얼소방차",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538962318.png"
       },
       "KDN0000078": {
         "name": "[고덕점] 뽀로로 경찰 오토바이",
