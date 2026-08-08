@@ -1586,11 +1586,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245706771.png"
       },
-      "CGN0000098": {
-        "name": "[에시앙]범보의자(클라우드베어 일체형)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432429604.png"
-      },
       "GEN0000036": {
         "name": "[놀이자신감] 레인보우 원목퍼즐",
         "age": "36개월 이상 ~",
@@ -1741,11 +1736,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959491021.png"
       },
-      "CGN0000088": {
-        "name": "[유키두]엉금엉금 멜로디달팽이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350009067.png"
-      },
       "DDN0000027": {
         "name": "[자노드]워터릴리",
         "age": "60개월 이상 ~",
@@ -1840,11 +1830,6 @@
         "name": "[고덕점] 로보카폴리 볼링세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554670586.png"
-      },
-      "CDN0000098": {
-        "name": "[블루래빗]아기오리랑 마마덕",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433333649.jpg"
       },
       "GDN0000177": {
         "name": "탐험선B & 피규어",
@@ -2166,11 +2151,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188786790.PNG"
       },
-      "GBN0000046": {
-        "name": "디럭스농장동물세트18종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029236260.jpg"
-      },
       "ACN0000006": {
         "name": "[캐스B]영유아악기17종",
         "age": "36개월 이상 ~",
@@ -2190,6 +2170,11 @@
         "name": "뷰티드레서화장대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031788346.jpg"
+      },
+      "GBN0000046": {
+        "name": "디럭스농장동물세트18종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029236260.jpg"
       },
       "GDN0000179": {
         "name": "컵쌓기 & 액티비티 볼 세트",
@@ -3251,11 +3236,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
       },
-      "CDN0000080": {
-        "name": "[비키즈]악어 걸음마 보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672125477010.jpg"
-      },
       "ABN0000000": {
         "name": "[레드박스]만능공구놀이",
         "age": "36개월 이상 ~",
@@ -3705,6 +3685,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
       },
+      "KCN0000019": {
+        "name": "[고덕점] 라이트봉고드럼",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
+      },
       "KDN0000094": {
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
@@ -3860,10 +3845,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
-      "GDN0000026": {
-        "name": "레코딩무선전화놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
+      "GDN0000124": {
+        "name": "[대성]뉴 말하는 레미콘",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -4650,6 +4635,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733816538226.png"
       },
+      "CGN0000098": {
+        "name": "[에시앙]범보의자(클라우드베어 일체형)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432429604.png"
+      },
       "CGN0000104": {
         "name": "[아이존]베이비워커 걸음마보조기",
         "age": "6개월 이상 ~",
@@ -4929,6 +4919,11 @@
         "name": "[타이니러브]수더메도우 모빌(흑백+홀더)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435286403.jpg"
+      },
+      "CGN0000106": {
+        "name": "[먼치킨]블루투스 자동스윙",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435486649.jpg"
       },
       "AFN0000009": {
         "name": "코레카 경찰차",
@@ -6109,11 +6104,6 @@
   },
   "3": {
     "online": {
-      "HSN0000052": {
-        "name": "[물놀이팩]수박수영복(XL)+목튜브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139965196.png"
-      },
       "HSN0000046": {
         "name": "[놀이팩]커들반 인형(강아지)",
         "age": "6개월 이상 ~",
