@@ -851,11 +851,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538979549.png"
       },
-      "KCN0000014": {
-        "name": "[고덕점] 리틀탭어튠실로폰",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538657246.png"
-      },
       "MBN0000072": {
         "name": "우디푸디 보글보글요리세트 원목 내장  자석 주방놀이 소품",
         "age": "24개월 이상 ~",
@@ -900,6 +895,11 @@
         "name": "[고덕점] 원통 쌓기 블록",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
+      },
+      "KCN0000014": {
+        "name": "[고덕점] 리틀탭어튠실로폰",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538657246.png"
       },
       "MBN0000071": {
         "name": "우디푸디 브레드세트 원목 내장자석  빵 가게놀이",
@@ -1946,11 +1946,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032199643.jpg"
       },
-      "KBN0000078": {
-        "name": "[고덕점] 코코멜론 러닝키친",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564874020.png"
-      },
       "DDN0000124": {
         "name": "[Lakeshore]믹스매치 건설차량",
         "age": "36개월 이상 ~",
@@ -2020,6 +2015,11 @@
         "name": "[바오밥]다이빙피쉬",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071027729.png"
+      },
+      "KBN0000078": {
+        "name": "[고덕점] 코코멜론 러닝키친",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564874020.png"
       },
       "DDN0000074": {
         "name": "[하바]연못알아볼까요?",
@@ -3305,11 +3305,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563561634.png"
       },
-      "KDN0000091": {
-        "name": "[고덕점] 타요 포크레인 중장비 타워",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
-      },
       "GDN0000165": {
         "name": "내가바로 축구왕",
         "age": "36개월 이상 ~",
@@ -3389,6 +3384,11 @@
         "name": "[대성]말하는 포크레인",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671265319760.PNG"
+      },
+      "KDN0000091": {
+        "name": "[고덕점] 타요 포크레인 중장비 타워",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
       },
       "GFN0000001": {
         "name": "코레카경찰차",
