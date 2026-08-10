@@ -2983,11 +2983,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_122.jpg"
       },
-      "CBN0000066": {
-        "name": "[택배][리틀타익스]프린세스 화장대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349223711.png"
-      },
       "CGN0000093": {
         "name": "[택배][콤비]YT-Belle 아기 보행기",
         "age": "6개월 이상 ~",
@@ -3018,16 +3013,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
       },
-      "CGY0000044": {
-        "name": "[택배][이븐플로]액서쏘서티파티",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007681875.jpg"
-      },
-      "CGN0000007": {
-        "name": "[택배]니모액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726138267.JPG"
-      },
       "CGN0000090": {
         "name": "[택배][브라이트스타트]비행기 액티비티 점퍼",
         "age": "6개월 이상 ~",
@@ -3037,6 +3022,16 @@
         "name": "[택배]에듀테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_12.jpg"
+      },
+      "CGY0000044": {
+        "name": "[택배][이븐플로]액서쏘서티파티",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007681875.jpg"
+      },
+      "CGN0000007": {
+        "name": "[택배]니모액티비티 점퍼루",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726138267.JPG"
       }
     },
     "wait": {
@@ -4120,6 +4115,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631785054.png"
       },
+      "GDN0000089": {
+        "name": "[브리오]디럭스 화물기차세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416007520.jpg"
+      },
       "ABN0000002": {
         "name": "[보육사]스탠딩 채소가게",
         "age": "36개월 이상 ~",
@@ -4264,6 +4264,11 @@
         "name": "[고덕점] 색이 변하는 쿠키오븐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540454076.png"
+      },
+      "KDN0000068": {
+        "name": "[고덕점] 아기 케잌세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541175594.png"
       },
       "KDN0000047": {
         "name": "[고덕점] 엄마까투리 소방구조대",
@@ -5364,6 +5369,11 @@
         "name": "[고덕점] 알록달록 송이 미용실",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567220129.png"
+      },
+      "KBN0000057": {
+        "name": "[고덕점] 쿠킹 조리세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567648625.png"
       },
       "KDN0000072": {
         "name": "[고덕점] 러닝 액티비티 큐브",
