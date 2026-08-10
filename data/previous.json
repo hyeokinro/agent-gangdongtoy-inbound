@@ -276,11 +276,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
-      "CDN0000076": {
-        "name": "[메가블럭]블럭놀이 테이블 30PCS",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207218733.jpg"
-      },
       "ABN0000025": {
         "name": "[키즈카니발]사파리세트",
         "age": "24개월 이상 ~",
@@ -1926,11 +1921,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071097282.png"
       },
-      "KCN0000016": {
-        "name": "[고덕점] 매직터치 피아노",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
-      },
       "GCN0000004": {
         "name": "물고기드럼",
         "age": "36개월 이상 ~",
@@ -2140,6 +2130,11 @@
         "name": "[고덕점] 동전 놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538409636.png"
+      },
+      "KCN0000016": {
+        "name": "[고덕점] 매직터치 피아노",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
       },
       "ABN0000043": {
         "name": "[브이텍]첫 계산대 놀이세트",
@@ -2891,11 +2886,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538363714.png"
       },
-      "CBN0000061": {
-        "name": "[브이텍]2in1 다이노 파크",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349736604.png"
-      },
       "KDN0000064": {
         "name": "[고덕점] 스쿨버스",
         "age": "24개월 이상 ~",
@@ -3375,6 +3365,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291115702.png"
       },
+      "AGN0000011": {
+        "name": "[페도라]카시트(블랙)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779135844.jpg"
+      },
       "DDN0000170": {
         "name": "[피노키오]타요 운전놀이",
         "age": "36개월 이상 ~",
@@ -3530,10 +3525,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771888983.jpg"
       },
-      "DDN0000042": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
+      "ADN0000047": {
+        "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
       },
       "GDN0000124": {
         "name": "[대성]뉴 말하는 레미콘",
@@ -3624,6 +3619,11 @@
         "name": "[지오맥]매직큐브프리빌딩 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
+      },
+      "DDN0000042": {
+        "name": "[하베브릭스]6in1변신큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
