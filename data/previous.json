@@ -171,11 +171,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069594426.png"
       },
-      "GBN0000170": {
-        "name": "[에프비존] 새콤달콤 캐치티니핑 마이 스마트폰",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427999457.png"
-      },
       "GBN0000078": {
         "name": "[숲소리]소꿉놀이세트V2",
         "age": "12개월 이상 ~",
@@ -631,11 +626,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
-      },
       "CBN0000017": {
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
@@ -651,11 +641,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
         "age": "36개월 이상 ~",
@@ -665,6 +650,11 @@
         "name": "[맥포머스]애니멀세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069517538.png"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "CDN0000023": {
         "name": "비행기",
@@ -840,11 +830,6 @@
         "name": "뉴공룡꼭지퍼즐",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_95.jpg"
-      },
-      "KBN0000053": {
-        "name": "[고덕점] 똘똘이 동물병원",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538723545.png"
       },
       "CDN0000009": {
         "name": "동물 숨기기",
@@ -3100,11 +3085,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255610187.png"
       },
-      "KDN0000147": {
-        "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
-      },
       "GAN0000044": {
         "name": "[리틀타익스]핀볼 액티비티 테이블",
         "age": "24개월 이상 ~",
@@ -3335,11 +3315,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765085237887.png"
       },
-      "ADN0000026": {
-        "name": "[코니토이스]에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
-      },
       "GAN0000036": {
         "name": "클래식 러닝홈",
         "age": "12개월 이상 ~",
@@ -3520,15 +3495,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771888983.jpg"
       },
-      "ADN0000047": {
-        "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
+      "DDN0000042": {
+        "name": "[하베브릭스]6in1변신큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
-      "GDN0000124": {
-        "name": "[대성]뉴 말하는 레미콘",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
+      "GEN0000023": {
+        "name": "알록달록구슬세기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
       },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
@@ -3609,16 +3584,6 @@
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
-      },
-      "DDN0000164": {
-        "name": "[지오맥]매직큐브프리빌딩 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
-      },
-      "DDN0000042": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
