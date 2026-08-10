@@ -2983,6 +2983,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_122.jpg"
       },
+      "CBN0000066": {
+        "name": "[택배][리틀타익스]프린세스 화장대",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349223711.png"
+      },
       "CGN0000093": {
         "name": "[택배][콤비]YT-Belle 아기 보행기",
         "age": "6개월 이상 ~",
@@ -3013,16 +3018,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
       },
-      "CGN0000090": {
-        "name": "[택배][브라이트스타트]비행기 액티비티 점퍼",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349061197.png"
-      },
-      "CAN0000012": {
-        "name": "[택배]에듀테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_12.jpg"
-      },
       "CGY0000044": {
         "name": "[택배][이븐플로]액서쏘서티파티",
         "age": "6개월 이상 ~",
@@ -3032,6 +3027,16 @@
         "name": "[택배]니모액티비티 점퍼루",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726138267.JPG"
+      },
+      "CGN0000090": {
+        "name": "[택배][브라이트스타트]비행기 액티비티 점퍼",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349061197.png"
+      },
+      "CAN0000012": {
+        "name": "[택배]에듀테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_12.jpg"
       }
     },
     "wait": {
