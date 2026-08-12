@@ -1676,11 +1676,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416325981.jpg"
       },
-      "GCN0000016": {
-        "name": "크록심포니",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1592360375646.JPG"
-      },
       "AFN0000009": {
         "name": "코레카 경찰차",
         "age": "12개월 이상 ~",
@@ -1700,11 +1695,6 @@
         "name": "[레드박스]경찰놀이 가방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193688069.PNG"
-      },
-      "KDN0000111": {
-        "name": "[고덕점] 주니어킴블",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703557469158.png"
       },
       "CGN0000071": {
         "name": "[브라이트스타트]바운스 액티비티 점퍼루(그린)",
@@ -1765,6 +1755,11 @@
         "name": "댄토이 중장비 삽 모래놀이장난감 58cm",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959491021.png"
+      },
+      "KDN0000111": {
+        "name": "[고덕점] 주니어킴블",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703557469158.png"
       },
       "MBN0000070": {
         "name": "우디푸디 베이커리세트 원목 케이크  디저트 카페놀이",
@@ -1871,11 +1866,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223971684.png"
       },
-      "KAN0000015": {
-        "name": "[고덕점] 로보카폴리 볼링세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554670586.png"
-      },
       "CDN0000006": {
         "name": "더티디거불더저",
         "age": "24개월 이상 ~",
@@ -1885,6 +1875,11 @@
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349307790.png"
+      },
+      "GCN0000016": {
+        "name": "크록심포니",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1592360375646.JPG"
       },
       "GDN0000019": {
         "name": "빙글빙글 옥토퍼스",
@@ -5374,6 +5369,11 @@
         "name": "[고덕점] 굿모닝 프렌즈",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537889075.png"
+      },
+      "KBN0000051": {
+        "name": "[고덕점] 달님이 가방에 쏙 동물병원",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538038707.png"
       },
       "KDN0000098": {
         "name": "[고덕점] 도형 맞추기 시계",
