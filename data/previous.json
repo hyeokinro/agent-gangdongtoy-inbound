@@ -221,11 +221,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759639390.jpg"
       },
-      "GDN0000143": {
-        "name": "타요 말하는 미니카 자판기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
-      },
       "DDN0000140": {
         "name": "[실버릿]로보카폴리 스타터팩",
         "age": "36개월 이상 ~",
@@ -781,11 +776,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771888983.jpg"
       },
-      "GBN0000161": {
-        "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257959184.png"
-      },
       "GDN0000132": {
         "name": "[브이텍]나잡아봐 야옹이",
         "age": "12개월 이상 ~",
@@ -830,6 +820,11 @@
         "name": "[블루]자이언트펭글루",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060855186.png"
+      },
+      "GBN0000161": {
+        "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257959184.png"
       },
       "GDN0000222": {
         "name": "[영실업] 뉴 또봇 Y",
