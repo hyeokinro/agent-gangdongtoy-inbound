@@ -2696,6 +2696,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768540764.jpg"
       },
+      "DDN0000165": {
+        "name": "[키움하우스]자석라이팅마블 125피스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353975378.jpg"
+      },
       "GDN0000012": {
         "name": "탑 트럭(레드)",
         "age": "6개월 이상 ~",
@@ -3085,16 +3090,6 @@
       }
     },
     "wait": {
-      "DDN0000140": {
-        "name": "[실버릿]로보카폴리 스타터팩",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563398685.png"
-      },
-      "DDN0000163": {
-        "name": "[시쿠]버스차량 5종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553595180.png"
-      },
       "KBN0000064": {
         "name": "[고덕점] 빅레츠고오션월드",
         "age": "36개월 이상 ~",
@@ -3119,6 +3114,11 @@
         "name": "[하바]첫번째과수원까마귀",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070229497.png"
+      },
+      "DDN0000140": {
+        "name": "[실버릿]로보카폴리 스타터팩",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563398685.png"
       },
       "DDN0000055": {
         "name": "[맥포머스]구조대세트",
@@ -3585,10 +3585,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
       },
-      "KBN0000066": {
-        "name": "[고덕점] 그루밍 캣",
+      "GDN0000222": {
+        "name": "[영실업] 뉴 또봇 Y",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537904906.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1768541710508.png"
       },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
@@ -3684,11 +3684,6 @@
         "name": "[영실업] 뉴 또봇 X",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765430197053.png"
-      },
-      "GDN0000222": {
-        "name": "[영실업] 뉴 또봇 Y",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1768541710508.png"
       },
       "CAN0000010": {
         "name": "아메리칸미끄럼틀",
@@ -5868,6 +5863,11 @@
         "name": "[물놀이팩]물나오는싱크대놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778810436659.png"
+      },
+      "HSN0000070": {
+        "name": "[물놀이팩]유아체어파라솔(B)+감성매트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778214977031.png"
       },
       "HSN0000033": {
         "name": "[놀이팩]달콩아 응가하자",
