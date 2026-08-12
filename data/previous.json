@@ -1536,11 +1536,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1563343967486.jpg"
       },
-      "DDN0000166": {
-        "name": "[지나월드]코코멜론 영어학습 스마트폰",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
-      },
       "KDN0000047": {
         "name": "[고덕점] 엄마까투리 소방구조대",
         "age": "36개월 이상 ~",
@@ -1825,11 +1820,6 @@
         "name": "[영실업]콩순이 말하는 펭이와 청진기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660635231096.jpg"
-      },
-      "CGN0000106": {
-        "name": "[먼치킨]블루투스 자동스윙",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435486649.jpg"
       },
       "GDN0000177": {
         "name": "탐험선B & 피규어",
@@ -2171,11 +2161,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061342544.png"
       },
-      "GDN0000194": {
-        "name": "[브라이트스타트] 공놀이 정글트리",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245001598.png"
-      },
       "DDN0000091": {
         "name": "[만두게임즈]박스몬스터",
         "age": "60개월 이상 ~",
@@ -2500,6 +2485,11 @@
         "name": "[자석나라]픽스앤픽스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773984790.jpg"
+      },
+      "GDN0000162": {
+        "name": "도형맞추기 하우스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
       },
       "KDN0000072": {
         "name": "[고덕점] 러닝 액티비티 큐브",
@@ -2931,6 +2921,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593960886.jpg"
       },
+      "DDN0000142": {
+        "name": "[코닉스]뽀로로 피크닉 버스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563063352.png"
+      },
       "DEN0000001": {
         "name": "[스틱오]아기상어 패밀리 세트",
         "age": "36개월 이상 ~",
@@ -2975,11 +2970,6 @@
         "name": "노아의 방주놀이세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798168401.jpg"
-      },
-      "GDN0000142": {
-        "name": "멜로디 스마트폰 미키",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1705718567999.PNG"
       },
       "GEN0000017": {
         "name": "멘델의 유전법칙",
@@ -3031,10 +3021,20 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480767102.JPG"
       },
+      "GDN0000142": {
+        "name": "멜로디 스마트폰 미키",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1705718567999.PNG"
+      },
       "GDN0000008": {
         "name": "빅 카고트럭(블루)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599035006629.jpg"
+      },
+      "KDN0000141": {
+        "name": "[고덕점] DJ뮤직테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537646069.png"
       },
       "CEN0000010": {
         "name": "마린청키퍼즐",
@@ -4369,11 +4369,6 @@
         "name": "[지나월드]코코멜론 영어학습 스마트폰",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
-      },
-      "GGN0000024": {
-        "name": "[코닉스]알루 에듀하우스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733211178309.PNG"
       },
       "GBN0000155": {
         "name": "[영실업]콩순이 아이스크림가게",
