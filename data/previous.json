@@ -611,11 +611,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_69.jpg"
       },
-      "CDN0000023": {
-        "name": "비행기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
-      },
       "GDN0000026": {
         "name": "레코딩무선전화놀이",
         "age": "12개월 이상 ~",
@@ -695,6 +690,11 @@
         "name": "후라이팬세트(원목)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
+      },
+      "CDN0000023": {
+        "name": "비행기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
       },
       "AFN0000000": {
         "name": "[베케라]가스스테이션",
@@ -1826,11 +1826,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223582214.png"
       },
-      "CDN0000068": {
-        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
-      },
       "MBN0000068": {
         "name": "킨더픽 애플박스",
         "age": "36개월 이상 ~",
@@ -2341,11 +2336,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559206841.png"
       },
-      "CAN0000057": {
-        "name": "[키움하우스]팝핑 워커 거북이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
-      },
       "KBN0000078": {
         "name": "[고덕점] 코코멜론 러닝키친",
         "age": "12개월 이상 ~",
@@ -2430,6 +2420,11 @@
         "name": "보쉬 높이 조절 공구 작업대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959345914.png"
+      },
+      "CAN0000057": {
+        "name": "[키움하우스]팝핑 워커 거북이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
       },
       "AGN0000009": {
         "name": "[브라이트]미키마우스락커",
@@ -5829,11 +5824,6 @@
         "name": "베이직블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_101.jpg"
-      },
-      "CGN0000015": {
-        "name": "반짝반짝뮤지컬걸음마",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
       },
       "GBN0000008": {
         "name": "쇼핑카트",
