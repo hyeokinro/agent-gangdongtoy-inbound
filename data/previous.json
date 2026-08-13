@@ -316,11 +316,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
       },
-      "GBN0000157": {
-        "name": "[미미월드] 똘똘이 딸기농장",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
-      },
       "DDN0000145": {
         "name": "[코닉스]타요 주유소플레이세트",
         "age": "36개월 이상 ~",
@@ -886,11 +881,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768705553.jpg"
       },
-      "CDN0000008": {
-        "name": "덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_60.jpg"
-      },
       "ABN0000009": {
         "name": "[마더가든]오븐베이커리",
         "age": "36개월 이상 ~",
@@ -960,6 +950,11 @@
         "name": "페달접이식 세발자전거",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
+      },
+      "CDN0000008": {
+        "name": "덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_60.jpg"
       },
       "KDN0000088": {
         "name": "[고덕점] 리틀 트레인",
@@ -1416,11 +1411,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
       },
-      "KDN0000132": {
-        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
-      },
       "GDN0000013": {
         "name": "아기새의 집",
         "age": "12개월 이상 ~",
@@ -1570,11 +1560,6 @@
         "name": "[립프로그]ABC 자석놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193574431.PNG"
-      },
-      "GBN0000155": {
-        "name": "[영실업]콩순이 아이스크림가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733212241665.jpg"
       },
       "DDN0000075": {
         "name": "[하바]낚시놀이",
@@ -4764,6 +4749,11 @@
         "name": "[르토이반]동물친구들",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416325981.jpg"
+      },
+      "ABN0000013": {
+        "name": "[멜리사앤]피자베이커리",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768199086.jpg"
       },
       "ACN0000002": {
         "name": "[baoli]피아노드럼",
