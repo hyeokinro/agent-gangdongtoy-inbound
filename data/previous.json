@@ -741,11 +741,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032421439.jpg"
       },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
-      },
       "GBN0000027": {
         "name": "데코 케이크세트",
         "age": "36개월 이상 ~",
@@ -770,6 +765,11 @@
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_34.jpg"
+      },
+      "ADN0000054": {
+        "name": "노래하고 말하는 전화기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "CDN0000007": {
         "name": "더티디거포크레인",
@@ -935,11 +935,6 @@
         "name": "야채세트(라두가그레이즈)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593155422.jpg"
-      },
-      "CAN0000035": {
-        "name": "[보육사/GONGE]아치활동보드 (3개세트)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627750903.png"
       },
       "MBN0000071": {
         "name": "우디푸디 브레드세트 원목 내장자석  빵 가게놀이",
@@ -2861,6 +2856,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871854319.JPG"
       },
+      "DBN0000037": {
+        "name": "[브이텍]병원놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
+      },
       "ABN0000019": {
         "name": "[보육사]목재의사놀이",
         "age": "36개월 이상 ~",
@@ -4475,11 +4475,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650518072794.png"
       },
-      "CDN0000072": {
-        "name": "[블루래빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521273599.PNG"
-      },
       "ABN0000029": {
         "name": "[영실업]척척박사 우유와 뉴 콩순이 냉장고",
         "age": "36개월 이상 ~",
@@ -4549,11 +4544,6 @@
         "name": "[고덕점] 똑똑한 무선조종 공룡",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538700727.png"
-      },
-      "KDN0000123": {
-        "name": "[고덕점] 매직큐브프리빌딩 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539117440.png"
       },
       "KBN0000052": {
         "name": "[고덕점] 색이 변하는 쿠키오븐",
@@ -4884,11 +4874,6 @@
         "name": "[고덕점] 뉴 ABC테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537962707.png"
-      },
-      "KGN0000001": {
-        "name": "[고덕점] 동물친구 액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538389650.png"
       },
       "KCN0000011": {
         "name": "[고덕점] 리틀밴드 멜로디터치 피아노",
@@ -5465,6 +5450,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771456082.jpg"
       },
+      "ADN0000012": {
+        "name": "[보육사]농촌중장비",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772869896.jpg"
+      },
       "ADN0000025": {
         "name": "[브이텍]스마트캐리어",
         "age": "12개월 이상 ~",
@@ -5869,6 +5859,11 @@
         "name": "[보육사]건설현장중장비",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772824423.jpg"
+      },
+      "ADN0000023": {
+        "name": "[코닉스]띠띠뽀정거장",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773640513.jpg"
       },
       "ADN0000037": {
         "name": "[하페]우주선",
