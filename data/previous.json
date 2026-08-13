@@ -31,11 +31,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
-      "KDN0000148": {
-        "name": "[고덕점] 오뚜기(빨강)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558250059.png"
-      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -305,11 +300,6 @@
         "name": "[리틀타익스]핀볼 액티비티 테이블",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277171510.jpg"
-      },
-      "GDN0000193": {
-        "name": "[브라이트스타트] 공놀이 개구리 연못",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765085237887.png"
       },
       "GDN0000165": {
         "name": "내가바로 축구왕",
@@ -1185,11 +1175,6 @@
         "name": "아이팜 힘찬 포크레인 붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958018487.png"
-      },
-      "GCN0000027": {
-        "name": "[하페] 톡톡 벤치 하우스 실로폰 놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342752987.png"
       },
       "GBN0000149": {
         "name": "[립프로그]피크닉 바구니",
@@ -2441,6 +2426,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
       },
+      "KDN0000125": {
+        "name": "[고덕점] 달님이 에어프라이어",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
+      },
       "KBN0000061": {
         "name": "[고덕점] 점보 야생 동물",
         "age": "36개월 이상 ~",
@@ -3530,11 +3520,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
       },
-      "GDN0000155": {
-        "name": "자장가램프 운전놀이 프로젝트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167356478.png"
-      },
       "KBN0000086": {
         "name": "[고덕점]퍼스트 냉장고",
         "age": "24개월 이상 ~",
@@ -3689,6 +3674,11 @@
         "name": "애완동물입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
+      },
+      "GDN0000155": {
+        "name": "자장가램프 운전놀이 프로젝트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167356478.png"
       },
       "KBN0000062": {
         "name": "[고덕점] 점보공룡",
@@ -3890,11 +3880,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
       },
-      "GDN0000026": {
-        "name": "레코딩무선전화놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
-      },
       "GBN0000081": {
         "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
@@ -3954,6 +3939,11 @@
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
+      },
+      "GEN0000018": {
+        "name": "도미노레이스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594858023.jpg"
       },
       "GDN0000124": {
         "name": "[대성]뉴 말하는 레미콘",
