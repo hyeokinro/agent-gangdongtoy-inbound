@@ -741,11 +741,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
-      "DDN0000118": {
-        "name": "[브라이트스타트]뉴 ABC러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
-      },
       "DDN0000101": {
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
@@ -961,11 +956,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026963427.jpg"
       },
-      "DAN0000008": {
-        "name": "[브이텍]두가지 공놀이 스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664402531.jpg"
-      },
       "ADN0000027": {
         "name": "[브레인숲]하우스블록44",
         "age": "36개월 이상 ~",
@@ -1155,6 +1145,11 @@
         "name": "응급차량미니카13종",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948294409.JPG"
+      },
+      "DAN0000008": {
+        "name": "[브이텍]두가지 공놀이 스포츠센터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664402531.jpg"
       },
       "GEN0000022": {
         "name": "1-5쌓기",
@@ -1375,11 +1370,6 @@
         "name": "[영실업]콩순이 알록달록 카페놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664742258.jpg"
-      },
-      "DDN0000151": {
-        "name": "[삼진]티니핑 미스틱 하트윙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557748524.png"
       },
       "CBN0000008": {
         "name": "둑티그 장난감 계산대",
@@ -1645,6 +1635,11 @@
         "name": "[맥포머스]프린세스세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069366597.png"
+      },
+      "DDN0000151": {
+        "name": "[삼진]티니핑 미스틱 하트윙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557748524.png"
       },
       "CDN0000099": {
         "name": "[아이코닉스]타요 생일케이크",
