@@ -31,11 +31,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032076409.jpg"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -210,6 +205,11 @@
         "name": "[자노드]피사의사탑",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061207647.png"
+      },
+      "GDN0000189": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
       "CDN0000010": {
         "name": "동물농장쿼드바이크",
@@ -2826,11 +2826,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
       },
-      "GDN0000080": {
-        "name": "에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033978290.jpg"
-      },
       "ACN0000001": {
         "name": "[아임토이]멜로디믹스",
         "age": "36개월 이상 ~",
@@ -3323,75 +3318,40 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_17.jpg"
       },
-      "CGN0000093": {
-        "name": "[택배][콤비]YT-Belle 아기 보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730348945009.png"
-      },
       "CGN0000064": {
         "name": "[택배]현대백일돌상⑥",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357376697.png"
+      },
+      "CGN0000093": {
+        "name": "[택배][콤비]YT-Belle 아기 보행기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730348945009.png"
       },
       "CGN0000012": {
         "name": "[택배]락카루바운서(그레이)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799165251.jpg"
       },
-      "CGN0000091": {
-        "name": "[택배][이븐플로]엑서쏘서트리플펀씨사이드",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349032454.png"
-      },
-      "CBN0000049": {
-        "name": "[택배][보쉬토이]워크벤치",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210655848.jpg"
-      },
-      "CGN0000075": {
-        "name": "[택배]][브라이트스타트]바운스 액티비티 점퍼루(그린)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210379020.jpg"
-      },
-      "CFN0000013": {
-        "name": "[택배]볼보 미니붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1606265652434.jpg"
+      "CGN0000048": {
+        "name": "[택배]전통백일돌상⑪",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656824626.png"
       },
       "CAY0000043": {
         "name": "[택배]종이벽돌블럭(대)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636356874772.png"
       },
-      "CGN0000048": {
-        "name": "[택배]전통백일돌상⑪",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656824626.png"
-      },
       "CGN0000077": {
         "name": "[택배]뉴나리프 그로우 바운서",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210339318.jpg"
       },
-      "CAN0000004": {
-        "name": "[택배]디스커버리러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_4.jpg"
-      },
       "CGN0000031": {
         "name": "[택배]프로픽스 주니어 카시트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
-      },
-      "CGN0000007": {
-        "name": "[택배]니모액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726138267.JPG"
-      },
-      "CGY0000044": {
-        "name": "[택배][이븐플로]액서쏘서티파티",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007681875.jpg"
       }
     },
     "wait": {
