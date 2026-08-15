@@ -266,15 +266,15 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
       },
-      "GDN0000202": {
-        "name": "[리틀타익스] 리틀큐티버그",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257074054.png"
-      },
       "DDN0000029": {
         "name": "[자노드]청키퍼즐비히클/팜",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
+      },
+      "GDN0000202": {
+        "name": "[리틀타익스] 리틀큐티버그",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257074054.png"
       },
       "CEN0000003": {
         "name": "뉴 농장꼭지퍼즐",
@@ -1691,11 +1691,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165494801.png"
       },
-      "CGN0000105": {
-        "name": "[타이니러브]수더메도우 모빌(흑백+홀더)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435286403.jpg"
-      },
       "DDN0000113": {
         "name": "[큐비]고래를위하여세트",
         "age": "48개월 이상 ~",
@@ -1900,11 +1895,6 @@
         "name": "[고덕점] 야채 피자세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541670842.png"
-      },
-      "GDN0000130": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
       },
       "MDN0000016": {
         "name": "맨 TGA 시멘트 믹서와 헬멧 세트",
@@ -3131,11 +3121,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593960886.jpg"
       },
-      "GEN0000037": {
-        "name": "[리틀히어로] 소프트 빌딩블록 24P",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427740337.png"
-      },
       "GDN0000007": {
         "name": "빅 카고트럭(레드)",
         "age": "6개월 이상 ~",
@@ -3296,11 +3281,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
       },
-      "GDN0000142": {
-        "name": "멜로디 스마트폰 미키",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1705718567999.PNG"
-      },
       "DDN0000121": {
         "name": "[아이코닉스]크롱 양치놀이+ 청소 돌돌이",
         "age": "36개월 이상 ~",
@@ -3312,11 +3292,6 @@
         "name": "[택배]현대백일돌상⑦",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357361546.png"
-      },
-      "CGN0000064": {
-        "name": "[택배]현대백일돌상⑥",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357376697.png"
       },
       "CGN0000093": {
         "name": "[택배][콤비]YT-Belle 아기 보행기",
