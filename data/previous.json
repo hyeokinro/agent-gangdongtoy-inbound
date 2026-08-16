@@ -2326,11 +2326,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_68.jpg"
       },
-      "GDN0000025": {
-        "name": "마이퍼스트러닝하우스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865593493.jpg"
-      },
       "DDN0000169": {
         "name": "[오즈토이]피아노 퍼즐하우스 완구",
         "age": "36개월 이상 ~",
@@ -3625,6 +3620,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291115702.png"
       },
+      "GDN0000201": {
+        "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255610187.png"
+      },
       "GAN0000045": {
         "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
         "age": "12개월 이상 ~",
@@ -3815,10 +3815,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
-      "GEN0000023": {
-        "name": "알록달록구슬세기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
+      "KDN0000090": {
+        "name": "[고덕점] 로더심플 페리보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
       },
       "KDN0000133": {
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
@@ -5430,11 +5430,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650510254971.png"
       },
-      "GDN0000117": {
-        "name": "콩순이 코딩컴퓨터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521182848.PNG"
-      },
       "DDN0000122": {
         "name": "[아이코닉스]타요 천하장사 중장비 놀이세트",
         "age": "36개월 이상 ~",
@@ -5795,6 +5790,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067151991.png"
       },
+      "ADN0000039": {
+        "name": "[코닉스]타요긴급출동세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650517520779.png"
+      },
       "DDN0000121": {
         "name": "[아이코닉스]크롱 양치놀이+ 청소 돌돌이",
         "age": "36개월 이상 ~",
@@ -6009,11 +6009,6 @@
         "name": "[리틀타익스] 리틀 꼬마 스쿠터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
-      },
-      "GDN0000214": {
-        "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765425818204.png"
       }
     }
   },
