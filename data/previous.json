@@ -781,6 +781,11 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060855186.png"
       },
+      "GDN0000132": {
+        "name": "[브이텍]나잡아봐 야옹이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504425776.PNG"
+      },
       "DDN0000030": {
         "name": "[자노드]청키퍼즐디노조/쥬",
         "age": "12개월 이상 ~",
@@ -3282,11 +3287,6 @@
         "name": "[택배]프로픽스 주니어 카시트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
-      },
-      "CGY0000044": {
-        "name": "[택배][이븐플로]액서쏘서티파티",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007681875.jpg"
       }
     },
     "wait": {
@@ -4244,11 +4244,6 @@
         "name": "무지개 실꿰기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
-      },
-      "GBN0000018": {
-        "name": "샐러드세트(야채썰기)",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593353181.jpg"
       },
       "GDN0000029": {
         "name": "에듀플러스",
@@ -5460,11 +5455,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163247814.png"
       },
-      "GBN0000094": {
-        "name": "미키와친구들 자동차 병원놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
-      },
       "GDN0000147": {
         "name": "라이트업 뮤지컬버스",
         "age": "12개월 이상 ~",
@@ -5964,6 +5954,11 @@
         "name": "[아이존]뽀로로 변신 경찰본부",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278434158.jpg"
+      },
+      "GAN0000043": {
+        "name": "[리틀타익스]액티비티가든",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296015695.jpg"
       },
       "CGN0000097": {
         "name": "[하베브릭스]바람개비 아기체육관",
