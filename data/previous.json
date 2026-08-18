@@ -811,11 +811,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542340893.png"
       },
-      "CCN0000016": {
-        "name": "미니밴드",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792342158.jpg"
-      },
       "GBN0000037": {
         "name": "아이스크림카운터놀이",
         "age": "36개월 이상 ~",
@@ -1556,11 +1551,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026521708.jpg"
       },
-      "CDN0000069": {
-        "name": "[하페]레인보우기차세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631598615.png"
-      },
       "GFN0000003": {
         "name": "레트로로켓",
         "age": "12개월 이상 ~",
@@ -2275,6 +2265,11 @@
         "name": "[하베브릭스]자석블록",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
+      },
+      "CCN0000002": {
+        "name": "레인메이커(대)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_42.jpg"
       },
       "ADN0000012": {
         "name": "[보육사]농촌중장비",
@@ -3001,11 +2996,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672194271073.PNG"
       },
-      "GBN0000091": {
-        "name": "콩순이 알록달록 카페놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163126779.png"
-      },
       "GDN0000008": {
         "name": "빅 카고트럭(블루)",
         "age": "6개월 이상 ~",
@@ -3679,11 +3669,6 @@
         "name": "자석블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
-      },
-      "CDN0000038": {
-        "name": "볼트랙-락킹보트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
       },
       "CDN0000046": {
         "name": "강아지 도형끼우기차",
