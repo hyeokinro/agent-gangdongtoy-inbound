@@ -1111,11 +1111,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165421369.png"
       },
-      "ADN0000035": {
-        "name": "[하베브릭스]빅에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
-      },
       "KDN0000052": {
         "name": "[고덕점] 티니핑 놀이공원",
         "age": "36개월 이상 ~",
@@ -1436,11 +1431,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165549816.png"
       },
-      "ACN0000011": {
-        "name": "[주영토이]뽀로로 빙글빙글 춤추는노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650518072794.png"
-      },
       "KDN0000047": {
         "name": "[고덕점] 엄마까투리 소방구조대",
         "age": "36개월 이상 ~",
@@ -1490,6 +1480,11 @@
         "name": "[맥포머스]프린세스세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069366597.png"
+      },
+      "CDN0000053": {
+        "name": "꼬마버스타요 4종세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1563343967486.jpg"
       },
       "GBN0000023": {
         "name": "허니비마켓 생선상자",
@@ -1580,6 +1575,11 @@
         "name": "공룡입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026521708.jpg"
+      },
+      "CDN0000069": {
+        "name": "[하페]레인보우기차세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631598615.png"
       },
       "AFN0000007": {
         "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
@@ -2656,6 +2656,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554251708.png"
       },
+      "CDN0000056": {
+        "name": "피에로 고리끼우기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791972689.jpg"
+      },
       "GAN0000035": {
         "name": "걸음마 붕붕카",
         "age": "24개월 이상 ~",
@@ -2970,11 +2975,6 @@
         "name": "허니비마켓 저울세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593960886.jpg"
-      },
-      "ACN0000005": {
-        "name": "[캐스B]원목악기10종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770902524.jpg"
       },
       "GDN0000011": {
         "name": "공구세트",
