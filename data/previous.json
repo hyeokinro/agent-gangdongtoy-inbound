@@ -891,6 +891,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799242601.jpg"
       },
+      "DBN0000029": {
+        "name": "[립프]아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443861058.PNG"
+      },
       "CEN0000006": {
         "name": "뉴공룡꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -2191,11 +2196,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479636419.JPG"
       },
-      "AGN0000017": {
-        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
-      },
       "KBN0000048": {
         "name": "[고덕점] 푸쉬앤팝 미니 청소기",
         "age": "36개월 이상 ~",
@@ -3100,11 +3100,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166734522.png"
       },
-      "ADN0000002": {
-        "name": "[브이텍]액티비티에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
-      },
       "DDN0000145": {
         "name": "[코닉스]타요 주유소플레이세트",
         "age": "36개월 이상 ~",
@@ -3565,10 +3560,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765430197053.png"
       },
-      "KDN0000120": {
-        "name": "[고덕점] 뉴 알파벳 학습 버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
+      "ABN0000028": {
+        "name": "[영실업]콩순이 아기하마 양치놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
       "KDN0000090": {
         "name": "[고덕점] 로더심플 페리보트",
@@ -3814,11 +3809,6 @@
         "name": "[리틀타익스]4in1 알파벳 트레인 붕붕카",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193448051.PNG"
-      },
-      "AGN0000014": {
-        "name": "학습 테이블 멜로디 에듀 테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672204953272.png"
       },
       "GAN0000038": {
         "name": "리틀 베이비 범 액티비티 워커",
