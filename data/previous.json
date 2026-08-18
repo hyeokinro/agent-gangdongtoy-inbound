@@ -546,11 +546,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069692713.png"
       },
-      "CDN0000015": {
-        "name": "롤러코스터씽씽",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_67.jpg"
-      },
       "GDN0000050": {
         "name": "딸랑이기차",
         "age": "1개월 이상 ~",
@@ -1636,11 +1631,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296163149.jpg"
       },
-      "GDN0000200": {
-        "name": "[윈펀] 멜로디 재활용트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248693569.png"
-      },
       "KBN0000056": {
         "name": "[고덕점] 야채 피자세트",
         "age": "36개월 이상 ~",
@@ -1755,6 +1745,11 @@
         "name": "딸랑이 푸쉬토이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591121089.jpg"
+      },
+      "GDN0000200": {
+        "name": "[윈펀] 멜로디 재활용트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248693569.png"
       },
       "DDN0000045": {
         "name": "[하바]마법의소리게임",
@@ -2276,11 +2271,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
       },
-      "GDN0000152": {
-        "name": "전동드릴 공구놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
-      },
       "DBN0000043": {
         "name": "[토이트론]달님이 과일주스가게",
         "age": "36개월 이상 ~",
@@ -2671,11 +2661,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026751352.jpg"
       },
-      "KDN0000153": {
-        "name": "[고덕점] 자동드릴공구놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
-      },
       "DDN0000109": {
         "name": "[큐비]이상한아파트세트",
         "age": "60개월 이상 ~",
@@ -2715,6 +2700,11 @@
         "name": "[코닉스]띠띠뽀 차량기지 놀이세트2",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710561927763.png"
+      },
+      "KDN0000153": {
+        "name": "[고덕점] 자동드릴공구놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
       },
       "GDN0000033": {
         "name": "뽀로로119멜로디소방차",
