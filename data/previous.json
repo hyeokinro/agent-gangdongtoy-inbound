@@ -316,11 +316,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
       },
-      "ABN0000010": {
-        "name": "[립프]아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
-      },
       "CBN0000019": {
         "name": "커피세트(원목)",
         "age": "12개월 이상 ~",
@@ -705,6 +700,11 @@
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
+      },
+      "KDN0000090": {
+        "name": "[고덕점] 로더심플 페리보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
       },
       "KBN0000085": {
         "name": "[고덕점]퍼스트 식기세척기",
@@ -1941,11 +1941,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
       },
-      "ADN0000055": {
-        "name": "트럭 공구놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
-      },
       "DDN0000135": {
         "name": "[립프로그] 립스토리",
         "age": "36개월 이상 ~",
@@ -1965,6 +1960,11 @@
         "name": "[큐비]아기공룡들세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072188559.png"
+      },
+      "ADN0000055": {
+        "name": "트럭 공구놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
       },
       "DDN0000100": {
         "name": "[레고]비행기와공항",
@@ -2510,11 +2510,6 @@
         "name": "루시와 포대기세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1782200693789.jpg"
-      },
-      "AGN0000018": {
-        "name": "[리틀타익스]스쿠터 액티비티 걸음마보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168880694.png"
       },
       "MBN0000073": {
         "name": "소프트 피크닉 자석썰기놀이세트",
