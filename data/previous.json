@@ -81,6 +81,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
       },
+      "AGN0000007": {
+        "name": "[브라이트]컴포트스윙",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
+      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -290,11 +295,6 @@
         "name": "[브이텍]병원놀이세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
-      },
-      "AGN0000007": {
-        "name": "[브라이트]컴포트스윙",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
       },
       "CDN0000033": {
         "name": "클래식8자기차트렉세트",
@@ -2226,11 +2226,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
       },
-      "KBN0000061": {
-        "name": "[고덕점] 점보 야생 동물",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
-      },
       "KBN0000048": {
         "name": "[고덕점] 푸쉬앤팝 미니 청소기",
         "age": "36개월 이상 ~",
@@ -2555,6 +2550,11 @@
         "name": "차고지&헬리콥터세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871854319.JPG"
+      },
+      "DBN0000037": {
+        "name": "[브이텍]병원놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
       },
       "GCN0000021": {
         "name": "펀아토 베이비베이스 기타",
@@ -5724,11 +5724,6 @@
         "name": "[고덕점] 즐거운뽀로로하우스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540248063.png"
-      },
-      "KDN0000118": {
-        "name": "[고덕점] 뿡뿡이 컵쌓기 블록",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540420642.png"
       },
       "KBN0000080": {
         "name": "[고덕점] 카툰 라이브 스톡6",
