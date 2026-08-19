@@ -2926,11 +2926,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871854319.JPG"
       },
-      "DBN0000037": {
-        "name": "[브이텍]병원놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
-      },
       "ABN0000019": {
         "name": "[보육사]목재의사놀이",
         "age": "36개월 이상 ~",
@@ -3280,11 +3275,6 @@
         "name": "[쿠쿠]로보카폴리그네",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759996416.jpg"
-      },
-      "GAN0000043": {
-        "name": "[리틀타익스]액티비티가든",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296015695.jpg"
       },
       "GEN0000017": {
         "name": "멘델의 유전법칙",
@@ -3660,11 +3650,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204364533.PNG"
       },
-      "ABN0000042": {
-        "name": "[브이텍]공구놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
-      },
       "GGN0000002": {
         "name": "수더메도우 모빌(흑백+홀더)",
         "age": "1개월 이상 ~",
@@ -3975,10 +3960,10 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_43.jpg"
       },
-      "KDN0000085": {
-        "name": "[고덕점] 빅정글 파이터",
+      "GBN0000165": {
+        "name": "[원앤원] 콩지래빗 구급차 약국놀이",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260497973.png"
       },
       "KDN0000063": {
         "name": "[고덕점] 소방차",
@@ -4050,11 +4035,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
       },
-      "GBN0000165": {
-        "name": "[원앤원] 콩지래빗 구급차 약국놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260497973.png"
-      },
       "GBN0000167": {
         "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
         "age": "36개월 이상 ~",
@@ -4109,6 +4089,11 @@
         "name": "플라워 푸쉬토이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599010892288.JPG"
+      },
+      "GBN0000047": {
+        "name": "해양동물세트7종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029181805.jpg"
       },
       "GCN0000014": {
         "name": "스탠드밴드",
@@ -4634,6 +4619,11 @@
         "name": "뛰뛰빵빵 출동 소방 구조대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167605643.png"
+      },
+      "GDN0000171": {
+        "name": "와일드 어드벤처 애니멀 구조대",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222971602.png"
       },
       "GDN0000178": {
         "name": "뽀로로 변신 굴착기",
