@@ -3735,6 +3735,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594016387.jpg"
       },
+      "GAN0000036": {
+        "name": "클래식 러닝홈",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161760824.png"
+      },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
         "age": "6개월 이상 ~",
@@ -3929,11 +3934,6 @@
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
-      },
-      "DDN0000101": {
-        "name": "[레고]스파이더맨본부",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
       "KDN0000063": {
         "name": "[고덕점] 소방차",
@@ -6154,11 +6154,6 @@
         "name": "[리틀타익스]퍼스트 세탁기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
-      },
-      "CAN0000058": {
-        "name": "[아이코닉스]3in1 스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349870151.png"
       },
       "DBN0000048": {
         "name": "[캐스B]플레이 리틀맘 그린 작동주방놀이 7종세트",
