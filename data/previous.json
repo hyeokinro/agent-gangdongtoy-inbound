@@ -2571,11 +2571,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671505259713.PNG"
       },
-      "CBN0000069": {
-        "name": "[베이비아인슈타인]매직터치 계산대",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433258399.jpg"
-      },
       "KDN0000072": {
         "name": "[고덕점] 러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
@@ -3740,6 +3735,16 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161760824.png"
       },
+      "KAN0000010": {
+        "name": "[고덕점] 걸음마 학습기 [한영버전]",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537829045.png"
+      },
+      "KDN0000075": {
+        "name": "[고덕점] 반짝반짝 케이크링쌓기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
+      },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
         "age": "6개월 이상 ~",
@@ -3925,15 +3930,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260497973.png"
       },
-      "CFN0000024": {
-        "name": "[씨투엠뉴]랜드로버 붕붕카",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
-      "KDN0000120": {
-        "name": "[고덕점] 뉴 알파벳 학습 버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
+      "KDN0000085": {
+        "name": "[고덕점] 빅정글 파이터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
       "KDN0000063": {
         "name": "[고덕점] 소방차",
@@ -3994,6 +3999,11 @@
         "name": "[토도리브로]씽씽자동차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
+      },
+      "CFN0000024": {
+        "name": "[씨투엠뉴]랜드로버 붕붕카",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
       },
       "ABN0000040": {
         "name": "[영실업]콩콩이와 119병원세트",
