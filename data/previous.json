@@ -616,6 +616,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594111378.jpg"
       },
+      "CBN0000023": {
+        "name": "후라이팬세트(원목)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
+      },
       "MCN0000003": {
         "name": "애니맘보 일렉트로닉 피아노",
         "age": "36개월 이상 ~",
@@ -670,11 +675,6 @@
         "name": "[슐라이히] 공룡 9종 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423123360.png"
-      },
-      "CBN0000023": {
-        "name": "후라이팬세트(원목)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
       },
       "GAN0000010": {
         "name": "뽀로로멜로디안전그네",
@@ -2061,11 +2061,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072188559.png"
       },
-      "KDN0000142": {
-        "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543318470.png"
-      },
       "KDN0000121": {
         "name": "[고덕점] 오뚜기(파랑)",
         "age": "6개월 이상 ~",
@@ -2180,6 +2175,11 @@
         "name": "콩순이 콩콩이와 119 병원세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162870728.png"
+      },
+      "KDN0000142": {
+        "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543318470.png"
       },
       "GBN0000079": {
         "name": "뽀로로 변신 소방차",
@@ -2330,6 +2330,11 @@
         "name": "[키움하우스]팝핑 워커 거북이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
+      },
+      "CDN0000029": {
+        "name": "오뚜기뽀빠이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
       },
       "KDN0000105": {
         "name": "[고덕점] 걸음마친구 수다쟁이 전화기",
@@ -5674,6 +5679,11 @@
         "name": "루크와 포대기 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773366052466.png"
+      },
+      "CBY0000056": {
+        "name": "루시와 포대기세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782200693789.jpg"
       },
       "CCN0000005": {
         "name": "베이비밴드",
