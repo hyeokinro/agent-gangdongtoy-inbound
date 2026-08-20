@@ -1096,6 +1096,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296075559.jpg"
       },
+      "GCN0000027": {
+        "name": "[하페] 톡톡 벤치 하우스 실로폰 놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342752987.png"
+      },
       "GAN0000034": {
         "name": "[원펀]뉴러닝테이블",
         "age": "6개월 이상 ~",
@@ -2215,11 +2220,6 @@
         "name": "가드닝카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
-      },
-      "GBN0000090": {
-        "name": "콩순이 숫자놀이 말하는 사탕가게",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163005290.png"
       },
       "GBN0000029": {
         "name": "아이스크림",
@@ -4644,6 +4644,11 @@
         "name": "멜로디 곤충피아노",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
+      },
+      "CFN0000016": {
+        "name": "[스텝2]아미코안전그네 노랑",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630358432.png"
       },
       "CDN0000068": {
         "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
