@@ -171,11 +171,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "KDN0000147": {
         "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
         "age": "36개월 이상 ~",
@@ -225,6 +220,11 @@
         "name": "[자노드]피사의사탑",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061207647.png"
+      },
+      "GDN0000189": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
       "CDN0000010": {
         "name": "동물농장쿼드바이크",
@@ -2675,11 +2675,6 @@
         "name": "Oval rainbow",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594354214.jpg"
-      },
-      "GDN0000173": {
-        "name": "레인보우 회전놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223643846.png"
       },
       "CDN0000002": {
         "name": "경주용카트",
