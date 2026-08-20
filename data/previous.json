@@ -3141,11 +3141,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
       },
-      "GCN0000008": {
-        "name": "톡톡실로폰놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033810037.jpg"
-      },
       "GEN0000037": {
         "name": "[리틀히어로] 소프트 빌딩블록 24P",
         "age": "6개월 이상 ~",
@@ -4325,6 +4320,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801460756.png"
       },
+      "CBN0000008": {
+        "name": "둑티그 장난감 계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801929669.jpg"
+      },
       "CDN0000070": {
         "name": "소방서",
         "age": "36개월 이상 ~",
@@ -4449,6 +4449,11 @@
         "name": "[고덕점] 댄싱 유니콘",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
+      },
+      "KCN0000015": {
+        "name": "[고덕점] 도형끼우기 드럼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
       },
       "KDN0000084": {
         "name": "[고덕점] 디자인 드릴 로봇",
@@ -5309,11 +5314,6 @@
         "name": "차량입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026751352.jpg"
-      },
-      "GCN0000003": {
-        "name": "뮤지컬에그",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030634457.jpg"
       },
       "GAN0000016": {
         "name": "오볼롤러(뉴)",
