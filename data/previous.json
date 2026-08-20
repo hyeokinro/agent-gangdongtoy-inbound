@@ -241,11 +241,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671510535985.PNG"
       },
-      "GDN0000209": {
-        "name": "[블루레빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765340957946.png"
-      },
       "KDN0000135": {
         "name": "[고덕점] 엉금엉금멜로디달팽이",
         "age": "24개월 이상 ~",
@@ -751,6 +746,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1566625939129.jpg"
       },
+      "DDN0000030": {
+        "name": "[자노드]청키퍼즐디노조/쥬",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
+      },
       "CDN0000007": {
         "name": "더티디거포크레인",
         "age": "24개월 이상 ~",
@@ -775,11 +775,6 @@
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167667336.png"
-      },
-      "DDN0000030": {
-        "name": "[자노드]청키퍼즐디노조/쥬",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
       "CEN0000019": {
         "name": "한글블럭훈민",
@@ -941,6 +936,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773225279.jpg"
       },
+      "DDN0000146": {
+        "name": "[코닉스]뽀로로자동차 마을&타워",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562535431.png"
+      },
       "CDN0000008": {
         "name": "덤프트럭",
         "age": "12개월 이상 ~",
@@ -1080,11 +1080,6 @@
         "name": "리틀타익스 더티디거 포크레인",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958665711.png"
-      },
-      "DDN0000146": {
-        "name": "[코닉스]뽀로로자동차 마을&타워",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562535431.png"
       },
       "GDN0000182": {
         "name": "[아이코닉스]키즈팝 댄스 파티",
@@ -1901,11 +1896,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871945410.jpg"
       },
-      "GCN0000023": {
-        "name": "[Land of B] 히포팝핑피아노",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
-      },
       "KDN0000045": {
         "name": "[고덕점] 뽀로로 노래하는 줄줄이 티슈",
         "age": "24개월 이상 ~",
@@ -2656,11 +2646,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871854319.JPG"
       },
-      "CDN0000056": {
-        "name": "피에로 고리끼우기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791972689.jpg"
-      },
       "GDN0000147": {
         "name": "라이트업 뮤지컬버스",
         "age": "12개월 이상 ~",
@@ -2821,6 +2806,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537889075.png"
       },
+      "DDN0000034": {
+        "name": "[하페]다람쥐통끼우기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062011300.png"
+      },
       "GCN0000019": {
         "name": "옥토넛 음악대장 악기세트",
         "age": "6개월 이상 ~",
@@ -2865,11 +2855,6 @@
         "name": "야야 CAT 로더",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779957806353.png"
-      },
-      "CCN0000012": {
-        "name": "클래식 실로폰",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_52.jpg"
       },
       "AAN0000023": {
         "name": "[키움하우스]팝핑 워커 거북이",
@@ -4855,11 +4840,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
       },
-      "CFN0000023": {
-        "name": "[아이코닉스] 타요 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433409969.jpg"
-      },
       "CGN0000105": {
         "name": "[타이니러브]수더메도우 모빌(흑백+홀더)",
         "age": "1개월 이상 ~",
@@ -5970,11 +5950,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
       },
-      "CAN0000058": {
-        "name": "[아이코닉스]3in1 스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349870151.png"
-      },
       "DBN0000048": {
         "name": "[캐스B]플레이 리틀맘 그린 작동주방놀이 7종세트",
         "age": "36개월 이상 ~",
@@ -6014,11 +5989,6 @@
         "name": "[리틀타익스] 리틀 꼬마 스쿠터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
-      },
-      "GDN0000214": {
-        "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765425818204.png"
       },
       "GDN0000219": {
         "name": "[브이텍] 다이노 먹이주기",
