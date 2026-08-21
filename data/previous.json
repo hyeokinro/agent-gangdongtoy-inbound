@@ -451,11 +451,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703557618719.png"
       },
-      "CBN0000043": {
-        "name": "[하페] 고기굽기 주방놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628483444.png"
-      },
       "GCN0000013": {
         "name": "미니오케스트라",
         "age": "6개월 이상 ~",
@@ -871,11 +866,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_61.jpg"
       },
-      "GFN0000006": {
-        "name": "[브이텍] 4in1 알파벳 트레인 붕붕카",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277827603.jpg"
-      },
       "CEN0000006": {
         "name": "뉴공룡꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -931,11 +921,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
       },
-      "CDN0000038": {
-        "name": "볼트랙-락킹보트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
-      },
       "ADN0000014": {
         "name": "[에드토이]공중수단3종",
         "age": "36개월 이상 ~",
@@ -945,6 +930,11 @@
         "name": "[코닉스]뽀로로자동차 마을&타워",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562535431.png"
+      },
+      "CDN0000038": {
+        "name": "볼트랙-락킹보트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
