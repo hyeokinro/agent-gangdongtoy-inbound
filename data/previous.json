@@ -1101,11 +1101,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167858935.png"
       },
-      "KDN0000052": {
-        "name": "[고덕점] 티니핑 놀이공원",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564996272.png"
-      },
       "DDN0000040": {
         "name": "[벨레덕]호박",
         "age": "48개월 이상 ~",
@@ -1451,6 +1446,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057234087.JPG"
       },
+      "KDN0000052": {
+        "name": "[고덕점] 티니핑 놀이공원",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564996272.png"
+      },
       "CDN0000053": {
         "name": "꼬마버스타요 4종세트",
         "age": "36개월 이상 ~",
@@ -1500,11 +1500,6 @@
         "name": "샐러드세트(야채썰기)",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593353181.jpg"
-      },
-      "KDN0000053": {
-        "name": "[고덕점] 티니핑 마차",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564973417.png"
       },
       "GBN0000096": {
         "name": "척척박사 우유와 뉴 콩순이 냉장고",
@@ -5799,11 +5794,6 @@
   },
   "3": {
     "online": {
-      "HSN0000013": {
-        "name": "[놀이팩]인형뽑기기계",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138651872.png"
-      },
       "HSN0000026": {
         "name": "[놀이팩]RC 스턴트 레이서",
         "age": "60개월 이상 ~",
