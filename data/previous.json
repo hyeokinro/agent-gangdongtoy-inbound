@@ -1036,11 +1036,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_23.jpg"
       },
-      "KDN0000150": {
-        "name": "[고덕점]큐블로 매직큐브  자석블럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910311268.png"
-      },
       "GBN0000149": {
         "name": "[립프로그]피크닉 바구니",
         "age": "36개월 이상 ~",
@@ -1476,11 +1471,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593475207.jpg"
       },
-      "GBN0000096": {
-        "name": "척척박사 우유와 뉴 콩순이 냉장고",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163517101.png"
-      },
       "MEN0000001": {
         "name": "팝업 토이 동물",
         "age": "12개월 이상 ~",
@@ -1515,6 +1505,11 @@
         "name": "[고덕점] 티니핑 마차",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564973417.png"
+      },
+      "GBN0000096": {
+        "name": "척척박사 우유와 뉴 콩순이 냉장고",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163517101.png"
       },
       "MBN0000077": {
         "name": "플레이 월드푸드파티세트",
@@ -2025,11 +2020,6 @@
         "name": "레이싱 스테이션",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165878905.png"
-      },
-      "ABN0000037": {
-        "name": "쇼핑카트&스캐너",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201895215.JPG"
       },
       "GBN0000039": {
         "name": "마트전자계산대놀이세트",
@@ -2681,11 +2671,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768540764.jpg"
       },
-      "DDN0000165": {
-        "name": "[키움하우스]자석라이팅마블 125피스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353975378.jpg"
-      },
       "GDN0000012": {
         "name": "탑 트럭(레드)",
         "age": "6개월 이상 ~",
@@ -2700,6 +2685,11 @@
         "name": "[고덕점] 레드 커피 머신",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538844166.png"
+      },
+      "DDN0000165": {
+        "name": "[키움하우스]자석라이팅마블 125피스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353975378.jpg"
       },
       "DDN0000094": {
         "name": "[코리아보드]다빈치코드",
