@@ -3360,20 +3360,15 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
       },
-      "CGN0000067": {
-        "name": "[콤비]보행기(아이보리)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650520447079.PNG"
-      },
       "DDN0000101": {
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
-      "GDN0000144": {
-        "name": "춤추며 배우는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
+      "GDN0000002": {
+        "name": "세븐 롤러코스터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033656451.jpg"
       },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
@@ -4290,6 +4285,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671188564404.PNG"
       },
+      "GDN0000126": {
+        "name": "[대성]벤츠 아록스 덤프트럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671262414325.PNG"
+      },
       "GDN0000130": {
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
@@ -4534,11 +4534,6 @@
         "name": "[브라이트]미키마우스락커",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779059096.jpg"
-      },
-      "AGN0000013": {
-        "name": "[콤비]보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779278159.jpg"
       },
       "DDN0000028": {
         "name": "[자노드]쉐이프솔터",
