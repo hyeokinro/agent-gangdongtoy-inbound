@@ -1016,11 +1016,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631221901.png"
       },
-      "CDN0000037": {
-        "name": "핍 디럭스15pc(스퀴즈)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_89.jpg"
-      },
       "GDN0000136": {
         "name": "에어포트 플레이세트",
         "age": "6개월 이상 ~",
@@ -5524,10 +5519,25 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773141096377.png"
       },
+      "HSN0000078": {
+        "name": "[물놀이팩]물놀이테이블",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218393059.png"
+      },
       "HSN0000064": {
         "name": "[물놀이팩]목욕놀이인형+목욕책",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778199751438.png"
+      },
+      "HSN0000017": {
+        "name": "[놀이팩]레이싱 핸들게임",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139070366.png"
+      },
+      "HSN0000009": {
+        "name": "[놀이팩]요미몬 플레이돌",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138259428.png"
       },
       "HSN0000033": {
         "name": "[놀이팩]달콩아 응가하자",
@@ -5584,15 +5594,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301864582.png"
       },
-      "HSN0000027": {
-        "name": "[놀이팩]사운드 패드세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140263488.png"
-      },
       "HSN0000014": {
         "name": "[놀이팩]자석 변신로봇(블루)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138749780.png"
+      },
+      "HSN0000027": {
+        "name": "[놀이팩]사운드 패드세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140263488.png"
       },
       "HSN0000030": {
         "name": "[놀이팩]콩순이 바른생활 콩콩이",
