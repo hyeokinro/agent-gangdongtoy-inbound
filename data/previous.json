@@ -2706,11 +2706,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554304144.png"
       },
-      "ADN0000040": {
-        "name": "[브라이트]공놀이고래",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650517761679.png"
-      },
       "GDN0000066": {
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
         "age": "36개월 이상 ~",
@@ -3260,6 +3255,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
       },
+      "ABN0000010": {
+        "name": "[립프]아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
+      },
       "GBN0000151": {
         "name": "[립프로그]믹서 플레이세트",
         "age": "36개월 이상 ~",
@@ -3420,11 +3420,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
       },
-      "CGN0000067": {
-        "name": "[콤비]보행기(아이보리)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650520447079.PNG"
-      },
       "KDN0000090": {
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
@@ -3460,11 +3455,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566590284.png"
       },
-      "KBN0000083": {
-        "name": "[고덕점]피자카트 한영버전",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
-      },
       "KBN0000088": {
         "name": "[고덕점]실제같은 쇼핑카트",
         "age": "36개월 이상 ~",
@@ -3479,11 +3469,6 @@
         "name": "[피노키오]타요 운전놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
-      },
-      "DBN0000049": {
-        "name": "[립프로그]피자카트 한영버젼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
       },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
@@ -3995,11 +3980,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416007520.jpg"
       },
-      "ABN0000002": {
-        "name": "[보육사]스탠딩 채소가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617761167096.jpg"
-      },
       "ACN0000008": {
         "name": "[지나월드]뽀로로드럼",
         "age": "36개월 이상 ~",
@@ -4054,6 +4034,11 @@
         "name": "[주영토이]뽀로로 빙글빙글 춤추는노래방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650518072794.png"
+      },
+      "ABN0000029": {
+        "name": "[영실업]척척박사 우유와 뉴 콩순이 냉장고",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199882267.jpg"
       },
       "DBN0000036": {
         "name": "[영실업]콩순이와 와플메이커",
@@ -5424,11 +5409,6 @@
         "name": "[하바]개구리쌓기블록",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067302203.png"
-      },
-      "DDN0000054": {
-        "name": "[맥포머스]공사현장세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067818494.png"
       },
       "DDN0000092": {
         "name": "[부루마블]클래식",
