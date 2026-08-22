@@ -2316,11 +2316,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029022162.jpg"
       },
-      "DBN0000044": {
-        "name": "[미미월드]햄찌하우스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710556857241.png"
-      },
       "GDN0000162": {
         "name": "도형맞추기 하우스",
         "age": "12개월 이상 ~",
@@ -2385,6 +2380,11 @@
         "name": "[고덕점] 액티비티 보드게임",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555505993.png"
+      },
+      "CBN0000014": {
+        "name": "요리놀이세트(실리콘)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801767914.jpg"
       },
       "GDN0000028": {
         "name": "얼리러닝셰이프",
@@ -2460,6 +2460,11 @@
         "name": "[아이코닉스]타요 천하장사 중장비 놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663546455.jpg"
+      },
+      "DBN0000044": {
+        "name": "[미미월드]햄찌하우스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710556857241.png"
       },
       "AAN0000013": {
         "name": "[구디우디]오리푸쉬",
@@ -5170,6 +5175,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554251708.png"
       },
+      "DBN0000044": {
+        "name": "[미미월드]햄찌하우스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710556857241.png"
+      },
       "DDN0000139": {
         "name": "[코닉스]타요 액션 소방센터",
         "age": "36개월 이상 ~",
@@ -5344,11 +5354,6 @@
         "name": "[베이비아인슈타인]플립기타 2in 1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
-      },
-      "AAN0000016": {
-        "name": "[쁘띠베베]러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
       },
       "ABN0000000": {
         "name": "[레드박스]만능공구놀이",
