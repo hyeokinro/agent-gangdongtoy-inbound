@@ -3255,6 +3255,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432864086.png"
       },
+      "CDN0000010": {
+        "name": "동물농장쿼드바이크",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_62.jpg"
+      },
       "GBN0000151": {
         "name": "[립프로그]믹서 플레이세트",
         "age": "36개월 이상 ~",
@@ -3435,10 +3440,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
       },
-      "GDN0000185": {
-        "name": "[토도리브로]씽씽자동차",
+      "KDN0000085": {
+        "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
@@ -3484,6 +3489,11 @@
         "name": "[립프로그]피자카트 한영버젼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
+      },
+      "GDN0000185": {
+        "name": "[토도리브로]씽씽자동차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
       },
       "CGN0000102": {
         "name": "[엔픽스]스텝 360보행기(크림그레이)",
