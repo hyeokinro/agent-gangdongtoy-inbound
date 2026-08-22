@@ -26,11 +26,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772084383.jpg"
       },
-      "GDN0000076": {
-        "name": "공사차량미니카12종",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948399708.JPG"
-      },
       "GEN0000030": {
         "name": "건설차량입체퍼즐",
         "age": "24개월 이상 ~",
@@ -306,6 +301,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193890468.PNG"
       },
+      "GDN0000076": {
+        "name": "공사차량미니카12종",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948399708.JPG"
+      },
       "GBN0000006": {
         "name": "리본도트주방놀이",
         "age": "48개월 이상 ~",
@@ -560,11 +560,6 @@
         "name": "멜로디 멀티블록세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590039182551.jpg"
-      },
-      "KDN0000120": {
-        "name": "[고덕점] 뉴 알파벳 학습 버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
       },
       "GAN0000010": {
         "name": "뽀로로멜로디안전그네",
@@ -2331,6 +2326,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760272444.jpg"
       },
+      "DBN0000037": {
+        "name": "[브이텍]병원놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
+      },
       "GCN0000021": {
         "name": "펀아토 베이비베이스 기타",
         "age": "6개월 이상 ~",
@@ -2885,11 +2885,6 @@
       }
     },
     "wait": {
-      "ABN0000004": {
-        "name": "[테팔]오픈쿡키친세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767388902.jpg"
-      },
       "ABN0000021": {
         "name": "[캐스돈]다이슨청소기",
         "age": "36개월 이상 ~",
@@ -2899,11 +2894,6 @@
         "name": "[립프로그]아이스크림 카트 디럭스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
-      },
-      "DDN0000145": {
-        "name": "[코닉스]타요 주유소플레이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
       },
       "GDN0000187": {
         "name": "[브이텍]스마트 러닝 태블릿",
@@ -3220,6 +3210,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
       },
+      "DDN0000145": {
+        "name": "[코닉스]타요 주유소플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
+      },
       "CDN0000033": {
         "name": "클래식8자기차트렉세트",
         "age": "24개월 이상 ~",
@@ -3385,6 +3380,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033656451.jpg"
       },
+      "CDN0000089": {
+        "name": "[브이텍]춤추는 코딩로봇 다이노",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
+      },
       "KDN0000090": {
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
@@ -3419,11 +3419,6 @@
         "name": "[고덕점]실제같은 쇼핑카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
-      },
-      "CDN0000089": {
-        "name": "[브이텍]춤추는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
       },
       "DDN0000170": {
         "name": "[피노키오]타요 운전놀이",
@@ -4325,11 +4320,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164899238.png"
       },
-      "GCN0000022": {
-        "name": "마이 리얼 잼 키보드",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165037890.png"
-      },
       "GDN0000149": {
         "name": "기차세트 스타터",
         "age": "36개월 이상 ~",
@@ -5169,11 +5159,6 @@
         "name": "루시와 포대기세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1782200693789.jpg"
-      },
-      "CCN0000005": {
-        "name": "베이비밴드",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_45.jpg"
       },
       "CEN0000008": {
         "name": "동물농장청키퍼즐",
