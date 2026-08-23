@@ -606,11 +606,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
-      "GDN0000128": {
-        "name": "[브이텍]러닝 액티비티 큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671497051740.PNG"
-      },
       "KDN0000059": {
         "name": "[고덕점] 스키핑스톤",
         "age": "6개월 이상 ~",
@@ -1151,11 +1146,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541801372.png"
       },
-      "GDN0000138": {
-        "name": "로더심플 비행기 공구놀이세트",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165549816.png"
-      },
       "GDN0000046": {
         "name": "응급자동차세트",
         "age": "1개월 이상 ~",
@@ -1305,6 +1295,11 @@
         "name": "공룡피규어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
+      },
+      "GDN0000138": {
+        "name": "로더심플 비행기 공구놀이세트",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165549816.png"
       },
       "GEN0000016": {
         "name": "시티우드퍼즐",
@@ -2240,6 +2235,11 @@
         "name": "도형맞추기 하우스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
+      },
+      "GCN0000024": {
+        "name": "[브이텍] 타이거 락 기타",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
       },
       "ABN0000031": {
         "name": "[BoHui]뽀로로 캐리어 소꿉놀이-노랑",
@@ -5089,11 +5089,6 @@
         "name": "원목자석과일자르기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
-      },
-      "GGN0000006": {
-        "name": "4in1아기체육관/걸음마보조기겸용",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874455587.jpg"
       },
       "GFN0000002": {
         "name": "미니스쿠터",
