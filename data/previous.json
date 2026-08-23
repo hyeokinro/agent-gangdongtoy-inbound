@@ -2156,11 +2156,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594741230.jpg"
       },
-      "GDN0000210": {
-        "name": "[큐블로] 매직큐브 스피드레이서",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765341896712.png"
-      },
       "GCN0000018": {
         "name": "[베이비아인슈타인] 해저탐험 피아노",
         "age": "6개월 이상 ~",
@@ -3380,6 +3375,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
       },
+      "CGN0000109": {
+        "name": "와이즈체어 범보부스터(올리브)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291345507.png"
+      },
       "CBN0000005": {
         "name": "공룡프테라노돈",
         "age": "36개월 이상 ~",
@@ -3970,6 +3970,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554607023.png"
       },
+      "KDN0000132": {
+        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
+      },
       "KDN0000074": {
         "name": "[고덕점] 타요 중앙차고지놀이",
         "age": "36개월 이상 ~",
@@ -4359,6 +4364,11 @@
         "name": "가드닝카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
+      },
+      "GDN0000015": {
+        "name": "브라이트스타트 심포니기어",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595351291.jpg"
       },
       "GDN0000025": {
         "name": "마이퍼스트러닝하우스",
