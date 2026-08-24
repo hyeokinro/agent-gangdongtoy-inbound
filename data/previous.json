@@ -1281,11 +1281,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780027881557.png"
       },
-      "GDN0000206": {
-        "name": "[브루더] MAN 트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259294701.png"
-      },
       "DDN0000058": {
         "name": "[맥포머스]디자이너세트",
         "age": "36개월 이상 ~",
@@ -3350,6 +3345,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
       },
+      "GBN0000015": {
+        "name": "야채세트(라두가그레이즈)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593155422.jpg"
+      },
       "GDN0000032": {
         "name": "트라이앵글",
         "age": "36개월 이상 ~",
@@ -3444,6 +3444,11 @@
         "name": "[콤비]보행기(그레이)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779246288.jpg"
+      },
+      "DDN0000051": {
+        "name": "[하바]호수페깅게임",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067414413.png"
       },
       "DDN0000061": {
         "name": "[타일블록스]레인보우",
@@ -5075,6 +5080,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
       },
+      "GDN0000210": {
+        "name": "[큐블로] 매직큐브 스피드레이서",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765341896712.png"
+      },
       "CBY0000056": {
         "name": "루시와 포대기세트",
         "age": "24개월 이상 ~",
@@ -5469,11 +5479,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139855613.png"
       },
-      "HSN0000004": {
-        "name": "[놀이팩]마이퍼스트북NO3.우주(큰책)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773137820350.png"
-      },
       "HSN0000037": {
         "name": "[놀이팩]노래하는 젖소",
         "age": "6개월 이상 ~",
@@ -5503,11 +5508,6 @@
         "name": "[놀이팩]뉴 또봇W",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300071529.png"
-      },
-      "HSN0000008": {
-        "name": "[놀이팩]마이퍼스트북NO.13.공룡월드(작은책)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138183057.png"
       },
       "HSN0000082": {
         "name": "[물놀이팩]풀장+오리목욕장난감",
