@@ -2231,11 +2231,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_21.jpg"
       },
-      "DBN0000037": {
-        "name": "[브이텍]병원놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
-      },
       "GCN0000021": {
         "name": "펀아토 베이비베이스 기타",
         "age": "6개월 이상 ~",
@@ -3295,11 +3290,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540709566.png"
       },
-      "KGN0000007": {
-        "name": "[고덕점] 미니마우스 액티비티 점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566590284.png"
-      },
       "KBN0000088": {
         "name": "[고덕점]실제같은 쇼핑카트",
         "age": "36개월 이상 ~",
@@ -3449,6 +3439,11 @@
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777534151.jpg"
+      },
+      "AGN0000008": {
+        "name": "[브라이트]포레스트바운서",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
       },
       "AGN0000012": {
         "name": "[콤비]보행기(그레이)",
