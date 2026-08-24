@@ -3180,11 +3180,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
-      "GBN0000166": {
-        "name": "[미미월드] 똘똘이 유치원",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765261024714.png"
-      },
       "KDN0000061": {
         "name": "[고덕점] 엔젤워터폴",
         "age": "24개월 이상 ~",
@@ -3245,11 +3240,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
       },
-      "DDN0000042": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
-      },
       "DDN0000170": {
         "name": "[피노키오]타요 운전놀이",
         "age": "36개월 이상 ~",
@@ -3269,6 +3259,16 @@
         "name": "[고덕점] 판다 DJ 놀이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
+      },
+      "CDN0000075": {
+        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
+      },
+      "CDN0000023": {
+        "name": "비행기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
       },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
@@ -3294,6 +3294,11 @@
         "name": "[고덕점]실제같은 쇼핑카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
+      },
+      "DDN0000042": {
+        "name": "[하베브릭스]6in1변신큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
       "GBN0000151": {
         "name": "[립프로그]믹서 플레이세트",
@@ -4040,6 +4045,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733816538226.png"
       },
+      "CDN0000099": {
+        "name": "[아이코닉스]타요 생일케이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433474030.png"
+      },
       "GDN0000195": {
         "name": "[브라이트스타트] 공놀이 코끼리 버스",
         "age": "6개월 이상 ~",
@@ -4299,6 +4309,11 @@
         "name": "[리틀타익스]퍼스트 계산대놀이 유아 계산대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353708423.jpg"
+      },
+      "GDN0000181": {
+        "name": "[스킵합] 꿀벌 라이더",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296163149.jpg"
       },
       "GCN0000023": {
         "name": "[Land of B] 히포팝핑피아노",
