@@ -591,11 +591,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
-      "KDN0000059": {
-        "name": "[고덕점] 스키핑스톤",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
-      },
       "KDN0000090": {
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
@@ -785,11 +780,6 @@
         "name": "야채세트(라두가그레이즈)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593155422.jpg"
-      },
-      "KDN0000050": {
-        "name": "[고덕점]구스파파",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
       },
       "GBN0000047": {
         "name": "해양동물세트7종",
@@ -1016,11 +1006,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780028237235.png"
       },
-      "KDN0000104": {
-        "name": "[고덕점] 댄싱 유니콘",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
-      },
       "GDN0000131": {
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
@@ -1055,6 +1040,11 @@
         "name": "[캐스B]플레이 역할의상 건축가",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958183570.png"
+      },
+      "KDN0000104": {
+        "name": "[고덕점] 댄싱 유니콘",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
       },
       "ADN0000006": {
         "name": "[플레이포에버]자동차3",
@@ -1251,11 +1241,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540560940.png"
       },
-      "AAN0000017": {
-        "name": "센소리볼 9P세트",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201867061.png"
-      },
       "KCN0000015": {
         "name": "[고덕점] 도형끼우기 드럼",
         "age": "12개월 이상 ~",
@@ -1375,6 +1360,11 @@
         "name": "피에스타 우드 다리미 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780022443163.png"
+      },
+      "AAN0000017": {
+        "name": "센소리볼 9P세트",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201867061.png"
       },
       "DDN0000137": {
         "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
