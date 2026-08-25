@@ -86,11 +86,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069003414.png"
       },
-      "GDN0000061": {
-        "name": "클라부 경찰추격전놀이세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949302607.JPG"
-      },
       "DDN0000076": {
         "name": "[하바]첫번째과수원까마귀",
         "age": "24개월 이상 ~",
@@ -250,6 +245,11 @@
         "name": "[오볼]오볼세트",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
+      },
+      "GDN0000061": {
+        "name": "클라부 경찰추격전놀이세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949302607.JPG"
       },
       "GCN0000011": {
         "name": "어라운드음악놀이",
@@ -1455,6 +1455,11 @@
         "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
+      },
+      "KBN0000089": {
+        "name": "[고덕점] 핑크퐁진동벨계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733816538226.png"
       },
       "DDN0000099": {
         "name": "[레고]공룡탈출",
