@@ -1686,11 +1686,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223971684.png"
       },
-      "DBN0000047": {
-        "name": "[리틀타익스]퍼스트 계산대놀이 유아 계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353708423.jpg"
-      },
       "KAN0000015": {
         "name": "[고덕점] 로보카폴리 볼링세트",
         "age": "24개월 이상 ~",
@@ -2326,11 +2321,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_21.jpg"
       },
-      "DBN0000037": {
-        "name": "[브이텍]병원놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
-      },
       "GCN0000021": {
         "name": "펀아토 베이비베이스 기타",
         "age": "6개월 이상 ~",
@@ -2375,6 +2365,11 @@
         "name": "플레이 역할의상 요리사",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780017269709.png"
+      },
+      "DBN0000037": {
+        "name": "[브이텍]병원놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
       },
       "GEN0000019": {
         "name": "건축물스타터",
