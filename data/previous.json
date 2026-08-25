@@ -256,11 +256,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
       },
-      "KDN0000075": {
-        "name": "[고덕점] 반짝반짝 케이크링쌓기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
-      },
       "GCN0000011": {
         "name": "어라운드음악놀이",
         "age": "1개월 이상 ~",
@@ -2890,11 +2885,6 @@
       }
     },
     "wait": {
-      "GDN0000187": {
-        "name": "[브이텍]스마트 러닝 태블릿",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
-      },
       "GBN0000003": {
         "name": "(영어)아이스크림카트",
         "age": "24개월 이상 ~",
@@ -2929,11 +2919,6 @@
         "name": "[고덕점] 빙글빙글 해저 탐험",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
-      },
-      "GDN0000127": {
-        "name": "[대성]말하는 포크레인",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671265319760.PNG"
       },
       "GDN0000189": {
         "name": "[브이텍]멜로디 덤프트럭",
@@ -3080,6 +3065,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257533508.png"
       },
+      "GDN0000187": {
+        "name": "[브이텍]스마트 러닝 태블릿",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
+      },
       "KBN0000074": {
         "name": "[고덕점] 퍼스트 계산대놀이",
         "age": "36개월 이상 ~",
@@ -3159,6 +3149,11 @@
         "name": "[브이텍]액티비티에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771703529.jpg"
+      },
+      "GDN0000127": {
+        "name": "[대성]말하는 포크레인",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671265319760.PNG"
       },
       "CBN0000019": {
         "name": "커피세트(원목)",
@@ -3375,11 +3370,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_59.jpg"
       },
-      "GDN0000144": {
-        "name": "춤추며 배우는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
-      },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
         "age": "6개월 이상 ~",
@@ -3389,6 +3379,11 @@
         "name": "레인메이커(중)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_43.jpg"
+      },
+      "ADN0000054": {
+        "name": "노래하고 말하는 전화기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -4355,6 +4350,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540952834.png"
       },
+      "KBN0000046": {
+        "name": "[고덕점] 아이스크림카트 디럭스 민트초코",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541536917.png"
+      },
       "KBN0000056": {
         "name": "[고덕점] 야채 피자세트",
         "age": "36개월 이상 ~",
@@ -4479,11 +4479,6 @@
         "name": "가드닝카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
-      },
-      "GDN0000015": {
-        "name": "브라이트스타트 심포니기어",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595351291.jpg"
       },
       "GDN0000025": {
         "name": "마이퍼스트러닝하우스",
