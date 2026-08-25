@@ -241,11 +241,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
-      "ABN0000025": {
-        "name": "[키즈카니발]사파리세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769299116.jpg"
-      },
       "ABN0000041": {
         "name": "[브이텍]병원놀이세트",
         "age": "12개월 이상 ~",
@@ -385,11 +380,6 @@
         "name": "알파벳 주볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031257691.jpg"
-      },
-      "DDN0000170": {
-        "name": "[피노키오]타요 운전놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353629723.png"
       },
       "KDN0000103": {
         "name": "[고덕점] 스피닝 라이트",
@@ -681,11 +671,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593116147.jpg"
       },
-      "KDN0000058": {
-        "name": "[고덕점] NEW 마이펫 키트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537981571.png"
-      },
       "DDN0000065": {
         "name": "[지오맥]코어타쭈토코",
         "age": "60개월 이상 ~",
@@ -926,11 +911,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539581250.png"
       },
-      "ABN0000026": {
-        "name": "[키즈]호랑이,표범,사자",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769355982.jpg"
-      },
       "CDN0000032": {
         "name": "재활용트럭",
         "age": "12개월 이상 ~",
@@ -1095,6 +1075,11 @@
         "name": "[삼진]티니핑 미스틱 하트윙",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557748524.png"
+      },
+      "KDN0000132": {
+        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
       },
       "DDN0000069": {
         "name": "[애니블록]뽀로로퍼즐",
@@ -5503,11 +5488,6 @@
         "name": "[놀이팩]야구배팅 놀이세트(핑크)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773139752074.png"
-      },
-      "HSN0000087": {
-        "name": "[물놀이팩]해상구조대목욕놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778219388237.png"
       },
       "HSN0000023": {
         "name": "[놀이팩]야구배팅 놀이세트(블루)",
