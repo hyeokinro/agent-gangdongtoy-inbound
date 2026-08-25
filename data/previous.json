@@ -3195,11 +3195,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
       },
-      "GAN0000010": {
-        "name": "뽀로로멜로디안전그네",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590829237.jpg"
-      },
       "DDN0000168": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -3330,6 +3325,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771643713.jpg"
       },
+      "GAN0000010": {
+        "name": "뽀로로멜로디안전그네",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590829237.jpg"
+      },
       "GEN0000018": {
         "name": "도미노레이스",
         "age": "36개월 이상 ~",
@@ -3365,15 +3365,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_43.jpg"
       },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
-      },
       "ABN0000040": {
         "name": "[영실업]콩콩이와 119병원세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
+      },
+      "ADN0000054": {
+        "name": "노래하고 말하는 전화기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
@@ -4464,11 +4464,6 @@
         "name": "컨스트럭션세트(26pcs)3차원자석블럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873694859.jpg"
-      },
-      "GDN0000037": {
-        "name": "댄싱로봇빗벨",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029060560.jpg"
       },
       "GBN0000046": {
         "name": "디럭스농장동물세트18종",
