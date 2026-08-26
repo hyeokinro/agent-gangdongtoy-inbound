@@ -686,11 +686,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
-      "GBN0000009": {
-        "name": "식료품핸들카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592892985.JPG"
-      },
       "DDN0000037": {
         "name": "[벨레덕]딸기",
         "age": "48개월 이상 ~",
@@ -3710,6 +3705,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
       },
+      "CGN0000089": {
+        "name": "[비키즈]망아지 플레이테이블 (걸음마)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
+      },
       "DDN0000042": {
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
@@ -4449,6 +4449,11 @@
         "name": "운송수단청키퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_106.jpg"
+      },
+      "CDN0000045": {
+        "name": "빙글빙글 동물친구놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
       },
       "GFN0000003": {
         "name": "레트로로켓",
