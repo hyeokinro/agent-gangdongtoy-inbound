@@ -81,6 +81,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032021366.jpg"
       },
+      "CBN0000019": {
+        "name": "커피세트(원목)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
+      },
       "GDN0000193": {
         "name": "[브라이트스타트] 공놀이 개구리 연못",
         "age": "6개월 이상 ~",
@@ -171,11 +176,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594016387.jpg"
       },
-      "GBN0000005": {
-        "name": "레드딸기주방놀이",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592364054.JPG"
-      },
       "DDN0000026": {
         "name": "[자노드]피사의사탑",
         "age": "60개월 이상 ~",
@@ -230,11 +230,6 @@
         "name": "[오볼]오볼세트",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
-      },
-      "CBN0000019": {
-        "name": "커피세트(원목)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
       },
       "GBN0000078": {
         "name": "[숲소리]소꿉놀이세트V2",
@@ -3355,11 +3350,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
       },
-      "CGN0000023": {
-        "name": "와이즈체어 범보부스터(핑크)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
-      },
       "GDN0000164": {
         "name": "리틀 드라이버",
         "age": "12개월 이상 ~",
@@ -3489,6 +3479,11 @@
         "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255610187.png"
+      },
+      "GBN0000005": {
+        "name": "레드딸기주방놀이",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592364054.JPG"
       },
       "DDN0000168": {
         "name": "[브이텍]멜로디 덤프트럭",
@@ -4340,11 +4335,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564996272.png"
       },
-      "KBN0000065": {
-        "name": "[고덕점] 키티 피크닉가방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567425121.png"
-      },
       "AFN0000008": {
         "name": "[코닉스]뽀로로 시소붕붕카",
         "age": "36개월 이상 ~",
@@ -4394,11 +4384,6 @@
         "name": "[지나월드]코코멜론 영어학습 스마트폰",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353753842.jpg"
-      },
-      "GGN0000024": {
-        "name": "[코닉스]알루 에듀하우스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733211178309.PNG"
       },
       "GBN0000155": {
         "name": "[영실업]콩순이 아이스크림가게",
@@ -5119,11 +5104,6 @@
         "name": "공놀이 고래",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
-      },
-      "CCN0000019": {
-        "name": "퍼커션세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1591661391946.png"
       },
       "GEN0000028": {
         "name": "베이직(30pcs)3차원자석블럭",
@@ -5849,11 +5829,6 @@
         "name": "[하베브릭스] 꼬마몬테 숫자미로",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257728259.png"
-      },
-      "GFN0000007": {
-        "name": "[리틀타익스] 리틀 꼬마 스쿠터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
       }
     }
   },
