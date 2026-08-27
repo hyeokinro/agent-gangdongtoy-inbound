@@ -1611,11 +1611,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671262414325.PNG"
       },
-      "GCN0000022": {
-        "name": "마이 리얼 잼 키보드",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165037890.png"
-      },
       "GDN0000137": {
         "name": "로더심플 아이스크림 트럭",
         "age": "6개월 이상 ~",
@@ -1655,6 +1650,11 @@
         "name": "[하페]고리와퍼즐",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062062893.png"
+      },
+      "GCN0000022": {
+        "name": "마이 리얼 잼 키보드",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165037890.png"
       },
       "GDN0000079": {
         "name": "미니스포츠카15종",
@@ -3240,11 +3240,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
       },
-      "ADN0000059": {
-        "name": "[키움하우스]라이트업뮤지컬버스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
-      },
       "GBN0000170": {
         "name": "[에프비존] 새콤달콤 캐치티니핑 마이 스마트폰",
         "age": "36개월 이상 ~",
@@ -3334,6 +3329,11 @@
         "name": "[고덕점] 퍼스트 계산대놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
+      },
+      "ADN0000059": {
+        "name": "[키움하우스]라이트업뮤지컬버스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
       },
       "GDN0000164": {
         "name": "리틀 드라이버",
@@ -5659,11 +5659,6 @@
         "name": "[부루마블]클래식",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071205795.png"
-      },
-      "ADN0000040": {
-        "name": "[브라이트]공놀이고래",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650517761679.png"
       },
       "CDN0000074": {
         "name": "[코닉스]뽀로로키즈팝댄스",
