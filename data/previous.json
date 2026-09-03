@@ -301,11 +301,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949302607.JPG"
       },
-      "GCN0000011": {
-        "name": "어라운드음악놀이",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
-      },
       "ABN0000042": {
         "name": "[브이텍]공구놀이세트",
         "age": "12개월 이상 ~",
@@ -631,11 +626,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
       },
-      "KDN0000136": {
-        "name": "[고덕점] 에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
-      },
       "MCN0000003": {
         "name": "애니맘보 일렉트로닉 피아노",
         "age": "36개월 이상 ~",
@@ -735,6 +725,11 @@
         "name": "멜로디 멀티블록세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590039182551.jpg"
+      },
+      "KDN0000136": {
+        "name": "[고덕점] 에듀볼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
@@ -1691,11 +1686,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435286403.jpg"
       },
-      "GDN0000130": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
-      },
       "DDN0000071": {
         "name": "[탑브라이트]탈것(경찰차외)",
         "age": "36개월 이상 ~",
@@ -1920,6 +1910,11 @@
         "name": "원목마켓놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592811719.JPG"
+      },
+      "GDN0000130": {
+        "name": "[하베브릭스]6in1변신큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
       },
       "DDN0000045": {
         "name": "[하바]마법의소리게임",
@@ -2641,11 +2636,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760364393.jpg"
       },
-      "DDN0000125": {
-        "name": "[Lakeshore]미래의 우주여행",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672192962552.PNG"
-      },
       "GDN0000040": {
         "name": "공놀이 고래",
         "age": "6개월 이상 ~",
@@ -3000,6 +2990,11 @@
         "name": "공구세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595194327.jpg"
+      },
+      "GDN0000052": {
+        "name": "토끼(핑크)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034645993.jpg"
       },
       "ABN0000000": {
         "name": "[레드박스]만능공구놀이",
@@ -3550,11 +3545,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070609185.png"
       },
-      "GDN0000139": {
-        "name": "망아지 플레이테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165738861.png"
-      },
       "KBN0000086": {
         "name": "[고덕점]퍼스트 냉장고",
         "age": "24개월 이상 ~",
@@ -3729,6 +3719,11 @@
         "name": "아기핸드폰",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
+      },
+      "GCN0000007": {
+        "name": "멜로디 멀티블록세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1590039182551.jpg"
       },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
