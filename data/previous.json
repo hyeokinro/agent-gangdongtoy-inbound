@@ -146,11 +146,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590946963.jpg"
       },
-      "ABN0000004": {
-        "name": "[테팔]오픈쿡키친세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767388902.jpg"
-      },
       "GBN0000021": {
         "name": "허니비마켓 달걀상자",
         "age": "36개월 이상 ~",
@@ -716,11 +711,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593589387.jpg"
       },
-      "ABN0000016": {
-        "name": "[보육사]음식컷팅세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
-      },
       "GCN0000007": {
         "name": "멜로디 멀티블록세트",
         "age": "12개월 이상 ~",
@@ -996,20 +986,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566377706.jpg"
       },
-      "KBN0000071": {
-        "name": "[고덕점] 콩순이 말하는팽이와 청진기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567075019.png"
-      },
       "GBN0000147": {
         "name": "[꼬마호랑이]소프트 병원놀이 13종",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
-      },
-      "AGN0000008": {
-        "name": "[브라이트]포레스트바운서",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
       },
       "ADN0000052": {
         "name": "애플 알파벳 사운드 북",
@@ -1065,11 +1045,6 @@
         "name": "자석블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
-      },
-      "GFN0000009": {
-        "name": "[야야토이즈] 소방 3D 롤링카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336182215.png"
       },
       "KBN0000053": {
         "name": "[고덕점] 똘똘이 동물병원",
@@ -1321,11 +1296,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026521708.jpg"
       },
-      "KBN0000052": {
-        "name": "[고덕점] 색이 변하는 쿠키오븐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540454076.png"
-      },
       "DDN0000086": {
         "name": "[보약게임]플라잉치즈",
         "age": "60개월 이상 ~",
@@ -1530,6 +1500,11 @@
         "name": "[고덕점] 아기 케잌세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541175594.png"
+      },
+      "KBN0000052": {
+        "name": "[고덕점] 색이 변하는 쿠키오븐",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540454076.png"
       },
       "DDN0000128": {
         "name": "[립프로그]ABC 자석놀이",
