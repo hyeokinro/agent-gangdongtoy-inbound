@@ -1501,11 +1501,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540560940.png"
       },
-      "GBN0000033": {
-        "name": "믹서세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593809362.jpg"
-      },
       "ADN0000030": {
         "name": "[브랜드B]바닷속,농장퍼즐",
         "age": "12개월 이상 ~",
@@ -4005,6 +4000,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201104352.png"
       },
+      "AGN0000014": {
+        "name": "학습 테이블 멜로디 에듀 테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672204953272.png"
+      },
       "GDN0000136": {
         "name": "에어포트 플레이세트",
         "age": "6개월 이상 ~",
@@ -5654,15 +5654,15 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140213606.png"
       },
-      "HSN0000015": {
-        "name": "[놀이팩]자석 변신로봇(노랑)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138853163.png"
-      },
       "HSN0000089": {
         "name": "[캠핑팩]탐험가(채집+무전기)",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1786076824198.png"
+      },
+      "HSN0000015": {
+        "name": "[놀이팩]자석 변신로봇(노랑)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138853163.png"
       },
       "HSN0000096": {
         "name": "[캠핑팩]모기장옷+모자세트(레인보우XS)",
