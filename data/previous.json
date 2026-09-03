@@ -1556,11 +1556,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069314440.png"
       },
-      "ADN0000031": {
-        "name": "[브랜드B]공룡,교통퍼즐",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617774105095.jpg"
-      },
       "GDN0000171": {
         "name": "와일드 어드벤처 애니멀 구조대",
         "age": "24개월 이상 ~",
@@ -2086,11 +2081,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564874020.png"
       },
-      "ADN0000034": {
-        "name": "[플랜토이즈]램프레이서",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777417574.jpg"
-      },
       "GCN0000001": {
         "name": "캐티롤러",
         "age": "6개월 이상 ~",
@@ -2290,11 +2280,6 @@
         "name": "첫 계산대놀이 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222329943.png"
-      },
-      "GBN0000079": {
-        "name": "뽀로로 변신 소방차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521164847.PNG"
       },
       "GDN0000179": {
         "name": "컵쌓기 & 액티비티 볼 세트",
@@ -2896,11 +2881,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
       },
-      "ADN0000005": {
-        "name": "[플레이포에버]자동차2",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771939965.jpg"
-      },
       "DDN0000053": {
         "name": "[맥포머스]원더세트",
         "age": "36개월 이상 ~",
@@ -3005,6 +2985,11 @@
         "name": "멜로디 스마트폰 미키",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1705718567999.PNG"
+      },
+      "ADN0000005": {
+        "name": "[플레이포에버]자동차2",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771939965.jpg"
       },
       "GDN0000007": {
         "name": "빅 카고트럭(레드)",
