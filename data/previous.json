@@ -61,11 +61,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167356478.png"
       },
-      "KDN0000097": {
-        "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541007768.png"
-      },
       "MBN0000062": {
         "name": "디키토이즈 볼보 크레인 건설 세트",
         "age": "36개월 이상 ~",
@@ -266,6 +261,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257074054.png"
       },
+      "KDN0000097": {
+        "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541007768.png"
+      },
       "GDN0000075": {
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
@@ -340,11 +340,6 @@
         "name": "[캐스돈]다이슨청소기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
-      },
-      "ABN0000038": {
-        "name": "[립프로그]아이스크림 카트 디럭스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
       },
       "ADN0000059": {
         "name": "[키움하우스]라이트업뮤지컬버스",
@@ -1896,11 +1891,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873822834.jpg"
       },
-      "CDN0000045": {
-        "name": "빙글빙글 동물친구놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
-      },
       "DDN0000050": {
         "name": "[하바]반짝이는얼음조각",
         "age": "36개월 이상 ~",
@@ -1915,6 +1905,11 @@
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
+      },
+      "CDN0000045": {
+        "name": "빙글빙글 동물친구놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
       },
       "DDN0000045": {
         "name": "[하바]마법의소리게임",
@@ -4145,6 +4140,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801929669.jpg"
       },
+      "CDN0000069": {
+        "name": "[하페]레인보우기차세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631598615.png"
+      },
       "ADN0000022": {
         "name": "[짐보리]맥포머스90PCS",
         "age": "36개월 이상 ~",
@@ -4425,11 +4425,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033681006.jpg"
       },
-      "CDN0000068": {
-        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
-      },
       "GDN0000088": {
         "name": "[하바]클라부 미니카세트",
         "age": "24개월 이상 ~",
@@ -4594,11 +4589,6 @@
         "name": "공룡벨로시랩터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_18.jpg"
-      },
-      "CDN0000016": {
-        "name": "루키미러",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_68.jpg"
       },
       "GBN0000000": {
         "name": "가드닝카트",
