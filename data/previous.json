@@ -1146,11 +1146,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590041042006.JPG"
       },
-      "DDN0000032": {
-        "name": "[플랜토이즈]공룡퍼즐",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061902481.png"
-      },
       "GEN0000015": {
         "name": "맨하탄블럭",
         "age": "1개월 이상 ~",
@@ -1315,6 +1310,11 @@
         "name": "공룡피규어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
+      },
+      "DDN0000032": {
+        "name": "[플랜토이즈]공룡퍼즐",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061902481.png"
       },
       "GEN0000016": {
         "name": "시티우드퍼즐",
@@ -2881,11 +2881,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607064333706.jpg"
       },
-      "GDN0000161": {
-        "name": "뽀로로 멜로디 큐브버스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221373781.png"
-      },
       "GDN0000082": {
         "name": "[바조]탈것세트",
         "age": "12개월 이상 ~",
@@ -3545,6 +3540,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729908695762.png"
       },
+      "ABN0000010": {
+        "name": "[립프]아이스크림카트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
+      },
       "KDN0000120": {
         "name": "[고덕점] 뉴 알파벳 학습 버스",
         "age": "12개월 이상 ~",
@@ -3719,11 +3719,6 @@
         "name": "[고덕점] 엄마까투리 멜로디 풍차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
-      },
-      "DDN0000024": {
-        "name": "[블루]자이언트펭글루",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060855186.png"
       },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
@@ -4039,6 +4034,11 @@
         "name": "[아이코닉스]키즈팝 댄스 파티",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296075559.jpg"
+      },
+      "CGN0000101": {
+        "name": "[엔픽스]점핑 360점퍼루(언더더씨)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434707646.png"
       },
       "GDN0000218": {
         "name": "[브이텍]  2in1 다이노파크",
