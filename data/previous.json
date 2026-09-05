@@ -161,11 +161,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593535507.jpg"
       },
-      "DDN0000145": {
-        "name": "[코닉스]타요 주유소플레이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
-      },
       "KBN0000049": {
         "name": "[고덕점] 애프터눈티세트 15피스",
         "age": "36개월 이상 ~",
@@ -4505,11 +4500,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
       },
-      "DDN0000050": {
-        "name": "[하바]반짝이는얼음조각",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067352254.png"
-      },
       "DDN0000079": {
         "name": "[오차드]아기돼지삼형제",
         "age": "36개월 이상 ~",
@@ -5120,11 +5110,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777291297.jpg"
       },
-      "DDN0000023": {
-        "name": "[블루]가블리트가블러스",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060725953.png"
-      },
       "DDN0000033": {
         "name": "[하베브릭스]자석블록",
         "age": "12개월 이상 ~",
@@ -5524,6 +5509,11 @@
         "name": "[스틱오]아기상어 패밀리 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553844383.png"
+      },
+      "DGN0000013": {
+        "name": "[코닉스]띠띠뽀에듀테이블",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554100854.png"
       },
       "DDN0000157": {
         "name": "[보쉬토이]주차타워 3단",
@@ -5959,11 +5949,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778818253907.png"
       },
-      "CWN0000013": {
-        "name": "[한복]분홍은비",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1781764374387.png"
-      },
       "HSN0000088": {
         "name": "[물놀이팩]샤크수영복(XL)+모래놀이",
         "age": "24개월 이상 ~",
@@ -5988,6 +5973,11 @@
         "name": "[한복]소미보라",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1781766265119.png"
+      },
+      "CWN0000013": {
+        "name": "[한복]분홍은비",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1781764374387.png"
       },
       "HSN0000029": {
         "name": "[놀이팩]콩순이 응가습관 콩콩이",
