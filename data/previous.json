@@ -926,15 +926,15 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034838117.jpg"
       },
-      "ADN0000014": {
-        "name": "[에드토이]공중수단3종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773225279.jpg"
-      },
       "CDN0000038": {
         "name": "볼트랙-락킹보트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
+      },
+      "ADN0000014": {
+        "name": "[에드토이]공중수단3종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773225279.jpg"
       },
       "MBN0000065": {
         "name": "오즈토이 케이레스큐 공구놀이 리빙박스",
@@ -3889,6 +3889,11 @@
         "name": "[고덕점] 컵쌓기 & 액티비티 볼 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539581250.png"
+      },
+      "KDN0000040": {
+        "name": "[고덕점] 스스로 굴러가는 3in1매직볼",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540985780.png"
       },
       "KAN0000016": {
         "name": "[고덕점] 오볼 개구리볼",
