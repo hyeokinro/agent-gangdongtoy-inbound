@@ -911,11 +911,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295945613.jpg"
       },
-      "ADN0000052": {
-        "name": "애플 알파벳 사운드 북",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201104352.png"
-      },
       "KDN0000060": {
         "name": "[고덕점] 팝피 토피",
         "age": "6개월 이상 ~",
@@ -2080,11 +2075,6 @@
         "name": "[아이누리]핑크퐁레이싱",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071097282.png"
-      },
-      "GDN0000183": {
-        "name": "[브랜드B] 팝핑웨일",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
       },
       "KDN0000095": {
         "name": "[고덕점] 뮤직운전대",
@@ -4210,6 +4200,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
       },
+      "AFN0000006": {
+        "name": "[경화]스프링카(분홍)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778146115.jpg"
+      },
       "DDN0000045": {
         "name": "[하바]마법의소리게임",
         "age": "12개월 이상 ~",
@@ -4619,6 +4614,11 @@
         "name": "[브이텍]뛰뛰빵빵 기차놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557934442.png"
+      },
+      "DDN0000135": {
+        "name": "[립프로그] 립스토리",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563957210.png"
       },
       "KDN0000151": {
         "name": "[고덕점]아기곰저울&숫자놀이",
@@ -5154,6 +5154,11 @@
         "name": "[홀라]팜 트럭세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671497348388.PNG"
+      },
+      "DDN0000131": {
+        "name": "[레드박스]팝업동물농장",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672194271073.PNG"
       },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
