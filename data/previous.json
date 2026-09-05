@@ -1896,11 +1896,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433142189.png"
       },
-      "AGN0000017": {
-        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
-      },
       "GDN0000073": {
         "name": "덤프트럭(핑크)",
         "age": "12개월 이상 ~",
@@ -1940,6 +1935,11 @@
         "name": "Mountains small arch stacker",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594272145.JPG"
+      },
+      "AGN0000017": {
+        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
       },
       "GCN0000004": {
         "name": "물고기드럼",
@@ -2240,11 +2240,6 @@
         "name": "[피셔프라이스] 링키멀스 풀어롱 고슴도치",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504646137.PNG"
-      },
-      "CBN0000065": {
-        "name": "[립프로그]아이스크림카트 민트초코",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349245017.png"
       },
       "KDN0000067": {
         "name": "[고덕점] 모양 맞추기",
