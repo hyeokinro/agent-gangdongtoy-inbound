@@ -3330,11 +3330,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771868270.JPG"
       },
-      "GDN0000020": {
-        "name": "반짝반짝케이크링",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031551040.jpg"
-      },
       "ADN0000001": {
         "name": "[사라앤]도로레스&카스버트",
         "age": "12개월 이상 ~",
@@ -3415,11 +3410,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592892985.JPG"
       },
-      "GDN0000208": {
-        "name": "[홀라베이비] 로봇 공구놀이 9in1",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
-      },
       "DDN0000117": {
         "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
         "age": "1개월 이상 ~",
@@ -3495,11 +3485,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590829237.jpg"
       },
-      "GFN0000010": {
-        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
-      },
       "GBN0000161": {
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
         "age": "36개월 이상 ~",
@@ -3510,15 +3495,25 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
+      "GFN0000010": {
+        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
+      },
       "GDN0000002": {
         "name": "세븐 롤러코스터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033656451.jpg"
       },
-      "KDN0000059": {
-        "name": "[고덕점] 스키핑스톤",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
+      "GDN0000208": {
+        "name": "[홀라베이비] 로봇 공구놀이 9in1",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
+      },
+      "GBN0000168": {
+        "name": "[슐라이히] 공룡 9종 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423123360.png"
       },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
@@ -3559,11 +3554,6 @@
         "name": "[미미월드] 타요 차고지 스페셜 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260853438.png"
-      },
-      "GBN0000168": {
-        "name": "[슐라이히] 공룡 9종 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423123360.png"
       },
       "GBN0000169": {
         "name": "[슐라이히] 야생동물세트 17종",
@@ -3879,11 +3869,6 @@
         "name": "악기 웨이브드럼(레드)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590041042006.JPG"
-      },
-      "GEN0000002": {
-        "name": "Sand stacking tower",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057234087.JPG"
       },
       "CBN0000020": {
         "name": "쿡&다이닝세트",
