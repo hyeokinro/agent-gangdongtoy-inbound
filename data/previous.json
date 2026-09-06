@@ -996,11 +996,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_22.jpg"
       },
-      "CGN0000022": {
-        "name": "와이즈체어 범보부스터(블루)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798696747.png"
-      },
       "GBN0000047": {
         "name": "해양동물세트7종",
         "age": "36개월 이상 ~",
@@ -1125,11 +1120,6 @@
         "name": "[고덕점] 디자인 드릴 로봇",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538497750.png"
-      },
-      "CGN0000104": {
-        "name": "[아이존]베이비워커 걸음마보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435209028.jpg"
       },
       "AGN0000019": {
         "name": "하늘썬별 피아노체육관 걸음마 (블루)",
@@ -1816,11 +1806,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563957210.png"
       },
-      "DDN0000103": {
-        "name": "[레고]배트모빌",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071725866.png"
-      },
       "MBN0000079": {
         "name": "폴라비 원목 케이크 스탠드 티파티 2종세트",
         "age": "24개월 이상 ~",
@@ -2096,6 +2081,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204706127.jpg"
       },
+      "DDN0000103": {
+        "name": "[레고]배트모빌",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071725866.png"
+      },
       "KBN0000048": {
         "name": "[고덕점] 푸쉬앤팝 미니 청소기",
         "age": "36개월 이상 ~",
@@ -2205,11 +2195,6 @@
         "name": "[고덕점] 모양 맞추기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539238781.png"
-      },
-      "DDN0000104": {
-        "name": "[레고]스케이트공원",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
       },
       "DDN0000023": {
         "name": "[블루]가블리트가블러스",
@@ -2490,6 +2475,11 @@
         "name": "[큐비]이상한아파트세트",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072134908.png"
+      },
+      "DDN0000104": {
+        "name": "[레고]스케이트공원",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
       },
       "ABN0000019": {
         "name": "[보육사]목재의사놀이",
