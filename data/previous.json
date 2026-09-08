@@ -46,11 +46,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069561146.png"
       },
-      "DDN0000076": {
-        "name": "[하바]첫번째과수원까마귀",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070229497.png"
-      },
       "GBN0000146": {
         "name": "[토이트론]달님이 에어프라이어",
         "age": "36개월 이상 ~",
@@ -501,6 +496,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540692173.png"
       },
+      "CDN0000007": {
+        "name": "더티디거포크레인",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_59.jpg"
+      },
       "GDN0000175": {
         "name": "옥토넛 탐험선A & 피규어",
         "age": "24개월 이상 ~",
@@ -856,11 +856,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201104352.png"
       },
-      "KDN0000089": {
-        "name": "[고덕점] 코랄리프",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558846426.png"
-      },
       "GBN0000020": {
         "name": "허니비마켓 야채상자",
         "age": "36개월 이상 ~",
@@ -1025,6 +1020,11 @@
         "name": "[키즈]호랑이,표범,사자",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769355982.jpg"
+      },
+      "KDN0000089": {
+        "name": "[고덕점] 코랄리프",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558846426.png"
       },
       "DDN0000038": {
         "name": "[벨레덕]사과",
@@ -5933,11 +5933,6 @@
         "name": "[물놀이팩]오리수영복(XL)+오리물총",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778199355547.png"
-      },
-      "HSN0000012": {
-        "name": "[놀이팩]코코지 마음성장2종세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138524190.png"
       },
       "HSN0000043": {
         "name": "[놀이팩]뉴 또봇W",
