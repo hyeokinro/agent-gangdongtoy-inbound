@@ -551,6 +551,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031023597.jpg"
       },
+      "CFN0000024": {
+        "name": "[씨투엠뉴]랜드로버 붕붕카",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
+      },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
         "age": "36개월 이상 ~",
@@ -2261,11 +2266,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594457968.jpg"
       },
-      "KDN0000125": {
-        "name": "[고덕점] 달님이 에어프라이어",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
-      },
       "KDN0000092": {
         "name": "[고덕점] 로켓모양 맞추기",
         "age": "36개월 이상 ~",
@@ -2335,6 +2335,11 @@
         "name": "[고덕점] 뮤직운전대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
+      },
+      "KDN0000125": {
+        "name": "[고덕점] 달님이 에어프라이어",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
       },
       "DDN0000089": {
         "name": "[바오밥]다이빙피쉬",
@@ -2555,11 +2560,6 @@
         "name": "[맥포머스]스페이스세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069271351.png"
-      },
-      "GBN0000001": {
-        "name": "BBQ카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591363124.jpg"
       },
       "ACN0000013": {
         "name": "뮤지컬 악기5종세트",
@@ -3006,11 +3006,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
       },
-      "KBN0000077": {
-        "name": "[고덕점] 강아지 돌보기놀이 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
-      },
       "DDN0000053": {
         "name": "[맥포머스]원더세트",
         "age": "36개월 이상 ~",
@@ -3275,6 +3270,11 @@
         "name": "반짝반짝뮤지컬걸음마",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
+      },
+      "KBN0000077": {
+        "name": "[고덕점] 강아지 돌보기놀이 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
       },
       "GDN0000142": {
         "name": "멜로디 스마트폰 미키",
@@ -4800,11 +4800,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777417574.jpg"
       },
-      "AGN0000009": {
-        "name": "[브라이트]미키마우스락커",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779059096.jpg"
-      },
       "AGN0000013": {
         "name": "[콤비]보행기",
         "age": "6개월 이상 ~",
@@ -5499,6 +5494,11 @@
         "name": "[쿠쿠]로보카폴리그네",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759996416.jpg"
+      },
+      "AAN0000016": {
+        "name": "[쁘띠베베]러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
       },
       "DDN0000025": {
         "name": "[하페]몬스터수셈저울",
