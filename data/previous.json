@@ -281,11 +281,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
       },
-      "DDN0000029": {
-        "name": "[자노드]청키퍼즐비히클/팜",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
-      },
       "KDN0000097": {
         "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
         "age": "12개월 이상 ~",
@@ -330,6 +325,11 @@
         "name": "뉴 농장꼭지퍼즐",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_92.jpg"
+      },
+      "AFN0000010": {
+        "name": "코레카 소방차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771868270.JPG"
       },
       "GDN0000061": {
         "name": "클라부 경찰추격전놀이세트",
@@ -825,6 +825,11 @@
         "name": "[호와]모닝커피세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768245873.jpg"
+      },
+      "CGN0000089": {
+        "name": "[비키즈]망아지 플레이테이블 (걸음마)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
       },
       "AFN0000002": {
         "name": "[대호토이즈]실내용BMW(레드)",
@@ -1501,6 +1506,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733212241665.jpg"
       },
+      "KBN0000065": {
+        "name": "[고덕점] 키티 피크닉가방",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567425121.png"
+      },
       "KDN0000132": {
         "name": "[고덕점] 주니어퓨처북 옥토넛펜",
         "age": "36개월 이상 ~",
@@ -1755,11 +1765,6 @@
         "name": "[하페]레인보우기차세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631598615.png"
-      },
-      "CDN0000078": {
-        "name": "[홀라]디제이파티드럼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207199181.JPG"
       },
       "GDN0000126": {
         "name": "[대성]벤츠 아록스 덤프트럭",
@@ -2756,11 +2761,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780028525146.png"
       },
-      "CDN0000079": {
-        "name": "[브이텍]춤추는 강아지",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
-      },
       "GEN0000013": {
         "name": "6가지 계절그림 맞추기큐브",
         "age": "12개월 이상 ~",
@@ -2780,6 +2780,11 @@
         "name": "[고덕점] 액티비티 보드게임",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555505993.png"
+      },
+      "CDN0000079": {
+        "name": "[브이텍]춤추는 강아지",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207179624.jpg"
       },
       "KDN0000138": {
         "name": "[고덕점] 할리갈리 컵스 딜럭스",
