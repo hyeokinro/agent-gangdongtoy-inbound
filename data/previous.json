@@ -266,15 +266,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070609185.png"
       },
-      "GDN0000202": {
-        "name": "[리틀타익스] 리틀큐티버그",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257074054.png"
-      },
       "DDN0000145": {
         "name": "[코닉스]타요 주유소플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
+      },
+      "GDN0000202": {
+        "name": "[리틀타익스] 리틀큐티버그",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257074054.png"
       },
       "KDN0000097": {
         "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
@@ -1435,11 +1435,6 @@
         "name": "시티우드퍼즐",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594816394.jpg"
-      },
-      "GDN0000206": {
-        "name": "[브루더] MAN 트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259294701.png"
       },
       "GEN0000032": {
         "name": "공룡입체퍼즐",
@@ -3800,11 +3795,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
-      "KDN0000094": {
-        "name": "[고덕점] 츄츄레일",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
-      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -3839,6 +3829,11 @@
         "name": "[하바]클라부 소방서 화재진압놀이세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415866554.jpg"
+      },
+      "KDN0000094": {
+        "name": "[고덕점] 츄츄레일",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
@@ -4024,11 +4019,6 @@
         "name": "[엔픽스]스텝 360보행기(크림그레이)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434809214.jpg"
-      },
-      "CFN0000024": {
-        "name": "[씨투엠뉴]랜드로버 붕붕카",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
       },
       "CBN0000070": {
         "name": "[컬렉타]야생동물 30종",
@@ -5903,11 +5893,6 @@
         "name": "[캠핑팩]테이블체어세트(아이보리)",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1786078009782.png"
-      },
-      "HSN0000101": {
-        "name": "[캠핑팩]텐트+토이빔(스토리텔링)",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1786077864077.png"
       },
       "HSN0000099": {
         "name": "[캠핑팩]곤충채집도구",
