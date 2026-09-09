@@ -326,11 +326,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563398685.png"
       },
-      "AGN0000007": {
-        "name": "[브라이트]컴포트스윙",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
-      },
       "GDN0000075": {
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
@@ -1140,11 +1135,6 @@
         "name": "오즈토이 케이레스큐 공구놀이 리빙박스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959638075.png"
-      },
-      "KDN0000152": {
-        "name": "[고덕점]뽀로로 자동차마을 & 타워",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910157580.png"
       },
       "MAN0000028": {
         "name": "디에인샵 비행기 점퍼루 아기쏘서",
@@ -2191,11 +2181,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558282617.png"
       },
-      "GDN0000152": {
-        "name": "전동드릴 공구놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
-      },
       "CAN0000057": {
         "name": "[키움하우스]팝핑 워커 거북이",
         "age": "36개월 이상 ~",
@@ -2695,11 +2680,6 @@
         "name": "[고덕점] 쿠킹 조리세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567648625.png"
-      },
-      "ADN0000066": {
-        "name": "[블루래빗]아기오리랑 마마덕",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1764055568675.JPG"
       },
       "GCN0000021": {
         "name": "펀아토 베이비베이스 기타",
@@ -3460,11 +3440,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
       },
-      "GDN0000193": {
-        "name": "[브라이트스타트] 공놀이 개구리 연못",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765085237887.png"
-      },
       "GEN0000035": {
         "name": "애완동물입체퍼즐",
         "age": "24개월 이상 ~",
@@ -3559,6 +3534,11 @@
         "name": "어라운드음악놀이",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
+      },
+      "GDN0000193": {
+        "name": "[브라이트스타트] 공놀이 개구리 연못",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765085237887.png"
       },
       "GBN0000162": {
         "name": "[에프비존] 사랑의 하츄핑 마이크",
@@ -5350,11 +5330,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540056044.png"
       },
-      "KDN0000138": {
-        "name": "[고덕점] 할리갈리 컵스 딜럭스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554722819.png"
-      },
       "KCN0000018": {
         "name": "[고덕점] 정글잼 악기세트",
         "age": "24개월 이상 ~",
@@ -5444,11 +5419,6 @@
         "name": "[브이텍] 타이거 락 기타",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
-      },
-      "GBN0000159": {
-        "name": "[아이코닉스] 뽀로로 말하는 바코드 계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765256884446.png"
       },
       "GDN0000210": {
         "name": "[큐블로] 매직큐브 스피드레이서",
@@ -5564,11 +5534,6 @@
         "name": "[브이텍]3단계 말하는 얼룩말 스쿠터",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
-      },
-      "AGN0000015": {
-        "name": "띠띠뽀 에듀 테이블",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365070881.png"
       },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
@@ -5769,6 +5734,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778140213606.png"
       },
+      "HSN0000057": {
+        "name": "[물놀이팩]쥬라기수영복+오리튜브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1783129950131.png"
+      },
       "HSN0000076": {
         "name": "[물놀이팩]러싱워터테이블",
         "age": "24개월 이상 ~",
@@ -5793,6 +5763,11 @@
         "name": "[캠핑팩]테이블체어세트(아이보리)",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1786078009782.png"
+      },
+      "HSN0000101": {
+        "name": "[캠핑팩]텐트+토이빔(스토리텔링)",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1786077864077.png"
       },
       "HSN0000099": {
         "name": "[캠핑팩]곤충채집도구",
@@ -5988,6 +5963,11 @@
         "name": "[캠핑팩]모기장옷+모자세트(블랙XS)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1786077152586.png"
+      },
+      "HSN0000048": {
+        "name": "[물놀이팩]구명조끼+보트모래놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139295178.png"
       },
       "HSN0000081": {
         "name": "[물놀이팩]풀장+목욕책",
