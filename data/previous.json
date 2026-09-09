@@ -3465,16 +3465,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
       },
-      "CGN0000107": {
-        "name": "[코니스]에듀테이블 워커",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
-      },
-      "KCN0000019": {
-        "name": "[고덕점] 라이트봉고드럼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
-      },
       "GBN0000036": {
         "name": "아이스크림만들기",
         "age": "36개월 이상 ~",
@@ -3589,6 +3579,11 @@
         "name": "[에프비존] 사랑의 하츄핑 마이크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259555753.png"
+      },
+      "KCN0000019": {
+        "name": "[고덕점] 라이트봉고드럼",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
       },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
@@ -3785,20 +3780,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167667336.png"
       },
-      "KDN0000090": {
-        "name": "[고덕점] 로더심플 페리보트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
-      },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
-      "DDN0000118": {
-        "name": "[브라이트스타트]뉴 ABC러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
       },
       "GEN0000023": {
         "name": "알록달록구슬세기",
@@ -3960,6 +3945,21 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
+      "GBN0000169": {
+        "name": "[슐라이히] 야생동물세트 17종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423256106.png"
+      },
+      "GDN0000026": {
+        "name": "레코딩무선전화놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
+      },
+      "GBN0000081": {
+        "name": "뽀로로 변신 구급차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
+      },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
         "age": "36개월 이상 ~",
@@ -4009,11 +4009,6 @@
         "name": "[미미월드] 타요 차고지 스페셜 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260853438.png"
-      },
-      "GBN0000169": {
-        "name": "[슐라이히] 야생동물세트 17종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423256106.png"
       },
       "CCN0000010": {
         "name": "컬러풀아기피아노",
