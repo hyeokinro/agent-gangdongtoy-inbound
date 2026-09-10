@@ -766,11 +766,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800037561.jpg"
       },
-      "DDN0000044": {
-        "name": "[플랜토이즈]망치놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
-      },
       "CBN0000017": {
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
@@ -1176,11 +1171,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958018487.png"
       },
-      "CDN0000097": {
-        "name": "[브이텍]6in1 트위스트 에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432672724.jpg"
-      },
       "CBN0000005": {
         "name": "공룡프테라노돈",
         "age": "36개월 이상 ~",
@@ -1575,11 +1565,6 @@
         "name": "[하바]플라워페깅게임",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067483787.png"
-      },
-      "KDN0000074": {
-        "name": "[고덕점] 타요 중앙차고지놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559619534.png"
       },
       "DDN0000059": {
         "name": "[맥포머스]프린세스세트",
@@ -2615,11 +2600,6 @@
         "name": "공놀이 고래",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
-      },
-      "KDN0000083": {
-        "name": "[고덕점] 카캐리어세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559018228.png"
       },
       "GBN0000148": {
         "name": "[멜리사앤더그]쥬스 5종",
@@ -5599,6 +5579,11 @@
         "name": "[고덕점] 뿡뿡이 컵쌓기 블록",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540420642.png"
+      },
+      "KAN0000009": {
+        "name": "[고덕점] 액티비티 가든",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541625180.png"
       },
       "KDN0000064": {
         "name": "[고덕점] 스쿨버스",
