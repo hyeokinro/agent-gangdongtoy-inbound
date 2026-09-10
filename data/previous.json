@@ -1611,6 +1611,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193574431.PNG"
       },
+      "DDN0000075": {
+        "name": "[하바]낚시놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070193297.png"
+      },
       "DDN0000058": {
         "name": "[맥포머스]디자이너세트",
         "age": "36개월 이상 ~",
@@ -1675,11 +1680,6 @@
         "name": "[고덕점] 도형끼우기 드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
-      },
-      "DDN0000137": {
-        "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
       },
       "CDN0000099": {
         "name": "[아이코닉스]타요 생일케이크",
@@ -3700,11 +3700,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427999457.png"
       },
-      "CDN0000023": {
-        "name": "비행기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
-      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -3924,6 +3919,11 @@
         "name": "[엔픽스]스텝 360보행기(크림그레이)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434809214.jpg"
+      },
+      "KDN0000059": {
+        "name": "[고덕점] 스키핑스톤",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
       "KDN0000136": {
         "name": "[고덕점] 에듀볼",
@@ -4484,11 +4484,6 @@
         "name": "[코닉스]레스큐타요 sos출동센터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563131969.png"
-      },
-      "DDN0000137": {
-        "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
       },
       "DDN0000136": {
         "name": "[코코멜론]제이제이 인형(영어)",
