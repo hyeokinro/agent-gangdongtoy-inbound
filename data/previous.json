@@ -1146,11 +1146,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959638075.png"
       },
-      "DDN0000150": {
-        "name": "[토이세븐]하츄핑 청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557855610.png"
-      },
       "MAN0000028": {
         "name": "디에인샵 비행기 점퍼루 아기쏘서",
         "age": "6개월 이상 ~",
@@ -1215,11 +1210,6 @@
         "name": "[주영이엔시]뽀로로 멜로디 생일케이크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204874946.jpg"
-      },
-      "CDN0000101": {
-        "name": "[브라이트]공놀이 코끼리버스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435467120.jpg"
       },
       "GDN0000086": {
         "name": "[라두가그레이즈]숲속동물세트",
@@ -1620,6 +1610,11 @@
         "name": "[맥포머스]디자이너세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069314440.png"
+      },
+      "CDN0000101": {
+        "name": "[브라이트]공놀이 코끼리버스",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435467120.jpg"
       },
       "GDN0000171": {
         "name": "와일드 어드벤처 애니멀 구조대",
@@ -2646,11 +2641,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780017086025.png"
       },
-      "KDN0000098": {
-        "name": "[고덕점] 도형 맞추기 시계",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538324726.png"
-      },
       "KDN0000048": {
         "name": "[고덕점] 엄마까투리 두리 하우스",
         "age": "36개월 이상 ~",
@@ -3166,11 +3156,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067259977.png"
       },
-      "CAN0000058": {
-        "name": "[아이코닉스]3in1 스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349870151.png"
-      },
       "KBN0000055": {
         "name": "[고덕점] 채소썰기놀이",
         "age": "36개월 이상 ~",
@@ -3514,11 +3499,6 @@
         "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
-      },
-      "CEN0000005": {
-        "name": "뉴 해양꼭지퍼즐",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
       },
       "KBN0000062": {
         "name": "[고덕점] 점보공룡",
@@ -3924,6 +3904,11 @@
         "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521128844.PNG"
+      },
+      "GBN0000080": {
+        "name": "뽀로로 변신 경찰차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
       },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
