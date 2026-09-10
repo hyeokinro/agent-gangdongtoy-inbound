@@ -786,11 +786,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
       },
-      "GFN0000010": {
-        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
-      },
       "CBN0000017": {
         "name": "원목찻잔세트",
         "age": "36개월 이상 ~",
@@ -1195,11 +1190,6 @@
         "name": "아이팜 힘찬 포크레인 붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958018487.png"
-      },
-      "KDN0000150": {
-        "name": "[고덕점]큐블로 매직큐브  자석블럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910311268.png"
       },
       "CDN0000097": {
         "name": "[브이텍]6in1 트위스트 에듀큐브",
@@ -3151,11 +3141,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1594096261739.jpg"
       },
-      "CBN0000061": {
-        "name": "[브이텍]2in1 다이노 파크",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349736604.png"
-      },
       "ACN0000005": {
         "name": "[캐스B]원목악기10종",
         "age": "36개월 이상 ~",
@@ -3201,15 +3186,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617761037394.jpg"
       },
+      "CBN0000061": {
+        "name": "[브이텍]2in1 다이노 파크",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349736604.png"
+      },
       "KBN0000055": {
         "name": "[고덕점] 채소썰기놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567742277.png"
-      },
-      "CEN0000008": {
-        "name": "동물농장청키퍼즐",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_97.jpg"
       },
       "CAN0000062": {
         "name": "[비키즈]미러롤러",
@@ -4935,11 +4920,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163005290.png"
       },
-      "GBN0000095": {
-        "name": "소프트미용놀이A형",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163407667.png"
-      },
       "GDN0000140": {
         "name": "레이싱 스테이션",
         "age": "24개월 이상 ~",
@@ -5544,6 +5524,11 @@
         "name": "[베이비아인슈타인]플립기타 2in 1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
+      },
+      "AAN0000006": {
+        "name": "[지나월드]뽀로로그네",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759863935.jpg"
       },
       "AAN0000007": {
         "name": "[쿠쿠]로보카폴리그네",
