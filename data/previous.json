@@ -1136,11 +1136,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034838117.jpg"
       },
-      "DDN0000132": {
-        "name": "[리틀]액티비티 윈도우",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
-      },
       "DDN0000150": {
         "name": "[토이세븐]하츄핑 청소기",
         "age": "36개월 이상 ~",
@@ -1165,6 +1160,11 @@
         "name": "아이팜 힘찬 포크레인 붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958018487.png"
+      },
+      "DDN0000132": {
+        "name": "[리틀]액티비티 윈도우",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
@@ -3590,11 +3590,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221615837.png"
       },
-      "GDN0000165": {
-        "name": "내가바로 축구왕",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221675260.png"
-      },
       "KBN0000074": {
         "name": "[고덕점] 퍼스트 계산대놀이",
         "age": "36개월 이상 ~",
@@ -3890,11 +3885,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
       },
-      "ABN0000007": {
-        "name": "[지아지조]키친토이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
-      },
       "DDN0000056": {
         "name": "[맥포머스]경찰차세트",
         "age": "36개월 이상 ~",
@@ -3944,6 +3934,16 @@
         "name": "[고덕점] 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
+      },
+      "DDN0000081": {
+        "name": "[오차드]덧셈하며등산해요",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070663277.png"
+      },
+      "DDN0000101": {
+        "name": "[레고]스파이더맨본부",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
       "KDN0000102": {
         "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
