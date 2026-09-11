@@ -146,11 +146,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
-      "KDN0000135": {
-        "name": "[고덕점] 엉금엉금멜로디달팽이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
-      },
       "GAN0000014": {
         "name": "고양이와 쥐 푸쉬토이",
         "age": "6개월 이상 ~",
@@ -966,6 +961,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539001900.png"
       },
+      "KDN0000128": {
+        "name": "[고덕점] 걸음마친구 노래하는 공놀이 공룡",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
+      },
       "ADN0000052": {
         "name": "애플 알파벳 사운드 북",
         "age": "24개월 이상 ~",
@@ -1035,6 +1035,11 @@
         "name": "가든쌓기블록",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034961747.jpg"
+      },
+      "KCN0000014": {
+        "name": "[고덕점] 리틀탭어튠실로폰",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538657246.png"
       },
       "GBN0000147": {
         "name": "[꼬마호랑이]소프트 병원놀이 13종",
@@ -1956,11 +1961,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539018198.png"
       },
-      "KDN0000082": {
-        "name": "[고덕점] 특수차량 12종세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559059417.png"
-      },
       "MDN0000016": {
         "name": "맨 TGA 시멘트 믹서와 헬멧 세트",
         "age": "36개월 이상 ~",
@@ -2016,6 +2016,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765345684338.png"
       },
+      "KDN0000087": {
+        "name": "[고덕점] 뉴 ABC테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537962707.png"
+      },
       "KDN0000056": {
         "name": "[고덕점] 에듀테이블",
         "age": "1개월 이상 ~",
@@ -2065,6 +2070,11 @@
         "name": "[레고]비행기와공항",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071603353.png"
+      },
+      "ADN0000055": {
+        "name": "트럭 공구놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
       },
       "GDN0000073": {
         "name": "덤프트럭(핑크)",
@@ -2295,11 +2305,6 @@
         "name": "[브랜드B] 팝핑웨일",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
-      },
-      "ADN0000055": {
-        "name": "트럭 공구놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
       },
       "KCN0000016": {
         "name": "[고덕점] 매직터치 피아노",
@@ -3730,11 +3735,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415866554.jpg"
       },
-      "KDN0000094": {
-        "name": "[고덕점] 츄츄레일",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
-      },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
@@ -3920,10 +3920,20 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070663277.png"
       },
+      "DDN0000101": {
+        "name": "[레고]스파이더맨본부",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
+      },
       "KDN0000102": {
         "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558028279.png"
+      },
+      "KDN0000094": {
+        "name": "[고덕점] 츄츄레일",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
       "DBN0000040": {
         "name": "[피셔]러닝 가든 앤 키친",
@@ -4314,6 +4324,11 @@
         "name": "[하페]레인보우기차세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631598615.png"
+      },
+      "GDN0000089": {
+        "name": "[브리오]디럭스 화물기차세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416007520.jpg"
       },
       "ABN0000002": {
         "name": "[보육사]스탠딩 채소가게",
