@@ -21,6 +21,11 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948399708.JPG"
       },
+      "ABN0000021": {
+        "name": "[캐스돈]다이슨청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
+      },
       "GBN0000170": {
         "name": "[에프비존] 새콤달콤 캐치티니핑 마이 스마트폰",
         "age": "36개월 이상 ~",
@@ -2781,11 +2786,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589870976012.jpg"
       },
-      "GDN0000211": {
-        "name": "[아이존] 뽀로로 변신특공대 S",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765344239553.png"
-      },
       "DEN0000002": {
         "name": "[스틱오]크리에이터 세트",
         "age": "36개월 이상 ~",
@@ -3050,11 +3050,6 @@
         "name": "[벨레덕]바나나",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066443949.png"
-      },
-      "GDN0000198": {
-        "name": "[아이코닉스] 집게트럭 너클",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765247221844.png"
       },
       "CDN0000080": {
         "name": "[비키즈]악어 걸음마 보조기",
@@ -5595,6 +5590,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
       },
+      "CGN0000072": {
+        "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207189878.jpg"
+      },
       "GDN0000153": {
         "name": "빙글빙글 스피닝 라이언",
         "age": "12개월 이상 ~",
@@ -5709,6 +5709,11 @@
         "name": "[리틀타익스]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168707540.png"
+      },
+      "CBN0000060": {
+        "name": "[리틀타익스]퍼스트 세탁기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
       },
       "DDN0000165": {
         "name": "[키움하우스]자석라이팅마블 125피스",
