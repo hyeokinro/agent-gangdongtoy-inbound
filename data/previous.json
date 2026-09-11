@@ -876,11 +876,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
       },
-      "DGN0000012": {
-        "name": "[리틀타익스]4in1 알파벳 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193448051.PNG"
-      },
       "GDN0000136": {
         "name": "에어포트 플레이세트",
         "age": "6개월 이상 ~",
@@ -925,11 +920,6 @@
         "name": "뉴공룡꼭지퍼즐",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_95.jpg"
-      },
-      "GDN0000182": {
-        "name": "[아이코닉스]키즈팝 댄스 파티",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296075559.jpg"
       },
       "CAN0000035": {
         "name": "[보육사/GONGE]아치활동보드 (3개세트)",
@@ -2246,11 +2236,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594457968.jpg"
       },
-      "CBN0000068": {
-        "name": "[영실업]콩순이 말하는 청진기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433142189.png"
-      },
       "GBN0000046": {
         "name": "디럭스농장동물세트18종",
         "age": "36개월 이상 ~",
@@ -2305,6 +2290,11 @@
         "name": "신나는악기세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030442188.jpg"
+      },
+      "CBN0000068": {
+        "name": "[영실업]콩순이 말하는 청진기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433142189.png"
       },
       "GEN0000009": {
         "name": "아파트블럭세트",
@@ -3875,11 +3865,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069733673.png"
       },
-      "ABN0000007": {
-        "name": "[지아지조]키친토이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
-      },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
         "age": "36개월 이상 ~",
@@ -3904,6 +3889,11 @@
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
+      },
+      "ABN0000007": {
+        "name": "[지아지조]키친토이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
       },
       "DDN0000056": {
         "name": "[맥포머스]경찰차세트",
