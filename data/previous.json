@@ -241,15 +241,15 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026689969.jpg"
       },
-      "CBN0000019": {
-        "name": "커피세트(원목)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
-      },
       "GFN0000011": {
         "name": "[중모토이] CAT 로더 푸쉬카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765343668026.png"
+      },
+      "CBN0000019": {
+        "name": "커피세트(원목)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
       },
       "GDN0000134": {
         "name": "[디즈니베이비] 클레멘토니 팔로오  미 미키",
@@ -571,6 +571,11 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062211217.png"
       },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
+      },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
         "age": "36개월 이상 ~",
@@ -681,6 +686,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
       },
+      "KBN0000059": {
+        "name": "[고덕점] 쇼핑카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540709566.png"
+      },
       "DBN0000040": {
         "name": "[피셔]러닝 가든 앤 키친",
         "age": "24개월 이상 ~",
@@ -756,11 +766,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
-      "GDN0000026": {
-        "name": "레코딩무선전화놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
-      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -785,11 +790,6 @@
         "name": "[고덕점] 오볼 개구리볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542340893.png"
-      },
-      "CCN0000016": {
-        "name": "미니밴드",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599792342158.jpg"
       },
       "GBN0000037": {
         "name": "아이스크림카운터놀이",
@@ -1906,11 +1906,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033185737.jpg"
       },
-      "CCN0000014": {
-        "name": "베이비 종합세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562809756803.jpg"
-      },
       "DDN0000071": {
         "name": "[탑브라이트]탈것(경찰차외)",
         "age": "36개월 이상 ~",
@@ -2321,11 +2316,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031427827.jpg"
       },
-      "GDN0000025": {
-        "name": "마이퍼스트러닝하우스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865593493.jpg"
-      },
       "ADN0000034": {
         "name": "[플랜토이즈]램프레이서",
         "age": "12개월 이상 ~",
@@ -2726,11 +2716,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768086087.jpg"
       },
-      "GDN0000038": {
-        "name": "펀타임피싱",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589870976012.jpg"
-      },
       "DEN0000002": {
         "name": "[스틱오]크리에이터 세트",
         "age": "36개월 이상 ~",
@@ -2870,11 +2855,6 @@
         "name": "[구디우디]오리푸쉬",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760364393.jpg"
-      },
-      "GCN0000024": {
-        "name": "[브이텍] 타이거 락 기타",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
       },
       "AAN0000018": {
         "name": "클리어리 볼링",
@@ -5814,11 +5794,6 @@
         "name": "[베네베네] 3in1 라이언 멀티 유아농구대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765422869731.png"
-      },
-      "GDN0000214": {
-        "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765425818204.png"
       },
       "GDN0000219": {
         "name": "[브이텍] 다이노 먹이주기",
