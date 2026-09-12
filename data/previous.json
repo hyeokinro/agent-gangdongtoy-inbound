@@ -1916,11 +1916,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865256445.jpg"
       },
-      "CDN0000065": {
-        "name": "[맬리사엔더그]사운드퍼즐(야행 소방서 악기)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1606897297489.png"
-      },
       "GBN0000049": {
         "name": "티세트(테라&블루)",
         "age": "36개월 이상 ~",
@@ -2171,11 +2166,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557934442.png"
       },
-      "ADN0000043": {
-        "name": "[베이비아인슈타인]터미타임 멜로디 깜짝볼",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204706127.jpg"
-      },
       "GDN0000047": {
         "name": "에코차량운송트럭",
         "age": "12개월 이상 ~",
@@ -2311,6 +2301,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031489996.jpg"
       },
+      "ADN0000043": {
+        "name": "[베이비아인슈타인]터미타임 멜로디 깜짝볼",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204706127.jpg"
+      },
       "GDN0000031": {
         "name": "스스로움직이는 모험왕공룡",
         "age": "12개월 이상 ~",
@@ -2385,11 +2380,6 @@
         "name": "[아이누리]핑크퐁레이싱",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071097282.png"
-      },
-      "AGN0000017": {
-        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
       },
       "CDN0000030": {
         "name": "오뚜기삐에로",
@@ -3735,6 +3725,16 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
       },
+      "CDN0000103": {
+        "name": "[브이텍]러닝 엑티비티 에듀볼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752293705922.png"
+      },
+      "CGN0000099": {
+        "name": "[오비]다용도 러닝워커",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432656787.jpg"
+      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -3895,11 +3895,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
-      "ADN0000056": {
-        "name": "[블루래빗]꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479951809.JPG"
-      },
       "KCN0000020": {
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
         "age": "36개월 이상 ~",
@@ -3920,10 +3915,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
-      "KDN0000136": {
-        "name": "[고덕점] 에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
+      "CDN0000075": {
+        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
+      },
+      "GDN0000144": {
+        "name": "춤추며 배우는 코딩로봇 다이노",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -3945,6 +3945,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
       },
+      "KDN0000136": {
+        "name": "[고덕점] 에듀볼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
+      },
       "KDN0000102": {
         "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
         "age": "36개월 이상 ~",
@@ -3954,6 +3959,11 @@
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
+      },
+      "ADN0000056": {
+        "name": "[블루래빗]꼬꼬맘",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479951809.JPG"
       },
       "DDN0000156": {
         "name": "[손오공]옥토넛탐험선B & 콰지피규어",
@@ -3965,6 +3975,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
       },
+      "CDN0000093": {
+        "name": "[브라이트스타트]공놀이 기린 라이트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349285389.png"
+      },
       "CBN0000070": {
         "name": "[컬렉타]야생동물 30종",
         "age": "36개월 이상 ~",
@@ -3974,6 +3989,11 @@
         "name": "[미미월드] 타요 차고지 스페셜 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260853438.png"
+      },
+      "GDN0000221": {
+        "name": "[영실업] 뉴 또봇 X",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765430197053.png"
       },
       "CGN0000109": {
         "name": "와이즈체어 범보부스터(올리브)",
@@ -4054,6 +4074,11 @@
         "name": "[하페]레드브릿지 기차세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631221901.png"
+      },
+      "ABN0000009": {
+        "name": "[마더가든]오븐베이커리",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767930014.jpg"
       },
       "ABN0000026": {
         "name": "[키즈]호랑이,표범,사자",
@@ -4434,6 +4459,11 @@
         "name": "[주영이엔시]뽀로로 멜로디 생일케이크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204874946.jpg"
+      },
+      "ABN0000035": {
+        "name": "[리틀타익스]퍼스트세탁기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660206005550.jpg"
       },
       "GDN0000131": {
         "name": "[하베브릭스]빅에듀큐브",
@@ -5799,31 +5829,6 @@
         "name": "[하베브릭스] 꼬마몬테 숫자미로",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257728259.png"
-      },
-      "GFN0000007": {
-        "name": "[리틀타익스] 리틀 꼬마 스쿠터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
-      },
-      "GAN0000048": {
-        "name": "[베네베네] 3in1 라이언 멀티 유아농구대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765422869731.png"
-      },
-      "GDN0000214": {
-        "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765425818204.png"
-      },
-      "GDN0000219": {
-        "name": "[브이텍] 다이노 먹이주기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
-      },
-      "GDN0000224": {
-        "name": "[초이락] 헬로카봇 루크X",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431698560.png"
       }
     }
   },
