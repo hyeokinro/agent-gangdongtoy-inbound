@@ -586,20 +586,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
       },
-      "GAN0000045": {
-        "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
-      },
       "ADN0000047": {
         "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
-      },
-      "DDN0000117": {
-        "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
       },
       "GBN0000165": {
         "name": "[원앤원] 콩지래빗 구급차 약국놀이",
@@ -2891,11 +2881,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
       },
-      "GDN0000080": {
-        "name": "에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033978290.jpg"
-      },
       "AAN0000018": {
         "name": "클리어리 볼링",
         "age": "24개월 이상 ~",
@@ -3045,6 +3030,11 @@
         "name": "[리틀타익스] 리틀 꼬마 스쿠터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
+      },
+      "CGN0000015": {
+        "name": "반짝반짝뮤지컬걸음마",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
       },
       "DDN0000053": {
         "name": "[맥포머스]원더세트",
@@ -3322,11 +3312,6 @@
         "name": "[택배][이븐플로]젬세션점프런",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007631018.png"
-      },
-      "CBN0000066": {
-        "name": "[택배][리틀타익스]프린세스 화장대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349223711.png"
       },
       "CGN0000073": {
         "name": "[택배][엔픽스]동물원 에디션 보행기",
@@ -3979,6 +3964,11 @@
         "name": "와이즈체어 범보부스터(올리브)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291345507.png"
+      },
+      "CAN0000010": {
+        "name": "아메리칸미끄럼틀",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_10.jpg"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
