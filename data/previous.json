@@ -1081,11 +1081,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029181805.jpg"
       },
-      "KDN0000060": {
-        "name": "[고덕점] 팝피 토피",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564446654.png"
-      },
       "MDN0000023": {
         "name": "리틀타익스 리틀 더티디거 청소차",
         "age": "36개월 이상 ~",
@@ -1150,6 +1145,11 @@
         "name": "디에인샵 비행기 점퍼루 아기쏘서",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030632649.png"
+      },
+      "KDN0000060": {
+        "name": "[고덕점] 팝피 토피",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564446654.png"
       },
       "CDN0000037": {
         "name": "핍 디럭스15pc(스퀴즈)",
@@ -5284,11 +5284,6 @@
         "name": "[미미]뽀로로코딩컴퓨터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650444413222.PNG"
-      },
-      "ADN0000038": {
-        "name": "[아이존]똑똑한타요버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650510254971.png"
       },
       "GDN0000117": {
         "name": "콩순이 코딩컴퓨터",
