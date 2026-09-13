@@ -2281,11 +2281,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224102932.png"
       },
-      "GDN0000001": {
-        "name": "제니쥬",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033534551.jpg"
-      },
       "KDN0000100": {
         "name": "[고덕점] 공구 상자",
         "age": "24개월 이상 ~",
@@ -4495,11 +4490,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771005210.jpg"
       },
-      "AFN0000004": {
-        "name": "[베케라]스피즈터플레인",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
-      },
       "DDN0000045": {
         "name": "[하바]마법의소리게임",
         "age": "12개월 이상 ~",
@@ -5070,11 +5060,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630127328.png"
       },
-      "GDN0000091": {
-        "name": "[짐보리/맥포머스]미라클브레인세트258",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416150406.jpg"
-      },
       "AAN0000011": {
         "name": "[아이코닉스]뽀로로골프",
         "age": "36개월 이상 ~",
@@ -5240,11 +5225,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221528691.png"
       },
-      "GDN0000173": {
-        "name": "레인보우 회전놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223643846.png"
-      },
       "KDN0000098": {
         "name": "[고덕점] 도형 맞추기 시계",
         "age": "36개월 이상 ~",
@@ -5319,6 +5299,11 @@
         "name": "[고덕점]로즈우드 돌하우스가방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910468539.png"
+      },
+      "AGN0000018": {
+        "name": "[리틀타익스]스쿠터 액티비티 걸음마보조기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168880694.png"
       },
       "ADN0000060": {
         "name": "[윈펀]꼬꼬댁 놀이동산",
