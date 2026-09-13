@@ -2436,11 +2436,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069271351.png"
       },
-      "GDN0000180": {
-        "name": "[브이텍] 트위스트 에듀 큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296246583.jpg"
-      },
       "ACN0000013": {
         "name": "뮤지컬 악기5종세트",
         "age": "12개월 이상 ~",
@@ -2755,6 +2750,11 @@
         "name": "[레고]스케이트공원",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071765199.png"
+      },
+      "GDN0000180": {
+        "name": "[브이텍] 트위스트 에듀 큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296246583.jpg"
       },
       "AAN0000013": {
         "name": "[구디우디]오리푸쉬",
@@ -4424,11 +4424,6 @@
         "name": "[핑크퐁]아기상어 레일 기차놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435088010.jpg"
-      },
-      "CDN0000101": {
-        "name": "[브라이트]공놀이 코끼리버스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435467120.jpg"
       },
       "GDN0000195": {
         "name": "[브라이트스타트] 공놀이 코끼리 버스",
