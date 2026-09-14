@@ -2386,11 +2386,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221528691.png"
       },
-      "GDN0000040": {
-        "name": "공놀이 고래",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
-      },
       "CAN0000034": {
         "name": "[보육사/GONGE]슈퍼에어보드",
         "age": "36개월 이상 ~",
@@ -2535,6 +2530,11 @@
         "name": "[멜리사앤]설거지놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768086087.jpg"
+      },
+      "GDN0000040": {
+        "name": "공놀이 고래",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
       },
       "DEN0000002": {
         "name": "[스틱오]크리에이터 세트",
@@ -3410,6 +3410,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168762213.png"
       },
+      "CDN0000076": {
+        "name": "[메가블럭]블럭놀이 테이블 30PCS",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207218733.jpg"
+      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -3625,11 +3630,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
-      "KDN0000102": {
-        "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558028279.png"
-      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -3639,6 +3639,11 @@
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
+      },
+      "KDN0000102": {
+        "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558028279.png"
       },
       "ADN0000056": {
         "name": "[블루래빗]꼬꼬맘",
@@ -4445,6 +4450,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504112200.PNG"
       },
+      "ADN0000051": {
+        "name": "스마트 러닝 포크레인",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672200639385.png"
+      },
       "ADN0000053": {
         "name": "키즈팝 댄스 파티",
         "age": "36개월 이상 ~",
@@ -4864,6 +4874,11 @@
         "name": "[고덕점]아기곰저울&숫자놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910238791.png"
+      },
+      "ADN0000064": {
+        "name": "[브이텍]6IN1 트위스트 에듀큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168842913.png"
       },
       "ADN0000062": {
         "name": "[현우토이]원목 낚시 놀이 10p",
