@@ -1431,11 +1431,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780029864871.png"
       },
-      "ACN0000008": {
-        "name": "[지나월드]뽀로로드럼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771078086.jpg"
-      },
       "GDN0000138": {
         "name": "로더심플 비행기 공구놀이세트",
         "age": "6개월 이상 ~",
@@ -4600,6 +4595,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433409969.jpg"
       },
+      "CGN0000105": {
+        "name": "[타이니러브]수더메도우 모빌(흑백+홀더)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435286403.jpg"
+      },
       "AFN0000009": {
         "name": "코레카 경찰차",
         "age": "12개월 이상 ~",
@@ -4809,6 +4809,11 @@
         "name": "[고덕점] 노아의 방주",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537946226.png"
+      },
+      "KDN0000057": {
+        "name": "[고덕점] 똑똑한 꼬마버스 타요",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538675288.png"
       },
       "KCN0000016": {
         "name": "[고덕점] 매직터치 피아노",
@@ -5584,6 +5589,11 @@
         "name": "[브이텍] 3in1 스포츠 센터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480767102.JPG"
+      },
+      "DEN0000001": {
+        "name": "[스틱오]아기상어 패밀리 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553844383.png"
       },
       "DDN0000157": {
         "name": "[보쉬토이]주차타워 3단",
