@@ -166,6 +166,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
+      "KDN0000075": {
+        "name": "[고덕점] 반짝반짝 케이크링쌓기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
+      },
       "MDN0000018": {
         "name": "리틀타익스 더티디거 시리즈 불도저",
         "age": "36개월 이상 ~",
@@ -270,11 +275,6 @@
         "name": "[고덕점] 점보공룡",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567519736.png"
-      },
-      "KDN0000075": {
-        "name": "[고덕점] 반짝반짝 케이크링쌓기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
       },
       "CEN0000003": {
         "name": "뉴 농장꼭지퍼즐",
@@ -886,6 +886,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539001900.png"
       },
+      "KDN0000128": {
+        "name": "[고덕점] 걸음마친구 노래하는 공놀이 공룡",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
+      },
       "ADN0000052": {
         "name": "애플 알파벳 사운드 북",
         "age": "24개월 이상 ~",
@@ -1346,11 +1351,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672137047.jpg"
       },
-      "CDN0000101": {
-        "name": "[브라이트]공놀이 코끼리버스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435467120.jpg"
-      },
       "ABN0000017": {
         "name": "[보육사]과일야채컷팅",
         "age": "36개월 이상 ~",
@@ -1505,6 +1505,11 @@
         "name": "[맥포머스]디자이너세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069314440.png"
+      },
+      "CDN0000101": {
+        "name": "[브라이트]공놀이 코끼리버스",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435467120.jpg"
       },
       "GDN0000171": {
         "name": "와일드 어드벤처 애니멀 구조대",
@@ -2831,11 +2836,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1594096261739.jpg"
       },
-      "CEN0000008": {
-        "name": "동물농장청키퍼즐",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_97.jpg"
-      },
       "ACN0000005": {
         "name": "[캐스B]원목악기10종",
         "age": "36개월 이상 ~",
@@ -3644,6 +3644,11 @@
         "name": "[고덕점]실제같은 쇼핑카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
+      },
+      "DDN0000164": {
+        "name": "[지오맥]매직큐브프리빌딩 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
       },
       "CBN0000070": {
         "name": "[컬렉타]야생동물 30종",
@@ -5144,6 +5149,11 @@
         "name": "[립프로그]ABC 스마트 싱크대",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204632368.jpg"
+      },
+      "ADN0000050": {
+        "name": "[영진완구]핑크퐁 원더스타 소방관제센터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205388397.PNG"
       },
       "ABN0000036": {
         "name": "[아이플러스]핑크퐁 진동벨 계산대",
