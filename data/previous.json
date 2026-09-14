@@ -166,11 +166,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
-      "KDN0000075": {
-        "name": "[고덕점] 반짝반짝 케이크링쌓기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
-      },
       "MDN0000018": {
         "name": "리틀타익스 더티디거 시리즈 불도저",
         "age": "36개월 이상 ~",
@@ -276,6 +271,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567519736.png"
       },
+      "KDN0000075": {
+        "name": "[고덕점] 반짝반짝 케이크링쌓기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
+      },
       "CEN0000003": {
         "name": "뉴 농장꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -315,6 +315,11 @@
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032360550.jpg"
+      },
+      "CCN0000024": {
+        "name": "[비키즈]뮤직센터(10-IN-1)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432864086.png"
       },
       "GBN0000006": {
         "name": "리본도트주방놀이",
@@ -880,11 +885,6 @@
         "name": "[고덕점] 리틀 트레인",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539001900.png"
-      },
-      "KDN0000128": {
-        "name": "[고덕점] 걸음마친구 노래하는 공놀이 공룡",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
       },
       "ADN0000052": {
         "name": "애플 알파벳 사운드 북",
@@ -3490,11 +3490,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765342907023.png"
       },
-      "GDN0000002": {
-        "name": "세븐 롤러코스터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033656451.jpg"
-      },
       "GBN0000168": {
         "name": "[슐라이히] 공룡 9종 세트",
         "age": "36개월 이상 ~",
@@ -3595,6 +3590,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
+      },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
         "age": "24개월 이상 ~",
@@ -3604,11 +3604,6 @@
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
-      },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
