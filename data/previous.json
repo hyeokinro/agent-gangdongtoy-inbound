@@ -316,11 +316,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
       },
-      "AGN0000011": {
-        "name": "[페도라]카시트(블랙)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779135844.jpg"
-      },
       "GDN0000075": {
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
@@ -871,11 +866,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026963427.jpg"
       },
-      "DDN0000144": {
-        "name": "[코닉스]뽀로로EQ테마파크",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562724440.png"
-      },
       "ADN0000027": {
         "name": "[브레인숲]하우스블록44",
         "age": "36개월 이상 ~",
@@ -925,6 +915,11 @@
         "name": "강아지 도형끼우기차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671917972.jpg"
+      },
+      "DDN0000144": {
+        "name": "[코닉스]뽀로로EQ테마파크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562724440.png"
       },
       "GDN0000176": {
         "name": "옥토포드 슬라이딩 액션 플레이",
@@ -1710,11 +1705,6 @@
         "name": "[벨레덕]감자",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066724140.png"
-      },
-      "DDN0000129": {
-        "name": "[레드박스]경찰놀이 가방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193688069.PNG"
       },
       "KBN0000056": {
         "name": "[고덕점] 야채 피자세트",
@@ -2510,11 +2500,6 @@
         "name": "[윈펀]꼬꼬댁 놀이동산",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
-      },
-      "DDN0000139": {
-        "name": "[코닉스]타요 액션 소방센터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563480536.png"
       },
       "GEN0000012": {
         "name": "오감발달블럭",
