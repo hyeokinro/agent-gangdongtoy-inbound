@@ -891,11 +891,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
       },
-      "KGN0000009": {
-        "name": "[고덕점]알루 에듀하우스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729907890236.png"
-      },
       "ADN0000014": {
         "name": "[에드토이]공중수단3종",
         "age": "36개월 이상 ~",
@@ -3480,6 +3475,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
       },
+      "CGN0000023": {
+        "name": "와이즈체어 범보부스터(핑크)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_142.jpg"
+      },
       "GDN0000158": {
         "name": "립스토리 [한영버전]",
         "age": "24개월 이상 ~",
@@ -3675,10 +3675,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
+      "GDN0000144": {
+        "name": "춤추며 배우는 코딩로봇 다이노",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
@@ -3689,6 +3689,11 @@
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
@@ -4754,6 +4759,11 @@
         "name": "제니쥬",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033534551.jpg"
+      },
+      "CAN0000032": {
+        "name": "뉴 오볼롤러",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791727157.jpg"
       },
       "CBN0000011": {
         "name": "병원놀이(원목)",
