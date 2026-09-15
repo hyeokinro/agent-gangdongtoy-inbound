@@ -526,11 +526,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070663277.png"
       },
-      "GDN0000020": {
-        "name": "반짝반짝케이크링",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031551040.jpg"
-      },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
@@ -540,6 +535,11 @@
         "name": "딸랑이기차",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031023597.jpg"
+      },
+      "GDN0000020": {
+        "name": "반짝반짝케이크링",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031551040.jpg"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
@@ -1815,11 +1815,6 @@
         "name": "기차세트 스타터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166793879.png"
-      },
-      "CGN0000106": {
-        "name": "[먼치킨]블루투스 자동스윙",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435486649.jpg"
       },
       "ADN0000015": {
         "name": "[에드토이]역할차량5종",
@@ -3990,6 +3985,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793169638.jpg"
       },
+      "CBN0000024": {
+        "name": "컬렉타 공룡 11종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798077552.jpg"
+      },
       "CAN0000035": {
         "name": "[보육사/GONGE]아치활동보드 (3개세트)",
         "age": "36개월 이상 ~",
@@ -4680,15 +4680,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
       },
+      "CDN0000065": {
+        "name": "[맬리사엔더그]사운드퍼즐(야행 소방서 악기)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1606897297489.png"
+      },
       "DDN0000045": {
         "name": "[하바]마법의소리게임",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
-      },
-      "DDN0000079": {
-        "name": "[오차드]아기돼지삼형제",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070553635.png"
       },
       "DDN0000099": {
         "name": "[레고]공룡탈출",
