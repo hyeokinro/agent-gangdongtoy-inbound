@@ -3590,11 +3590,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672365343515.png"
       },
-      "CCN0000024": {
-        "name": "[비키즈]뮤직센터(10-IN-1)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432864086.png"
-      },
       "GBN0000003": {
         "name": "(영어)아이스크림카트",
         "age": "24개월 이상 ~",
@@ -3620,15 +3615,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
       },
+      "CCN0000024": {
+        "name": "[비키즈]뮤직센터(10-IN-1)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432864086.png"
+      },
       "GBN0000157": {
         "name": "[미미월드] 똘똘이 딸기농장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
-      },
-      "CGN0000107": {
-        "name": "[코니스]에듀테이블 워커",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
       },
       "KDN0000055": {
         "name": "[고덕점] 마그네틱 블록 잠수비행기",
@@ -3819,6 +3814,11 @@
         "name": "[오차드]덧셈하며등산해요",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070663277.png"
+      },
+      "DDN0000101": {
+        "name": "[레고]스파이더맨본부",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
       "ADN0000046": {
         "name": "[지나월드]핑크퐁 아기 상어랜드",
@@ -4684,11 +4684,6 @@
         "name": "원목덤프트럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032272823.jpg"
-      },
-      "CBN0000039": {
-        "name": "푸드트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599726785905.JPG"
       },
       "CDN0000068": {
         "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
