@@ -2046,11 +2046,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595351291.jpg"
       },
-      "KDN0000100": {
-        "name": "[고덕점] 공구 상자",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537842099.png"
-      },
       "ADN0000021": {
         "name": "[짐보리]클릭포머스200",
         "age": "48개월 이상 ~",
@@ -2350,6 +2345,11 @@
         "name": "컵쌓기 & 액티비티 볼 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224102932.png"
+      },
+      "KDN0000100": {
+        "name": "[고덕점] 공구 상자",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537842099.png"
       },
       "KDN0000095": {
         "name": "[고덕점] 뮤직운전대",
@@ -2861,11 +2861,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910468539.png"
       },
-      "KDN0000153": {
-        "name": "[고덕점] 자동드릴공구놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
-      },
       "GBN0000152": {
         "name": "[립프로그]스위트 트릿 뮤지컬 티 세트",
         "age": "36개월 이상 ~",
@@ -3196,11 +3191,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599035006629.jpg"
       },
-      "KDN0000141": {
-        "name": "[고덕점] DJ뮤직테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537646069.png"
-      },
       "KBN0000080": {
         "name": "[고덕점] 카툰 라이브 스톡6",
         "age": "36개월 이상 ~",
@@ -3420,11 +3410,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070229497.png"
       },
-      "KBN0000049": {
-        "name": "[고덕점] 애프터눈티세트 15피스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541603628.png"
-      },
       "GDN0000164": {
         "name": "리틀 드라이버",
         "age": "12개월 이상 ~",
@@ -3499,6 +3484,11 @@
         "name": "[브이텍]스마트 러닝 태블릿",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
+      },
+      "KBN0000049": {
+        "name": "[고덕점] 애프터눈티세트 15피스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541603628.png"
       },
       "ADN0000026": {
         "name": "[코니토이스]에듀테이블",
