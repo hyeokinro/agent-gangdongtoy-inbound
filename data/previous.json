@@ -496,11 +496,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
       },
-      "KDN0000061": {
-        "name": "[고덕점] 엔젤워터폴",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
-      },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
@@ -680,6 +675,11 @@
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
+      },
+      "KDN0000061": {
+        "name": "[고덕점] 엔젤워터폴",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
       },
       "KBN0000060": {
         "name": "[고덕점] 아기의사 돌리",
@@ -5209,6 +5209,11 @@
         "name": "[브랜드B] 팝핑웨일",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
+      },
+      "CGY0000095": {
+        "name": "[엔픽스]동물원 에디션 보행기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750725966303.jpg"
       },
       "CBN0000068": {
         "name": "[영실업]콩순이 말하는 청진기",
