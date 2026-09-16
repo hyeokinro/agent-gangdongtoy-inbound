@@ -2571,11 +2571,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202139861.png"
       },
-      "GDN0000210": {
-        "name": "[큐블로] 매직큐브 스피드레이서",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765341896712.png"
-      },
       "DBN0000043": {
         "name": "[토이트론]달님이 과일주스가게",
         "age": "36개월 이상 ~",
@@ -3000,6 +2995,11 @@
         "name": "[고덕점]로즈우드 돌하우스가방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910468539.png"
+      },
+      "GDN0000150": {
+        "name": "빙글빙글 스피닝 헬리콥터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166859456.png"
       },
       "GBN0000152": {
         "name": "[립프로그]스위트 트릿 뮤지컬 티 세트",
@@ -4484,11 +4484,6 @@
         "name": "공룡피규어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
-      },
-      "CGN0000018": {
-        "name": "블리스 바운서(메쉬)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798887407.JPG"
       },
       "CBN0000020": {
         "name": "쿡&다이닝세트",
