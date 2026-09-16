@@ -176,11 +176,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
       },
-      "GCN0000025": {
-        "name": "[에프비존] 티니핑 바이올린",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248993390.png"
-      },
       "MDN0000018": {
         "name": "리틀타익스 더티디거 시리즈 불도저",
         "age": "36개월 이상 ~",
@@ -751,6 +746,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1566625939129.jpg"
       },
+      "DDN0000118": {
+        "name": "[브라이트스타트]뉴 ABC러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
+      },
       "GBN0000168": {
         "name": "[슐라이히] 공룡 9종 세트",
         "age": "36개월 이상 ~",
@@ -865,6 +865,11 @@
         "name": "[고덕점] 컵쌓기 & 액티비티 볼 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539581250.png"
+      },
+      "DDN0000167": {
+        "name": "[비키즈]기린 플레이 테이블",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353744563.jpg"
       },
       "GDN0000084": {
         "name": "[바조]캐슬블럭과 강아지",
@@ -2996,11 +3001,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910468539.png"
       },
-      "GDN0000150": {
-        "name": "빙글빙글 스피닝 헬리콥터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166859456.png"
-      },
       "GBN0000152": {
         "name": "[립프로그]스위트 트릿 뮤지컬 티 세트",
         "age": "36개월 이상 ~",
@@ -3295,11 +3295,6 @@
         "name": "[브이텍] 다이노 먹이주기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
-      },
-      "DGN0000013": {
-        "name": "[코닉스]띠띠뽀에듀테이블",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554100854.png"
       },
       "CDN0000040": {
         "name": "노아의 방주놀이세트",
