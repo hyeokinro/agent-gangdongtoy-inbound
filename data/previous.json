@@ -1971,11 +1971,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559059417.png"
       },
-      "ADN0000051": {
-        "name": "스마트 러닝 포크레인",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672200639385.png"
-      },
       "DDN0000045": {
         "name": "[하바]마법의소리게임",
         "age": "12개월 이상 ~",
@@ -3725,6 +3720,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752293705922.png"
       },
+      "GFN0000011": {
+        "name": "[중모토이] CAT 로더 푸쉬카",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765343668026.png"
+      },
       "GEN0000023": {
         "name": "알록달록구슬세기",
         "age": "12개월 이상 ~",
@@ -3895,11 +3895,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061782303.png"
       },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
-      },
       "ADN0000046": {
         "name": "[지나월드]핑크퐁 아기 상어랜드",
         "age": "36개월 이상 ~",
@@ -3929,6 +3924,11 @@
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
+      },
+      "KDN0000117": {
+        "name": "[고덕점] 메가 레이싱트랙",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
@@ -4370,11 +4370,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865815738.jpg"
       },
-      "GDN0000035": {
-        "name": "공구상자캐릭터친구들",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866107098.jpg"
-      },
       "GDN0000078": {
         "name": "대중교통미니카10종",
         "age": "48개월 이상 ~",
@@ -4785,6 +4780,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660635231096.jpg"
       },
+      "GDN0000126": {
+        "name": "[대성]벤츠 아록스 덤프트럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671262414325.PNG"
+      },
       "GDN0000130": {
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
@@ -4979,6 +4979,11 @@
         "name": "디럭스농장동물세트18종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029236260.jpg"
+      },
+      "GBN0000004": {
+        "name": "뷰티드레서화장대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031788346.jpg"
       },
       "GDN0000001": {
         "name": "제니쥬",
@@ -5745,11 +5750,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057261654.JPG"
       },
-      "GCN0000008": {
-        "name": "톡톡실로폰놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033810037.jpg"
-      },
       "CDN0000040": {
         "name": "노아의 방주놀이세트",
         "age": "12개월 이상 ~",
@@ -5819,11 +5819,6 @@
         "name": "[홀라]팜 트럭세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671497348388.PNG"
-      },
-      "DDN0000131": {
-        "name": "[레드박스]팝업동물농장",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672194271073.PNG"
       },
       "CFN0000020": {
         "name": "[브이텍]3단계 말하는 얼룩말 스쿠터",
