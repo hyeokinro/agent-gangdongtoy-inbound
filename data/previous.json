@@ -1711,11 +1711,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780014157166.png"
       },
-      "GFN0000003": {
-        "name": "레트로로켓",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590400786.jpg"
-      },
       "DDN0000099": {
         "name": "[레고]공룡탈출",
         "age": "24개월 이상 ~",
@@ -1830,6 +1825,11 @@
         "name": "[조엔]팅팅퍽",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070984832.png"
+      },
+      "GFN0000003": {
+        "name": "레트로로켓",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590400786.jpg"
       },
       "MDN0000016": {
         "name": "맨 TGA 시멘트 믹서와 헬멧 세트",
@@ -2601,11 +2601,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072134908.png"
       },
-      "GAN0000035": {
-        "name": "걸음마 붕붕카",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161588903.png"
-      },
       "KBN0000057": {
         "name": "[고덕점] 쿠킹 조리세트",
         "age": "36개월 이상 ~",
@@ -2781,10 +2776,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594354214.jpg"
       },
-      "GDN0000033": {
-        "name": "뽀로로119멜로디소방차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866029938.jpg"
+      "GAN0000035": {
+        "name": "걸음마 붕붕카",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161588903.png"
       },
       "CDN0000056": {
         "name": "피에로 고리끼우기",
