@@ -1376,11 +1376,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541708907.png"
       },
-      "GFN0000000": {
-        "name": "코레카소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
-      },
       "CDN0000055": {
         "name": "무지개 실꿰기",
         "age": "24개월 이상 ~",
@@ -1425,6 +1420,11 @@
         "name": "믹서세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593809362.jpg"
+      },
+      "GFN0000000": {
+        "name": "코레카소방차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
       },
       "ADN0000030": {
         "name": "[브랜드B]바닷속,농장퍼즐",
@@ -4439,11 +4439,6 @@
         "name": "[브이텍]스마트 러닝 태블릿",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349337538.png"
-      },
-      "CBN0000058": {
-        "name": "[리틀타익스]퍼스트 냉장고",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349834025.png"
       },
       "DDN0000171": {
         "name": "[브이텍]밸런싱 링쌓기저울",
