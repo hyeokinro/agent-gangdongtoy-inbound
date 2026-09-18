@@ -281,6 +281,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541007768.png"
       },
+      "DBN0000031": {
+        "name": "[립프로그]ABC 청소기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664695076.jpg"
+      },
       "KBN0000062": {
         "name": "[고덕점] 점보공룡",
         "age": "36개월 이상 ~",
@@ -425,11 +430,6 @@
         "name": "[손오공]옥토넛 옥토포드 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554926633.png"
-      },
-      "CDN0000043": {
-        "name": "빙글빙글 해저탐험",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
       },
       "KDN0000110": {
         "name": "[고덕점] 이집트원정대",
@@ -1025,6 +1025,11 @@
         "name": "리틀타익스 더티디거 포크레인",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958665711.png"
+      },
+      "DDN0000146": {
+        "name": "[코닉스]뽀로로자동차 마을&타워",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562535431.png"
       },
       "DDN0000061": {
         "name": "[타일블록스]레인보우",
@@ -2046,11 +2051,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071156544.png"
       },
-      "CDN0000029": {
-        "name": "오뚜기뽀빠이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
-      },
       "GDN0000065": {
         "name": "뛰뛰빵빵드라이버 응급미니카3종",
         "age": "12개월 이상 ~",
@@ -2291,6 +2291,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034588121.gif"
       },
+      "DDN0000115": {
+        "name": "[미미]뽀로로코딩컴퓨터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650444413222.PNG"
+      },
       "DDN0000093": {
         "name": "[코리아보드]딕싯",
         "age": "60개월 이상 ~",
@@ -2340,6 +2345,11 @@
         "name": "뮤지컬에그",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030634457.jpg"
+      },
+      "DDN0000158": {
+        "name": "[브이텍]낚시놀이세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554251708.png"
       },
       "GBN0000152": {
         "name": "[립프로그]스위트 트릿 뮤지컬 티 세트",
