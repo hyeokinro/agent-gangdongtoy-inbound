@@ -1311,11 +1311,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245706771.png"
       },
-      "CDN0000069": {
-        "name": "[하페]레인보우기차세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631598615.png"
-      },
       "GDN0000013": {
         "name": "아기새의 집",
         "age": "12개월 이상 ~",
@@ -1880,6 +1875,11 @@
         "name": "양념세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592908210.JPG"
+      },
+      "CCN0000018": {
+        "name": "할릴릿실로폰",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1591668354749.jpg"
       },
       "MBN0000079": {
         "name": "폴라비 원목 케이크 스탠드 티파티 2종세트",
@@ -5749,6 +5749,11 @@
         "name": "[리틀타익스]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168707540.png"
+      },
+      "CGN0000087": {
+        "name": "[리틀타익스]스쿠터 액티비티 걸음마보조기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350237690.png"
       },
       "DDN0000165": {
         "name": "[키움하우스]자석라이팅마블 125피스",
