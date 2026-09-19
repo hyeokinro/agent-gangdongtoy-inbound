@@ -151,11 +151,6 @@
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069594426.png"
       },
-      "GDN0000205": {
-        "name": "[브루더] MAN 로더",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259170574.png"
-      },
       "KBN0000062": {
         "name": "[고덕점] 점보공룡",
         "age": "36개월 이상 ~",
@@ -831,11 +826,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590473362.jpg"
       },
-      "GDN0000136": {
-        "name": "에어포트 플레이세트",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165421369.png"
-      },
       "DDN0000061": {
         "name": "[타일블록스]레인보우",
         "age": "36개월 이상 ~",
@@ -1045,6 +1035,11 @@
         "name": "[브레인숲]서커스도미노",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773914995.jpg"
+      },
+      "GDN0000136": {
+        "name": "에어포트 플레이세트",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165421369.png"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
@@ -2970,11 +2965,6 @@
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765425818204.png"
-      },
-      "AAN0000006": {
-        "name": "[지나월드]뽀로로그네",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759863935.jpg"
       },
       "GEN0000017": {
         "name": "멘델의 유전법칙",
@@ -5858,11 +5848,6 @@
         "name": "[캠핑팩]테이블체어세트(민트)",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1786078058322.png"
-      },
-      "HSN0000067": {
-        "name": "[물놀이팩]아기비치체어+모래놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778200245015.png"
       },
       "HSN0000036": {
         "name": "[놀이팩]까꿍인형(토끼)",
