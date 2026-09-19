@@ -256,11 +256,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542513703.png"
       },
-      "CDN0000033": {
-        "name": "클래식8자기차트렉세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_85.jpg"
-      },
       "DDN0000026": {
         "name": "[자노드]피사의사탑",
         "age": "60개월 이상 ~",
@@ -295,6 +290,11 @@
         "name": "클라부 컬러세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
+      },
+      "CDN0000033": {
+        "name": "클래식8자기차트렉세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_85.jpg"
       },
       "GDN0000201": {
         "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
@@ -2961,11 +2961,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772824423.jpg"
       },
-      "CDN0000040": {
-        "name": "노아의 방주놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798168401.jpg"
-      },
       "GDN0000214": {
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
         "age": "36개월 이상 ~",
@@ -3037,11 +3032,6 @@
         "name": "[택배][이븐플로]젬세션점프런",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007631018.png"
-      },
-      "CGN0000040": {
-        "name": "[택배]현대백일돌상 ⑨",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732498128.png"
       },
       "CGN0000073": {
         "name": "[택배][엔픽스]동물원 에디션 보행기",
@@ -3139,16 +3129,6 @@
         "name": "[스틱오]피싱세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553766249.png"
-      },
-      "CBN0000019": {
-        "name": "커피세트(원목)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
-      },
-      "CDN0000010": {
-        "name": "동물농장쿼드바이크",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_62.jpg"
       },
       "DDN0000145": {
         "name": "[코닉스]타요 주유소플레이세트",
@@ -3335,6 +3315,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032021366.jpg"
       },
+      "CBN0000019": {
+        "name": "커피세트(원목)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
+      },
       "DBN0000039": {
         "name": "[브이텍]ABC 쇼핑카트",
         "age": "36개월 이상 ~",
@@ -3354,16 +3339,6 @@
         "name": "[미미월드] 똘똘이 딸기농장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
-      },
-      "KDN0000055": {
-        "name": "[고덕점] 마그네틱 블록 잠수비행기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539091885.png"
-      },
-      "KDN0000044": {
-        "name": "[고덕점] 크레인&자동차 놀이세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
       },
       "KBN0000062": {
         "name": "[고덕점] 점보공룡",
@@ -3635,6 +3610,21 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205015903.jpg"
       },
+      "AFN0000000": {
+        "name": "[베케라]가스스테이션",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777884680.jpg"
+      },
+      "GAN0000010": {
+        "name": "뽀로로멜로디안전그네",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590829237.jpg"
+      },
+      "KDN0000090": {
+        "name": "[고덕점] 로더심플 페리보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
+      },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
         "age": "6개월 이상 ~",
@@ -3659,11 +3649,6 @@
         "name": "[고덕점] 가드닝카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
-      },
-      "KDN0000090": {
-        "name": "[고덕점] 로더심플 페리보트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
       },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
