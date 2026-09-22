@@ -3495,11 +3495,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
-      "KDN0000041": {
-        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
-      },
       "KDN0000043": {
         "name": "[고덕점] 판다 DJ 놀이",
         "age": "6개월 이상 ~",
@@ -3590,6 +3585,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
       },
+      "CFN0000003": {
+        "name": "코레카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_111.jpg"
+      },
       "DDN0000073": {
         "name": "[하바]펭귄가족달리기",
         "age": "24개월 이상 ~",
@@ -3664,6 +3664,11 @@
         "name": "[고덕점] 엔젤워터폴",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
+      },
+      "KDN0000041": {
+        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
       },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
