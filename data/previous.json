@@ -316,6 +316,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029370462.jpg"
       },
+      "DDN0000117": {
+        "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
+      },
       "GBN0000009": {
         "name": "식료품핸들카트",
         "age": "36개월 이상 ~",
@@ -620,6 +625,11 @@
         "name": "레코딩무선전화놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
+      },
+      "DDN0000164": {
+        "name": "[지오맥]매직큐브프리빌딩 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
       },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
@@ -3030,11 +3040,6 @@
       }
     },
     "wait": {
-      "KDN0000135": {
-        "name": "[고덕점] 엉금엉금멜로디달팽이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
-      },
       "GDN0000061": {
         "name": "클라부 경찰추격전놀이세트",
         "age": "24개월 이상 ~",
@@ -3134,6 +3139,11 @@
         "name": "[고덕점] 춤추는 낚시놀이 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554261453.png"
+      },
+      "KDN0000135": {
+        "name": "[고덕점] 엉금엉금멜로디달팽이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703892895033.png"
       },
       "GBN0000170": {
         "name": "[에프비존] 새콤달콤 캐치티니핑 마이 스마트폰",
