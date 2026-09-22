@@ -2596,6 +2596,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778668520.jpg"
       },
+      "CGN0000100": {
+        "name": "[엔픽스]점핑 360점퍼루(정글)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433612174.png"
+      },
       "GBN0000094": {
         "name": "미키와친구들 자동차 병원놀이",
         "age": "24개월 이상 ~",
@@ -2915,11 +2920,6 @@
         "name": "[보육사]건설현장중장비",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617772824423.jpg"
-      },
-      "CBN0000060": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
       },
       "CDN0000074": {
         "name": "[코닉스]뽀로로키즈팝댄스",
@@ -4334,6 +4334,11 @@
         "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
+      },
+      "CBY0000055": {
+        "name": "인형유모차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690363158.jpg"
       },
       "CDY0000084": {
         "name": "[브이텍]스스로굴러가는깜짝볼",
@@ -5754,11 +5759,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301806887.png"
       },
-      "CWN0000006": {
-        "name": "[한복]귀염동휘",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1781762979852.png"
-      },
       "HSN0000026": {
         "name": "[놀이팩]RC 스턴트 레이서",
         "age": "60개월 이상 ~",
@@ -5853,11 +5853,6 @@
         "name": "[놀이팩]콩순이 싹뚝테이블 소꿉놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140705352.png"
-      },
-      "CWN0000008": {
-        "name": "[한복]색동노랑동다리",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1781763365228.png"
       },
       "HSN0000105": {
         "name": "[캠핑팩]테이블체어세트(딥그린)",
