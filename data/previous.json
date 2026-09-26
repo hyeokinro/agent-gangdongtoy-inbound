@@ -3400,11 +3400,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069517538.png"
       },
-      "CDN0000093": {
-        "name": "[브라이트스타트]공놀이 기린 라이트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349285389.png"
-      },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
         "age": "24개월 이상 ~",
@@ -3424,6 +3419,11 @@
         "name": "[브이텍]나잡아봐 야옹이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504425776.PNG"
+      },
+      "GBN0000044": {
+        "name": "큰공룡세트12종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029370462.jpg"
       },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
@@ -3495,6 +3495,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
+      "CDN0000093": {
+        "name": "[브라이트스타트]공놀이 기린 라이트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349285389.png"
+      },
       "DBN0000049": {
         "name": "[립프로그]피자카트 한영버젼",
         "age": "36개월 이상 ~",
@@ -3529,11 +3534,6 @@
         "name": "[씨투엠뉴]랜드로버 붕붕카",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
-      },
-      "CBN0000070": {
-        "name": "[컬렉타]야생동물 30종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
       },
       "GBN0000161": {
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
@@ -5024,11 +5024,6 @@
         "name": "[하베브릭스]자석블록",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
-      },
-      "DDN0000034": {
-        "name": "[하페]다람쥐통끼우기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062011300.png"
       },
       "DDN0000036": {
         "name": "[하페]꽃과별끼우기",
