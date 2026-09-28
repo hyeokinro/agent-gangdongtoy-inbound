@@ -1526,11 +1526,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069947474.png"
       },
-      "DAN0000006": {
-        "name": "[피셔]클래식러닝홈",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443691698.PNG"
-      },
       "GDN0000079": {
         "name": "미니스포츠카15종",
         "age": "48개월 이상 ~",
@@ -2486,11 +2481,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057200162.JPG"
       },
-      "DDN0000133": {
-        "name": "[블루래빗]구스파파",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354054878.jpg"
-      },
       "GDN0000129": {
         "name": "[홀라]팜 트럭세트",
         "age": "12개월 이상 ~",
@@ -3105,6 +3095,16 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
       },
+      "DDN0000029": {
+        "name": "[자노드]청키퍼즐비히클/팜",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
+      },
+      "DDN0000138": {
+        "name": "[코닉스]타요 포크레인 중장비 놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563561634.png"
+      },
       "DDN0000168": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -3275,16 +3275,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777980685.jpg"
       },
-      "KDN0000041": {
-        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
-      },
-      "KDN0000061": {
-        "name": "[고덕점] 엔젤워터폴",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
-      },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
         "age": "36개월 이상 ~",
@@ -3324,6 +3314,16 @@
         "name": "[고덕점] 아기의사 돌리",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541498757.png"
+      },
+      "KDN0000061": {
+        "name": "[고덕점] 엔젤워터폴",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
+      },
+      "KDN0000041": {
+        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
       },
       "DGN0000014": {
         "name": "[브이텍]킥앤스코어 아기체육관",
@@ -4319,11 +4319,6 @@
         "name": "[Land of B] 히포팝핑피아노",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
-      },
-      "CGN0000105": {
-        "name": "[타이니러브]수더메도우 모빌(흑백+홀더)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435286403.jpg"
       },
       "CGN0000106": {
         "name": "[먼치킨]블루투스 자동스윙",
