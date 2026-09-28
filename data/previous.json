@@ -966,11 +966,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066677133.png"
       },
-      "ADN0000058": {
-        "name": "[브이텍]러닝이모션 공작새",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479569248.JPG"
-      },
       "GCN0000012": {
         "name": "악기 웨이브드럼(레드)",
         "age": "12개월 이상 ~",
@@ -1275,6 +1270,11 @@
         "name": "팝업 토이 동물",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780028852559.png"
+      },
+      "ADN0000058": {
+        "name": "[브이텍]러닝이모션 공작새",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479569248.JPG"
       },
       "GBN0000098": {
         "name": "다이노 월드 랩 세트",
@@ -4409,11 +4409,6 @@
         "name": "[피셔]퍼피 걸음마(분홍)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759531392.jpg"
-      },
-      "AAN0000010": {
-        "name": "[리틀타익스]스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760181744.jpg"
       },
       "ACN0000000": {
         "name": "[클래식]정글뮤직박스",
