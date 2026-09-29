@@ -2923,11 +2923,6 @@
       }
     },
     "delivery": {
-      "CGN0000073": {
-        "name": "[택배][엔픽스]동물원 에디션 보행기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210412815.jpg"
-      },
       "CGN0000093": {
         "name": "[택배][콤비]YT-Belle 아기 보행기",
         "age": "6개월 이상 ~",
@@ -4199,6 +4194,11 @@
         "name": "[코닉스]띠띠뽀와 타요 무빙정거장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
+      },
+      "DDN0000136": {
+        "name": "[코코멜론]제이제이 인형(영어)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563897818.png"
       },
       "CBY0000055": {
         "name": "인형유모차",
