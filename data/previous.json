@@ -456,11 +456,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703557618719.png"
       },
-      "KDN0000090": {
-        "name": "[고덕점] 로더심플 페리보트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
-      },
       "KDN0000063": {
         "name": "[고덕점] 소방차",
         "age": "24개월 이상 ~",
@@ -541,6 +536,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031023597.jpg"
       },
+      "KDN0000090": {
+        "name": "[고덕점] 로더심플 페리보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
+      },
       "GEN0000018": {
         "name": "도미노레이스",
         "age": "36개월 이상 ~",
@@ -600,11 +600,6 @@
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
-      },
-      "KDN0000117": {
-        "name": "[고덕점] 메가 레이싱트랙",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
       },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
@@ -695,11 +690,6 @@
         "name": "[대호토이즈]실내용BMW(레드)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777980685.jpg"
-      },
-      "CBN0000070": {
-        "name": "[컬렉타]야생동물 30종",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
       },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
@@ -1915,11 +1905,6 @@
         "name": "트럭 공구놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
-      },
-      "CAN0000057": {
-        "name": "[키움하우스]팝핑 워커 거북이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
       },
       "GDN0000073": {
         "name": "덤프트럭(핑크)",
@@ -3575,11 +3560,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751434919943.png"
       },
-      "CFN0000024": {
-        "name": "[씨투엠뉴]랜드로버 붕붕카",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752294330979.png"
-      },
       "GBN0000161": {
         "name": "[영실업] 콩순이 눈꽃 빙수 메이커",
         "age": "36개월 이상 ~",
@@ -4699,6 +4679,11 @@
         "name": "쇼핑카트&스캐너",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201895215.JPG"
+      },
+      "ADN0000055": {
+        "name": "트럭 공구놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
       },
       "AGN0000016": {
         "name": "베이비범 액티비티 워커",
