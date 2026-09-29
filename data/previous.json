@@ -36,11 +36,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
       },
-      "KDN0000044": {
-        "name": "[고덕점] 크레인&자동차 놀이세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
-      },
       "GAN0000014": {
         "name": "고양이와 쥐 푸쉬토이",
         "age": "6개월 이상 ~",
@@ -260,6 +255,11 @@
         "name": "클라부 컬러세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
+      },
+      "KDN0000044": {
+        "name": "[고덕점] 크레인&자동차 놀이세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565643770.jpg"
       },
       "CDN0000033": {
         "name": "클래식8자기차트렉세트",
@@ -951,11 +951,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029181805.jpg"
       },
-      "CDN0000055": {
-        "name": "무지개 실꿰기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
-      },
       "GBN0000048": {
         "name": "공룡피규어",
         "age": "36개월 이상 ~",
@@ -1186,11 +1181,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593934209.JPG"
       },
-      "DDN0000075": {
-        "name": "[하바]낚시놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070193297.png"
-      },
       "GCN0000006": {
         "name": "멜로디 멀티기타",
         "age": "12개월 이상 ~",
@@ -1291,6 +1281,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780029864871.png"
       },
+      "DDN0000075": {
+        "name": "[하바]낚시놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070193297.png"
+      },
       "GBN0000018": {
         "name": "샐러드세트(야채썰기)",
         "age": "24개월 이상 ~",
@@ -1305,11 +1300,6 @@
         "name": "플레이 월드푸드파티세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780020273054.png"
-      },
-      "ACN0000011": {
-        "name": "[주영토이]뽀로로 빙글빙글 춤추는노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650518072794.png"
       },
       "CDN0000020": {
         "name": "물고기실꿰기",
@@ -1335,6 +1325,11 @@
         "name": "[애니블록]바다탐험대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069765107.png"
+      },
+      "CDN0000055": {
+        "name": "무지개 실꿰기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
       },
       "KDN0000071": {
         "name": "[고덕점] 소근육놀이 아기상어",
@@ -1696,11 +1691,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029060560.jpg"
       },
-      "DDN0000100": {
-        "name": "[레고]비행기와공항",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071603353.png"
-      },
       "CAN0000057": {
         "name": "[키움하우스]팝핑 워커 거북이",
         "age": "36개월 이상 ~",
@@ -2041,11 +2031,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
       },
-      "CBY0000056": {
-        "name": "루시와 포대기세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782200693789.jpg"
-      },
       "CDN0000056": {
         "name": "피에로 고리끼우기",
         "age": "12개월 이상 ~",
@@ -2170,6 +2155,11 @@
         "name": "옥토넛 음악대장 악기세트",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164695841.png"
+      },
+      "CBY0000056": {
+        "name": "루시와 포대기세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782200693789.jpg"
       },
       "MBN0000073": {
         "name": "소프트 피크닉 자석썰기놀이세트",
@@ -2330,11 +2320,6 @@
         "name": "[레고]놀이공원",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071361245.png"
-      },
-      "AGN0000003": {
-        "name": "[아이존]올인원아기체육관",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778668520.jpg"
       },
       "GBN0000094": {
         "name": "미키와친구들 자동차 병원놀이",
