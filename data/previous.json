@@ -801,11 +801,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768705553.jpg"
       },
-      "CGN0000010": {
-        "name": "듀얼모션 모빌+홀더",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599799242601.jpg"
-      },
       "CEN0000006": {
         "name": "뉴공룡꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -3085,11 +3080,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
       },
-      "CGN0000099": {
-        "name": "[오비]다용도 러닝워커",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432656787.jpg"
-      },
       "GCN0000025": {
         "name": "[에프비존] 티니핑 바이올린",
         "age": "36개월 이상 ~",
@@ -3290,10 +3280,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
-      "DDN0000118": {
-        "name": "[브라이트스타트]뉴 ABC러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
+      "AFN0000002": {
+        "name": "[대호토이즈]실내용BMW(레드)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777980685.jpg"
       },
       "ADN0000047": {
         "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
@@ -3624,6 +3614,11 @@
         "name": "[고덕점] 바하마낚시게임",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539301320.png"
+      },
+      "KDN0000042": {
+        "name": "[고덕점] 컵쌓기 & 액티비티 볼 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539581250.png"
       },
       "KDN0000040": {
         "name": "[고덕점] 스스로 굴러가는 3in1매직볼",
@@ -4784,6 +4779,11 @@
         "name": "오볼롤러(뉴)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031895310.jpg"
+      },
+      "GCN0000010": {
+        "name": "리틀디제이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033564153.jpg"
       },
       "GDN0000080": {
         "name": "에듀테이블",
