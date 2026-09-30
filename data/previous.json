@@ -1001,11 +1001,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671917972.jpg"
       },
-      "KDN0000128": {
-        "name": "[고덕점] 걸음마친구 노래하는 공놀이 공룡",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
-      },
       "GDN0000176": {
         "name": "옥토포드 슬라이딩 액션 플레이",
         "age": "36개월 이상 ~",
@@ -2766,11 +2761,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067302203.png"
       },
-      "CCN0000020": {
-        "name": "[베이비아인슈타인]플립기타 2in 1",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
-      },
       "MBN0000067": {
         "name": "뉴스프라우츠 올인원 공구놀이함",
         "age": "24개월 이상 ~",
@@ -3400,6 +3390,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
       },
+      "GDN0000061": {
+        "name": "클라부 경찰추격전놀이세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949302607.JPG"
+      },
       "DDN0000056": {
         "name": "[맥포머스]경찰차세트",
         "age": "36개월 이상 ~",
@@ -3560,10 +3555,10 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
-      "GDN0000185": {
-        "name": "[토도리브로]씽씽자동차",
+      "GBN0000080": {
+        "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
       },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
@@ -3649,6 +3644,11 @@
         "name": "[립프로그]믹서 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
+      },
+      "GDN0000185": {
+        "name": "[토도리브로]씽씽자동차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
       },
       "CGY0000096": {
         "name": "락카루바운서(그레이)",
@@ -4234,6 +4234,11 @@
         "name": "센소리볼 9P세트",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201867061.png"
+      },
+      "CDN0000078": {
+        "name": "[홀라]디제이파티드럼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207199181.JPG"
       },
       "GBN0000096": {
         "name": "척척박사 우유와 뉴 콩순이 냉장고",
@@ -5079,6 +5084,11 @@
         "name": "[브이텍]스스로굴러가는깜짝볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
+      },
+      "GEN0000013": {
+        "name": "6가지 계절그림 맞추기큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594741230.jpg"
       },
       "GEN0000019": {
         "name": "건축물스타터",
