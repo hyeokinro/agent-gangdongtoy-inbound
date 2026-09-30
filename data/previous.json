@@ -2076,11 +2076,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061047580.png"
       },
-      "KDN0000142": {
-        "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543318470.png"
-      },
       "DDN0000091": {
         "name": "[만두게임즈]박스몬스터",
         "age": "60개월 이상 ~",
@@ -2115,6 +2110,11 @@
         "name": "[고덕점] 달님이 에어프라이어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
+      },
+      "KDN0000142": {
+        "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543318470.png"
       },
       "GDN0000015": {
         "name": "브라이트스타트 심포니기어",
@@ -2551,11 +2551,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566223633.png"
       },
-      "CDN0000005": {
-        "name": "[브이텍]뉴스스로굴러가는깜짝볼",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_57.jpg"
-      },
       "MFN0000022": {
         "name": "야야 CAT 로더",
         "age": "12개월 이상 ~",
@@ -2917,6 +2912,11 @@
         "name": "[택배][콤비]YT-Belle 아기 보행기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730348945009.png"
+      },
+      "CBN0000049": {
+        "name": "[택배][보쉬토이]워크벤치",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1691210655848.jpg"
       },
       "CGN0000031": {
         "name": "[택배]프로픽스 주니어 카시트",
@@ -4139,11 +4139,6 @@
         "name": "[고덕점] 소근육놀이 아기상어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540560940.png"
-      },
-      "KDN0000047": {
-        "name": "[고덕점] 엄마까투리 소방구조대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541801372.png"
       },
       "KDN0000074": {
         "name": "[고덕점] 타요 중앙차고지놀이",
@@ -5419,6 +5414,11 @@
         "name": "[코닉스]띠띠뽀정거장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773640513.jpg"
+      },
+      "DDN0000025": {
+        "name": "[하페]몬스터수셈저울",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061113447.png"
       },
       "DDN0000048": {
         "name": "[하바]모양배치게임",
