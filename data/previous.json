@@ -1486,11 +1486,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061902481.png"
       },
-      "GCN0000006": {
-        "name": "멜로디 멀티기타",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033623415.jpg"
-      },
       "GEN0000016": {
         "name": "시티우드퍼즐",
         "age": "1개월 이상 ~",
@@ -1585,6 +1580,11 @@
         "name": "무지개 실꿰기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
+      },
+      "GCN0000006": {
+        "name": "멜로디 멀티기타",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033623415.jpg"
       },
       "MEN0000003": {
         "name": "도형놀이 균형맞추기 발란세오",
@@ -1835,11 +1835,6 @@
         "name": "로데오루스터",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027499707.jpg"
-      },
-      "GCN0000016": {
-        "name": "크록심포니",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1592360375646.JPG"
       },
       "DDN0000035": {
         "name": "[하페]고리와퍼즐",
@@ -2130,6 +2125,11 @@
         "name": "[고덕점] 블럭먹는 악어",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539474472.png"
+      },
+      "GCN0000016": {
+        "name": "크록심포니",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1592360375646.JPG"
       },
       "AFN0000004": {
         "name": "[베케라]스피즈터플레인",
