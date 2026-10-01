@@ -2471,11 +2471,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071097282.png"
       },
-      "KDN0000100": {
-        "name": "[고덕점] 공구 상자",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537842099.png"
-      },
       "AGN0000017": {
         "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
         "age": "1개월 이상 ~",
@@ -2520,6 +2515,11 @@
         "name": "[자노드]쉐이프솔터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061342544.png"
+      },
+      "KDN0000100": {
+        "name": "[고덕점] 공구 상자",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537842099.png"
       },
       "GDN0000045": {
         "name": "꼬꼬닥오뚝이",
@@ -2780,11 +2780,6 @@
         "name": "[아이코닉스]타요 천하장사 중장비 놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663546455.jpg"
-      },
-      "KDN0000083": {
-        "name": "[고덕점] 카캐리어세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559018228.png"
       },
       "GBN0000094": {
         "name": "미키와친구들 자동차 병원놀이",
