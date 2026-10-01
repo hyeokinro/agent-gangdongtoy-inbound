@@ -76,11 +76,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553766249.png"
       },
-      "KDN0000115": {
-        "name": "[고덕점] 빙글빙글 해저 탐험",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
-      },
       "CEN0000001": {
         "name": "뉴 곤충꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -145,6 +140,11 @@
         "name": "[고덕점] 꼬꼬맘",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
+      },
+      "KDN0000115": {
+        "name": "[고덕점] 빙글빙글 해저 탐험",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
       },
       "KDN0000077": {
         "name": "[고덕점] 피쉬풀어롱",
@@ -2811,11 +2811,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592263848.JPG"
       },
-      "KDN0000072": {
-        "name": "[고덕점] 러닝 액티비티 큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1704356804689.png"
-      },
       "MBN0000074": {
         "name": "플레이 역할의상 요리사",
         "age": "36개월 이상 ~",
@@ -4434,6 +4429,11 @@
         "name": "오피스러닝테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590036737966.jpg"
+      },
+      "GDN0000078": {
+        "name": "대중교통미니카10종",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948193376.JPG"
       },
       "GBN0000048": {
         "name": "공룡피규어",
@@ -6054,11 +6054,6 @@
         "name": "[하베브릭스] 꼬마몬테 숫자미로",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257728259.png"
-      },
-      "GFN0000007": {
-        "name": "[리틀타익스] 리틀 꼬마 스쿠터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260148652.png"
       }
     }
   },
