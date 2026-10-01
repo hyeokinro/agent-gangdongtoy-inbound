@@ -651,11 +651,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595267264.JPG"
       },
-      "CBN0000043": {
-        "name": "[하페] 고기굽기 주방놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628483444.png"
-      },
       "GBN0000167": {
         "name": "[캐스B] 플레이 트렌드스타일 미용놀이",
         "age": "36개월 이상 ~",
@@ -1901,6 +1896,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780014881272.png"
       },
+      "DGY0000006": {
+        "name": "[길동점]현대돌백일상③",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1647586490831.PNG"
+      },
       "GCN0000023": {
         "name": "[Land of B] 히포팝핑피아노",
         "age": "36개월 이상 ~",
@@ -2015,6 +2015,11 @@
         "name": "[하바]반짝이는얼음조각",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067352254.png"
+      },
+      "DGY0000000": {
+        "name": "[길동점]전통백일돌상①",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1647586253293.PNG"
       },
       "GDN0000213": {
         "name": "[브이텍] 붕붕카 3 in 1 청소트럭",
@@ -4075,11 +4080,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
       },
-      "DDN0000051": {
-        "name": "[하바]호수페깅게임",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067414413.png"
-      },
       "DDN0000061": {
         "name": "[타일블록스]레인보우",
         "age": "36개월 이상 ~",
@@ -4154,11 +4154,6 @@
         "name": "[고덕점] 다이나믹우퍼 기타",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
-      },
-      "KBN0000068": {
-        "name": "[고덕점] 달님이 마카롱 가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538059209.png"
       },
       "KGN0000005": {
         "name": "[고덕점] 디럭스 아기체육관",
@@ -5589,11 +5584,6 @@
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540056044.png"
-      },
-      "KBN0000047": {
-        "name": "[고덕점] 아이스크림카트 디럭스 레인보우 셔벗",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541556961.png"
       },
       "KDN0000048": {
         "name": "[고덕점] 엄마까투리 두리 하우스",
