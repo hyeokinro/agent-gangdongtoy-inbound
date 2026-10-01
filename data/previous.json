@@ -816,6 +816,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
+      "CDN0000043": {
+        "name": "빙글빙글 해저탐험",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671595661.jpg"
+      },
       "ABN0000014": {
         "name": "[호와]모닝커피세트",
         "age": "36개월 이상 ~",
@@ -1026,11 +1031,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277827603.jpg"
       },
-      "GDN0000217": {
-        "name": "[아카데미과학] 로보카폴리 변신로봇",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765426997707.png"
-      },
       "AGN0000021": {
         "name": "토디 우드 디데이 달력",
         "age": "1개월 이상 ~",
@@ -1100,6 +1100,11 @@
         "name": "[고덕점] 디럭스 아기체육관",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538478311.png"
+      },
+      "GDN0000217": {
+        "name": "[아카데미과학] 로보카폴리 변신로봇",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765426997707.png"
       },
       "KBN0000071": {
         "name": "[고덕점] 콩순이 말하는팽이와 청진기",
@@ -2051,11 +2056,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
       },
-      "CDN0000045": {
-        "name": "빙글빙글 동물친구놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
-      },
       "GDN0000159": {
         "name": "오케스트라 러닝테이블",
         "age": "6개월 이상 ~",
@@ -2356,11 +2356,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
       },
-      "AGN0000017": {
-        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
-      },
       "KDN0000131": {
         "name": "[고덕점] 댄싱퍼피",
         "age": "6개월 이상 ~",
@@ -2391,11 +2386,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030442188.jpg"
       },
-      "AGN0000009": {
-        "name": "[브라이트]미키마우스락커",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779059096.jpg"
-      },
       "KDN0000092": {
         "name": "[고덕점] 로켓모양 맞추기",
         "age": "36개월 이상 ~",
@@ -2425,6 +2415,11 @@
         "name": "[고덕점] 공구 상자",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537842099.png"
+      },
+      "AGN0000017": {
+        "name": "[디즈니베이비] 캐릭터 멜로디 모빌",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480302286.JPG"
       },
       "CDN0000030": {
         "name": "오뚜기삐에로",
