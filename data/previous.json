@@ -3665,11 +3665,6 @@
       }
     },
     "wait": {
-      "KDN0000097": {
-        "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541007768.png"
-      },
       "GDN0000127": {
         "name": "[대성]말하는 포크레인",
         "age": "36개월 이상 ~",
@@ -3970,15 +3965,15 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
       },
+      "KDN0000097": {
+        "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541007768.png"
+      },
       "GEN0000030": {
         "name": "건설차량입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026689969.jpg"
-      },
-      "KDN0000136": {
-        "name": "[고덕점] 에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
       "DDN0000030": {
         "name": "[자노드]청키퍼즐디노조/쥬",
@@ -4044,6 +4039,11 @@
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
+      },
+      "KDN0000136": {
+        "name": "[고덕점] 에듀볼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
       "AGN0000020": {
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
@@ -4269,11 +4269,6 @@
         "name": "재활용트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_84.jpg"
-      },
-      "CDN0000038": {
-        "name": "볼트랙-락킹보트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
       },
       "CDN0000046": {
         "name": "강아지 도형끼우기차",
@@ -4594,11 +4589,6 @@
         "name": "공룡피규어",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
-      },
-      "CAN0000019": {
-        "name": "감각징검다리세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793100015.jpg"
       },
       "CBN0000025": {
         "name": "야생동물 24종",
@@ -4955,11 +4945,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443691698.PNG"
       },
-      "ADN0000042": {
-        "name": "[J.H.INTER]뽀로로 세계여행 2층버스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204513843.jpg"
-      },
       "DBN0000035": {
         "name": "[영실업]콩순이 말하는 펭이와 청진기",
         "age": "36개월 이상 ~",
@@ -5004,11 +4989,6 @@
         "name": "마이 리얼 잼 키보드",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165037890.png"
-      },
-      "GDN0000149": {
-        "name": "기차세트 스타터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166793879.png"
       },
       "KDN0000087": {
         "name": "[고덕점] 뉴 ABC테이블",
