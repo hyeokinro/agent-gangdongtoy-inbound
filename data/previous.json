@@ -981,11 +981,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_61.jpg"
       },
-      "GCN0000026": {
-        "name": "[미미월드] 프린세스 미미 가방피아노",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765250209349.png"
-      },
       "CEN0000006": {
         "name": "뉴공룡꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -3001,6 +2996,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069890335.png"
       },
+      "GEN0000033": {
+        "name": "해양입체퍼즐",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026798261.jpg"
+      },
       "GDN0000036": {
         "name": "댄싱로봇빗보",
         "age": "6개월 이상 ~",
@@ -4160,6 +4160,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
       },
+      "GDN0000144": {
+        "name": "춤추며 배우는 코딩로봇 다이노",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
+      },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
         "age": "36개월 이상 ~",
@@ -4219,11 +4224,6 @@
         "name": "[지오맥]매직큐브프리빌딩 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
-      },
-      "CGY0000096": {
-        "name": "락카루바운서(그레이)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750725903134.jpg"
       },
       "CGN0000103": {
         "name": "[엔픽스]롤링 360 이지보행기(블루)",
