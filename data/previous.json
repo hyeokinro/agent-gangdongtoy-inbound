@@ -756,11 +756,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650520447079.PNG"
       },
-      "DEN0000000": {
-        "name": "[스틱오]아기상어 프렌즈 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
-      },
       "DDN0000062": {
         "name": "[맥포머스]애니멀세트",
         "age": "24개월 이상 ~",
@@ -831,6 +826,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537904906.png"
       },
+      "DEN0000000": {
+        "name": "[스틱오]아기상어 프렌즈 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
+      },
       "DDN0000101": {
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
@@ -895,6 +895,11 @@
         "name": "응급차량미니카13종",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948294409.JPG"
+      },
+      "AGN0000012": {
+        "name": "[콤비]보행기(그레이)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779246288.jpg"
       },
       "GFN0000004": {
         "name": "페달접이식 세발자전거",
@@ -1200,11 +1205,6 @@
         "name": "콤비 YT-Belle 아기보행기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163801085.png"
-      },
-      "AGN0000012": {
-        "name": "[콤비]보행기(그레이)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779246288.jpg"
       },
       "CBN0000005": {
         "name": "공룡프테라노돈",
@@ -3385,11 +3385,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671265319760.PNG"
       },
-      "KBN0000049": {
-        "name": "[고덕점] 애프터눈티세트 15피스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541603628.png"
-      },
       "GDN0000017": {
         "name": "농장비즈끼우기",
         "age": "24개월 이상 ~",
@@ -3869,6 +3864,11 @@
         "name": "반짝반짝케이크링",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031551040.jpg"
+      },
+      "DDN0000118": {
+        "name": "[브라이트스타트]뉴 ABC러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
       },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
