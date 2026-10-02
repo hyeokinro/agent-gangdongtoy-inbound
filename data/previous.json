@@ -2266,11 +2266,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031074988.jpg"
       },
-      "CAN0000016": {
-        "name": "흔들말타기(블루)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_16.jpg"
-      },
       "CAN0000032": {
         "name": "뉴 오볼롤러",
         "age": "6개월 이상 ~",
@@ -2280,11 +2275,6 @@
         "name": "[하페]토터타워",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061047580.png"
-      },
-      "GDN0000194": {
-        "name": "[브라이트스타트] 공놀이 정글트리",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245001598.png"
       },
       "DDN0000091": {
         "name": "[만두게임즈]박스몬스터",
@@ -2401,11 +2391,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
       },
-      "GDN0000025": {
-        "name": "마이퍼스트러닝하우스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865593493.jpg"
-      },
       "KDN0000049": {
         "name": "[고덕점] 엄마까투리 어드벤쳐 플레이세트",
         "age": "36개월 이상 ~",
@@ -2445,11 +2430,6 @@
         "name": "보쉬 높이 조절 공구 작업대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959345914.png"
-      },
-      "CAN0000057": {
-        "name": "[키움하우스]팝핑 워커 거북이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730350037747.png"
       },
       "GBN0000088": {
         "name": "[영실업]콩순이 쇼핑카트",
@@ -3236,11 +3216,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594838337.jpg"
       },
-      "GAN0000043": {
-        "name": "[리틀타익스]액티비티가든",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296015695.jpg"
-      },
       "ABN0000039": {
         "name": "[영실업]응가습관 콩콩이",
         "age": "36개월 이상 ~",
@@ -3595,16 +3570,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778947246.jpg"
       },
-      "DDN0000029": {
-        "name": "[자노드]청키퍼즐비히클/팜",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
-      },
-      "DDN0000138": {
-        "name": "[코닉스]타요 포크레인 중장비 놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563561634.png"
-      },
       "GDN0000189": {
         "name": "[브이텍]멜로디 덤프트럭",
         "age": "12개월 이상 ~",
@@ -3855,6 +3820,16 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
       },
+      "KBN0000060": {
+        "name": "[고덕점] 아기의사 돌리",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541498757.png"
+      },
+      "KBN0000083": {
+        "name": "[고덕점]피자카트 한영버전",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
+      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -3880,11 +3855,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
-      "KBN0000060": {
-        "name": "[고덕점] 아기의사 돌리",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541498757.png"
-      },
       "KDN0000043": {
         "name": "[고덕점] 판다 DJ 놀이",
         "age": "6개월 이상 ~",
@@ -3904,11 +3874,6 @@
         "name": "[고덕점]퍼스트 식기세척기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
-      },
-      "KBN0000083": {
-        "name": "[고덕점]피자카트 한영버전",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
       },
       "CDN0000093": {
         "name": "[브라이트스타트]공놀이 기린 라이트",
