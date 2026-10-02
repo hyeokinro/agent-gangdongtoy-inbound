@@ -3390,11 +3390,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
       },
-      "CDN0000081": {
-        "name": "[오볼]오볼세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
-      },
       "DDN0000140": {
         "name": "[실버릿]로보카폴리 스타터팩",
         "age": "36개월 이상 ~",
@@ -3469,6 +3464,11 @@
         "name": "[코닉스]타요 주유소플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562670647.png"
+      },
+      "CDN0000081": {
+        "name": "[오볼]오볼세트",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
       },
       "GDN0000202": {
         "name": "[리틀타익스] 리틀큐티버그",
