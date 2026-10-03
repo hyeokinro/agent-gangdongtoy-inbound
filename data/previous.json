@@ -2091,6 +2091,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765345684338.png"
       },
+      "CAN0000002": {
+        "name": "놀이판베이비룸",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_2.jpg"
+      },
       "DDN0000134": {
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
@@ -2921,11 +2926,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223643846.png"
       },
-      "CDN0000002": {
-        "name": "경주용카트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_54.jpg"
-      },
       "ADN0000012": {
         "name": "[보육사]농촌중장비",
         "age": "24개월 이상 ~",
@@ -3030,6 +3030,11 @@
         "name": "[고덕점]로즈우드 돌하우스가방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910468539.png"
+      },
+      "CDN0000002": {
+        "name": "경주용카트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_54.jpg"
       },
       "GCN0000019": {
         "name": "옥토넛 음악대장 악기세트",
@@ -3438,11 +3443,6 @@
       }
     },
     "delivery": {
-      "CAN0000017": {
-        "name": "[택배]흔들말타기(핑크)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_17.jpg"
-      },
       "CGN0000065": {
         "name": "[택배]현대백일돌상⑦",
         "age": "1개월 이상 ~",
