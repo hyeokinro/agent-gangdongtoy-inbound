@@ -76,11 +76,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072245339.png"
       },
-      "CDN0000081": {
-        "name": "[오볼]오볼세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207149730.jpg"
-      },
       "GDN0000060": {
         "name": "클라부 화재경보놀이",
         "age": "24개월 이상 ~",
@@ -2141,11 +2136,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539159047.png"
       },
-      "GFN0000012": {
-        "name": "[중모토이] CAT 포크레인차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765343908013.png"
-      },
       "GDN0000031": {
         "name": "스스로움직이는 모험왕공룡",
         "age": "12개월 이상 ~",
@@ -3416,11 +3406,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030562756.jpg"
       },
-      "KBN0000063": {
-        "name": "[고덕점] 뽀로로 아이스크림 가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540168670.png"
-      },
       "ADN0000023": {
         "name": "[코닉스]띠띠뽀정거장",
         "age": "36개월 이상 ~",
@@ -3825,6 +3810,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
       },
+      "DDN0000163": {
+        "name": "[시쿠]버스차량 5종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553595180.png"
+      },
       "DDN0000030": {
         "name": "[자노드]청키퍼즐디노조/쥬",
         "age": "12개월 이상 ~",
@@ -4005,11 +3995,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599010616405.JPG"
       },
-      "DBN0000040": {
-        "name": "[피셔]러닝 가든 앤 키친",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
-      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -4044,6 +4029,11 @@
         "name": "[스틱오]아기상어 프렌즈 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553879560.png"
+      },
+      "DBN0000040": {
+        "name": "[피셔]러닝 가든 앤 키친",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
       },
       "KBN0000085": {
         "name": "[고덕점]퍼스트 식기세척기",
