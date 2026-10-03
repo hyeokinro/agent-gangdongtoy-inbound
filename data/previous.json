@@ -3416,11 +3416,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168707540.png"
       },
-      "GDN0000090": {
-        "name": "[짐보리/맥포머스]브레인마스터세트300",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416071787.jpg"
-      },
       "GDN0000204": {
         "name": "[하베브릭스] 꼬마몬테 숫자미로",
         "age": "36개월 이상 ~",
@@ -3430,6 +3425,11 @@
         "name": "[브이텍] 다이노 먹이주기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
+      },
+      "GDN0000090": {
+        "name": "[짐보리/맥포머스]브레인마스터세트300",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416071787.jpg"
       },
       "GDN0000066": {
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
@@ -5114,6 +5114,11 @@
         "name": "뛰뛰빵빵드라이버 응급미니카3종",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589872214615.JPG"
+      },
+      "GEN0000027": {
+        "name": "컨스트럭션세트(26pcs)3차원자석블럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873694859.jpg"
       },
       "CCN0000018": {
         "name": "할릴릿실로폰",
