@@ -1606,11 +1606,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563897818.png"
       },
-      "GFN0000000": {
-        "name": "코레카소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
-      },
       "DDN0000128": {
         "name": "[립프로그]ABC 자석놀이",
         "age": "36개월 이상 ~",
@@ -3645,6 +3640,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_92.jpg"
       },
+      "AGN0000011": {
+        "name": "[페도라]카시트(블랙)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779135844.jpg"
+      },
       "DDN0000030": {
         "name": "[자노드]청키퍼즐디노조/쥬",
         "age": "12개월 이상 ~",
@@ -3830,10 +3830,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
       },
-      "KDN0000043": {
-        "name": "[고덕점] 판다 DJ 놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
+      "GDN0000144": {
+        "name": "춤추며 배우는 코딩로봇 다이노",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
@@ -3849,6 +3849,11 @@
         "name": "[고덕점] 스키핑스톤",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
+      },
+      "KDN0000043": {
+        "name": "[고덕점] 판다 DJ 놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
       },
       "DEN0000000": {
         "name": "[스틱오]아기상어 프렌즈 세트",
@@ -4254,11 +4259,6 @@
         "name": "대중교통미니카10종",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598948193376.JPG"
-      },
-      "GBN0000048": {
-        "name": "공룡피규어",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029329050.jpg"
       },
       "CBN0000025": {
         "name": "야생동물 24종",
@@ -5104,11 +5104,6 @@
         "name": "[초이락] 헬로카봇 폰X",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431845187.png"
-      },
-      "GBN0000172": {
-        "name": "[원앤원] 조이앤그로우 에듀하우스 6in1",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765432227830.png"
       },
       "GDN0000197": {
         "name": "[아이코닉스] 뽀로로 123 놀이터",
