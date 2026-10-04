@@ -3695,11 +3695,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760322329.jpg"
       },
-      "GBN0000006": {
-        "name": "리본도트주방놀이",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592381468.JPG"
-      },
       "CDN0000075": {
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
         "age": "36개월 이상 ~",
@@ -3829,6 +3824,11 @@
         "name": "[고덕점] 아기의사 돌리",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541498757.png"
+      },
+      "GBN0000006": {
+        "name": "리본도트주방놀이",
+        "age": "48개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592381468.JPG"
       },
       "KBN0000083": {
         "name": "[고덕점]피자카트 한영버전",
@@ -5884,11 +5884,6 @@
         "name": "[비키즈]미러롤러",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432947646.jpg"
-      },
-      "GDN0000204": {
-        "name": "[하베브릭스] 꼬마몬테 숫자미로",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257728259.png"
       },
       "GDN0000219": {
         "name": "[브이텍] 다이노 먹이주기",
