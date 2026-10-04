@@ -3640,6 +3640,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779135844.jpg"
       },
+      "CDN0000042": {
+        "name": "에듀플러스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562640401127.jpg"
+      },
       "DDN0000030": {
         "name": "[자노드]청키퍼즐디노조/쥬",
         "age": "12개월 이상 ~",
@@ -3820,11 +3825,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628483444.png"
       },
-      "KDN0000133": {
-        "name": "[고덕점] 빙글빙글 타요주차장놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
-      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -3834,6 +3834,11 @@
         "name": "[고덕점] 그루밍 캣",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537904906.png"
+      },
+      "KDN0000133": {
+        "name": "[고덕점] 빙글빙글 타요주차장놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
       },
       "KBN0000059": {
         "name": "[고덕점] 쇼핑카트",
@@ -4519,6 +4524,11 @@
         "name": "[아이코닉스]타요 생일케이크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433474030.png"
+      },
+      "CGN0000104": {
+        "name": "[아이존]베이비워커 걸음마보조기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435209028.jpg"
       },
       "CDN0000101": {
         "name": "[브라이트]공놀이 코끼리버스",
