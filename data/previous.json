@@ -2346,15 +2346,15 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537811238.png"
       },
-      "KBN0000061": {
-        "name": "[고덕점] 점보 야생 동물",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
-      },
       "GCN0000000": {
         "name": "신나는악기세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030442188.jpg"
+      },
+      "KBN0000061": {
+        "name": "[고덕점] 점보 야생 동물",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
       },
       "AGN0000009": {
         "name": "[브라이트]미키마우스락커",
@@ -4530,11 +4530,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758013592535.JPG"
       },
-      "GGN0000028": {
-        "name": "[디즈니베이비] 푸우 캐릭터 멜로디 모빌 체육관",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765254304218.png"
-      },
       "GDN0000206": {
         "name": "[브루더] MAN 트럭",
         "age": "36개월 이상 ~",
@@ -5240,6 +5235,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773743427.jpg"
       },
+      "ADN0000029": {
+        "name": "[자석나라]픽스앤픽스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773984790.jpg"
+      },
       "DDN0000033": {
         "name": "[하베브릭스]자석블록",
         "age": "12개월 이상 ~",
@@ -5424,6 +5424,11 @@
         "name": "[립프로그]아이스크림카트 민트초코",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349245017.png"
+      },
+      "CBN0000063": {
+        "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349571247.png"
       },
       "DDN0000120": {
         "name": "[주영이엔씨] 멜로디 생일케이크 핑크퐁 장난감",
