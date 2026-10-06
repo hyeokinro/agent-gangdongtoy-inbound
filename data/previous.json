@@ -2001,11 +2001,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248693569.png"
       },
-      "CAN0000002": {
-        "name": "놀이판베이비룸",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_2.jpg"
-      },
       "DDN0000134": {
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
@@ -3660,6 +3655,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166734522.png"
       },
+      "CEN0000001": {
+        "name": "뉴 곤충꼭지퍼즐",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_90.jpg"
+      },
       "ABN0000040": {
         "name": "[영실업]콩콩이와 119병원세트",
         "age": "36개월 이상 ~",
@@ -3855,11 +3855,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
-      "GFN0000010": {
-        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
-      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -3874,6 +3869,11 @@
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
+      },
+      "KDN0000063": {
+        "name": "[고덕점] 소방차",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540692173.png"
       },
       "KDN0000102": {
         "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
@@ -3929,6 +3929,11 @@
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
+      },
+      "GFN0000010": {
+        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
       },
       "CCN0000010": {
         "name": "컬러풀아기피아노",
@@ -5354,6 +5359,11 @@
         "name": "[고덕점] 달님이 가방에 쏙 동물병원",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538038707.png"
+      },
+      "KDN0000062": {
+        "name": "[고덕점] 리싸이클 트럭",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538947516.jpg"
       },
       "KDN0000146": {
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
