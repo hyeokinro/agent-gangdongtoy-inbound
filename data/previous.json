@@ -216,11 +216,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
       },
-      "CDN0000014": {
-        "name": "롤러코스터스타워즈",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_66.jpg"
-      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -876,6 +871,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594041401.jpg"
       },
+      "CBN0000042": {
+        "name": "[하페] 빵만들기 놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628341661.png"
+      },
       "KDN0000101": {
         "name": "[고덕점] 원통 쌓기 블록",
         "age": "24개월 이상 ~",
@@ -996,11 +996,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537929124.png"
       },
-      "DDN0000167": {
-        "name": "[비키즈]기린 플레이 테이블",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353744563.jpg"
-      },
       "CDN0000038": {
         "name": "볼트랙-락킹보트",
         "age": "12개월 이상 ~",
@@ -1110,11 +1105,6 @@
         "name": "리틀타익스 리틀 더티디거 청소차",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779959222191.png"
-      },
-      "CBN0000042": {
-        "name": "[하페] 빵만들기 놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604628341661.png"
       },
       "GEN0000011": {
         "name": "노아의방주 쌓기놀이",
@@ -2001,6 +1991,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248693569.png"
       },
+      "CAN0000002": {
+        "name": "놀이판베이비룸",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_2.jpg"
+      },
       "DDN0000134": {
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
@@ -2435,11 +2430,6 @@
         "name": "[자노드]쉐이프솔터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061342544.png"
-      },
-      "CGN0000005": {
-        "name": "뉴나리프 바운서",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_124.jpg"
       },
       "MBN0000063": {
         "name": "보쉬 높이 조절 공구 작업대",
