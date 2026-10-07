@@ -3455,6 +3455,11 @@
       }
     },
     "wait": {
+      "ADN0000026": {
+        "name": "[코니토이스]에듀테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
+      },
       "KBN0000064": {
         "name": "[고덕점] 빅레츠고오션월드",
         "age": "36개월 이상 ~",
@@ -3789,11 +3794,6 @@
         "name": "[고덕점] 에듀볼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
-      },
-      "CGN0000109": {
-        "name": "와이즈체어 범보부스터(올리브)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291345507.png"
       },
       "KDN0000041": {
         "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
@@ -5160,11 +5160,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589871044839.jpg"
       },
-      "CCN0000019": {
-        "name": "퍼커션세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1591661391946.png"
-      },
       "GAN0000016": {
         "name": "오볼롤러(뉴)",
         "age": "6개월 이상 ~",
@@ -5489,11 +5484,6 @@
         "name": "루시와 포대기세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1782200693789.jpg"
-      },
-      "CCN0000005": {
-        "name": "베이비밴드",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_45.jpg"
       },
       "CDN0000004": {
         "name": "나잡아봐야옹이",
