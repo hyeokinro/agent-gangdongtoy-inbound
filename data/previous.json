@@ -2211,11 +2211,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165878905.png"
       },
-      "KCN0000016": {
-        "name": "[고덕점] 매직터치 피아노",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
-      },
       "DDN0000074": {
         "name": "[하바]연못알아볼까요?",
         "age": "24개월 이상 ~",
@@ -2460,6 +2455,11 @@
         "name": "[고덕점] 로켓모양 맞추기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
+      },
+      "KCN0000016": {
+        "name": "[고덕점] 매직터치 피아노",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
       },
       "KDN0000049": {
         "name": "[고덕점] 엄마까투리 어드벤쳐 플레이세트",
@@ -5858,6 +5858,11 @@
         "name": "[캠핑팩]테이블체어세트(아이보리)",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1786078009782.png"
+      },
+      "HSN0000101": {
+        "name": "[캠핑팩]텐트+토이빔(스토리텔링)",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1786077864077.png"
       },
       "HSN0000099": {
         "name": "[캠핑팩]곤충채집도구",
