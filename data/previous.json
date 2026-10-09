@@ -196,11 +196,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958558816.png"
       },
-      "ABN0000041": {
-        "name": "[브이텍]병원놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
-      },
       "CDN0000033": {
         "name": "클래식8자기차트렉세트",
         "age": "24개월 이상 ~",
@@ -295,6 +290,11 @@
         "name": "스쿨버스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032360550.jpg"
+      },
+      "ABN0000041": {
+        "name": "[브이텍]병원놀이세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
       },
       "KBN0000058": {
         "name": "[고덕점] 헤어 드레싱세트",
@@ -2291,11 +2291,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224102932.png"
       },
-      "KDN0000125": {
-        "name": "[고덕점] 달님이 에어프라이어",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
-      },
       "GEN0000007": {
         "name": "Earth colors cubes set",
         "age": "36개월 이상 ~",
@@ -2380,6 +2375,11 @@
         "name": "[고덕점] 매직터치 피아노",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
+      },
+      "KDN0000125": {
+        "name": "[고덕점] 달님이 에어프라이어",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555264933.png"
       },
       "DDN0000089": {
         "name": "[바오밥]다이빙피쉬",
