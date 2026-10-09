@@ -361,11 +361,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
-      "ABN0000021": {
-        "name": "[캐스돈]다이슨청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
-      },
       "ADN0000059": {
         "name": "[키움하우스]라이트업뮤지컬버스",
         "age": "24개월 이상 ~",
@@ -2191,11 +2186,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070147910.png"
       },
-      "GDN0000152": {
-        "name": "전동드릴 공구놀이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
-      },
       "GDN0000037": {
         "name": "댄싱로봇빗벨",
         "age": "6개월 이상 ~",
@@ -2235,6 +2225,11 @@
         "name": "[원앤원] 조이앤그로우 에듀하우스 6in1",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765432227830.png"
+      },
+      "GDN0000152": {
+        "name": "전동드릴 공구놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
       },
       "CAN0000057": {
         "name": "[키움하우스]팝핑 워커 거북이",
@@ -2736,11 +2731,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659663546455.jpg"
       },
-      "KDN0000138": {
-        "name": "[고덕점] 할리갈리 컵스 딜럭스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554722819.png"
-      },
       "GBN0000026": {
         "name": "바닐라케이크",
         "age": "36개월 이상 ~",
@@ -2880,6 +2870,11 @@
         "name": "도형맞추기 하우스",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
+      },
+      "KDN0000138": {
+        "name": "[고덕점] 할리갈리 컵스 딜럭스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554722819.png"
       },
       "GDN0000146": {
         "name": "RC우주선범퍼 [개구리]",
