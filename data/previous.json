@@ -1186,11 +1186,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958018487.png"
       },
-      "KDN0000150": {
-        "name": "[고덕점]큐블로 매직큐브  자석블럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910311268.png"
-      },
       "GBN0000149": {
         "name": "[립프로그]피크닉 바구니",
         "age": "36개월 이상 ~",
@@ -1365,11 +1360,6 @@
         "name": "허니비마켓 과일상자",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593384161.jpg"
-      },
-      "KDN0000139": {
-        "name": "[고덕점] 테이크얼롱프린세스테일즈모빌",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554607023.png"
       },
       "CBN0000008": {
         "name": "둑티그 장난감 계산대",
@@ -1660,6 +1650,11 @@
         "name": "샐러드세트(야채썰기)",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593353181.jpg"
+      },
+      "KDN0000139": {
+        "name": "[고덕점] 테이크얼롱프린세스테일즈모빌",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554607023.png"
       },
       "MBN0000077": {
         "name": "플레이 월드푸드파티세트",
@@ -2636,6 +2631,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221528691.png"
       },
+      "KDN0000153": {
+        "name": "[고덕점] 자동드릴공구놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
+      },
       "GCN0000024": {
         "name": "[브이텍] 타이거 락 기타",
         "age": "24개월 이상 ~",
@@ -3126,11 +3126,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067259977.png"
       },
-      "ABN0000000": {
-        "name": "[레드박스]만능공구놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617761037394.jpg"
-      },
       "DDN0000116": {
         "name": "[아이코닉스]띠띠뽀 차량기지 놀이+전동기차세터+기차역",
         "age": "36개월 이상 ~",
@@ -3155,6 +3150,11 @@
         "name": "토끼(핑크)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034645993.jpg"
+      },
+      "ABN0000000": {
+        "name": "[레드박스]만능공구놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617761037394.jpg"
       },
       "GBN0000035": {
         "name": "허니비마켓 저울세트",
@@ -3685,6 +3685,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671510535985.PNG"
       },
+      "GBN0000162": {
+        "name": "[에프비존] 사랑의 하츄핑 마이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259555753.png"
+      },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
@@ -3860,10 +3865,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
       },
-      "DDN0000073": {
-        "name": "[하바]펭귄가족달리기",
+      "GDN0000144": {
+        "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070065465.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
       "KDN0000129": {
         "name": "[고덕점] 가드닝카트",
