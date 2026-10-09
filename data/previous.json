@@ -3710,6 +3710,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291115702.png"
       },
+      "ABN0000038": {
+        "name": "[립프로그]아이스크림 카트 디럭스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672364598496.png"
+      },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
@@ -3900,10 +3905,10 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_43.jpg"
       },
-      "AAN0000012": {
-        "name": "[브랜드B]트윙클 볼링",
+      "KDN0000085": {
+        "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760322329.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539601200.png"
       },
       "KDN0000063": {
         "name": "[고덕점] 소방차",
@@ -4449,6 +4454,11 @@
         "name": "[고덕점] 디자인 드릴 로봇",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538497750.png"
+      },
+      "KDN0000123": {
+        "name": "[고덕점] 매직큐브프리빌딩 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539117440.png"
       },
       "KBN0000052": {
         "name": "[고덕점] 색이 변하는 쿠키오븐",
@@ -5600,6 +5610,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067302203.png"
       },
+      "DDN0000092": {
+        "name": "[부루마블]클래식",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071205795.png"
+      },
       "ADN0000040": {
         "name": "[브라이트]공놀이고래",
         "age": "6개월 이상 ~",
@@ -5809,11 +5824,6 @@
         "name": "[리틀히어로] 소프트 빌딩블록 24P",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427740337.png"
-      },
-      "GDN0000219": {
-        "name": "[브이텍] 다이노 먹이주기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
       }
     }
   },
