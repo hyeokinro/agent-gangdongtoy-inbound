@@ -1221,11 +1221,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1779958183570.png"
       },
-      "DDN0000171": {
-        "name": "[브이텍]밸런싱 링쌓기저울",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353458707.jpg"
-      },
       "MBN0000066": {
         "name": "[스탠리주니어] 드라이버공구놀이세트25피스",
         "age": "36개월 이상 ~",
@@ -1365,6 +1360,11 @@
         "name": "헬로 역할놀이 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163617712.png"
+      },
+      "DDN0000171": {
+        "name": "[브이텍]밸런싱 링쌓기저울",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353458707.jpg"
       },
       "GBN0000048": {
         "name": "공룡피규어",
@@ -3760,11 +3760,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541043945.png"
       },
-      "GFN0000010": {
-        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
-      },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
         "age": "36개월 이상 ~",
@@ -3870,6 +3865,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
       },
+      "CBN0000023": {
+        "name": "후라이팬세트(원목)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800997595.jpg"
+      },
       "KDN0000063": {
         "name": "[고덕점] 소방차",
         "age": "24개월 이상 ~",
@@ -3924,6 +3924,11 @@
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
+      },
+      "GFN0000010": {
+        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
       },
       "CCN0000010": {
         "name": "컬러풀아기피아노",
