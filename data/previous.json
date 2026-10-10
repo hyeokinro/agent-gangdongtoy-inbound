@@ -161,11 +161,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "ABN0000025": {
         "name": "[키즈카니발]사파리세트",
         "age": "24개월 이상 ~",
@@ -316,15 +311,15 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
-      "GFN0000001": {
-        "name": "코레카경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
-      },
       "GDN0000187": {
         "name": "[브이텍]스마트 러닝 태블릿",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
+      },
+      "CDN0000047": {
+        "name": "첫발견 러닝운전놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562672056967.jpg"
       },
       "ABN0000021": {
         "name": "[캐스돈]다이슨청소기",
@@ -2076,11 +2071,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730937887813.png"
       },
-      "CGN0000005": {
-        "name": "뉴나리프 바운서",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_124.jpg"
-      },
       "DDN0000124": {
         "name": "[Lakeshore]믹스매치 건설차량",
         "age": "36개월 이상 ~",
@@ -3046,11 +3036,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067727613.png"
       },
-      "GFN0000002": {
-        "name": "미니스쿠터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1592454791120.jpg"
-      },
       "GDN0000074": {
         "name": "건설트럭3종세트",
         "age": "12개월 이상 ~",
@@ -3226,11 +3211,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277688466.jpg"
       },
-      "ABN0000047": {
-        "name": "[리틀타익스]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168707540.png"
-      },
       "CDN0000019": {
         "name": "멀티플렉스세트150pc(스퀴즈)",
         "age": "36개월 이상 ~",
@@ -3370,11 +3350,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427999457.png"
       },
-      "ABN0000021": {
-        "name": "[캐스돈]다이슨청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
-      },
       "GFN0000011": {
         "name": "[중모토이] CAT 로더 푸쉬카",
         "age": "36개월 이상 ~",
@@ -3504,6 +3479,11 @@
         "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168762213.png"
+      },
+      "ABN0000021": {
+        "name": "[캐스돈]다이슨청소기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
       },
       "GDN0000061": {
         "name": "클라부 경찰추격전놀이세트",
