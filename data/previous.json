@@ -1676,11 +1676,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416325981.jpg"
       },
-      "CDN0000045": {
-        "name": "빙글빙글 동물친구놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
-      },
       "DBN0000042": {
         "name": "[토이트론]달님이카페놀이",
         "age": "36개월 이상 ~",
@@ -1961,11 +1956,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_2.jpg"
       },
-      "DDN0000134": {
-        "name": "[퍼니]엄마까투리 어드벤쳐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
-      },
       "DDN0000079": {
         "name": "[오차드]아기돼지삼형제",
         "age": "36개월 이상 ~",
@@ -1975,6 +1965,11 @@
         "name": "대호토이즈 벤츠 붕붕카",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780030436132.png"
+      },
+      "CDN0000045": {
+        "name": "빙글빙글 동물친구놀이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
       },
       "KDN0000066": {
         "name": "[고덕점] 블럭먹는 악어",
@@ -2005,6 +2000,11 @@
         "name": "[고덕점]밸런싱 링쌓기저울",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729908396190.png"
+      },
+      "DDN0000134": {
+        "name": "[퍼니]엄마까투리 어드벤쳐",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564113369.png"
       },
       "GDN0000159": {
         "name": "오케스트라 러닝테이블",
@@ -2636,11 +2636,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760272444.jpg"
       },
-      "KDN0000119": {
-        "name": "[고덕점] 굿모닝 프렌즈",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537889075.png"
-      },
       "GDN0000036": {
         "name": "댄싱로봇빗보",
         "age": "6개월 이상 ~",
@@ -3240,6 +3235,11 @@
         "name": "[영실업]응가습관 콩콩이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479895753.jpg"
+      },
+      "AAN0000016": {
+        "name": "[쁘띠베베]러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
       },
       "GEN0000037": {
         "name": "[리틀히어로] 소프트 빌딩블록 24P",
@@ -4890,11 +4890,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202910655.png"
       },
-      "AGN0000016": {
-        "name": "베이비범 액티비티 워커",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672367306425.png"
-      },
       "GBN0000089": {
         "name": "콩순이 콩콩이와 119 병원세트",
         "age": "12개월 이상 ~",
@@ -5788,11 +5783,6 @@
         "name": "[놀이팩]커들반 인형(강아지)",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301806887.png"
-      },
-      "CWN0000016": {
-        "name": "[한복]연색동산호",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1781765096867.png"
       },
       "HSN0000076": {
         "name": "[물놀이팩]러싱워터테이블",
