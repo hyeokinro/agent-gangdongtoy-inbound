@@ -1876,11 +1876,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771773037.JPG"
       },
-      "GBN0000156": {
-        "name": "[아이코닉스] 봉봉 달콤 푸드트럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246709657.png"
-      },
       "DBN0000047": {
         "name": "[리틀타익스]퍼스트 계산대놀이 유아 계산대",
         "age": "36개월 이상 ~",
@@ -3490,6 +3485,16 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589874300858.JPG"
       },
+      "KDN0000069": {
+        "name": "[고덕점] 링 던지기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
+      },
+      "KDN0000147": {
+        "name": "[고덕점] 기운센 2in1 포크레인붕붕카",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
+      },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
@@ -3660,16 +3665,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_43.jpg"
       },
-      "AAN0000012": {
-        "name": "[브랜드B]트윙클 볼링",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760322329.jpg"
-      },
-      "GDN0000144": {
-        "name": "춤추며 배우는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
-      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -3719,6 +3714,11 @@
         "name": "[리틀타익스]퍼스트 세탁기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
+      },
+      "CBN0000070": {
+        "name": "[컬렉타]야생동물 30종",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
       },
       "AGN0000020": {
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
@@ -4514,6 +4514,11 @@
         "name": "[고덕점] 로보카폴리 볼링세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554670586.png"
+      },
+      "KDN0000111": {
+        "name": "[고덕점] 주니어킴블",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703557469158.png"
       },
       "KDN0000082": {
         "name": "[고덕점] 특수차량 12종세트",
