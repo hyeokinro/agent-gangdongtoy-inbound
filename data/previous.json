@@ -711,11 +711,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590039182551.jpg"
       },
-      "CCN0000003": {
-        "name": "레인메이커(중)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_43.jpg"
-      },
       "AGN0000020": {
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
         "age": "1개월 이상 ~",
@@ -1571,11 +1566,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
       },
-      "CDN0000068": {
-        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
-      },
       "DDN0000113": {
         "name": "[큐비]고래를위하여세트",
         "age": "48개월 이상 ~",
@@ -1835,6 +1825,11 @@
         "name": "놀이판베이비룸",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_2.jpg"
+      },
+      "CDN0000068": {
+        "name": "[피셔프라이스] 링키멀즈 풀어롱 고슴도치",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631581610.png"
       },
       "GDN0000088": {
         "name": "[하바]클라부 미니카세트",
@@ -3385,11 +3380,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_92.jpg"
       },
-      "CGN0000108": {
-        "name": "와이즈체어 범보부스터(애쉬크림)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291115702.png"
-      },
       "ABN0000038": {
         "name": "[립프로그]아이스크림 카트 디럭스",
         "age": "24개월 이상 ~",
@@ -3629,6 +3619,11 @@
         "name": "[브랜드B]트윙클 볼링",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760322329.jpg"
+      },
+      "GDN0000144": {
+        "name": "춤추며 배우는 코딩로봇 다이노",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
@@ -3944,11 +3939,6 @@
         "name": "[리틀]액티비티 윈도우",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
-      },
-      "KGN0000009": {
-        "name": "[고덕점]알루 에듀하우스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729907890236.png"
       },
       "KDN0000152": {
         "name": "[고덕점]뽀로로 자동차마을 & 타워",
