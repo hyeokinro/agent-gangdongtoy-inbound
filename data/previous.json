@@ -641,6 +641,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
       },
+      "GAN0000010": {
+        "name": "뽀로로멜로디안전그네",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590829237.jpg"
+      },
       "GDN0000144": {
         "name": "춤추며 배우는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -4700,11 +4705,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162870728.png"
       },
-      "GAN0000040": {
-        "name": "뮤지컬 액티비티 워커",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
-      },
       "GDN0000140": {
         "name": "레이싱 스테이션",
         "age": "24개월 이상 ~",
@@ -4864,11 +4864,6 @@
         "name": "[엔픽스]동물원 에디션 보행기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1750725966303.jpg"
-      },
-      "GAN0000046": {
-        "name": "[피셔프라이스] 얼티밋 스마트 러닝홈 2.0",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765249415923.png"
       },
       "GBN0000163": {
         "name": "[립프로그] 소프트 아이스크림 메이커",
@@ -5149,6 +5144,11 @@
         "name": "[고덕점] 리싸이클 트럭",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538947516.jpg"
+      },
+      "KAN0000011": {
+        "name": "[고덕점] 베이비 스포츠센터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539382532.png"
       },
       "KDN0000146": {
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
