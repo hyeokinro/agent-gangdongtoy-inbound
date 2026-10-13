@@ -241,11 +241,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026689969.jpg"
       },
-      "KBN0000074": {
-        "name": "[고덕점] 퍼스트 계산대놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
-      },
       "KBN0000076": {
         "name": "[고덕점] 옥토레이 변신 본부 플레이세트",
         "age": "36개월 이상 ~",
@@ -1486,6 +1481,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765247386643.png"
       },
+      "CDN0000069": {
+        "name": "[하페]레인보우기차세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631598615.png"
+      },
       "GDN0000126": {
         "name": "[대성]벤츠 아록스 덤프트럭",
         "age": "36개월 이상 ~",
@@ -1686,6 +1686,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1592360375646.JPG"
       },
+      "CDN0000006": {
+        "name": "더티디거불더저",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_58.jpg"
+      },
       "GDN0000019": {
         "name": "빙글빙글 옥토퍼스",
         "age": "6개월 이상 ~",
@@ -1786,11 +1791,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353708423.jpg"
       },
-      "GDN0000220": {
-        "name": "[맥포머스] 마이퍼스트 54pcs",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765429039862.png"
-      },
       "DDN0000134": {
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
@@ -1806,6 +1806,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
       },
+      "GDN0000220": {
+        "name": "[맥포머스] 마이퍼스트 54pcs",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765429039862.png"
+      },
       "CBN0000001": {
         "name": "공룡벨로시랩터",
         "age": "36개월 이상 ~",
@@ -1815,6 +1820,11 @@
         "name": "[고덕점] 얼리러닝-맥도날드농장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539159047.png"
+      },
+      "CGY0000094": {
+        "name": "[브라이트스타트]디즈니 미니마우스 액티비티 점퍼루",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750312134266.jpg"
       },
       "GBN0000045": {
         "name": "디럭스야생동물세트24종",
@@ -2770,6 +2780,11 @@
         "name": "식자재 용기모형세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1594096261739.jpg"
+      },
+      "CBN0000061": {
+        "name": "[브이텍]2in1 다이노 파크",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349736604.png"
       },
       "ACN0000005": {
         "name": "[캐스B]원목악기10종",
