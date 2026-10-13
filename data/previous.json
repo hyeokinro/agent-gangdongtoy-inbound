@@ -31,11 +31,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026689969.jpg"
       },
-      "CDN0000103": {
-        "name": "[브이텍]러닝 엑티비티 에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1752293705922.png"
-      },
       "KCN0000019": {
         "name": "[고덕점] 라이트봉고드럼",
         "age": "36개월 이상 ~",
@@ -846,11 +841,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540985780.png"
       },
-      "GDN0000136": {
-        "name": "에어포트 플레이세트",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165421369.png"
-      },
       "CDN0000066": {
         "name": "[하페]레드브릿지 기차세트",
         "age": "36개월 이상 ~",
@@ -1536,11 +1526,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296163149.jpg"
       },
-      "DDN0000088": {
-        "name": "[조엔]팅팅퍽",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070984832.png"
-      },
       "GDN0000149": {
         "name": "기차세트 스타터",
         "age": "36개월 이상 ~",
@@ -1635,6 +1620,11 @@
         "name": "[고덕점] 주니어킴블",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703557469158.png"
+      },
+      "DDN0000088": {
+        "name": "[조엔]팅팅퍽",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070984832.png"
       },
       "DDN0000050": {
         "name": "[하바]반짝이는얼음조각",
@@ -3130,11 +3120,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
       },
-      "KDN0000144": {
-        "name": "[고덕점] 춤추는 낚시놀이 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554261453.png"
-      },
       "DBN0000039": {
         "name": "[브이텍]ABC 쇼핑카트",
         "age": "36개월 이상 ~",
@@ -3265,6 +3250,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
       },
+      "KDN0000144": {
+        "name": "[고덕점] 춤추는 낚시놀이 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554261453.png"
+      },
       "GDN0000145": {
         "name": "타요 고속도로 하이패스",
         "age": "36개월 이상 ~",
@@ -3359,11 +3349,6 @@
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
-      },
-      "KDN0000041": {
-        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
       },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
@@ -3544,6 +3529,11 @@
         "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
+      },
+      "DDN0000098": {
+        "name": "[레고]미니의공간",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071507258.png"
       },
       "KDN0000133": {
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
