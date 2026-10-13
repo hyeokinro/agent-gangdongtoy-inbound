@@ -1466,11 +1466,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1780020273054.png"
       },
-      "CFN0000002": {
-        "name": "3단계변형운전놀이자전거",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_110.jpg"
-      },
       "MBN0000081": {
         "name": "피에스타 우드 다리미 세트",
         "age": "36개월 이상 ~",
@@ -2190,11 +2185,6 @@
         "name": "[고덕점] 엄마까투리 디럭스 트리 하우스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541753455.png"
-      },
-      "KBN0000048": {
-        "name": "[고덕점] 푸쉬앤팝 미니 청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568019401.png"
       },
       "KDN0000095": {
         "name": "[고덕점] 뮤직운전대",
@@ -2971,10 +2961,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557654599.png"
       },
-      "CDN0000080": {
-        "name": "[비키즈]악어 걸음마 보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672125477010.jpg"
+      "DDN0000152": {
+        "name": "[토이트론]달님이 플라워 가든 박스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710556933069.png"
       },
       "GDN0000006": {
         "name": "목욕놀이세탁기",
@@ -3544,11 +3534,6 @@
         "name": "[레고]미니의공간",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071507258.png"
-      },
-      "KDN0000133": {
-        "name": "[고덕점] 빙글빙글 타요주차장놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539625068.png"
       },
       "KDN0000063": {
         "name": "[고덕점] 소방차",
@@ -5355,6 +5340,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067302203.png"
       },
+      "DDN0000054": {
+        "name": "[맥포머스]공사현장세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067818494.png"
+      },
       "DDN0000092": {
         "name": "[부루마블]클래식",
         "age": "60개월 이상 ~",
@@ -5569,6 +5559,11 @@
         "name": "[브이텍] 다이노 먹이주기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427846054.png"
+      },
+      "GDN0000224": {
+        "name": "[초이락] 헬로카봇 루크X",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431698560.png"
       }
     }
   },
