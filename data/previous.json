@@ -971,11 +971,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_23.jpg"
       },
-      "KDN0000050": {
-        "name": "[고덕점]구스파파",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
-      },
       "KDN0000060": {
         "name": "[고덕점] 팝피 토피",
         "age": "6개월 이상 ~",
@@ -4335,6 +4330,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067108683.png"
       },
+      "DDN0000071": {
+        "name": "[탑브라이트]탈것(경찰차외)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069947474.png"
+      },
       "DDN0000099": {
         "name": "[레고]공룡탈출",
         "age": "24개월 이상 ~",
@@ -4785,6 +4785,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563957210.png"
       },
+      "CGY0000086": {
+        "name": "피아노아기체육관 디럭스",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690654254.jpg"
+      },
       "KDN0000151": {
         "name": "[고덕점]아기곰저울&숫자놀이",
         "age": "36개월 이상 ~",
@@ -4914,6 +4919,11 @@
         "name": "[보육사/GONGE]슈퍼에어보드",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604627223258.png"
+      },
+      "CFN0000015": {
+        "name": "[스텝2]주니어 흔들말",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630127328.png"
       },
       "GDN0000091": {
         "name": "[짐보리/맥포머스]미라클브레인세트258",
