@@ -2171,11 +2171,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
       },
-      "DDN0000169": {
-        "name": "[오즈토이]피아노 퍼즐하우스 완구",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353690280.jpg"
-      },
       "GDN0000045": {
         "name": "꼬꼬닥오뚝이",
         "age": "1개월 이상 ~",
@@ -2806,11 +2801,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770902524.jpg"
       },
-      "DEN0000001": {
-        "name": "[스틱오]아기상어 패밀리 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553844383.png"
-      },
       "CEN0000012": {
         "name": "베이직블럭",
         "age": "12개월 이상 ~",
@@ -2865,6 +2855,11 @@
         "name": "[레드박스]만능공구놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617761037394.jpg"
+      },
+      "DEN0000001": {
+        "name": "[스틱오]아기상어 패밀리 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553844383.png"
       },
       "GBN0000035": {
         "name": "허니비마켓 저울세트",
@@ -2961,11 +2956,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537790559.png"
       },
-      "DBN0000046": {
-        "name": "[나비타]브라운 헤어 드레싱 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
-      },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
         "age": "24개월 이상 ~",
@@ -2980,6 +2970,11 @@
         "name": "띠띠뽀 내맘대로 레일놀이세트(전동차포함)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607064333706.jpg"
+      },
+      "DBN0000046": {
+        "name": "[나비타]브라운 헤어 드레싱 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
       },
       "GCN0000002": {
         "name": "뮤지컬사운드세트",
