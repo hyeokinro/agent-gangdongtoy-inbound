@@ -2751,11 +2751,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
       },
-      "GBN0000094": {
-        "name": "미키와친구들 자동차 병원놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
-      },
       "GDN0000146": {
         "name": "RC우주선범퍼 [개구리]",
         "age": "6개월 이상 ~",
@@ -2815,6 +2810,11 @@
         "name": "[고덕점] 정글잼 악기세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566223633.png"
+      },
+      "GBN0000094": {
+        "name": "미키와친구들 자동차 병원놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
       },
       "DDN0000165": {
         "name": "[키움하우스]자석라이팅마블 125피스",
@@ -4615,11 +4615,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
       },
-      "KDN0000087": {
-        "name": "[고덕점] 뉴 ABC테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537962707.png"
-      },
       "KCN0000011": {
         "name": "[고덕점] 리틀밴드 멜로디터치 피아노",
         "age": "6개월 이상 ~",
@@ -4705,11 +4700,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433409969.jpg"
       },
-      "CGN0000106": {
-        "name": "[먼치킨]블루투스 자동스윙",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435486649.jpg"
-      },
       "AFN0000009": {
         "name": "코레카 경찰차",
         "age": "12개월 이상 ~",
@@ -4739,6 +4729,11 @@
         "name": "오뚜기뽀빠이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
+      },
+      "CGN0000005": {
+        "name": "뉴나리프 바운서",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_124.jpg"
       },
       "CBN0000036": {
         "name": "싱싱한 야채소품",
@@ -5529,11 +5524,6 @@
         "name": "[베이비아인슈타인]플립기타 2in 1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
-      },
-      "AAN0000016": {
-        "name": "[쁘띠베베]러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
       },
       "ABN0000000": {
         "name": "[레드박스]만능공구놀이",
