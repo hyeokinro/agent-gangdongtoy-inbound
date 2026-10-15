@@ -1131,6 +1131,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033405424.jpg"
       },
+      "CDN0000097": {
+        "name": "[브이텍]6in1 트위스트 에듀큐브",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432672724.jpg"
+      },
       "GBN0000149": {
         "name": "[립프로그]피크닉 바구니",
         "age": "36개월 이상 ~",
@@ -1920,11 +1925,6 @@
         "name": "빙글빙글 동물친구놀이",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671853082.jpg"
-      },
-      "DBN0000047": {
-        "name": "[리틀타익스]퍼스트 계산대놀이 유아 계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353708423.jpg"
       },
       "GAN0000037": {
         "name": "액티비티 코끼리 농구대",
@@ -3211,11 +3211,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607064333706.jpg"
       },
-      "DBN0000046": {
-        "name": "[나비타]브라운 헤어 드레싱 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
-      },
       "DDN0000161": {
         "name": "[시쿠]소방차량 5종",
         "age": "36개월 이상 ~",
@@ -3834,6 +3829,11 @@
         "name": "[손오공]옥토넛 옥토포드 플레이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554926633.png"
+      },
+      "KBN0000085": {
+        "name": "[고덕점]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
       "CGN0000089": {
         "name": "[비키즈]망아지 플레이테이블 (걸음마)",
