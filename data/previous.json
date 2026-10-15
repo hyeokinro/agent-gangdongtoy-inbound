@@ -2006,11 +2006,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730937887813.png"
       },
-      "CDN0000067": {
-        "name": "[하페]긴급출동 스테이션",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604631447967.png"
-      },
       "DDN0000090": {
         "name": "[아이누리]핑크퐁레이싱",
         "age": "36개월 이상 ~",
@@ -2640,11 +2635,6 @@
         "name": "[오차드]피자, 피자!",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070755388.png"
-      },
-      "CDN0000088": {
-        "name": "[아이코닉스]타요 자동차노트북",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349511953.png"
       },
       "AAN0000013": {
         "name": "[구디우디]오리푸쉬",
@@ -3290,10 +3280,20 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221615837.png"
       },
+      "KBN0000058": {
+        "name": "[고덕점] 헤어 드레싱세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
+      },
       "ABN0000021": {
         "name": "[캐스돈]다이슨청소기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
+      },
+      "KDN0000115": {
+        "name": "[고덕점] 빙글빙글 해저 탐험",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
       },
       "GDN0000061": {
         "name": "클라부 경찰추격전놀이세트",
@@ -3454,11 +3454,6 @@
         "name": "[브이텍]공구놀이세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
-      },
-      "KDN0000115": {
-        "name": "[고덕점] 빙글빙글 해저 탐험",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
       },
       "KDN0000069": {
         "name": "[고덕점] 링 던지기",
@@ -3715,11 +3710,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
       },
-      "DBN0000051": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
-      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -3764,6 +3754,11 @@
         "name": "[비키즈]망아지 플레이테이블 (걸음마)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
+      },
+      "DBN0000051": {
+        "name": "[리틀타익스]퍼스트 세탁기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
       },
       "CBN0000070": {
         "name": "[컬렉타]야생동물 30종",
