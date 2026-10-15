@@ -521,11 +521,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
       },
-      "KDN0000041": {
-        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
-      },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
         "age": "36개월 이상 ~",
@@ -685,6 +680,11 @@
         "name": "[브이텍]러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671497051740.PNG"
+      },
+      "KDN0000041": {
+        "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
       },
       "CDN0000075": {
         "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
@@ -1655,6 +1655,11 @@
         "name": "로데오루스터",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027499707.jpg"
+      },
+      "AFN0000009": {
+        "name": "코레카 경찰차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771773037.JPG"
       },
       "DDN0000045": {
         "name": "[하바]마법의소리게임",
@@ -2696,6 +2701,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295914353.jpg"
       },
+      "ADN0000033": {
+        "name": "[하바]미로(건설,교통)",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777291297.jpg"
+      },
       "ABN0000020": {
         "name": "[코닉스]뽀로로캐리어",
         "age": "36개월 이상 ~",
@@ -2730,11 +2740,6 @@
         "name": "[보육사]목재의사놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1664354241721.png"
-      },
-      "ADN0000033": {
-        "name": "[하바]미로(건설,교통)",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617777291297.jpg"
       },
       "DDN0000078": {
         "name": "[오차드]도로퍼즐",
@@ -3709,6 +3714,11 @@
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336045907.png"
+      },
+      "KDN0000090": {
+        "name": "[고덕점] 로더심플 페리보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
