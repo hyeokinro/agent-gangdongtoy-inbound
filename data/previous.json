@@ -1191,11 +1191,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246061852.png"
       },
-      "GGN0000010": {
-        "name": "오피스러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1590036737966.jpg"
-      },
       "AGN0000019": {
         "name": "하늘썬별 피아노체육관 걸음마 (블루)",
         "age": "1개월 이상 ~",
@@ -2306,6 +2301,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222329943.png"
       },
+      "CCN0000018": {
+        "name": "할릴릿실로폰",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1591668354749.jpg"
+      },
       "GDN0000045": {
         "name": "꼬꼬닥오뚝이",
         "age": "1개월 이상 ~",
@@ -2690,6 +2690,11 @@
         "name": "공룡안키로사우루스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_21.jpg"
+      },
+      "CCN0000002": {
+        "name": "레인메이커(대)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_42.jpg"
       },
       "DDN0000033": {
         "name": "[하베브릭스]자석블록",
