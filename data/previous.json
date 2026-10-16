@@ -3435,11 +3435,6 @@
       }
     },
     "wait": {
-      "GDN0000202": {
-        "name": "[리틀타익스] 리틀큐티버그",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765257074054.png"
-      },
       "GDN0000155": {
         "name": "자장가램프 운전놀이 프로젝트",
         "age": "12개월 이상 ~",
@@ -3934,6 +3929,11 @@
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
+      },
+      "GDN0000026": {
+        "name": "레코딩무선전화놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
       },
       "KDN0000136": {
         "name": "[고덕점] 에듀볼",
@@ -4599,11 +4599,6 @@
         "name": "[핑크퐁]아기상어 레일 기차놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435088010.jpg"
-      },
-      "AGN0000019": {
-        "name": "하늘썬별 피아노체육관 걸음마 (블루)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1758013592535.JPG"
       },
       "GDN0000195": {
         "name": "[브라이트스타트] 공놀이 코끼리 버스",
@@ -5440,11 +5435,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554722819.png"
       },
-      "KDN0000122": {
-        "name": "[고덕점] 액티비티 보드게임",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555505993.png"
-      },
       "KDN0000114": {
         "name": "[고덕점] 호기심 러닝테이블",
         "age": "6개월 이상 ~",
@@ -5904,11 +5894,6 @@
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765425818204.png"
-      },
-      "GEN0000037": {
-        "name": "[리틀히어로] 소프트 빌딩블록 24P",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427740337.png"
       },
       "GDN0000219": {
         "name": "[브이텍] 다이노 먹이주기",
