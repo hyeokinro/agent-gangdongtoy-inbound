@@ -601,6 +601,11 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628062211217.png"
       },
+      "CGN0000109": {
+        "name": "와이즈체어 범보부스터(올리브)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291345507.png"
+      },
       "GBN0000038": {
         "name": "피자가게세트",
         "age": "36개월 이상 ~",
@@ -705,11 +710,6 @@
         "name": "[지아지조]키친토이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
-      },
-      "GDN0000144": {
-        "name": "춤추며 배우는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166456713.png"
       },
       "GBN0000009": {
         "name": "식료품핸들카트",
@@ -1201,11 +1201,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910157580.png"
       },
-      "GBN0000158": {
-        "name": "[아이코닉스] 뽀로로 3분 치과놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765256617406.jpg"
-      },
       "ADN0000035": {
         "name": "[하베브릭스]빅에듀큐브",
         "age": "12개월 이상 ~",
@@ -1235,6 +1230,11 @@
         "name": "[리틀]액티비티 윈도우",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
+      },
+      "GBN0000158": {
+        "name": "[아이코닉스] 뽀로로 3분 치과놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765256617406.jpg"
       },
       "ABN0000009": {
         "name": "[마더가든]오븐베이커리",
