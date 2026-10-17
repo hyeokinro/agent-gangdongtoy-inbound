@@ -1006,11 +1006,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223890367.png"
       },
-      "DDN0000114": {
-        "name": "[코니]에듀테이블",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650444279476.PNG"
-      },
       "ADN0000028": {
         "name": "[브레인숲]서커스도미노",
         "age": "36개월 이상 ~",
@@ -1595,11 +1590,6 @@
         "name": "씽크 자이언트에어 747",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165347042.png"
-      },
-      "AFN0000008": {
-        "name": "[코닉스]뽀로로 시소붕붕카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710468960260.JPG"
       },
       "GBN0000018": {
         "name": "샐러드세트(야채썰기)",
@@ -2761,11 +2751,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061962147.png"
       },
-      "ABN0000012": {
-        "name": "[립프로그]BBQ 카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768138822.jpg"
-      },
       "KDN0000098": {
         "name": "[고덕점] 도형 맞추기 시계",
         "age": "36개월 이상 ~",
@@ -3835,11 +3820,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504425776.PNG"
       },
-      "ABN0000007": {
-        "name": "[지아지조]키친토이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
-      },
       "KDN0000102": {
         "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
         "age": "36개월 이상 ~",
@@ -3884,6 +3864,11 @@
         "name": "[플랜토이즈]망치놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067044547.png"
+      },
+      "ABN0000007": {
+        "name": "[지아지조]키친토이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
       },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
