@@ -1631,11 +1631,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165494801.png"
       },
-      "AFN0000006": {
-        "name": "[경화]스프링카(분홍)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778146115.jpg"
-      },
       "DDN0000113": {
         "name": "[큐비]고래를위하여세트",
         "age": "48개월 이상 ~",
@@ -3580,11 +3575,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703553950620.png"
       },
-      "GDN0000187": {
-        "name": "[브이텍]스마트 러닝 태블릿",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
-      },
       "GBN0000157": {
         "name": "[미미월드] 똘똘이 딸기농장",
         "age": "36개월 이상 ~",
@@ -3699,11 +3689,6 @@
         "name": "리틀 드라이버",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221615837.png"
-      },
-      "ABN0000040": {
-        "name": "[영실업]콩콩이와 119병원세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
       "KDN0000094": {
         "name": "[고덕점] 츄츄레일",
@@ -3875,15 +3860,20 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
-      "KDN0000090": {
-        "name": "[고덕점] 로더심플 페리보트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
-      },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539190258.png"
+      },
+      "GDN0000026": {
+        "name": "레코딩무선전화놀이",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
+      },
+      "KDN0000090": {
+        "name": "[고덕점] 로더심플 페리보트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
@@ -5285,11 +5275,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760049725.jpg"
       },
-      "ABN0000012": {
-        "name": "[립프로그]BBQ 카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768138822.jpg"
-      },
       "ABN0000020": {
         "name": "[코닉스]뽀로로캐리어",
         "age": "36개월 이상 ~",
@@ -5529,6 +5514,11 @@
         "name": "[손오공]아기상어 비상자동차(3종)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432212391.jpg"
+      },
+      "ADN0000065": {
+        "name": "DJ 뮤직테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1761877671704.JPG"
       },
       "ADN0000066": {
         "name": "[블루래빗]아기오리랑 마마덕",
