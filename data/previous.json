@@ -1426,6 +1426,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593496296.jpg"
       },
+      "DBN0000036": {
+        "name": "[영실업]콩순이와 와플메이커",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193115173.PNG"
+      },
       "KDN0000093": {
         "name": "[고덕점] 얼리러닝컬러콥터",
         "age": "6개월 이상 ~",
@@ -3680,11 +3685,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
-      "DDN0000168": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
-      },
       "KDN0000094": {
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
@@ -3849,6 +3849,11 @@
         "name": "[지아지조]키친토이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767736246.jpg"
+      },
+      "DDN0000168": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
@@ -4409,11 +4414,6 @@
         "name": "[애니블록]바다탐험대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069765107.png"
-      },
-      "DDN0000069": {
-        "name": "[애니블록]뽀로로퍼즐",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069852010.png"
       },
       "DDN0000075": {
         "name": "[하바]낚시놀이",
@@ -5620,6 +5620,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
       },
+      "AAN0000016": {
+        "name": "[쁘띠베베]러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617760541996.jpg"
+      },
       "ABN0000000": {
         "name": "[레드박스]만능공구놀이",
         "age": "36개월 이상 ~",
@@ -5800,11 +5805,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555400131.png"
       },
-      "DBN0000045": {
-        "name": "[영실업]콩순이 요리왕세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710555605015.png"
-      },
       "DDN0000152": {
         "name": "[토이트론]달님이 플라워 가든 박스",
         "age": "36개월 이상 ~",
@@ -5933,11 +5933,6 @@
         "name": "[물놀이팩]수도꼭지+문어목욕놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778219251934.png"
-      },
-      "HSN0000039": {
-        "name": "[놀이팩]돌아가 대근육발달 3종세트",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1774917966319.png"
       },
       "HSN0000053": {
         "name": "[물놀이팩]파인애플수영복(XL)+가족튜브",
