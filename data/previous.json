@@ -1631,11 +1631,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599027499707.jpg"
       },
-      "AFN0000009": {
-        "name": "코레카 경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771773037.JPG"
-      },
       "ACN0000007": {
         "name": "[브랜드B]파람팜팜악기",
         "age": "12개월 이상 ~",
@@ -3625,11 +3620,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291115702.png"
       },
-      "CGN0000107": {
-        "name": "[코니스]에듀테이블 워커",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435717819.jpg"
-      },
       "CDN0000076": {
         "name": "[메가블럭]블럭놀이 테이블 30PCS",
         "age": "12개월 이상 ~",
@@ -3835,10 +3825,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
       },
-      "KDN0000090": {
-        "name": "[고덕점] 로더심플 페리보트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
+      "KDN0000136": {
+        "name": "[고덕점] 에듀볼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
       "KDN0000085": {
         "name": "[고덕점] 빅정글 파이터",
@@ -3859,11 +3849,6 @@
         "name": "[고덕점] 엄마까투리 멜로디 풍차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
-      },
-      "KDN0000136": {
-        "name": "[고덕점] 에듀볼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541880714.png"
       },
       "KDN0000041": {
         "name": "[고덕점] 프레스 & 스테이 감각놀이 블럭세트",
@@ -4334,11 +4319,6 @@
         "name": "야생동물 24종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599793246280.jpg"
-      },
-      "CGN0000018": {
-        "name": "블리스 바운서(메쉬)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798887407.JPG"
       },
       "CBN0000008": {
         "name": "둑티그 장난감 계산대",
@@ -4819,6 +4799,11 @@
         "name": "[브이텍] 붕붕카 3 in 1 청소트럭",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765345684338.png"
+      },
+      "CAN0000016": {
+        "name": "흔들말타기(블루)",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_16.jpg"
       },
       "CDN0000016": {
         "name": "루키미러",
