@@ -1491,11 +1491,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710469127941.JPG"
       },
-      "GFN0000000": {
-        "name": "코레카소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590312817.JPG"
-      },
       "GCN0000006": {
         "name": "멜로디 멀티기타",
         "age": "12개월 이상 ~",
@@ -2210,11 +2205,6 @@
         "name": "[고덕점] 멜리사앤더그 쇼핑카트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730185392699.png"
-      },
-      "GBN0000000": {
-        "name": "가드닝카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
       },
       "GDN0000169": {
         "name": "첫 계산대놀이 세트",
@@ -3235,11 +3225,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729908695762.png"
       },
-      "GAN0000014": {
-        "name": "고양이와 쥐 푸쉬토이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590946963.jpg"
-      },
       "GBN0000078": {
         "name": "[숲소리]소꿉놀이세트V2",
         "age": "12개월 이상 ~",
@@ -3329,6 +3314,11 @@
         "name": "뉴 곤충꼭지퍼즐",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_90.jpg"
+      },
+      "GAN0000009": {
+        "name": "2in1 록킹미끄럼",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590804263.JPG"
       },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
@@ -3470,11 +3460,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427999457.png"
       },
-      "GFN0000001": {
-        "name": "코레카경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
-      },
       "ADN0000002": {
         "name": "[브이텍]액티비티에듀볼",
         "age": "12개월 이상 ~",
@@ -3499,6 +3484,11 @@
         "name": "[리틀타익스]핀볼 액티비티 테이블",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277171510.jpg"
+      },
+      "GFN0000001": {
+        "name": "코레카경찰차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
       "ABN0000046": {
         "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
@@ -4745,11 +4735,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
       },
-      "GBN0000000": {
-        "name": "가드닝카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589591327763.jpg"
-      },
       "GEN0000006": {
         "name": "나무조약돌",
         "age": "36개월 이상 ~",
@@ -5064,11 +5049,6 @@
         "name": "[립프로그] 소프트 아이스크림 메이커",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259715006.png"
-      },
-      "GDN0000225": {
-        "name": "[초이락] 헬로카봇 폰X",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431845187.png"
       },
       "GBN0000172": {
         "name": "[원앤원] 조이앤그로우 에듀하우스 6in1",
@@ -5490,11 +5470,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1592454791120.jpg"
       },
-      "GCN0000002": {
-        "name": "뮤지컬사운드세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599030562756.jpg"
-      },
       "GCN0000008": {
         "name": "톡톡실로폰놀이",
         "age": "12개월 이상 ~",
@@ -5764,11 +5739,6 @@
         "name": "[립프로그]피자카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277688466.jpg"
-      },
-      "GDN0000188": {
-        "name": "[아이코닉스]뽀로로 점보 비행기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277717592.jpg"
       },
       "GDN0000186": {
         "name": "[아이존]뽀로로 변신 경찰본부",
