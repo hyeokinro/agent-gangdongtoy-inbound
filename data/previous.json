@@ -1161,11 +1161,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758013592535.JPG"
       },
-      "DDN0000141": {
-        "name": "[코닉스]레스큐타요 sos출동센터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563131969.png"
-      },
       "GBN0000098": {
         "name": "다이노 월드 랩 세트",
         "age": "36개월 이상 ~",
@@ -1175,6 +1170,11 @@
         "name": "로더심플 비행기 공구놀이세트",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165549816.png"
+      },
+      "DDN0000141": {
+        "name": "[코닉스]레스큐타요 sos출동센터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563131969.png"
       },
       "GDN0000046": {
         "name": "응급자동차세트",
@@ -3070,6 +3070,11 @@
         "name": "[고덕점] 달님이 새콤달콤 과일주스가게",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567949248.png"
+      },
+      "GAN0000043": {
+        "name": "[리틀타익스]액티비티가든",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296015695.jpg"
       },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
