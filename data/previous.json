@@ -1676,11 +1676,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660635231096.jpg"
       },
-      "CCN0000014": {
-        "name": "베이비 종합세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562809756803.jpg"
-      },
       "GCN0000015": {
         "name": "아기드럼",
         "age": "12개월 이상 ~",
@@ -1795,6 +1790,11 @@
         "name": "[오차드]아기돼지삼형제",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070553635.png"
+      },
+      "CCN0000014": {
+        "name": "베이비 종합세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1562809756803.jpg"
       },
       "DDN0000035": {
         "name": "[하페]고리와퍼즐",
@@ -5314,6 +5314,11 @@
         "name": "[고덕점] 리싸이클 트럭",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538947516.jpg"
+      },
+      "KAN0000011": {
+        "name": "[고덕점] 베이비 스포츠센터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539382532.png"
       },
       "KDN0000146": {
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
