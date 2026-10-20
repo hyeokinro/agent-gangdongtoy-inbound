@@ -2946,11 +2946,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564327636.png"
       },
-      "CBN0000003": {
-        "name": "공룡슈퍼스피노사우르스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_20.jpg"
-      },
       "GDN0000011": {
         "name": "공구세트",
         "age": "36개월 이상 ~",
@@ -3265,11 +3260,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_90.jpg"
       },
-      "GAN0000009": {
-        "name": "2in1 록킹미끄럼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590804263.JPG"
-      },
       "DBN0000039": {
         "name": "[브이텍]ABC 쇼핑카트",
         "age": "36개월 이상 ~",
@@ -3564,6 +3554,11 @@
         "name": "타요 고속도로 하이패스",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166519534.png"
+      },
+      "GDN0000193": {
+        "name": "[브라이트스타트] 공놀이 개구리 연못",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765085237887.png"
       },
       "GBN0000044": {
         "name": "큰공룡세트12종",
@@ -5435,11 +5430,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538947516.jpg"
       },
-      "KAN0000011": {
-        "name": "[고덕점] 베이비 스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539382532.png"
-      },
       "KDN0000146": {
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
@@ -5599,6 +5589,11 @@
         "name": "원목자석과일자르기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
+      },
+      "GEN0000020": {
+        "name": "나무참새주판",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594954726.jpg"
       },
       "GGN0000006": {
         "name": "4in1아기체육관/걸음마보조기겸용",
