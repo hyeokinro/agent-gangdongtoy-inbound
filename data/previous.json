@@ -1116,11 +1116,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617767930014.jpg"
       },
-      "ADN0000019": {
-        "name": "[아이코닉스]뽀로로폴리스",
-        "age": "48개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773427627.jpg"
-      },
       "KBN0000052": {
         "name": "[고덕점] 색이 변하는 쿠키오븐",
         "age": "36개월 이상 ~",
@@ -1565,11 +1560,6 @@
         "name": "[브리오]디럭스 화물기차세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416007520.jpg"
-      },
-      "AFN0000007": {
-        "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710469127941.JPG"
       },
       "GDN0000126": {
         "name": "[대성]벤츠 아록스 덤프트럭",
@@ -2221,6 +2211,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730185392699.png"
       },
+      "KDN0000079": {
+        "name": "[고덕점] 브릿지 기차 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539455694.png"
+      },
       "GDN0000169": {
         "name": "첫 계산대놀이 세트",
         "age": "36개월 이상 ~",
@@ -2705,6 +2700,11 @@
         "name": "[BoHui]뽀로로 캐리어 소꿉놀이-노랑",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204227036.PNG"
+      },
+      "CDN0000056": {
+        "name": "피에로 고리끼우기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791972689.jpg"
       },
       "GEN0000019": {
         "name": "건축물스타터",
@@ -4335,11 +4335,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067483787.png"
       },
-      "DDN0000059": {
-        "name": "[맥포머스]프린세스세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069366597.png"
-      },
       "DDN0000068": {
         "name": "[애니블록]바다탐험대",
         "age": "36개월 이상 ~",
@@ -5654,11 +5649,6 @@
         "name": "[하페]몬스터수셈저울",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061113447.png"
-      },
-      "DDN0000048": {
-        "name": "[하바]모양배치게임",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067259977.png"
       },
       "DDN0000049": {
         "name": "[하바]개구리쌓기블록",
