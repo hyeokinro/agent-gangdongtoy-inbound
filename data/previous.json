@@ -586,11 +586,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
       },
-      "ADN0000047": {
-        "name": "[주영이엔시]뽀로로 달려라 공룡탐험대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205103370.PNG"
-      },
       "DDN0000056": {
         "name": "[맥포머스]경찰차세트",
         "age": "36개월 이상 ~",
@@ -1351,11 +1346,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563690248.png"
       },
-      "KDN0000132": {
-        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
-      },
       "GDN0000013": {
         "name": "아기새의 집",
         "age": "12개월 이상 ~",
@@ -1495,6 +1485,11 @@
         "name": "뽀로로 변신 굴착기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224030033.png"
+      },
+      "KDN0000132": {
+        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
       },
       "CFN0000002": {
         "name": "3단계변형운전놀이자전거",
@@ -2456,6 +2451,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672203941634.png"
       },
+      "ACN0000010": {
+        "name": "[쁘띠베베]회전목마드럼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771456082.jpg"
+      },
       "GDN0000163": {
         "name": "하우스 놀이상자",
         "age": "12개월 이상 ~",
@@ -2565,11 +2565,6 @@
         "name": "[고덕점] 쿠킹 조리세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567648625.png"
-      },
-      "ACN0000010": {
-        "name": "[쁘띠베베]회전목마드럼",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771456082.jpg"
       },
       "ADN0000050": {
         "name": "[영진완구]핑크퐁 원더스타 소방관제센터",
@@ -2806,15 +2801,15 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1731976998760.png"
       },
-      "DDN0000165": {
-        "name": "[키움하우스]자석라이팅마블 125피스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353975378.jpg"
-      },
       "KBN0000082": {
         "name": "[고덕점] 레드 커피 머신",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538844166.png"
+      },
+      "DDN0000165": {
+        "name": "[키움하우스]자석라이팅마블 125피스",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353975378.jpg"
       },
       "DDN0000094": {
         "name": "[코리아보드]다빈치코드",
@@ -4964,11 +4959,6 @@
         "name": "스스로움직이는 모험왕공룡",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865955796.jpg"
-      },
-      "CCN0000018": {
-        "name": "할릴릿실로폰",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1591668354749.jpg"
       },
       "GBN0000046": {
         "name": "디럭스농장동물세트18종",
