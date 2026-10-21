@@ -3880,11 +3880,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
       },
-      "KDN0000120": {
-        "name": "[고덕점] 뉴 알파벳 학습 버스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538000920.png"
-      },
       "KDN0000090": {
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
@@ -4289,11 +4284,6 @@
         "name": "[고덕점]큐블로 매직큐브  자석블럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910311268.png"
-      },
-      "KDN0000149": {
-        "name": "[고덕점]6IN1 트위스트 에듀큐브",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910389019.png"
       },
       "CDN0000090": {
         "name": "[브이텍]빙글빙글 러닝오션월드",
@@ -4975,6 +4965,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246709657.png"
       },
+      "GBN0000164": {
+        "name": "[립프로그] 아이스크림카트 한영버전(노랑)",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260025590.png"
+      },
       "GDN0000213": {
         "name": "[브이텍] 붕붕카 3 in 1 청소트럭",
         "age": "24개월 이상 ~",
@@ -5365,6 +5360,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_42.jpg"
       },
+      "CDN0000002": {
+        "name": "경주용카트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_54.jpg"
+      },
       "CFN0000005": {
         "name": "사운드범퍼카",
         "age": "12개월 이상 ~",
@@ -5434,6 +5434,11 @@
         "name": "[스텝2]주니어 흔들말",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630127328.png"
+      },
+      "GDN0000091": {
+        "name": "[짐보리/맥포머스]미라클브레인세트258",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416150406.jpg"
       },
       "AAN0000008": {
         "name": "[웨스코]대형낚시놀이",
@@ -5594,6 +5599,11 @@
         "name": "[고덕점] 할리갈리 컵스 딜럭스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554722819.png"
+      },
+      "KDN0000122": {
+        "name": "[고덕점] 액티비티 보드게임",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555505993.png"
       },
       "KDN0000083": {
         "name": "[고덕점] 카캐리어세트",
