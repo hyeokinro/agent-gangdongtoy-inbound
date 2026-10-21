@@ -196,11 +196,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_85.jpg"
       },
-      "GDN0000143": {
-        "name": "타요 말하는 미니카 자판기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
-      },
       "CGN0000099": {
         "name": "[오비]다용도 러닝워커",
         "age": "6개월 이상 ~",
@@ -556,11 +551,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565996531.png"
       },
-      "GDN0000083": {
-        "name": "[바조]노아와 배",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415325088.jpg"
-      },
       "ABN0000007": {
         "name": "[지아지조]키친토이",
         "age": "36개월 이상 ~",
@@ -630,6 +620,11 @@
         "name": "리틀러닝홈동물농장",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_69.jpg"
+      },
+      "GDN0000083": {
+        "name": "[바조]노아와 배",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415325088.jpg"
       },
       "GBN0000165": {
         "name": "[원앤원] 콩지래빗 구급차 약국놀이",
@@ -1120,6 +1115,11 @@
         "name": "재활용트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_84.jpg"
+      },
+      "DAN0000008": {
+        "name": "[브이텍]두가지 공놀이 스포츠센터",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664402531.jpg"
       },
       "GEN0000014": {
         "name": "가든쌓기블록",
@@ -1875,11 +1875,6 @@
         "name": "[하바]반짝이는얼음조각",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067352254.png"
-      },
-      "KDN0000145": {
-        "name": "[고덕점] 에듀플러스",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554067874.png"
       },
       "DDN0000079": {
         "name": "[오차드]아기돼지삼형제",
@@ -2900,6 +2895,11 @@
         "name": "쇼핑카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592848165.JPG"
+      },
+      "DGN0000013": {
+        "name": "[코닉스]띠띠뽀에듀테이블",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710554100854.png"
       },
       "GEN0000000": {
         "name": "숲네츄럴세트",
