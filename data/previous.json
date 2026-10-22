@@ -2501,6 +2501,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538947516.jpg"
       },
+      "GBN0000093": {
+        "name": "미키와친구들 만능공구놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163247814.png"
+      },
       "GCN0000018": {
         "name": "[베이비아인슈타인] 해저탐험 피아노",
         "age": "6개월 이상 ~",
@@ -2565,11 +2570,6 @@
         "name": "[브이텍] 타이거 락 기타",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765084871316.png"
-      },
-      "CBN0000063": {
-        "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349571247.png"
       },
       "GDN0000163": {
         "name": "하우스 놀이상자",
@@ -3315,11 +3315,6 @@
         "name": "베이직블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_101.jpg"
-      },
-      "CBN0000060": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349770512.png"
       },
       "ADN0000049": {
         "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
