@@ -1591,6 +1591,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765254304218.png"
       },
+      "CDN0000099": {
+        "name": "[아이코닉스]타요 생일케이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433474030.png"
+      },
       "KBN0000089": {
         "name": "[고덕점] 핑크퐁진동벨계산대",
         "age": "36개월 이상 ~",
@@ -1831,11 +1836,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865256445.jpg"
       },
-      "GEN0000029": {
-        "name": "롤플레이세트(26pcs)4차원자석블럭",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873822834.jpg"
-      },
       "CDN0000065": {
         "name": "[맬리사엔더그]사운드퍼즐(야행 소방서 악기)",
         "age": "36개월 이상 ~",
@@ -1885,6 +1885,11 @@
         "name": "[오차드]아기돼지삼형제",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070553635.png"
+      },
+      "GEN0000029": {
+        "name": "롤플레이세트(26pcs)4차원자석블럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873822834.jpg"
       },
       "GDN0000024": {
         "name": "노래하는 버드하우스",
@@ -2320,6 +2325,11 @@
         "name": "컨스트럭션세트(26pcs)3차원자석블럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873694859.jpg"
+      },
+      "CDN0000102": {
+        "name": "[베이비아인슈타인]뮤지컬 무빙 문어아빠",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751435737111.jpg"
       },
       "GDN0000025": {
         "name": "마이퍼스트러닝하우스",
