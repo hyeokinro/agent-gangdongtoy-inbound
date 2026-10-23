@@ -1121,11 +1121,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542340893.png"
       },
-      "CCN0000010": {
-        "name": "컬러풀아기피아노",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_50.jpg"
-      },
       "CCN0000016": {
         "name": "미니밴드",
         "age": "12개월 이상 ~",
@@ -1210,11 +1205,6 @@
         "name": "오피스러닝테이블",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590036737966.jpg"
-      },
-      "CGN0000013": {
-        "name": "레인포레스트점퍼루",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_132.jpg"
       },
       "AGN0000019": {
         "name": "하늘썬별 피아노체육관 걸음마 (블루)",
@@ -3785,11 +3775,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
       },
-      "DBN0000051": {
-        "name": "[리틀타익스]퍼스트 세탁기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
-      },
       "GBN0000081": {
         "name": "뽀로로 변신 구급차",
         "age": "36개월 이상 ~",
@@ -3949,6 +3934,11 @@
         "name": "[비키즈]망아지 플레이테이블 (걸음마)",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
+      },
+      "DBN0000051": {
+        "name": "[리틀타익스]퍼스트 세탁기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
       },
       "DDN0000170": {
         "name": "[피노키오]타요 운전놀이",
