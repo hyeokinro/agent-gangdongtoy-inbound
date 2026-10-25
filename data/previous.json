@@ -1216,11 +1216,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773384193.jpg"
       },
-      "GDN0000138": {
-        "name": "로더심플 비행기 공구놀이세트",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165549816.png"
-      },
       "GDN0000046": {
         "name": "응급자동차세트",
         "age": "1개월 이상 ~",
@@ -1436,11 +1431,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033623415.jpg"
       },
-      "GDN0000195": {
-        "name": "[브라이트스타트] 공놀이 코끼리 버스",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765245706771.png"
-      },
       "GDN0000135": {
         "name": "씽크 자이언트에어 747",
         "age": "12개월 이상 ~",
@@ -1480,6 +1470,11 @@
         "name": "[플레이포에버]자동차3",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771980712.jpg"
+      },
+      "GDN0000138": {
+        "name": "로더심플 비행기 공구놀이세트",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165549816.png"
       },
       "CEN0000002": {
         "name": "뉴 과일꼭지퍼즐",
