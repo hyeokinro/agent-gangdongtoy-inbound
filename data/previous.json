@@ -711,11 +711,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664664147.jpg"
       },
-      "KCN0000020": {
-        "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
-      },
       "GEN0000018": {
         "name": "도미노레이스",
         "age": "36개월 이상 ~",
@@ -760,11 +755,6 @@
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538885631.png"
-      },
-      "CGN0000089": {
-        "name": "[비키즈]망아지 플레이테이블 (걸음마)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349983557.png"
       },
       "ABN0000040": {
         "name": "[영실업]콩콩이와 119병원세트",
@@ -1060,11 +1050,6 @@
         "name": "[벨레덕]호박",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066677133.png"
-      },
-      "KDN0000074": {
-        "name": "[고덕점] 타요 중앙차고지놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559619534.png"
       },
       "ADN0000058": {
         "name": "[브이텍]러닝이모션 공작새",
@@ -1465,11 +1450,6 @@
         "name": "[삼진]티니핑 미스틱 하트윙",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557748524.png"
-      },
-      "CFN0000002": {
-        "name": "3단계변형운전놀이자전거",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_110.jpg"
       },
       "KBN0000089": {
         "name": "[고덕점] 핑크퐁진동벨계산대",
@@ -3470,6 +3450,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701161760824.png"
       },
+      "GAN0000049": {
+        "name": "[스마트라이크] 트램폴린[다크블루]",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427524458.png"
+      },
       "DDN0000101": {
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
@@ -3620,10 +3605,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032421439.jpg"
       },
-      "GDN0000207": {
-        "name": "[미미월드] 타요 차고지 스페셜 세트",
+      "GBN0000080": {
+        "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260853438.png"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
       },
       "DDN0000117": {
         "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
@@ -3764,6 +3749,11 @@
         "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
+      },
+      "GDN0000207": {
+        "name": "[미미월드] 타요 차고지 스페셜 세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765260853438.png"
       },
       "GBN0000166": {
         "name": "[미미월드] 똘똘이 유치원",
