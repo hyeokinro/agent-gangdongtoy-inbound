@@ -1771,11 +1771,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865561081.jpg"
       },
-      "ADN0000041": {
-        "name": "[영실업]뽀로로 어린이 버스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660200021356.jpg"
-      },
       "ADN0000051": {
         "name": "스마트 러닝 포크레인",
         "age": "12개월 이상 ~",
@@ -3820,6 +3815,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
       },
+      "CDN0000038": {
+        "name": "볼트랙-락킹보트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1557747634606.jpg"
+      },
       "CDN0000046": {
         "name": "강아지 도형끼우기차",
         "age": "12개월 이상 ~",
@@ -5529,11 +5529,6 @@
         "name": "베이직블럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_101.jpg"
-      },
-      "CGN0000015": {
-        "name": "반짝반짝뮤지컬걸음마",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_134.jpg"
       },
       "GBN0000008": {
         "name": "쇼핑카트",
