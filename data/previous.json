@@ -361,11 +361,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
       },
-      "CGN0000108": {
-        "name": "와이즈체어 범보부스터(애쉬크림)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1782291115702.png"
-      },
       "DDN0000130": {
         "name": "[나비타월드]공룡울타리 오프로드차량",
         "age": "36개월 이상 ~",
@@ -2006,11 +2001,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072188559.png"
       },
-      "KDN0000065": {
-        "name": "[고덕점] 노아의 방주",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537946226.png"
-      },
       "KBN0000078": {
         "name": "[고덕점] 코코멜론 러닝키친",
         "age": "12개월 이상 ~",
@@ -2131,11 +2121,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061342544.png"
       },
-      "GBN0000095": {
-        "name": "소프트미용놀이A형",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163407667.png"
-      },
       "GDN0000225": {
         "name": "[초이락] 헬로카봇 폰X",
         "age": "36개월 이상 ~",
@@ -2145,6 +2130,11 @@
         "name": "아파트블럭세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
+      },
+      "GBN0000095": {
+        "name": "소프트미용놀이A형",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163407667.png"
       },
       "DDN0000135": {
         "name": "[립프로그] 립스토리",
@@ -2561,11 +2551,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432212391.jpg"
       },
-      "GCN0000021": {
-        "name": "펀아토 베이비베이스 기타",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164977292.png"
-      },
       "KBN0000067": {
         "name": "[고덕점] 알록달록 송이 미용실",
         "age": "36개월 이상 ~",
@@ -2585,6 +2570,11 @@
         "name": "[고덕점] 쿠킹 조리세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567648625.png"
+      },
+      "GCN0000021": {
+        "name": "펀아토 베이비베이스 기타",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164977292.png"
       },
       "CDN0000056": {
         "name": "피에로 고리끼우기",
