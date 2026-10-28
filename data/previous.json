@@ -206,15 +206,15 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
       },
-      "ABN0000041": {
-        "name": "[브이텍]병원놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479705417.jpg"
-      },
       "CDN0000033": {
         "name": "클래식8자기차트렉세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_85.jpg"
+      },
+      "KBN0000058": {
+        "name": "[고덕점] 헤어 드레싱세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
       },
       "DDN0000026": {
         "name": "[자노드]피사의사탑",
@@ -261,6 +261,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167356478.png"
       },
+      "KDN0000144": {
+        "name": "[고덕점] 춤추는 낚시놀이 세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554261453.png"
+      },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
         "age": "24개월 이상 ~",
@@ -300,11 +305,6 @@
         "name": "[고덕점] 쥬라기월드 트래커 다이노팩",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554767625.png"
-      },
-      "KBN0000058": {
-        "name": "[고덕점] 헤어 드레싱세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
       },
       "CBN0000059": {
         "name": "[리틀타익스]퍼스트 식기세척기",
@@ -785,11 +785,6 @@
         "name": "[보육사]음식컷팅세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
-      },
-      "GFN0000010": {
-        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
       },
       "CBN0000017": {
         "name": "원목찻잔세트",
@@ -3148,11 +3143,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007889921.jpg"
       },
-      "CGN0000049": {
-        "name": "[택배]전통백일돌상⑫",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637656884413.png"
-      },
       "CGN0000050": {
         "name": "[택배]현대백일돌상 ⑪",
         "age": "1개월 이상 ~",
@@ -3530,6 +3520,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248993390.png"
       },
+      "GDN0000187": {
+        "name": "[브이텍]스마트 러닝 태블릿",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
+      },
       "GDN0000030": {
         "name": "알파벳 주볼",
         "age": "6개월 이상 ~",
@@ -3685,10 +3680,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353648889.jpg"
       },
-      "CFN0000011": {
-        "name": "밴츠붕붕카(화이트)",
+      "GDN0000124": {
+        "name": "[대성]뉴 말하는 레미콘",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800037561.jpg"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256150139.PNG"
       },
       "GAN0000039": {
         "name": "스마트 트램폴린[블루]",
@@ -3809,6 +3804,11 @@
         "name": "[미미월드] 똘똘이 유치원",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765261024714.png"
+      },
+      "GFN0000010": {
+        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
       },
       "GDN0000212": {
         "name": "[맥포머스] 애니멀 점블 60PCS",
