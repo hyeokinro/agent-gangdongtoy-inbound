@@ -1061,11 +1061,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_107.jpg"
       },
-      "KDN0000050": {
-        "name": "[고덕점]구스파파",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
-      },
       "GCN0000014": {
         "name": "스탠드밴드",
         "age": "36개월 이상 ~",
@@ -3965,6 +3960,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540985780.png"
       },
+      "KDN0000050": {
+        "name": "[고덕점]구스파파",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541236571.png"
+      },
       "KAN0000016": {
         "name": "[고덕점] 오볼 개구리볼",
         "age": "6개월 이상 ~",
@@ -5839,11 +5839,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139965196.png"
       },
-      "HSN0000046": {
-        "name": "[놀이팩]커들반 인형(강아지)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773301806887.png"
-      },
       "CWN0000003": {
         "name": "[한복]이환별이",
         "age": "12개월 이상 ~",
@@ -6049,6 +6044,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778200245015.png"
       },
+      "HSN0000083": {
+        "name": "[물놀이팩]돌고래물총튜브+수영복",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1778218949969.png"
+      },
       "HSN0000056": {
         "name": "[물놀이팩]플라밍고수영복(2XL)+모래놀이",
         "age": "36개월 이상 ~",
@@ -6068,6 +6068,11 @@
         "name": "[놀이팩]뉴 또봇W",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773300071529.png"
+      },
+      "HSN0000008": {
+        "name": "[놀이팩]마이퍼스트북NO.13.공룡월드(작은책)",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138183057.png"
       },
       "HSN0000082": {
         "name": "[물놀이팩]풀장+오리목욕장난감",
@@ -6114,6 +6119,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139725301.png"
       },
+      "HSN0000012": {
+        "name": "[놀이팩]코코지 마음성장2종세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138524190.png"
+      },
       "HSN0000024": {
         "name": "[놀이팩]야구배팅 놀이세트(핑크)",
         "age": "36개월 이상 ~",
@@ -6128,6 +6138,11 @@
         "name": "[놀이팩]콩순이 옹알이 콩콩이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140928028.png"
+      },
+      "HSN0000010": {
+        "name": "[놀이팩]코코지 뽀로로3종세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138343036.png"
       },
       "HSN0000071": {
         "name": "[물놀이팩]분수매트+넥튜브",
