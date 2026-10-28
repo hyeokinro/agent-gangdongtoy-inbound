@@ -191,11 +191,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
-      "ABN0000042": {
-        "name": "[브이텍]공구놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
-      },
       "CDN0000033": {
         "name": "클래식8자기차트렉세트",
         "age": "24개월 이상 ~",
@@ -680,11 +675,6 @@
         "name": "식료품핸들카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592892985.JPG"
-      },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "CDN0000007": {
         "name": "더티디거포크레인",
@@ -1366,11 +1356,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593809362.jpg"
       },
-      "CBN0000020": {
-        "name": "쿡&다이닝세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801460756.png"
-      },
       "CEN0000002": {
         "name": "뉴 과일꼭지퍼즐",
         "age": "6개월 이상 ~",
@@ -1385,6 +1370,11 @@
         "name": "무지개 실꿰기",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
+      },
+      "CBN0000020": {
+        "name": "쿡&다이닝세트",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801460756.png"
       },
       "GEN0000034": {
         "name": "사파리입체퍼즐",
@@ -1636,11 +1626,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066724140.png"
       },
-      "KBN0000056": {
-        "name": "[고덕점] 야채 피자세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541670842.png"
-      },
       "ABN0000013": {
         "name": "[멜리사앤]피자베이커리",
         "age": "36개월 이상 ~",
@@ -1685,6 +1670,11 @@
         "name": "[디자인연]푸시피시",
         "age": "60개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070805892.png"
+      },
+      "KBN0000056": {
+        "name": "[고덕점] 야채 피자세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541670842.png"
       },
       "GDN0000192": {
         "name": "[브이텍] 대형 자동차 수송트럭",
@@ -2845,11 +2835,6 @@
         "name": "[캐스B]원목악기10종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617770902524.jpg"
-      },
-      "KBN0000050": {
-        "name": "[고덕점] 달님이 새콤달콤 과일주스가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567949248.png"
       },
       "GDN0000166": {
         "name": "원목레인보우블록 33피스",
