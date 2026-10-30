@@ -1051,11 +1051,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204943593.jpg"
       },
-      "GAN0000038": {
-        "name": "리틀 베이비 범 액티비티 워커",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162363486.png"
-      },
       "KAN0000016": {
         "name": "[고덕점] 오볼 개구리볼",
         "age": "6개월 이상 ~",
@@ -1065,6 +1060,11 @@
         "name": "강아지 도형끼우기차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1562671917972.jpg"
+      },
+      "GAN0000047": {
+        "name": "[베네베네] 디노 프리미엄 축구 농구대",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765422750233.png"
       },
       "GCN0000014": {
         "name": "스탠드밴드",
@@ -2311,11 +2311,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277238311.jpg"
       },
-      "GDN0000133": {
-        "name": "[피셔프라이스] 링키멀스 풀어롱 고슴도치",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504646137.PNG"
-      },
       "ABN0000031": {
         "name": "[BoHui]뽀로로 캐리어 소꿉놀이-노랑",
         "age": "36개월 이상 ~",
@@ -2505,6 +2500,11 @@
         "name": "베이직(30pcs)3차원자석블럭",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057677550.JPG"
+      },
+      "GDN0000133": {
+        "name": "[피셔프라이스] 링키멀스 풀어롱 고슴도치",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504646137.PNG"
       },
       "GEN0000013": {
         "name": "6가지 계절그림 맞추기큐브",
@@ -3590,11 +3590,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671497051740.PNG"
       },
-      "GDN0000026": {
-        "name": "레코딩무선전화놀이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
-      },
       "KDN0000059": {
         "name": "[고덕점] 스키핑스톤",
         "age": "6개월 이상 ~",
@@ -3745,6 +3740,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768245873.jpg"
       },
+      "GBN0000151": {
+        "name": "[립프로그]믹서 플레이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
+      },
       "GDN0000175": {
         "name": "옥토넛 탐험선A & 피규어",
         "age": "24개월 이상 ~",
@@ -3834,11 +3834,6 @@
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
-      },
-      "GBN0000151": {
-        "name": "[립프로그]믹서 플레이세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277362440.jpg"
       },
       "GDN0000185": {
         "name": "[토도리브로]씽씽자동차",
