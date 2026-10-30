@@ -291,11 +291,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166519534.png"
       },
-      "AFN0000010": {
-        "name": "코레카 소방차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753771868270.JPG"
-      },
       "GDN0000061": {
         "name": "클라부 경찰추격전놀이세트",
         "age": "24개월 이상 ~",
@@ -860,11 +855,6 @@
         "name": "펭귄오뚝이",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026963427.jpg"
-      },
-      "DAN0000008": {
-        "name": "[브이텍]두가지 공놀이 스포츠센터",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664402531.jpg"
       },
       "CDN0000087": {
         "name": "[브이텍]밸런싱 링쌓기저울",
@@ -2696,11 +2686,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866029938.jpg"
       },
-      "GBN0000154": {
-        "name": "[아이코닉스]뽀로로 냉장고",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733276498427.jpg"
-      },
       "KDN0000146": {
         "name": "[고덕점] 뽀로로 노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
@@ -4410,6 +4395,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167286943.png"
       },
+      "GDN0000171": {
+        "name": "와일드 어드벤처 애니멀 구조대",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222971602.png"
+      },
       "KBN0000081": {
         "name": "[고덕점] 과일 바구니",
         "age": "24개월 이상 ~",
@@ -4635,11 +4625,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
       },
-      "AFN0000006": {
-        "name": "[경화]스프링카(분홍)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778146115.jpg"
-      },
       "DDN0000022": {
         "name": "[하페]팔리나",
         "age": "36개월 이상 ~",
@@ -4659,6 +4644,11 @@
         "name": "[오차드]아기돼지삼형제",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070553635.png"
+      },
+      "DDN0000108": {
+        "name": "[레고]인페르노제트",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628072089351.png"
       },
       "DAN0000006": {
         "name": "[피셔]클래식러닝홈",
