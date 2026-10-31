@@ -1661,11 +1661,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223971684.png"
       },
-      "GDN0000159": {
-        "name": "오케스트라 러닝테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167790486.png"
-      },
       "GDN0000019": {
         "name": "빙글빙글 옥토퍼스",
         "age": "6개월 이상 ~",
@@ -2921,11 +2916,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628067259977.png"
       },
-      "CDN0000074": {
-        "name": "[코닉스]뽀로로키즈팝댄스",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521618778.PNG"
-      },
       "GBN0000040": {
         "name": "직업인형12종소꿉놀이",
         "age": "12개월 이상 ~",
@@ -3729,11 +3719,6 @@
         "name": "[브라이트]포레스트바운서",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779004892.jpg"
-      },
-      "AGN0000012": {
-        "name": "[콤비]보행기(그레이)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617779246288.jpg"
       },
       "DDN0000051": {
         "name": "[하바]호수페깅게임",
@@ -5160,6 +5145,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071361245.png"
       },
+      "DDN0000097": {
+        "name": "[레고]해변출동",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071464624.png"
+      },
       "DDN0000115": {
         "name": "[미미]뽀로로코딩컴퓨터",
         "age": "36개월 이상 ~",
@@ -5474,6 +5464,11 @@
         "name": "[베이비아인슈타인]플립기타 2in 1",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607913271327.png"
+      },
+      "AAN0000006": {
+        "name": "[지나월드]뽀로로그네",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759863935.jpg"
       },
       "AAN0000007": {
         "name": "[쿠쿠]로보카폴리그네",
