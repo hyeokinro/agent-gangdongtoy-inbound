@@ -721,6 +721,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
       },
+      "GFN0000010": {
+        "name": "[홀라베이비] 스마트 러닝 트레인 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765336377938.png"
+      },
       "KCN0000012": {
         "name": "[고덕점] 다이나믹우퍼 기타",
         "age": "6개월 이상 ~",
@@ -2988,11 +2993,6 @@
       }
     },
     "delivery": {
-      "CGY0000045": {
-        "name": "[택배]롤링360플러스 다기능보행기(블랙)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007930857.jpg"
-      },
       "CGY0000042": {
         "name": "[택배][이븐플로]젬세션점프런",
         "age": "6개월 이상 ~",
@@ -3052,11 +3052,6 @@
         "name": "[택배][이븐플로]액서쏘서티파티",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007681875.jpg"
-      },
-      "CGN0000059": {
-        "name": "[택배]현대백일돌상①",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357452539.jpg"
       }
     },
     "wait": {
