@@ -3230,6 +3230,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592194663.jpg"
       },
+      "KDN0000069": {
+        "name": "[고덕점] 링 던지기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
+      },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
         "age": "36개월 이상 ~",
@@ -3405,11 +3410,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
       },
-      "GDN0000185": {
-        "name": "[토도리브로]씽씽자동차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
-      },
       "KDN0000133": {
         "name": "[고덕점] 빙글빙글 타요주차장놀이",
         "age": "36개월 이상 ~",
@@ -3479,6 +3479,11 @@
         "name": "[하베브릭스]6in1변신큐브",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
+      },
+      "GDN0000185": {
+        "name": "[토도리브로]씽씽자동차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295857787.jpg"
       },
       "CGN0000103": {
         "name": "[엔픽스]롤링 360 이지보행기(블루)",
@@ -5245,11 +5250,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433258399.jpg"
       },
-      "ADN0000065": {
-        "name": "DJ 뮤직테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1761877671704.JPG"
-      },
       "ADN0000066": {
         "name": "[블루래빗]아기오리랑 마마덕",
         "age": "6개월 이상 ~",
@@ -5309,11 +5309,6 @@
         "name": "미니스쿠터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1592454791120.jpg"
-      },
-      "GAN0000020": {
-        "name": "브이텍 걸음마보조기",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1594089810516.jpg"
       },
       "GEN0000003": {
         "name": "Sun small arch stacker",
