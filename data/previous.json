@@ -321,11 +321,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
       },
-      "CDN0000023": {
-        "name": "비행기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
-      },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
@@ -610,6 +605,11 @@
         "name": "[보육사]음식컷팅세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
+      },
+      "CDN0000023": {
+        "name": "비행기",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
       },
       "CFN0000011": {
         "name": "밴츠붕붕카(화이트)",
@@ -2411,11 +2411,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
       },
-      "CDN0000002": {
-        "name": "경주용카트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_54.jpg"
-      },
       "KBN0000069": {
         "name": "[고덕점] 병원놀이세트[한글버전]",
         "age": "36개월 이상 ~",
@@ -3659,6 +3654,11 @@
         "name": "[리틀]액티비티 윈도우",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
+      },
+      "KGN0000009": {
+        "name": "[고덕점]알루 에듀하우스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729907890236.png"
       },
       "KDN0000152": {
         "name": "[고덕점]뽀로로 자동차마을 & 타워",
