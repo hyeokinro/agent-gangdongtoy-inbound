@@ -2965,11 +2965,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538866628.png"
       },
-      "GCN0000025": {
-        "name": "[에프비존] 티니핑 바이올린",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765248993390.png"
-      },
       "GDN0000187": {
         "name": "[브이텍]스마트 러닝 태블릿",
         "age": "12개월 이상 ~",
@@ -3049,6 +3044,11 @@
         "name": "애완동물입체퍼즐",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
+      },
+      "GBN0000170": {
+        "name": "[에프비존] 새콤달콤 캐치티니핑 마이 스마트폰",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765427999457.png"
       },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
@@ -3299,11 +3299,6 @@
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1758086188340.JPG"
-      },
-      "GBN0000166": {
-        "name": "[미미월드] 똘똘이 유치원",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765261024714.png"
       },
       "GDN0000212": {
         "name": "[맥포머스] 애니멀 점블 60PCS",
@@ -3905,6 +3900,11 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554607023.png"
       },
+      "KDN0000132": {
+        "name": "[고덕점] 주니어퓨처북 옥토넛펜",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703554960415.png"
+      },
       "KDN0000074": {
         "name": "[고덕점] 타요 중앙차고지놀이",
         "age": "36개월 이상 ~",
@@ -4224,11 +4224,6 @@
         "name": "[고덕점] 특수차량 12종세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559059417.png"
-      },
-      "KFN0000001": {
-        "name": "[고덕점] 코니 4in1 스프링카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703568278011.png"
       },
       "DDN0000134": {
         "name": "[퍼니]엄마까투리 어드벤쳐",
@@ -5029,6 +5024,11 @@
         "name": "[베이비아인슈타인]매직터치 계산대",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433258399.jpg"
+      },
+      "CGN0000100": {
+        "name": "[엔픽스]점핑 360점퍼루(정글)",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433612174.png"
       },
       "GDN0000191": {
         "name": "[브이텍] 터미타임 변신큐브 에듀볼",
