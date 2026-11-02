@@ -96,11 +96,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202299073.png"
       },
-      "GAN0000044": {
-        "name": "[리틀타익스]핀볼 액티비티 테이블",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277171510.jpg"
-      },
       "DDN0000063": {
         "name": "[트리코]스쿨박스세트",
         "age": "60개월 이상 ~",
@@ -600,11 +595,6 @@
         "name": "범블비",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594111378.jpg"
-      },
-      "ABN0000016": {
-        "name": "[보육사]음식컷팅세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
       },
       "CDN0000023": {
         "name": "비행기",
@@ -1771,11 +1761,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
       },
-      "ABN0000037": {
-        "name": "쇼핑카트&스캐너",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201895215.JPG"
-      },
       "DDN0000169": {
         "name": "[오즈토이]피아노 퍼즐하우스 완구",
         "age": "36개월 이상 ~",
@@ -1835,6 +1820,11 @@
         "name": "[베이비아인슈타인]터미타임 멜로디 깜짝볼",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204706127.jpg"
+      },
+      "ABN0000037": {
+        "name": "쇼핑카트&스캐너",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201895215.JPG"
       },
       "KBN0000079": {
         "name": "[고덕점] 카툰 애니멀",
