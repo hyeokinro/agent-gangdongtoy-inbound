@@ -2381,11 +2381,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589870976012.jpg"
       },
-      "ADN0000066": {
-        "name": "[블루래빗]아기오리랑 마마덕",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1764055568675.JPG"
-      },
       "ADN0000037": {
         "name": "[하페]우주선",
         "age": "36개월 이상 ~",
@@ -3065,11 +3060,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768000520.jpg"
       },
-      "GBN0000003": {
-        "name": "(영어)아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592194663.jpg"
-      },
       "KDN0000069": {
         "name": "[고덕점] 링 던지기",
         "age": "36개월 이상 ~",
@@ -3255,6 +3245,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353997613.jpg"
       },
+      "KBN0000085": {
+        "name": "[고덕점]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
+      },
       "GDN0000175": {
         "name": "옥토넛 탐험선A & 피규어",
         "age": "24개월 이상 ~",
@@ -3294,11 +3289,6 @@
         "name": "[블루래빗]꼬꼬맘",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479951809.JPG"
-      },
-      "KBN0000085": {
-        "name": "[고덕점]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729909024085.png"
       },
       "KBN0000083": {
         "name": "[고덕점]피자카트 한영버전",
@@ -5619,11 +5609,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1778139725301.png"
       },
-      "HSN0000008": {
-        "name": "[놀이팩]마이퍼스트북NO.13.공룡월드(작은책)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773138183057.png"
-      },
       "HSN0000082": {
         "name": "[물놀이팩]풀장+오리목욕장난감",
         "age": "36개월 이상 ~",
@@ -5723,6 +5708,11 @@
         "name": "[캠핑팩]테이블의자매트세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1786078411350.png"
+      },
+      "HSN0000110": {
+        "name": "[캠핑팩]홈캠핑놀이(A)",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1786078515731.png"
       },
       "HSN0000014": {
         "name": "[놀이팩]자석 변신로봇(블루)",
