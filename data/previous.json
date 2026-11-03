@@ -511,11 +511,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031023597.jpg"
       },
-      "DDN0000168": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
-      },
       "DDN0000044": {
         "name": "[플랜토이즈]망치놀이",
         "age": "12개월 이상 ~",
@@ -996,11 +991,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204943593.jpg"
       },
-      "DDN0000132": {
-        "name": "[리틀]액티비티 윈도우",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564505955.png"
-      },
       "CBN0000042": {
         "name": "[하페] 빵만들기 놀이",
         "age": "36개월 이상 ~",
@@ -1276,11 +1266,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070193297.png"
       },
-      "GDN0000178": {
-        "name": "뽀로로 변신 굴착기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224030033.png"
-      },
       "CDN0000026": {
         "name": "신나는아기실로폰",
         "age": "1개월 이상 ~",
@@ -1391,11 +1376,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
       },
-      "GDN0000135": {
-        "name": "씽크 자이언트에어 747",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165347042.png"
-      },
       "AAN0000017": {
         "name": "센소리볼 9P세트",
         "age": "6개월 이상 ~",
@@ -1405,6 +1385,11 @@
         "name": "[애니블록]바다탐험대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069765107.png"
+      },
+      "GDN0000135": {
+        "name": "씽크 자이언트에어 747",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165347042.png"
       },
       "DDN0000099": {
         "name": "[레고]공룡탈출",
