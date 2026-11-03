@@ -3255,11 +3255,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765423123360.png"
       },
-      "KBN0000060": {
-        "name": "[고덕점] 아기의사 돌리",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541498757.png"
-      },
       "KDN0000090": {
         "name": "[고덕점] 로더심플 페리보트",
         "age": "24개월 이상 ~",
@@ -3300,6 +3295,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537773284.png"
       },
+      "KDN0000061": {
+        "name": "[고덕점] 엔젤워터폴",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
+      },
       "ADN0000046": {
         "name": "[지나월드]핑크퐁 아기 상어랜드",
         "age": "36개월 이상 ~",
@@ -3330,10 +3330,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540709566.png"
       },
-      "KDN0000061": {
-        "name": "[고덕점] 엔젤워터폴",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702542292702.jpg"
+      "KBN0000060": {
+        "name": "[고덕점] 아기의사 돌리",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541498757.png"
       },
       "KDN0000102": {
         "name": "[고덕점] 띠띠뽀 말하는 관제센터 놀이세트",
@@ -3684,6 +3684,11 @@
         "name": "[브이텍]빙글빙글 러닝오션월드",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349451373.png"
+      },
+      "CDN0000087": {
+        "name": "[브이텍]밸런싱 링쌓기저울",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349615479.png"
       },
       "DBN0000050": {
         "name": "[리틀타익스]퍼스트 냉장고",
@@ -4325,6 +4330,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
       },
+      "CFN0000023": {
+        "name": "[아이코닉스] 타요 붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433409969.jpg"
+      },
       "CGN0000105": {
         "name": "[타이니러브]수더메도우 모빌(흑백+홀더)",
         "age": "1개월 이상 ~",
@@ -4865,6 +4875,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1650444413222.PNG"
       },
+      "ADN0000038": {
+        "name": "[아이존]똑똑한타요버스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650510254971.png"
+      },
       "DDN0000122": {
         "name": "[아이코닉스]타요 천하장사 중장비 놀이세트",
         "age": "36개월 이상 ~",
@@ -5034,11 +5049,6 @@
         "name": "[윈펀]꼬꼬댁 놀이동산",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
-      },
-      "CDN0000088": {
-        "name": "[아이코닉스]타요 자동차노트북",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349511953.png"
       },
       "ACN0000015": {
         "name": "[브이텍]도형끼우기 드럼",
@@ -5304,11 +5314,6 @@
         "name": "[고덕점] 리얼소방차",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538962318.png"
-      },
-      "KBN0000063": {
-        "name": "[고덕점] 뽀로로 아이스크림 가게",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540168670.png"
       },
       "KDN0000134": {
         "name": "[고덕점] 즐거운뽀로로하우스",
