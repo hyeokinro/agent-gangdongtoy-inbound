@@ -2526,11 +2526,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1735021843788.png"
       },
-      "GDN0000038": {
-        "name": "펀타임피싱",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589870976012.jpg"
-      },
       "ADN0000066": {
         "name": "[블루래빗]아기오리랑 마마덕",
         "age": "6개월 이상 ~",
@@ -3215,11 +3210,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539073783.jpg"
       },
-      "GFN0000001": {
-        "name": "코레카경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
-      },
       "AFN0000010": {
         "name": "코레카 소방차",
         "age": "12개월 이상 ~",
@@ -3249,6 +3239,11 @@
         "name": "2in1 록킹미끄럼",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590804263.JPG"
+      },
+      "DDN0000055": {
+        "name": "[맥포머스]구조대세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069003414.png"
       },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
@@ -3484,6 +3479,11 @@
         "name": "[고덕점]피자카트 한영버전",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
+      },
+      "KBN0000088": {
+        "name": "[고덕점]실제같은 쇼핑카트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
       },
       "DBN0000051": {
         "name": "[리틀타익스]퍼스트 세탁기",
@@ -5564,11 +5564,6 @@
         "name": "[비키즈]미러롤러",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432947646.jpg"
-      },
-      "GAN0000048": {
-        "name": "[베네베네] 3in1 라이언 멀티 유아농구대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765422869731.png"
       },
       "GDN0000214": {
         "name": "[원앤원] 콩지래빗 리얼터치 스마트폰",
