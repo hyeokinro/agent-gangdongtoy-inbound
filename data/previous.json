@@ -1836,11 +1836,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416270996.jpg"
       },
-      "GDN0000037": {
-        "name": "댄싱로봇빗벨",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029060560.jpg"
-      },
       "GDN0000183": {
         "name": "[브랜드B] 팝핑웨일",
         "age": "24개월 이상 ~",
@@ -1945,6 +1940,11 @@
         "name": "에코차량운송트럭",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031074988.jpg"
+      },
+      "GDN0000037": {
+        "name": "댄싱로봇빗벨",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029060560.jpg"
       },
       "DEN0000004": {
         "name": "[맥포머스]타운스페셜세트",
@@ -3444,11 +3444,6 @@
         "name": "[고덕점]피자카트 한영버전",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910537713.png"
-      },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
       "GDN0000175": {
         "name": "옥토넛 탐험선A & 피규어",
