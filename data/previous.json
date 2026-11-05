@@ -1821,11 +1821,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594272145.JPG"
       },
-      "KDN0000070": {
-        "name": "[고덕점] 동전 놀이",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538409636.png"
-      },
       "GCN0000004": {
         "name": "물고기드럼",
         "age": "36개월 이상 ~",
@@ -2020,6 +2015,11 @@
         "name": "병원놀이(원목)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
+      },
+      "KDN0000070": {
+        "name": "[고덕점] 동전 놀이",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538409636.png"
       },
       "ADN0000062": {
         "name": "[현우토이]원목 낚시 놀이 10p",
@@ -3200,6 +3200,11 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773785367.jpg"
       },
+      "KBN0000062": {
+        "name": "[고덕점] 점보공룡",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567519736.png"
+      },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
@@ -3360,11 +3365,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
       },
-      "ABN0000040": {
-        "name": "[영실업]콩콩이와 119병원세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
-      },
       "ADN0000046": {
         "name": "[지나월드]핑크퐁 아기 상어랜드",
         "age": "36개월 이상 ~",
@@ -3454,6 +3454,11 @@
         "name": "[컬렉타]야생동물 30종",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
+      },
+      "ABN0000040": {
+        "name": "[영실업]콩콩이와 119병원세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1753169999340.PNG"
       },
       "AGN0000020": {
         "name": "하늘썬별 피아노체육관 걸음마 (레드)",
@@ -4579,11 +4584,6 @@
         "name": "전동드릴 공구놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
-      },
-      "GDN0000169": {
-        "name": "첫 계산대놀이 세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701222329943.png"
       },
       "GDN0000179": {
         "name": "컵쌓기 & 액티비티 볼 세트",
