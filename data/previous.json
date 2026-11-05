@@ -931,11 +931,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567075019.png"
       },
-      "CDN0000008": {
-        "name": "덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_60.jpg"
-      },
       "GEN0000014": {
         "name": "가든쌓기블록",
         "age": "12개월 이상 ~",
@@ -2001,20 +1996,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660200334286.PNG"
       },
-      "ACN0000000": {
-        "name": "[클래식]정글뮤직박스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617769452233.jpg"
-      },
       "CBN0000011": {
         "name": "병원놀이(원목)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801864684.jpg"
-      },
-      "ADN0000062": {
-        "name": "[현우토이]원목 낚시 놀이 10p",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169045398.png"
       },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
@@ -2395,11 +2380,6 @@
         "name": "미키와친구들 자동차 병원놀이",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163342021.png"
-      },
-      "CCN0000019": {
-        "name": "퍼커션세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1591661391946.png"
       },
       "DBN0000037": {
         "name": "[브이텍]병원놀이세트",
@@ -4370,6 +4350,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559059417.png"
       },
+      "KGN0000002": {
+        "name": "[고덕점] 킥앤스코어 아기체육관",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566776220.png"
+      },
       "DDN0000134": {
         "name": "[퍼니]엄마까투리 어드벤쳐",
         "age": "36개월 이상 ~",
@@ -4759,6 +4744,11 @@
         "name": "[아이코닉스] 뽀로로 123 놀이터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1768541751586.png"
+      },
+      "CFN0000025": {
+        "name": "[대호토이즈] 소방차 붕붕카",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1787809567073.png"
       },
       "CBN0000004": {
         "name": "공룡안키로사우루스",
