@@ -771,11 +771,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599035070919.jpg"
       },
-      "KCN0000012": {
-        "name": "[고덕점] 다이나믹우퍼 기타",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
-      },
       "DDN0000144": {
         "name": "[코닉스]뽀로로EQ테마파크",
         "age": "36개월 이상 ~",
@@ -820,6 +815,11 @@
         "name": "[고덕점] 원통 쌓기 블록",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702543430222.png"
+      },
+      "KCN0000012": {
+        "name": "[고덕점] 다이나믹우퍼 기타",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
       },
       "GDN0000044": {
         "name": "펭귄오뚝이",
@@ -1401,11 +1401,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069765107.png"
       },
-      "KDN0000104": {
-        "name": "[고덕점] 댄싱 유니콘",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
-      },
       "DDN0000171": {
         "name": "[브이텍]밸런싱 링쌓기저울",
         "age": "12개월 이상 ~",
@@ -1415,6 +1410,11 @@
         "name": "[고덕점] 도형끼우기 드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
+      },
+      "KDN0000104": {
+        "name": "[고덕점] 댄싱 유니콘",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538306766.png"
       },
       "KDN0000096": {
         "name": "[고덕점] 똑똑한 무선조종 공룡",
