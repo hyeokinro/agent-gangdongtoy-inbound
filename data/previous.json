@@ -41,11 +41,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032076409.jpg"
       },
-      "CBN0000059": {
-        "name": "[리틀타익스]퍼스트 식기세척기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349805980.png"
-      },
       "ABN0000046": {
         "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
         "age": "36개월 이상 ~",
@@ -196,11 +191,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204364533.PNG"
       },
-      "CEN0000005": {
-        "name": "뉴 해양꼭지퍼즐",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
-      },
       "GBN0000036": {
         "name": "아이스크림만들기",
         "age": "36개월 이상 ~",
@@ -246,6 +236,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599801550274.jpg"
       },
+      "CBN0000059": {
+        "name": "[리틀타익스]퍼스트 식기세척기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349805980.png"
+      },
       "GBN0000160": {
         "name": "[러닝리소스] 넘버블럭스 레인보우 카운팅 버스",
         "age": "36개월 이상 ~",
@@ -255,6 +250,11 @@
         "name": "[고덕점] 빅레츠고오션월드",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538866628.png"
+      },
+      "CEN0000005": {
+        "name": "뉴 해양꼭지퍼즐",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_94.jpg"
       },
       "GDN0000205": {
         "name": "[브루더] MAN 로더",
@@ -2211,11 +2211,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
       },
-      "CFN0000025": {
-        "name": "[대호토이즈] 소방차 붕붕카",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1787809567073.png"
-      },
       "KDN0000151": {
         "name": "[고덕점]아기곰저울&숫자놀이",
         "age": "36개월 이상 ~",
@@ -3171,11 +3166,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
       },
-      "DDN0000131": {
-        "name": "[레드박스]팝업동물농장",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672194271073.PNG"
-      },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
         "age": "24개월 이상 ~",
@@ -3195,11 +3185,6 @@
         "name": "[레드박스]만능공구놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617761037394.jpg"
-      },
-      "CAN0000015": {
-        "name": "쿠쿠그네",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_15.jpg"
       },
       "GBN0000008": {
         "name": "쇼핑카트",
@@ -5384,6 +5369,11 @@
         "name": "[브이텍]병원놀이세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193176258.PNG"
+      },
+      "AAN0000018": {
+        "name": "클리어리 볼링",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202139861.png"
       },
       "CDN0000079": {
         "name": "[브이텍]춤추는 강아지",
