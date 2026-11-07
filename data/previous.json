@@ -1951,11 +1951,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061047580.png"
       },
-      "GAN0000040": {
-        "name": "뮤지컬 액티비티 워커",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
-      },
       "GDN0000152": {
         "name": "전동드릴 공구놀이세트",
         "age": "36개월 이상 ~",
@@ -3455,6 +3450,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259170574.png"
       },
+      "GDN0000143": {
+        "name": "타요 말하는 미니카 자판기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166328525.png"
+      },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
@@ -3610,10 +3610,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1590039182551.jpg"
       },
-      "CFN0000006": {
-        "name": "밴츠붕붕카(레드)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599802247728.jpg"
+      "DDN0000101": {
+        "name": "[레고]스파이더맨본부",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071642171.png"
       },
       "ABN0000028": {
         "name": "[영실업]콩순이 아기하마 양치놀이",
@@ -5030,6 +5030,11 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733295979711.jpg"
       },
+      "CBN0000068": {
+        "name": "[영실업]콩순이 말하는 청진기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751433142189.png"
+      },
       "CDN0000102": {
         "name": "[베이비아인슈타인]뮤지컬 무빙 문어아빠",
         "age": "6개월 이상 ~",
@@ -5039,6 +5044,11 @@
         "name": "[립프로그] 소프트 아이스크림 메이커",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765259715006.png"
+      },
+      "GFN0000012": {
+        "name": "[중모토이] CAT 포크레인차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765343908013.png"
       },
       "GBN0000172": {
         "name": "[원앤원] 조이앤그로우 에듀하우스 6in1",
@@ -5684,6 +5694,11 @@
         "name": "[고덕점] 수더프린테일즈모빌+거치대",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540732302.png"
+      },
+      "KAN0000009": {
+        "name": "[고덕점] 액티비티 가든",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541625180.png"
       },
       "KDN0000064": {
         "name": "[고덕점] 스쿨버스",
