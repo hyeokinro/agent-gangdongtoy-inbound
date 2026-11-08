@@ -1306,11 +1306,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_78.jpg"
       },
-      "CBY0000055": {
-        "name": "인형유모차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690363158.jpg"
-      },
       "GCN0000006": {
         "name": "멜로디 멀티기타",
         "age": "12개월 이상 ~",
@@ -1390,6 +1385,11 @@
         "name": "믹서세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593809362.jpg"
+      },
+      "CBY0000055": {
+        "name": "인형유모차",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1711690363158.jpg"
       },
       "ADN0000031": {
         "name": "[브랜드B]공룡,교통퍼즐",
@@ -2375,11 +2375,6 @@
         "name": "하우스 놀이상자",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221528691.png"
-      },
-      "CFN0000005": {
-        "name": "사운드범퍼카",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_113.jpg"
       },
       "ABN0000020": {
         "name": "[코닉스]뽀로로캐리어",
