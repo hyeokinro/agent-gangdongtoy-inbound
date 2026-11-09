@@ -1081,11 +1081,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593496296.jpg"
       },
-      "CDN0000055": {
-        "name": "무지개 실꿰기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
-      },
       "CCN0000007": {
         "name": "신나는아기탬버린",
         "age": "1개월 이상 ~",
@@ -1320,6 +1315,11 @@
         "name": "[애니블록]바다탐험대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069765107.png"
+      },
+      "CDN0000055": {
+        "name": "무지개 실꿰기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
       },
       "GDN0000157": {
         "name": "뛰뛰빵빵 출동 소방 구조대",
@@ -3825,11 +3825,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773384193.jpg"
       },
-      "ADN0000020": {
-        "name": "[브리오]월드소방서세트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773476315.jpg"
-      },
       "ADN0000022": {
         "name": "[짐보리]맥포머스90PCS",
         "age": "36개월 이상 ~",
@@ -4479,6 +4474,11 @@
         "name": "뮤지컬 액티비티 워커",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701164433572.png"
+      },
+      "GDN0000152": {
+        "name": "전동드릴 공구놀이세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701166994594.png"
       },
       "GDN0000179": {
         "name": "컵쌓기 & 액티비티 볼 세트",
