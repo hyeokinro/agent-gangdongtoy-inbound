@@ -641,11 +641,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
       },
-      "ADN0000054": {
-        "name": "노래하고 말하는 전화기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672202756814.png"
-      },
       "GBN0000044": {
         "name": "큰공룡세트12종",
         "age": "36개월 이상 ~",
@@ -1541,11 +1536,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589872102654.jpg"
       },
-      "CGN0000071": {
-        "name": "[브라이트스타트]바운스 액티비티 점퍼루(그린)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207229228.jpg"
-      },
       "GDN0000172": {
         "name": "다이노 헌터 세트",
         "age": "36개월 이상 ~",
@@ -2000,6 +1990,11 @@
         "name": "[지나월드]핑크퐁 아기상어 빙글빙글 춤추는 바다 놀이터",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664459155.jpg"
+      },
+      "KDN0000105": {
+        "name": "[고덕점] 걸음마친구 수다쟁이 전화기",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537811238.png"
       },
       "GDN0000180": {
         "name": "[브이텍] 트위스트 에듀 큐브",
@@ -3140,11 +3135,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590804263.JPG"
       },
-      "ABN0000021": {
-        "name": "[캐스돈]다이슨청소기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768908487.jpg"
-      },
       "CDN0000076": {
         "name": "[메가블럭]블럭놀이 테이블 30PCS",
         "age": "12개월 이상 ~",
@@ -3345,10 +3335,10 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353490382.jpg"
       },
-      "GBN0000080": {
-        "name": "뽀로로 변신 경찰차",
+      "ABN0000016": {
+        "name": "[보육사]음식컷팅세트",
         "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650521146402.PNG"
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617768607444.jpg"
       },
       "DDN0000118": {
         "name": "[브라이트스타트]뉴 ABC러닝테이블",
