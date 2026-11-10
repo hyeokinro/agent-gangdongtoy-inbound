@@ -306,11 +306,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
       },
-      "GFN0000001": {
-        "name": "코레카경찰차",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
-      },
       "KDN0000115": {
         "name": "[고덕점] 빙글빙글 해저 탐험",
         "age": "6개월 이상 ~",
@@ -1406,6 +1401,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617774048063.jpg"
       },
+      "GDN0000223": {
+        "name": "[영실업] 뉴 또봇 Z",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431502187.png"
+      },
       "GEN0000032": {
         "name": "공룡입체퍼즐",
         "age": "24개월 이상 ~",
@@ -1445,11 +1445,6 @@
         "name": "[고덕점] 도형끼우기 드럼",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538342820.png"
-      },
-      "GDN0000223": {
-        "name": "[영실업] 뉴 또봇 Z",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431502187.png"
       },
       "KBN0000089": {
         "name": "[고덕점] 핑크퐁진동벨계산대",
@@ -1781,6 +1776,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594641987.jpg"
       },
+      "GDN0000140": {
+        "name": "레이싱 스테이션",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165878905.png"
+      },
       "GBN0000029": {
         "name": "아이스크림",
         "age": "36개월 이상 ~",
@@ -1915,11 +1915,6 @@
         "name": "[고덕점] 점보 야생 동물",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
-      },
-      "GDN0000140": {
-        "name": "레이싱 스테이션",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165878905.png"
       },
       "GDN0000047": {
         "name": "에코차량운송트럭",
