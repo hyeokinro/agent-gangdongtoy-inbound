@@ -286,11 +286,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589592364054.JPG"
       },
-      "KBN0000074": {
-        "name": "[고덕점] 퍼스트 계산대놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
-      },
       "CGN0000099": {
         "name": "[오비]다용도 러닝워커",
         "age": "6개월 이상 ~",
@@ -320,6 +315,11 @@
         "name": "[고덕점] 빙글빙글 해저 탐험",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
+      },
+      "KBN0000074": {
+        "name": "[고덕점] 퍼스트 계산대놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
       },
       "GBN0000162": {
         "name": "[에프비존] 사랑의 하츄핑 마이크",
@@ -2736,11 +2736,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415157841.jpg"
       },
-      "ADN0000049": {
-        "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
-      },
       "ADN0000005": {
         "name": "[플레이포에버]자동차2",
         "age": "36개월 이상 ~",
@@ -2790,6 +2785,11 @@
         "name": "멀티플렉스세트150pc(스퀴즈)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_71.jpg"
+      },
+      "ADN0000049": {
+        "name": "[영진토이]뽀로로와 친구들 멜로디 미니카",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660205246051.jpg"
       },
       "DDN0000054": {
         "name": "[맥포머스]공사현장세트",
