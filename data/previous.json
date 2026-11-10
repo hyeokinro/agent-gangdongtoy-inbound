@@ -391,11 +391,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541777375.png"
       },
-      "CGN0000067": {
-        "name": "[콤비]보행기(아이보리)",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650520447079.PNG"
-      },
       "CBN0000023": {
         "name": "후라이팬세트(원목)",
         "age": "12개월 이상 ~",
@@ -645,11 +640,6 @@
         "name": "레코딩무선전화놀이",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
-      },
-      "CDN0000017": {
-        "name": "리틀러닝홈동물농장",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_69.jpg"
       },
       "CDN0000023": {
         "name": "비행기",
@@ -1821,11 +1811,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070147910.png"
       },
-      "DDN0000124": {
-        "name": "[Lakeshore]믹스매치 건설차량",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672122685216.PNG"
-      },
       "ADN0000021": {
         "name": "[짐보리]클릭포머스200",
         "age": "48개월 이상 ~",
@@ -1845,6 +1830,11 @@
         "name": "댄싱로봇빗벨",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599029060560.jpg"
+      },
+      "KDN0000057": {
+        "name": "[고덕점] 똑똑한 꼬마버스 타요",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538675288.png"
       },
       "DEN0000004": {
         "name": "[맥포머스]타운스페셜세트",
@@ -1956,20 +1946,25 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730185392699.png"
       },
-      "CDN0000029": {
-        "name": "오뚜기뽀빠이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
-      },
       "GDN0000179": {
         "name": "컵쌓기 & 액티비티 볼 세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701224102932.png"
       },
+      "CDN0000029": {
+        "name": "오뚜기뽀빠이",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_81.jpg"
+      },
       "CAN0000032": {
         "name": "뉴 오볼롤러",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599791727157.jpg"
+      },
+      "DDN0000124": {
+        "name": "[Lakeshore]믹스매치 건설차량",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672122685216.PNG"
       },
       "GCN0000001": {
         "name": "캐티롤러",
@@ -3489,11 +3484,6 @@
         "name": "애플 알파벳 사운드 북",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672201104352.png"
-      },
-      "AGN0000014": {
-        "name": "학습 테이블 멜로디 에듀 테이블",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672204953272.png"
       },
       "GAN0000038": {
         "name": "리틀 베이비 범 액티비티 워커",
