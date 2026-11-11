@@ -26,11 +26,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032076409.jpg"
       },
-      "GDN0000189": {
-        "name": "[브이텍]멜로디 덤프트럭",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
-      },
       "AAN0000019": {
         "name": "구피 미니 골프놀이",
         "age": "12개월 이상 ~",
@@ -170,6 +165,11 @@
         "name": "클라부 컬러세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1598949250805.JPG"
+      },
+      "GDN0000189": {
+        "name": "[브이텍]멜로디 덤프트럭",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277144289.jpg"
       },
       "GGN0000002": {
         "name": "수더메도우 모빌(흑백+홀더)",
@@ -590,11 +590,6 @@
         "name": "알록달록구슬세기",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589595035293.jpg"
-      },
-      "GAN0000045": {
-        "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765246327573.png"
       },
       "DDN0000056": {
         "name": "[맥포머스]경찰차세트",
@@ -1541,11 +1536,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193574431.PNG"
       },
-      "GGN0000024": {
-        "name": "[코닉스]알루 에듀하우스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1733211178309.PNG"
-      },
       "ACN0000008": {
         "name": "[지나월드]뽀로로드럼",
         "age": "36개월 이상 ~",
@@ -1730,11 +1720,6 @@
         "name": "[벨레덕]감자",
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628066724140.png"
-      },
-      "GDN0000213": {
-        "name": "[브이텍] 붕붕카 3 in 1 청소트럭",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765345684338.png"
       },
       "ACN0000002": {
         "name": "[baoli]피아노드럼",
@@ -2681,11 +2666,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553804570.png"
       },
-      "GDN0000033": {
-        "name": "뽀로로119멜로디소방차",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866029938.jpg"
-      },
       "DDN0000112": {
         "name": "[큐비]동물똥세트",
         "age": "36개월 이상 ~",
@@ -2795,6 +2775,11 @@
         "name": "[오차드]도로퍼즐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070332927.png"
+      },
+      "GDN0000033": {
+        "name": "뽀로로119멜로디소방차",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589866029938.jpg"
       },
       "GEN0000019": {
         "name": "건축물스타터",
