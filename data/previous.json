@@ -1931,11 +1931,6 @@
         "age": "48개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071725866.png"
       },
-      "GAN0000026": {
-        "name": "[오볼]오볼놀이세트",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607416270996.jpg"
-      },
       "DDN0000100": {
         "name": "[레고]비행기와공항",
         "age": "24개월 이상 ~",
@@ -3171,11 +3166,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1592454791120.jpg"
       },
-      "ADN0000023": {
-        "name": "[코닉스]띠띠뽀정거장",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773640513.jpg"
-      },
       "GBN0000091": {
         "name": "콩순이 알록달록 카페놀이",
         "age": "24개월 이상 ~",
@@ -3260,11 +3250,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617759639390.jpg"
       },
-      "ABN0000046": {
-        "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168762213.png"
-      },
       "GDN0000201": {
         "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
         "age": "36개월 이상 ~",
@@ -3305,11 +3290,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733278331836.jpg"
       },
-      "KCN0000019": {
-        "name": "[고덕점] 라이트봉고드럼",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
-      },
       "GDN0000148": {
         "name": "찰칵 폴라로이드 아기 카메라",
         "age": "36개월 이상 ~",
@@ -3334,6 +3314,11 @@
         "name": "[자노드]청키퍼즐비히클/팜",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1629942636085.png"
+      },
+      "KCN0000019": {
+        "name": "[고덕점] 라이트봉고드럼",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566192027.png"
       },
       "KDN0000054": {
         "name": "[고덕점] 꼬꼬맘",
@@ -3690,10 +3675,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
       },
-      "CDN0000075": {
-        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
+      "DDN0000098": {
+        "name": "[레고]미니의공간",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071507258.png"
       },
       "KBN0000066": {
         "name": "[고덕점] 그루밍 캣",
@@ -3704,11 +3689,6 @@
         "name": "[고덕점] 뽀로로 빙글빙글 춤추는 노래방",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540148301.png"
-      },
-      "KDN0000110": {
-        "name": "[고덕점] 이집트원정대",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703557618719.png"
       },
       "KDN0000094": {
         "name": "[고덕점] 츄츄레일",
