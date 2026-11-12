@@ -566,11 +566,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593454335.jpg"
       },
-      "KDN0000043": {
-        "name": "[고덕점] 판다 DJ 놀이",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703565706697.png"
-      },
       "DDN0000037": {
         "name": "[벨레덕]딸기",
         "age": "48개월 이상 ~",
@@ -3455,6 +3450,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599031735516.jpg"
       },
+      "KDN0000091": {
+        "name": "[고덕점] 타요 포크레인 중장비 타워",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558683007.png"
+      },
       "KDN0000117": {
         "name": "[고덕점] 메가 레이싱트랙",
         "age": "36개월 이상 ~",
@@ -3645,10 +3645,10 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033656451.jpg"
       },
-      "ACN0000009": {
-        "name": "[보육사]영아용리듬악기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771406324.jpg"
+      "GDN0000128": {
+        "name": "[브이텍]러닝 액티비티 큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671497051740.PNG"
       },
       "ADN0000054": {
         "name": "노래하고 말하는 전화기",
@@ -4474,6 +4474,11 @@
         "name": "[영실업]콩순이 말하는 펭이와 청진기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660635231096.jpg"
+      },
+      "GDN0000126": {
+        "name": "[대성]벤츠 아록스 덤프트럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671262414325.PNG"
       },
       "GDN0000130": {
         "name": "[하베브릭스]6in1변신큐브",
@@ -5998,11 +6003,6 @@
         "name": "[캠핑팩]테이블매트세트",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1786078319127.png"
-      },
-      "HSN0000031": {
-        "name": "[놀이팩]콩순이 내동생 콩콩이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1773140599160.png"
       },
       "HSN0000044": {
         "name": "[놀이팩]콩순이 강아지랑 목욕놀이",
