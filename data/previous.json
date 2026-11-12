@@ -201,11 +201,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_62.jpg"
       },
-      "KDN0000054": {
-        "name": "[고덕점] 꼬꼬맘",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541466184.png"
-      },
       "ADN0000009": {
         "name": "[플레이포에버]자동차6",
         "age": "36개월 이상 ~",
@@ -846,11 +841,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593409425.jpg"
       },
-      "KCN0000013": {
-        "name": "[고덕점] 파람팜팜 악기세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566377706.jpg"
-      },
       "GBN0000087": {
         "name": "[립프로그]ABC 청소기",
         "age": "24개월 이상 ~",
@@ -1306,11 +1296,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033623415.jpg"
       },
-      "KDN0000123": {
-        "name": "[고덕점] 매직큐브프리빌딩 세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539117440.png"
-      },
       "GEN0000016": {
         "name": "시티우드퍼즐",
         "age": "1개월 이상 ~",
@@ -1510,11 +1495,6 @@
         "name": "[영실업]콩순이 아이스크림가게",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733212241665.jpg"
-      },
-      "DDN0000136": {
-        "name": "[코코멜론]제이제이 인형(영어)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563897818.png"
       },
       "KDN0000084": {
         "name": "[고덕점] 디자인 드릴 로봇",
@@ -2251,15 +2231,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1671256358110.PNG"
       },
-      "DDN0000089": {
-        "name": "[바오밥]다이빙피쉬",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071027729.png"
-      },
       "DDN0000028": {
         "name": "[자노드]쉐이프솔터",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628061342544.png"
+      },
+      "DDN0000089": {
+        "name": "[바오밥]다이빙피쉬",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071027729.png"
       },
       "CDN0000029": {
         "name": "오뚜기뽀빠이",
