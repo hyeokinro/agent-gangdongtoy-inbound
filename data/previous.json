@@ -71,11 +71,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599032076409.jpg"
       },
-      "KBN0000074": {
-        "name": "[고덕점] 퍼스트 계산대놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
-      },
       "GEN0000035": {
         "name": "애완동물입체퍼즐",
         "age": "24개월 이상 ~",
@@ -330,6 +325,11 @@
         "name": "[고덕점] 빙글빙글 해저 탐험",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
+      },
+      "KBN0000074": {
+        "name": "[고덕점] 퍼스트 계산대놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
       },
       "GBN0000162": {
         "name": "[에프비존] 사랑의 하츄핑 마이크",
@@ -1931,11 +1931,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071603353.png"
       },
-      "KDN0000151": {
-        "name": "[고덕점]아기곰저울&숫자놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910238791.png"
-      },
       "KDN0000080": {
         "name": "[고덕점] 즐거운 놀이공원",
         "age": "36개월 이상 ~",
@@ -2080,6 +2075,11 @@
         "name": "[고덕점] 노아의 방주",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537946226.png"
+      },
+      "KDN0000151": {
+        "name": "[고덕점]아기곰저울&숫자놀이",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1729910238791.png"
       },
       "ADN0000034": {
         "name": "[플랜토이즈]램프레이서",
