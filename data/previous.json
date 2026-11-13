@@ -3105,11 +3105,6 @@
       }
     },
     "wait": {
-      "DBN0000039": {
-        "name": "[브이텍]ABC 쇼핑카트",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193514140.PNG"
-      },
       "GDN0000151": {
         "name": "러닝 이모션 공작새",
         "age": "12개월 이상 ~",
@@ -3604,6 +3599,11 @@
         "name": "[영실업]콩순이 아기하마 양치놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1660199423609.jpg"
+      },
+      "GDN0000083": {
+        "name": "[바조]노아와 배",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415325088.jpg"
       },
       "ADN0000046": {
         "name": "[지나월드]핑크퐁 아기 상어랜드",
@@ -4204,11 +4204,6 @@
         "name": "[애니블록]뽀로로퍼즐",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069852010.png"
-      },
-      "DBN0000030": {
-        "name": "[영실업]콩순이 알록달록 카페놀이",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664742258.jpg"
       },
       "ABN0000029": {
         "name": "[영실업]척척박사 우유와 뉴 콩순이 냉장고",
