@@ -741,11 +741,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_34.jpg"
       },
-      "DDN0000042": {
-        "name": "[하베브릭스]6in1변신큐브",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
-      },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
@@ -780,6 +775,11 @@
         "name": "[고덕점] 츄츄레일",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
+      },
+      "DDN0000042": {
+        "name": "[하베브릭스]6in1변신큐브",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730354108511.jpg"
       },
       "GAN0000010": {
         "name": "뽀로로멜로디안전그네",
@@ -820,11 +820,6 @@
         "name": "[코닉스]뽀로로EQ테마파크",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562724440.png"
-      },
-      "KCN0000012": {
-        "name": "[고덕점] 다이나믹우퍼 기타",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538016876.png"
       },
       "GBN0000015": {
         "name": "야채세트(라두가그레이즈)",
@@ -1381,11 +1376,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701165347042.png"
       },
-      "ADN0000045": {
-        "name": "[주영이엔시]뽀로로 멜로디 생일케이크",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204874946.jpg"
-      },
       "GBN0000098": {
         "name": "다이노 월드 랩 세트",
         "age": "36개월 이상 ~",
@@ -1485,6 +1475,11 @@
         "name": "[영실업] 뉴 또봇 Z",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765431502187.png"
+      },
+      "ADN0000045": {
+        "name": "[주영이엔시]뽀로로 멜로디 생일케이크",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1660204874946.jpg"
       },
       "CGN0000018": {
         "name": "블리스 바운서(메쉬)",
