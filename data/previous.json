@@ -1406,11 +1406,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593809362.jpg"
       },
-      "GBN0000018": {
-        "name": "샐러드세트(야채썰기)",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593353181.jpg"
-      },
       "CBY0000055": {
         "name": "인형유모차",
         "age": "12개월 이상 ~",
@@ -1420,6 +1415,11 @@
         "name": "[영실업]콩순이와 와플메이커",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672193115173.PNG"
+      },
+      "GBN0000018": {
+        "name": "샐러드세트(야채썰기)",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593353181.jpg"
       },
       "ADN0000030": {
         "name": "[브랜드B]바닷속,농장퍼즐",
@@ -3083,11 +3083,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599798438218.jpg"
       },
-      "CGN0000039": {
-        "name": "[택배]현대백일돌상 ⑧",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1637732451249.png"
-      },
       "CGN0000092": {
         "name": "[택배][리틀타익스]리틀코지쿠페 액티비티센터(보행기)",
         "age": "6개월 이상 ~",
@@ -4150,6 +4145,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771078086.jpg"
       },
+      "ADN0000006": {
+        "name": "[플레이포에버]자동차3",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617771980712.jpg"
+      },
       "ADN0000018": {
         "name": "[코닉스]뽀로로비행기",
         "age": "36개월 이상 ~",
@@ -4845,6 +4845,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564874020.png"
       },
+      "KBN0000061": {
+        "name": "[고덕점] 점보 야생 동물",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567545737.png"
+      },
       "KBN0000048": {
         "name": "[고덕점] 푸쉬앤팝 미니 청소기",
         "age": "36개월 이상 ~",
@@ -5539,6 +5544,11 @@
         "name": "[고덕점] 수더프린테일즈모빌+거치대",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540732302.png"
+      },
+      "KDN0000064": {
+        "name": "[고덕점] 스쿨버스",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564327636.png"
       },
       "KBN0000055": {
         "name": "[고덕점] 채소썰기놀이",
