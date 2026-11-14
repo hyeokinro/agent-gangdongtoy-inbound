@@ -746,11 +746,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564446654.png"
       },
-      "CAN0000010": {
-        "name": "아메리칸미끄럼틀",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_10.jpg"
-      },
       "GEN0000011": {
         "name": "노아의방주 쌓기놀이",
         "age": "12개월 이상 ~",
@@ -3048,6 +3043,11 @@
       }
     },
     "delivery": {
+      "CFN0000013": {
+        "name": "[택배]볼보 미니붕붕카",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1606265652434.jpg"
+      },
       "CGN0000075": {
         "name": "[택배]][브라이트스타트]바운스 액티비티 점퍼루(그린)",
         "age": "6개월 이상 ~",
