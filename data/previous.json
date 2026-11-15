@@ -1221,11 +1221,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541175594.png"
       },
-      "CFN0000002": {
-        "name": "3단계변형운전놀이자전거",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_110.jpg"
-      },
       "DDN0000082": {
         "name": "[오차드]우체통게임",
         "age": "24개월 이상 ~",
@@ -4450,6 +4445,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702540952834.png"
       },
+      "KBN0000056": {
+        "name": "[고덕점] 야채 피자세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541670842.png"
+      },
       "KDN0000145": {
         "name": "[고덕점] 에듀플러스",
         "age": "24개월 이상 ~",
@@ -5404,6 +5404,11 @@
         "name": "[레드박스]팝업동물농장",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1672194271073.PNG"
+      },
+      "CFN0000020": {
+        "name": "[브이텍]3단계 말하는 얼룩말 스쿠터",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207169454.jpg"
       },
       "CGN0000072": {
         "name": "[브이텍]4in1 알파벳 트레인 붕붕카",
