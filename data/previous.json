@@ -1431,11 +1431,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071551522.png"
       },
-      "CFN0000016": {
-        "name": "[스텝2]아미코안전그네 노랑",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1604630358432.png"
-      },
       "GDN0000181": {
         "name": "[스킵합] 꿀벌 라이더",
         "age": "36개월 이상 ~",
@@ -3055,6 +3050,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567519736.png"
       },
+      "KAN0000010": {
+        "name": "[고덕점] 걸음마 학습기 [한영버전]",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537829045.png"
+      },
       "AGN0000011": {
         "name": "[페도라]카시트(블랙)",
         "age": "1개월 이상 ~",
@@ -3189,11 +3189,6 @@
         "name": "[미미월드] 똘똘이 딸기농장",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1765255156192.png"
-      },
-      "CCN0000024": {
-        "name": "[비키즈]뮤직센터(10-IN-1)",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1751432864086.png"
       },
       "DBN0000031": {
         "name": "[립프로그]ABC 청소기",
@@ -3504,11 +3499,6 @@
         "name": "[립프로그]러빙 오븐 틸",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277205094.jpg"
-      },
-      "CGY0000096": {
-        "name": "락카루바운서(그레이)",
-        "age": "1개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1750725903134.jpg"
       },
       "GAN0000045": {
         "name": "[디즈니베이비] 픽앤팝 걸음마장난감",
@@ -4640,11 +4630,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
       },
-      "KGN0000006": {
-        "name": "[고덕점] 베이비베이스 부스터2",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539400339.png"
-      },
       "KDN0000079": {
         "name": "[고덕점] 브릿지 기차 세트",
         "age": "36개월 이상 ~",
@@ -4654,6 +4639,11 @@
         "name": "[고덕점] 엄마까투리 디럭스 트리 하우스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541753455.png"
+      },
+      "KDN0000056": {
+        "name": "[고덕점] 에듀테이블",
+        "age": "1개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541853166.png"
       },
       "KDN0000142": {
         "name": "[고덕점] 장난꾸러기 만능놀이 우리말",
@@ -5389,6 +5379,11 @@
         "name": "[고덕점] 리얼소방차",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538962318.png"
+      },
+      "KDN0000051": {
+        "name": "[고덕점] 멜로디 오션 에듀볼",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539219129.png"
       },
       "KBN0000063": {
         "name": "[고덕점] 뽀로로 아이스크림 가게",
