@@ -291,11 +291,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558250059.png"
       },
-      "CDN0000010": {
-        "name": "동물농장쿼드바이크",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_62.jpg"
-      },
       "GDN0000151": {
         "name": "러닝 이모션 공작새",
         "age": "12개월 이상 ~",
@@ -2940,11 +2935,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599026341182.jpg"
       },
-      "ABN0000042": {
-        "name": "[브이텍]공구놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
-      },
       "GDN0000201": {
         "name": "[아이코닉스] 레스큐타요 스페이스 어드벤처 플레이세트",
         "age": "36개월 이상 ~",
@@ -3009,6 +2999,11 @@
         "name": "코레카경찰차",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589590303959.JPG"
+      },
+      "ABN0000042": {
+        "name": "[브이텍]공구놀이세트",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
       },
       "KDN0000044": {
         "name": "[고덕점] 크레인&자동차 놀이세트",
