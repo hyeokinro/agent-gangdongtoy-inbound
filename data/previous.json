@@ -1566,6 +1566,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710557572624.png"
       },
+      "DDN0000088": {
+        "name": "[조엔]팅팅퍽",
+        "age": "60개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070984832.png"
+      },
       "DDN0000050": {
         "name": "[하바]반짝이는얼음조각",
         "age": "36개월 이상 ~",
@@ -1690,11 +1695,6 @@
         "name": "[Land of B] 히포팝핑피아노",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733296212888.jpg"
-      },
-      "DDN0000088": {
-        "name": "[조엔]팅팅퍽",
-        "age": "60개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1628070984832.png"
       },
       "GDN0000177": {
         "name": "탐험선B & 피규어",
@@ -2950,11 +2950,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169298599.png"
       },
-      "DDN0000140": {
-        "name": "[실버릿]로보카폴리 스타터팩",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563398685.png"
-      },
       "AAN0000003": {
         "name": "[아이팜]토이 웨건",
         "age": "12개월 이상 ~",
@@ -2969,6 +2964,11 @@
         "name": "[고덕점] 반짝반짝 케이크링쌓기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539321469.png"
+      },
+      "DDN0000140": {
+        "name": "[실버릿]로보카폴리 스타터팩",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563398685.png"
       },
       "KBN0000064": {
         "name": "[고덕점] 빅레츠고오션월드",
@@ -3250,6 +3250,11 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168762213.png"
       },
+      "KAN0000010": {
+        "name": "[고덕점] 걸음마 학습기 [한영버전]",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702537829045.png"
+      },
       "ADN0000001": {
         "name": "[사라앤]도로레스&카스버트",
         "age": "12개월 이상 ~",
@@ -3440,11 +3445,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
       },
-      "KDN0000094": {
-        "name": "[고덕점] 츄츄레일",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
-      },
       "GDN0000128": {
         "name": "[브이텍]러닝 액티비티 큐브",
         "age": "6개월 이상 ~",
@@ -3484,6 +3484,11 @@
         "name": "[고덕점] 스피닝 라이트",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541072707.png"
+      },
+      "KDN0000094": {
+        "name": "[고덕점] 츄츄레일",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
       "KDN0000043": {
         "name": "[고덕점] 판다 DJ 놀이",
