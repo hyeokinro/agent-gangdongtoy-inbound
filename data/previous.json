@@ -231,11 +231,6 @@
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703559305014.png"
       },
-      "KDN0000097": {
-        "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541007768.png"
-      },
       "GDN0000203": {
         "name": "[러닝리소스] 카운팅 쉐입스 터틀 세트",
         "age": "12개월 이상 ~",
@@ -316,15 +311,15 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710553766249.png"
       },
+      "KDN0000097": {
+        "name": "[고덕점] 스스로 움직이는 모험왕 공룡",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541007768.png"
+      },
       "KBN0000074": {
         "name": "[고덕점] 퍼스트 계산대놀이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703566875168.png"
-      },
-      "GBN0000078": {
-        "name": "[숲소리]소꿉놀이세트V2",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1607415052822.jpg"
       },
       "CDN0000017": {
         "name": "리틀러닝홈동물농장",
@@ -1000,6 +995,11 @@
         "name": "냄비세트(원목)",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_23.jpg"
+      },
+      "CDN0000087": {
+        "name": "[브이텍]밸런싱 링쌓기저울",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349615479.png"
       },
       "ABN0000026": {
         "name": "[키즈]호랑이,표범,사자",
@@ -2526,11 +2526,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1733277238311.jpg"
       },
-      "ADN0000060": {
-        "name": "[윈펀]꼬꼬댁 놀이동산",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
-      },
       "GCN0000021": {
         "name": "펀아토 베이비베이스 기타",
         "age": "6개월 이상 ~",
@@ -3255,6 +3250,11 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221615837.png"
       },
+      "KBN0000058": {
+        "name": "[고덕점] 헤어 드레싱세트",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703567618546.png"
+      },
       "ADN0000001": {
         "name": "[사라앤]도로레스&카스버트",
         "age": "12개월 이상 ~",
@@ -3440,10 +3440,10 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1752539758110.png"
       },
-      "KDN0000094": {
-        "name": "[고덕점] 츄츄레일",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
+      "DDN0000118": {
+        "name": "[브라이트스타트]뉴 ABC러닝테이블",
+        "age": "6개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1659664641010.jpg"
       },
       "DDN0000117": {
         "name": "[브라이트스타트]롤링몽키 구르는 원숭이 멜로디",
@@ -3494,6 +3494,11 @@
         "name": "[고덕점] 스피닝 라이트",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541072707.png"
+      },
+      "KDN0000094": {
+        "name": "[고덕점] 츄츄레일",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1703558485823.png"
       },
       "KDN0000043": {
         "name": "[고덕점] 판다 DJ 놀이",
