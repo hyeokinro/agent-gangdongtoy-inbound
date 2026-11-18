@@ -1661,11 +1661,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628060529162.png"
       },
-      "GAN0000037": {
-        "name": "액티비티 코끼리 농구대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701162004479.png"
-      },
       "DDN0000129": {
         "name": "[레드박스]경찰놀이 가방",
         "age": "36개월 이상 ~",
@@ -2346,11 +2341,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1595057677550.JPG"
       },
-      "GDN0000162": {
-        "name": "도형맞추기 하우스",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
-      },
       "GBN0000094": {
         "name": "미키와친구들 자동차 병원놀이",
         "age": "24개월 이상 ~",
@@ -2385,6 +2375,11 @@
         "name": "[리틀타익스]스쿠터 액티비티 걸음마보조기",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730168880694.png"
+      },
+      "GDN0000162": {
+        "name": "도형맞추기 하우스",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1701221457733.png"
       },
       "KDN0000048": {
         "name": "[고덕점] 엄마까투리 두리 하우스",
