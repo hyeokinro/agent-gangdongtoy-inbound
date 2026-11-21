@@ -371,11 +371,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353727580.jpg"
       },
-      "DBN0000040": {
-        "name": "[피셔]러닝 가든 앤 키친",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710564559677.png"
-      },
       "GDN0000087": {
         "name": "[하바]클라부 소방서 화재진압놀이세트",
         "age": "24개월 이상 ~",
@@ -2481,11 +2476,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703555505993.png"
       },
-      "DDN0000139": {
-        "name": "[코닉스]타요 액션 소방센터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563480536.png"
-      },
       "DDN0000078": {
         "name": "[오차드]도로퍼즐",
         "age": "36개월 이상 ~",
@@ -4275,11 +4265,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349834025.png"
       },
-      "DDN0000171": {
-        "name": "[브이텍]밸런싱 링쌓기저울",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730353458707.jpg"
-      },
       "DDN0000166": {
         "name": "[지나월드]코코멜론 영어학습 스마트폰",
         "age": "24개월 이상 ~",
@@ -4419,6 +4404,11 @@
         "name": "[베케라]스피즈터플레인",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778095734.jpg"
+      },
+      "AFN0000006": {
+        "name": "[경화]스프링카(분홍)",
+        "age": "12개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617778146115.jpg"
       },
       "DDN0000035": {
         "name": "[하페]고리와퍼즐",
@@ -4789,11 +4779,6 @@
         "name": "[고덕점] 매직터치 피아노",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539138103.png"
-      },
-      "KDN0000095": {
-        "name": "[고덕점] 뮤직운전대",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539262398.png"
       },
       "KGN0000006": {
         "name": "[고덕점] 베이비베이스 부스터2",
@@ -5229,6 +5214,11 @@
         "name": "[윈펀]꼬꼬댁 놀이동산",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730169140088.png"
+      },
+      "CBN0000065": {
+        "name": "[립프로그]아이스크림카트 민트초코",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349245017.png"
       },
       "CBN0000063": {
         "name": "[리틀타익스]퍼스트 계산대놀이 유아계산대",
