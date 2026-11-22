@@ -226,11 +226,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594016387.jpg"
       },
-      "CDN0000014": {
-        "name": "롤러코스터스타워즈",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_66.jpg"
-      },
       "ABN0000004": {
         "name": "[테팔]오픈쿡키친세트",
         "age": "36개월 이상 ~",
@@ -1116,11 +1111,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_151.jpg"
       },
-      "CDN0000055": {
-        "name": "무지개 실꿰기",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
-      },
       "GBN0000097": {
         "name": "헬로 역할놀이 세트",
         "age": "36개월 이상 ~",
@@ -1435,6 +1425,11 @@
         "name": "뛰뛰빵빵 출동 소방 구조대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701167605643.png"
+      },
+      "CDN0000055": {
+        "name": "무지개 실꿰기",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1566370299335.jpg"
       },
       "ADN0000020": {
         "name": "[브리오]월드소방서세트",
@@ -2917,11 +2912,6 @@
         "name": "[택배]현대백일돌상①",
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1636357452539.jpg"
-      },
-      "CGY0000044": {
-        "name": "[택배][이븐플로]액서쏘서티파티",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1634007681875.jpg"
       }
     },
     "wait": {
