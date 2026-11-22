@@ -271,11 +271,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599033460089.jpg"
       },
-      "ABN0000042": {
-        "name": "[브이텍]공구놀이세트",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479662296.JPG"
-      },
       "DDN0000026": {
         "name": "[자노드]피사의사탑",
         "age": "60개월 이상 ~",
@@ -310,11 +305,6 @@
         "name": "[고덕점] 빙글빙글 해저 탐험",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539648048.png"
-      },
-      "CDN0000033": {
-        "name": "클래식8자기차트렉세트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_85.jpg"
       },
       "GDN0000209": {
         "name": "[블루레빗]꼬꼬맘",
@@ -690,11 +680,6 @@
         "name": "[애니블록]퍼즐올인원팩",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069733673.png"
-      },
-      "CDN0000023": {
-        "name": "비행기",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_75.jpg"
       },
       "GBN0000168": {
         "name": "[슐라이히] 공룡 9종 세트",
@@ -1771,11 +1756,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701163407667.png"
       },
-      "KDN0000092": {
-        "name": "[고덕점] 로켓모양 맞추기",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
-      },
       "ADN0000055": {
         "name": "트럭 공구놀이",
         "age": "24개월 이상 ~",
@@ -1935,6 +1915,11 @@
         "name": "[브이텍]첫 계산대 놀이세트",
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1710479636419.JPG"
+      },
+      "KDN0000092": {
+        "name": "[고덕점] 로켓모양 맞추기",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1702538903974.png"
       },
       "ADN0000064": {
         "name": "[브이텍]6IN1 트위스트 에듀큐브",
@@ -2755,11 +2740,6 @@
         "name": "[고덕점] 스쿨버스",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1703564327636.png"
-      },
-      "DDN0000147": {
-        "name": "[아이존]뽀로로 변신경찰본부",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710562468306.png"
       },
       "GDN0000052": {
         "name": "토끼(핑크)",
