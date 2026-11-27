@@ -601,11 +601,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
       },
-      "CDN0000089": {
-        "name": "[브이텍]춤추는 코딩로봇 다이노",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
-      },
       "DDN0000101": {
         "name": "[레고]스파이더맨본부",
         "age": "24개월 이상 ~",
@@ -715,6 +710,11 @@
         "name": "[고덕점]실제같은 쇼핑카트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1730189866201.png"
+      },
+      "CDN0000089": {
+        "name": "[브이텍]춤추는 코딩로봇 다이노",
+        "age": "24개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349476658.png"
       },
       "DDN0000098": {
         "name": "[레고]미니의공간",
@@ -1026,11 +1026,6 @@
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1617773225279.jpg"
       },
-      "DBN0000029": {
-        "name": "[립프]아이스크림카트",
-        "age": "24개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1650443861058.PNG"
-      },
       "CDN0000038": {
         "name": "볼트랙-락킹보트",
         "age": "12개월 이상 ~",
@@ -1060,11 +1055,6 @@
         "name": "옥토포드 슬라이딩 액션 플레이",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1701223890367.png"
-      },
-      "CDN0000087": {
-        "name": "[브이텍]밸런싱 링쌓기저울",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1730349615479.png"
       },
       "GBN0000037": {
         "name": "아이스크림카운터놀이",
@@ -1605,11 +1595,6 @@
         "name": "[애니블록]바다탐험대",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628069765107.png"
-      },
-      "ADN0000030": {
-        "name": "[브랜드B]바닷속,농장퍼즐",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1617774048063.jpg"
       },
       "GDN0000223": {
         "name": "[영실업] 뉴 또봇 Z",
@@ -2215,11 +2200,6 @@
         "name": "[고덕점] 브릿지 기차 세트",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702539455694.png"
-      },
-      "DDN0000135": {
-        "name": "[립프로그] 립스토리",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710563957210.png"
       },
       "GBN0000163": {
         "name": "[립프로그] 소프트 아이스크림 메이커",
@@ -3061,11 +3041,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589594838337.jpg"
       },
-      "AAN0000021": {
-        "name": "[브이텍] 3in1 스포츠 센터",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480767102.JPG"
-      },
       "DDN0000161": {
         "name": "[시쿠]소방차량 5종",
         "age": "36개월 이상 ~",
@@ -3110,6 +3085,11 @@
         "name": "원목자석과일자르기",
         "age": "36개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589593327506.jpg"
+      },
+      "AAN0000021": {
+        "name": "[브이텍] 3in1 스포츠 센터",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1710480767102.JPG"
       },
       "DDN0000060": {
         "name": "[타일블록스]인스파이어",
