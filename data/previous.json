@@ -601,11 +601,6 @@
         "age": "1개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1599034791418.jpg"
       },
-      "GDN0000132": {
-        "name": "[브이텍]나잡아봐 야옹이",
-        "age": "12개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1671504425776.PNG"
-      },
       "CDN0000089": {
         "name": "[브이텍]춤추는 코딩로봇 다이노",
         "age": "24개월 이상 ~",
@@ -725,11 +720,6 @@
         "name": "[레고]미니의공간",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1628071507258.png"
-      },
-      "CFN0000011": {
-        "name": "밴츠붕붕카(화이트)",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1599800037561.jpg"
       },
       "GDN0000208": {
         "name": "[홀라베이비] 로봇 공구놀이 9in1",
@@ -2271,11 +2261,6 @@
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1702541753455.png"
       },
-      "GAN0000046": {
-        "name": "[피셔프라이스] 얼티밋 스마트 러닝홈 2.0",
-        "age": "6개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1765249415923.png"
-      },
       "AFN0000003": {
         "name": "[베케라]스피즈터소방차",
         "age": "12개월 이상 ~",
@@ -3545,11 +3530,6 @@
         "age": "12개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865680222.jpg"
       },
-      "CDN0000075": {
-        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
-        "age": "36개월 이상 ~",
-        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
-      },
       "GBN0000080": {
         "name": "뽀로로 변신 경찰차",
         "age": "36개월 이상 ~",
@@ -3679,6 +3659,11 @@
         "name": "더티디거포크레인",
         "age": "24개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/toy_2019_59.jpg"
+      },
+      "CDN0000075": {
+        "name": "[아이코닉스]타요 엘리베이터 중앙차고지",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1672207261044.jpg"
       },
       "CFN0000006": {
         "name": "밴츠붕붕카(레드)",
@@ -4834,6 +4819,11 @@
         "name": "마이퍼스트러닝하우스",
         "age": "6개월 이상 ~",
         "image": "https://www.gdkids.or.kr:8443/upload/toy/1589865593493.jpg"
+      },
+      "GEN0000027": {
+        "name": "컨스트럭션세트(26pcs)3차원자석블럭",
+        "age": "36개월 이상 ~",
+        "image": "https://www.gdkids.or.kr:8443/upload/toy/1589873694859.jpg"
       },
       "GDN0000037": {
         "name": "댄싱로봇빗벨",
